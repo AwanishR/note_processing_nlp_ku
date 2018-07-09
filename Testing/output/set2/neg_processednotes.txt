@@ -1,0 +1,4422 @@
+
+<< Note Number >>2
+Original Sentence2 >>> Did chantix last year and it helped but did not have the right mindset going into it.
+Preprocessed Sentence:>>>:did chantix last year and it helped but did not have the right mindset going into it .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+chantix
+----
+last
+----
+year
+----
+and
+----
+it
+----
+helped
+----
+but
+----
+did
+----
+not
+----
+have
+----
+the
+----
+right
+----
+mindset
+----
+going
+----
+into
+----
+it
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('chantix', 'VBN') ('last', 'JJ') ('year', 'NN') ('and', 'CC') ('it', 'PRP') ('helped', 'VBD') ('but', 'CC') ('did', 'VBD') ('not', 'RB') ('have', 'VB') ('the', 'DT') ('right', 'NN') ('mindset', 'NN') ('going', 'VBG') ('into', 'IN') ('it', 'PRP') ('.', '.') 
+
+<< Note Number >>6
+Original Sentence5 >>> No additional questions.
+Preprocessed Sentence:>>>:no additional questions .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+additional
+----
+questions
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('additional', 'JJ') ('questions', 'NNS') ('.', '.') 
+
+<< Note Number >>8
+Original Sentence5 >>> Does not know much about it.
+Preprocessed Sentence:>>>:does not know much about it .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+know
+----
+much
+----
+about
+----
+it
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('know', 'VB') ('much', 'JJ') ('about', 'IN') ('it', 'PRP') ('.', '.') 
+
+<< Note Number >>10
+Original Sentence5 >>> Does not test at all.
+Preprocessed Sentence:>>>:does not test at all .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+test
+----
+at
+----
+all
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('test', 'NN') ('at', 'IN') ('all', 'DT') ('.', '.') 
+
+<< Note Number >>12
+Original Sentence12 >>> Admits to not being  ready to make changes to effect her weight.
+Preprocessed Sentence:>>>:admits to not being  ready to make changes to effect her weight .  <<<
+
+Tokens of this sentence are as follows
+
+----
+admits
+----
+to
+----
+not
+----
+being
+----
+ready
+----
+to
+----
+make
+----
+changes
+----
+to
+----
+effect
+----
+her
+----
+weight
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('admits', 'NNS') ('to', 'TO') ('not', 'RB') ('being', 'VBG') ('ready', 'RB') ('to', 'TO') ('make', 'VB') ('changes', 'NNS') ('to', 'TO') ('effect', 'VB') ('her', 'PRP$') ('weight', 'NN') ('.', '.') 
+
+<< Note Number >>12
+Original Sentence13 >>> She states maybe when she hits 180, or her clothing won?t fit.
+Preprocessed Sentence:>>>:she states maybe when she hits 180, or her clothing wo not fit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+states
+----
+maybe
+----
+when
+----
+she
+----
+hits
+----
+180
+----
+,
+----
+or
+----
+her
+----
+clothing
+----
+wo
+----
+not
+----
+fit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('states', 'VBZ') ('maybe', 'RB') ('when', 'WRB') ('she', 'PRP') ('hits', 'VBZ') ('180', 'CD') (',', ',') ('or', 'CC') ('her', 'PRP$') ('clothing', 'NN') ('wo', 'MD') ('not', 'RB') ('fit', 'VB') ('.', '.') 
+
+<< Note Number >>14
+Original Sentence3 >>> She doesn?t drink sodas or juice, and for the most part eats balanced healthful meals.
+Preprocessed Sentence:>>>:she does not drink sodas or juice, and for the most part eats balanced healthful meals .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+drink
+----
+sodas
+----
+or
+----
+juice
+----
+,
+----
+and
+----
+for
+----
+the
+----
+most
+----
+part
+----
+eats
+----
+balanced
+----
+healthful
+----
+meals
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('drink', 'VB') ('sodas', 'RB') ('or', 'CC') ('juice', 'NN') (',', ',') ('and', 'CC') ('for', 'IN') ('the', 'DT') ('most', 'JJS') ('part', 'NN') ('eats', 'NNS') ('balanced', 'VBD') ('healthful', 'JJ') ('meals', 'NNS') ('.', '.') 
+
+<< Note Number >>14
+Original Sentence6 >>> No fish intake, because her husband doesn?t like it.
+Preprocessed Sentence:>>>:no fish intake, because her husband does not like it .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+fish
+----
+intake
+----
+,
+----
+because
+----
+her
+----
+husband
+----
+does
+----
+not
+----
+like
+----
+it
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('fish', 'NN') ('intake', 'NN') (',', ',') ('because', 'IN') ('her', 'PRP$') ('husband', 'NN') ('does', 'VBZ') ('not', 'RB') ('like', 'IN') ('it', 'PRP') ('.', '.') 
+
+<< Note Number >>18
+Original Sentence9 >>> Does not watch what he eats.
+Preprocessed Sentence:>>>:does not watch what he eats .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+watch
+----
+what
+----
+he
+----
+eats
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('watch', 'VB') ('what', 'WP') ('he', 'PRP') ('eats', 'VBZ') ('.', '.') 
+
+<< Note Number >>18
+Original Sentence10 >>> Does not like fruit and vegetables.
+Preprocessed Sentence:>>>:does not like fruit and vegetables .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+like
+----
+fruit
+----
+and
+----
+vegetables
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('like', 'IN') ('fruit', 'NN') ('and', 'CC') ('vegetables', 'NNS') ('.', '.') 
+
+<< Note Number >>18
+Original Sentence12 >>> Not a big exercise person.
+Preprocessed Sentence:>>>:not a big exercise person .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+a
+----
+big
+----
+exercise
+----
+person
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('a', 'DT') ('big', 'JJ') ('exercise', 'NN') ('person', 'NN') ('.', '.') 
+
+<< Note Number >>18
+Original Sentence14 >>> Not happy about having to go through the program.
+Preprocessed Sentence:>>>:not happy about having to go through the program .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+happy
+----
+about
+----
+having
+----
+to
+----
+go
+----
+through
+----
+the
+----
+program
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('happy', 'JJ') ('about', 'IN') ('having', 'VBG') ('to', 'TO') ('go', 'VB') ('through', 'RP') ('the', 'DT') ('program', 'NN') ('.', '.') 
+
+<< Note Number >>20
+Original Sentence5 >>> Has no interest in using an NRT.
+Preprocessed Sentence:>>>:has no interest in using an nrt .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+no
+----
+interest
+----
+in
+----
+using
+----
+an
+----
+nrt
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('no', 'DT') ('interest', 'NN') ('in', 'IN') ('using', 'VBG') ('an', 'DT') ('nrt', 'NN') ('.', '.') 
+
+<< Note Number >>23
+Original Sentence4 >>> Not on any medication.
+Preprocessed Sentence:>>>:not on any medication .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+on
+----
+any
+----
+medication
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('on', 'IN') ('any', 'DT') ('medication', 'NN') ('.', '.') 
+
+<< Note Number >>32
+Original Sentence8 >>> Did not feel it was necessary.
+Preprocessed Sentence:>>>:did not feel it was necessary .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+not
+----
+feel
+----
+it
+----
+was
+----
+necessary
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('not', 'RB') ('feel', 'VB') ('it', 'PRP') ('was', 'VBD') ('necessary', 'JJ') ('.', '.') 
+
+<< Note Number >>39
+Original Sentence3 >>> He said ever since he took the Chief job he has not been taking care of himself.
+Preprocessed Sentence:>>>:he said ever since he took the chief job he has not been taking care of himself .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+ever
+----
+since
+----
+he
+----
+took
+----
+the
+----
+chief
+----
+job
+----
+he
+----
+has
+----
+not
+----
+been
+----
+taking
+----
+care
+----
+of
+----
+himself
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('ever', 'RB') ('since', 'IN') ('he', 'PRP') ('took', 'VBD') ('the', 'DT') ('chief', 'NN') ('job', 'NN') ('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('taking', 'VBG') ('care', 'NN') ('of', 'IN') ('himself', 'PRP') ('.', '.') 
+
+<< Note Number >>39
+Original Sentence5 >>> No longer exercising.
+Preprocessed Sentence:>>>:no longer exercising .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+longer
+----
+exercising
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('longer', 'JJR') ('exercising', 'VBG') ('.', '.') 
+
+<< Note Number >>39
+Original Sentence8 >>> No meds right now.
+Preprocessed Sentence:>>>:no medication right now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+medication
+----
+right
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('medication', 'NN') ('right', 'RB') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>43
+Original Sentence2 >>> Has not started the patch.
+Preprocessed Sentence:>>>:has not started the patch .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+started
+----
+the
+----
+patch
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('started', 'VBN') ('the', 'DT') ('patch', 'NN') ('.', '.') 
+
+<< Note Number >>43
+Original Sentence11 >>> Goal:  start the patch and do not smoke in her vehicle.
+Preprocessed Sentence:>>>:goal:  start the patch and do not smoke in her vehicle .  <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+start
+----
+the
+----
+patch
+----
+and
+----
+do
+----
+not
+----
+smoke
+----
+in
+----
+her
+----
+vehicle
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('start', 'NN') ('the', 'DT') ('patch', 'NN') ('and', 'CC') ('do', 'VBP') ('not', 'RB') ('smoke', 'VB') ('in', 'IN') ('her', 'PRP$') ('vehicle', 'NN') ('.', '.') 
+
+<< Note Number >>45
+Original Sentence3 >>> His wife influence is not good for him.
+Preprocessed Sentence:>>>:his wife influence is not good for him .  <<<
+
+Tokens of this sentence are as follows
+
+----
+his
+----
+wife
+----
+influence
+----
+is
+----
+not
+----
+good
+----
+for
+----
+him
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('his', 'PRP$') ('wife', 'NN') ('influence', 'NN') ('is', 'VBZ') ('not', 'RB') ('good', 'JJ') ('for', 'IN') ('him', 'PRP') ('.', '.') 
+
+<< Note Number >>45
+Original Sentence4 >>> He said the patch was not doing anything for him.
+Preprocessed Sentence:>>>:he said the patch was not doing anything for him .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+the
+----
+patch
+----
+was
+----
+not
+----
+doing
+----
+anything
+----
+for
+----
+him
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('the', 'DT') ('patch', 'NN') ('was', 'VBD') ('not', 'RB') ('doing', 'VBG') ('anything', 'NN') ('for', 'IN') ('him', 'PRP') ('.', '.') 
+
+<< Note Number >>47
+Original Sentence7 >>> Not every day of the week anymore.
+Preprocessed Sentence:>>>:not every day of the week anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+every
+----
+day
+----
+of
+----
+the
+----
+week
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('every', 'DT') ('day', 'NN') ('of', 'IN') ('the', 'DT') ('week', 'NN') ('anymore', 'NN') ('.', '.') 
+
+<< Note Number >>54
+Original Sentence2 >>> He has been smoke free for 2 weeks.
+Preprocessed Sentence:>>>:he has been smoke free for 2 weeks .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+been
+----
+smoke
+----
+free
+----
+for
+----
+2
+----
+weeks
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('been', 'VBN') ('smoke', 'NN') ('free', 'JJ') ('for', 'IN') ('2', 'CD') ('weeks', 'NNS') ('.', '.') 
+
+<< Note Number >>54
+Original Sentence10 >>> Goal: stay smoke free
+Preprocessed Sentence:>>>:goal: stay smoke free <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+stay
+----
+smoke
+----
+free
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('stay', 'NN') ('smoke', 'NN') ('free', 'JJ') 
+
+<< Note Number >>56
+Original Sentence2 >>> He has not used tobacco is two weeks.
+Preprocessed Sentence:>>>:he has not used tobacco is two weeks .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+used
+----
+tobacco
+----
+is
+----
+two
+----
+weeks
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('used', 'VBN') ('tobacco', 'NN') ('is', 'VBZ') ('two', 'CD') ('weeks', 'NNS') ('.', '.') 
+
+<< Note Number >>56
+Original Sentence7 >>> Goal: stay tobacco free
+Preprocessed Sentence:>>>:goal: stay tobacco free <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+stay
+----
+tobacco
+----
+free
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('stay', 'NN') ('tobacco', 'NN') ('free', 'JJ') 
+
+<< Note Number >>58
+Original Sentence12 >>> Using a smaller plate when eating has helped with not over eating.
+Preprocessed Sentence:>>>:using a smaller plate when eating has helped with not over eating .  <<<
+
+Tokens of this sentence are as follows
+
+----
+using
+----
+a
+----
+smaller
+----
+plate
+----
+when
+----
+eating
+----
+has
+----
+helped
+----
+with
+----
+not
+----
+over
+----
+eating
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('using', 'VBG') ('a', 'DT') ('smaller', 'JJR') ('plate', 'NN') ('when', 'WRB') ('eating', 'VBG') ('has', 'VBZ') ('helped', 'VBN') ('with', 'IN') ('not', 'RB') ('over', 'IN') ('eating', 'VBG') ('.', '.') 
+
+<< Note Number >>58
+Original Sentence14 >>> Goal:  no smoking while driving and delaying in the morning.
+Preprocessed Sentence:>>>:goal:  no smoking while driving and delaying in the morning .  <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+no
+----
+smoking
+----
+while
+----
+driving
+----
+and
+----
+delaying
+----
+in
+----
+the
+----
+morning
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('no', 'DT') ('smoking', 'NN') ('while', 'IN') ('driving', 'VBG') ('and', 'CC') ('delaying', 'VBG') ('in', 'IN') ('the', 'DT') ('morning', 'NN') ('.', '.') 
+
+<< Note Number >>60
+Original Sentence2 >>> She is still not ready to quit.
+Preprocessed Sentence:>>>:she is still not ready to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+is
+----
+still
+----
+not
+----
+ready
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('is', 'VBZ') ('still', 'RB') ('not', 'RB') ('ready', 'JJ') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>60
+Original Sentence4 >>> Not sure on the time frame.
+Preprocessed Sentence:>>>:not sure on the time frame .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+sure
+----
+on
+----
+the
+----
+time
+----
+frame
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('sure', 'JJ') ('on', 'IN') ('the', 'DT') ('time', 'NN') ('frame', 'NN') ('.', '.') 
+
+<< Note Number >>62
+Original Sentence2 >>> Was a smoker for 10 years and has been smoke free for 2 1/2 years.
+Preprocessed Sentence:>>>:was a smoker for 10 years and has been smoke free for 2 1 / 2 years .  <<<
+
+Tokens of this sentence are as follows
+
+----
+was
+----
+a
+----
+smoker
+----
+for
+----
+10
+----
+years
+----
+and
+----
+has
+----
+been
+----
+smoke
+----
+free
+----
+for
+----
+2
+----
+1
+----
+/
+----
+2
+----
+years
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('was', 'VBD') ('a', 'DT') ('smoker', 'NN') ('for', 'IN') ('10', 'CD') ('years', 'NNS') ('and', 'CC') ('has', 'VBZ') ('been', 'VBN') ('smoke', 'NN') ('free', 'JJ') ('for', 'IN') ('2', 'CD') ('1', 'CD') ('/', 'CD') ('2', 'CD') ('years', 'NNS') ('.', '.') 
+
+<< Note Number >>62
+Original Sentence3 >>> Hates the smell and has no desire to every do that again.
+Preprocessed Sentence:>>>:hates the smell and has no desire to every do that again .  <<<
+
+Tokens of this sentence are as follows
+
+----
+hates
+----
+the
+----
+smell
+----
+and
+----
+has
+----
+no
+----
+desire
+----
+to
+----
+every
+----
+do
+----
+that
+----
+again
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('hates', 'NNS') ('the', 'DT') ('smell', 'NN') ('and', 'CC') ('has', 'VBZ') ('no', 'DT') ('desire', 'NN') ('to', 'TO') ('every', 'DT') ('do', 'VB') ('that', 'DT') ('again', 'RB') ('.', '.') 
+
+<< Note Number >>62
+Original Sentence6 >>> Not a good time with his girls playing travel softball.
+Preprocessed Sentence:>>>:not a good time with his girls playing travel softball .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+a
+----
+good
+----
+time
+----
+with
+----
+his
+----
+girls
+----
+playing
+----
+travel
+----
+softball
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('a', 'DT') ('good', 'JJ') ('time', 'NN') ('with', 'IN') ('his', 'PRP$') ('girls', 'NNS') ('playing', 'VBG') ('travel', 'NN') ('softball', 'NN') ('.', '.') 
+
+<< Note Number >>64
+Original Sentence4 >>> Not going to change anything.
+Preprocessed Sentence:>>>:not going to change anything .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+going
+----
+to
+----
+change
+----
+anything
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('going', 'VBG') ('to', 'TO') ('change', 'VB') ('anything', 'NN') ('.', '.') 
+
+<< Note Number >>66
+Original Sentence6 >>> Currently absolutely no energy for anything after work.
+Preprocessed Sentence:>>>:currently absolutely no energy for anything after work .  <<<
+
+Tokens of this sentence are as follows
+
+----
+currently
+----
+absolutely
+----
+no
+----
+energy
+----
+for
+----
+anything
+----
+after
+----
+work
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('currently', 'RB') ('absolutely', 'RB') ('no', 'DT') ('energy', 'NN') ('for', 'IN') ('anything', 'NN') ('after', 'IN') ('work', 'NN') ('.', '.') 
+
+<< Note Number >>66
+Original Sentence7 >>> \I just don't feel good\".
+Preprocessed Sentence:>>>:\i just do not feel good\" .  <<<
+
+Tokens of this sentence are as follows
+
+----
+\i
+----
+just
+----
+do
+----
+not
+----
+feel
+----
+good\
+----
+''
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('\\i', 'NN') ('just', 'RB') ('do', 'VBP') ('not', 'RB') ('feel', 'VB') ('good\\', 'JJ') ("''", "''") ('.', '.') 
+
+<< Note Number >>66
+Original Sentence9 >>> Currently no MS meds.
+Preprocessed Sentence:>>>:currently no ms medication .  <<<
+
+Tokens of this sentence are as follows
+
+----
+currently
+----
+no
+----
+ms
+----
+medication
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('currently', 'RB') ('no', 'DT') ('ms', 'NNS') ('medication', 'NN') ('.', '.') 
+
+<< Note Number >>66
+Original Sentence12 >>> Discussed chol levels; phys told her do not normally put on meds with the 1st analysis.
+Preprocessed Sentence:>>>:discussed chol levels; phys told her do not normally put on medication with the 1st analysis .  <<<
+
+Tokens of this sentence are as follows
+
+----
+discussed
+----
+chol
+----
+levels
+----
+;
+----
+phys
+----
+told
+----
+her
+----
+do
+----
+not
+----
+normally
+----
+put
+----
+on
+----
+medication
+----
+with
+----
+the
+----
+1st
+----
+analysis
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('discussed', 'VBD') ('chol', 'NN') ('levels', 'NNS') (';', ':') ('phys', 'NNS') ('told', 'VBD') ('her', 'PRP') ('do', 'VBP') ('not', 'RB') ('normally', 'RB') ('put', 'VBN') ('on', 'IN') ('medication', 'NN') ('with', 'IN') ('the', 'DT') ('1st', 'CD') ('analysis', 'NN') ('.', '.') 
+
+<< Note Number >>66
+Original Sentence14 >>> As far as smoking & with upcoming surgery does not feel even an option to quit at this point.
+Preprocessed Sentence:>>>:as far as smoking & with upcoming surgery does not feel even an option to quit at this point .  <<<
+
+Tokens of this sentence are as follows
+
+----
+as
+----
+far
+----
+as
+----
+smoking
+----
+&
+----
+with
+----
+upcoming
+----
+surgery
+----
+does
+----
+not
+----
+feel
+----
+even
+----
+an
+----
+option
+----
+to
+----
+quit
+----
+at
+----
+this
+----
+point
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('as', 'IN') ('far', 'RB') ('as', 'IN') ('smoking', 'NN') ('&', 'CC') ('with', 'IN') ('upcoming', 'VBG') ('surgery', 'NN') ('does', 'VBZ') ('not', 'RB') ('feel', 'VB') ('even', 'RB') ('an', 'DT') ('option', 'NN') ('to', 'TO') ('quit', 'VB') ('at', 'IN') ('this', 'DT') ('point', 'NN') ('.', '.') 
+
+<< Note Number >>66
+Original Sentence16 >>> If returns gets credit, if not credit when returned.
+Preprocessed Sentence:>>>:if returns gets credit, if not credit when returned .  <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+returns
+----
+gets
+----
+credit
+----
+,
+----
+if
+----
+not
+----
+credit
+----
+when
+----
+returned
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('returns', 'NNS') ('gets', 'NNS') ('credit', 'NN') (',', ',') ('if', 'IN') ('not', 'RB') ('credit', 'NN') ('when', 'WRB') ('returned', 'VBN') ('.', '.') 
+
+<< Note Number >>67
+Original Sentence1 >>> --Name7-- states that she was away for more than one month, so was not able to exercise, but is back to spinning and body pump now.
+Preprocessed Sentence:>>>: -  - name7 -  -  states that she was away for more than one month, so was not able to exercise, but is back to spinning and body pump now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+-
+----
+-
+----
+name7
+----
+-
+----
+-
+----
+states
+----
+that
+----
+she
+----
+was
+----
+away
+----
+for
+----
+more
+----
+than
+----
+one
+----
+month
+----
+,
+----
+so
+----
+was
+----
+not
+----
+able
+----
+to
+----
+exercise
+----
+,
+----
+but
+----
+is
+----
+back
+----
+to
+----
+spinning
+----
+and
+----
+body
+----
+pump
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('-', ':') ('-', ':') ('name7', 'NNP') ('-', ':') ('-', ':') ('states', 'NNS') ('that', 'WDT') ('she', 'PRP') ('was', 'VBD') ('away', 'RB') ('for', 'IN') ('more', 'JJR') ('than', 'IN') ('one', 'CD') ('month', 'NN') (',', ',') ('so', 'RB') ('was', 'VBD') ('not', 'RB') ('able', 'JJ') ('to', 'TO') ('exercise', 'VB') (',', ',') ('but', 'CC') ('is', 'VBZ') ('back', 'RP') ('to', 'TO') ('spinning', 'NN') ('and', 'CC') ('body', 'NN') ('pump', 'NN') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>68
+Original Sentence2 >>> He has not changed anything.
+Preprocessed Sentence:>>>:he has not changed anything .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+changed
+----
+anything
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('anything', 'NN') ('.', '.') 
+
+<< Note Number >>73
+Original Sentence1 >>> Mark still works out 5-6 times a week with free weights, Is planning to have his 2nd hip replaces on June 12th (RA).
+Preprocessed Sentence:>>>:mark still works out 5 - 6 times a week with free weights, is planning to have his 2nd hip replaces on june 12th (ra) .  <<<
+
+Tokens of this sentence are as follows
+
+----
+mark
+----
+still
+----
+works
+----
+out
+----
+5
+----
+-
+----
+6
+----
+times
+----
+a
+----
+week
+----
+with
+----
+free
+----
+weights
+----
+,
+----
+is
+----
+planning
+----
+to
+----
+have
+----
+his
+----
+2nd
+----
+hip
+----
+replaces
+----
+on
+----
+june
+----
+12th
+----
+(
+----
+ra
+----
+)
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('mark', 'NN') ('still', 'RB') ('works', 'VBZ') ('out', 'RP') ('5', 'CD') ('-', ':') ('6', 'CD') ('times', 'NNS') ('a', 'DT') ('week', 'NN') ('with', 'IN') ('free', 'JJ') ('weights', 'NNS') (',', ',') ('is', 'VBZ') ('planning', 'VBG') ('to', 'TO') ('have', 'VB') ('his', 'PRP$') ('2nd', 'JJ') ('hip', 'NN') ('replaces', 'NNS') ('on', 'IN') ('june', 'NN') ('12th', 'CD') ('(', 'CD') ('ra', 'NN') (')', ':') ('.', '.') 
+
+<< Note Number >>73
+Original Sentence17 >>> not made.
+Preprocessed Sentence:>>>:not made .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+made
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('made', 'VBN') ('.', '.') 
+
+<< Note Number >>79
+Original Sentence2 >>> Did not attend OA, because she was busy moving.
+Preprocessed Sentence:>>>:did not attend oa, because she was busy moving .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+not
+----
+attend
+----
+oa
+----
+,
+----
+because
+----
+she
+----
+was
+----
+busy
+----
+moving
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('not', 'RB') ('attend', 'VB') ('oa', 'NN') (',', ',') ('because', 'IN') ('she', 'PRP') ('was', 'VBD') ('busy', 'JJ') ('moving', 'NN') ('.', '.') 
+
+<< Note Number >>79
+Original Sentence3 >>> Also has not yet begun journaling.
+Preprocessed Sentence:>>>:also has not yet begun journaling .  <<<
+
+Tokens of this sentence are as follows
+
+----
+also
+----
+has
+----
+not
+----
+yet
+----
+begun
+----
+journaling
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('also', 'RB') ('has', 'VBZ') ('not', 'RB') ('yet', 'RB') ('begun', 'VBN') ('journaling', 'VBG') ('.', '.') 
+
+<< Note Number >>79
+Original Sentence6 >>> Has changed drive through meals to Kashi frozen dinners, bought bagged greens for salad (which she has eaten 3 out of the last 4 days), and found her free weights (but hasn?t started using them yet).
+Preprocessed Sentence:>>>:has changed drive through meals to kashi frozen dinners, bought bagged greens for salad (which she has eaten 3 out of the last 4 days), and found her free weights (but has not started using them yet) .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+changed
+----
+drive
+----
+through
+----
+meals
+----
+to
+----
+kashi
+----
+frozen
+----
+dinners
+----
+,
+----
+bought
+----
+bagged
+----
+greens
+----
+for
+----
+salad
+----
+(
+----
+which
+----
+she
+----
+has
+----
+eaten
+----
+3
+----
+out
+----
+of
+----
+the
+----
+last
+----
+4
+----
+days
+----
+)
+----
+,
+----
+and
+----
+found
+----
+her
+----
+free
+----
+weights
+----
+(
+----
+but
+----
+has
+----
+not
+----
+started
+----
+using
+----
+them
+----
+yet
+----
+)
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('changed', 'VBN') ('drive', 'JJ') ('through', 'IN') ('meals', 'NNS') ('to', 'TO') ('kashi', 'VB') ('frozen', 'VBN') ('dinners', 'NNS') (',', ',') ('bought', 'VBD') ('bagged', 'VBN') ('greens', 'NNS') ('for', 'IN') ('salad', 'JJ') ('(', 'NN') ('which', 'WDT') ('she', 'PRP') ('has', 'VBZ') ('eaten', 'VBN') ('3', 'CD') ('out', 'IN') ('of', 'IN') ('the', 'DT') ('last', 'JJ') ('4', 'CD') ('days', 'NNS') (')', ':') (',', ',') ('and', 'CC') ('found', 'VBN') ('her', 'PRP$') ('free', 'JJ') ('weights', 'NNS') ('(', ':') ('but', 'CC') ('has', 'VBZ') ('not', 'RB') ('started', 'VBN') ('using', 'VBG') ('them', 'PRP') ('yet', 'RB') (')', 'VBP') ('.', '.') 
+
+<< Note Number >>79
+Original Sentence18 >>> On days she is not at work, test more often as she is decreasing insulin.
+Preprocessed Sentence:>>>:on days she is not at work, test more often as she is decreasing insulin .  <<<
+
+Tokens of this sentence are as follows
+
+----
+on
+----
+days
+----
+she
+----
+is
+----
+not
+----
+at
+----
+work
+----
+,
+----
+test
+----
+more
+----
+often
+----
+as
+----
+she
+----
+is
+----
+decreasing
+----
+insulin
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('on', 'IN') ('days', 'NNS') ('she', 'PRP') ('is', 'VBZ') ('not', 'RB') ('at', 'IN') ('work', 'NN') (',', ',') ('test', 'NN') ('more', 'JJR') ('often', 'RB') ('as', 'IN') ('she', 'PRP') ('is', 'VBZ') ('decreasing', 'VBG') ('insulin', 'NN') ('.', '.') 
+
+<< Note Number >>79
+Original Sentence20 >>> 5) Start resistance type exercise with free weights.
+Preprocessed Sentence:>>>:5) start resistance type exercise with free weights .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+)
+----
+start
+----
+resistance
+----
+type
+----
+exercise
+----
+with
+----
+free
+----
+weights
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') (')', '``') ('start', 'NN') ('resistance', 'NN') ('type', 'NN') ('exercise', 'NN') ('with', 'IN') ('free', 'JJ') ('weights', 'NNS') ('.', '.') 
+
+<< Note Number >>95
+Original Sentence4 >>> She does not eat breakfast, only 2 diet pepsi, then iced tea sweetened with condensed milk.
+Preprocessed Sentence:>>>:she does not eat breakfast, only 2 diet pepsi, then iced tea sweetened with condensed milk .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+eat
+----
+breakfast
+----
+,
+----
+only
+----
+2
+----
+diet
+----
+pepsi
+----
+,
+----
+then
+----
+iced
+----
+tea
+----
+sweetened
+----
+with
+----
+condensed
+----
+milk
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('eat', 'VB') ('breakfast', 'JJ') (',', ',') ('only', 'RB') ('2', 'CD') ('diet', 'NN') ('pepsi', 'NN') (',', ',') ('then', 'RB') ('iced', 'VBD') ('tea', 'NN') ('sweetened', 'VBN') ('with', 'IN') ('condensed', 'VBN') ('milk', 'NN') ('.', '.') 
+
+<< Note Number >>95
+Original Sentence7 >>> Has not had her wellness exam yet.
+Preprocessed Sentence:>>>:has not had her wellness exam yet .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+had
+----
+her
+----
+wellness
+----
+exam
+----
+yet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('had', 'VBD') ('her', 'PRP') ('wellness', 'RB') ('exam', 'VBP') ('yet', 'RB') ('.', '.') 
+
+<< Note Number >>95
+Original Sentence17 >>> 2) Not buy bologna or hot dogs, except for a special occasion, like a treat for the grandchildren.
+Preprocessed Sentence:>>>:2) not buy bologna or hot dogs, except for a special occasion, like a treat for the grandchildren .  <<<
+
+Tokens of this sentence are as follows
+
+----
+2
+----
+)
+----
+not
+----
+buy
+----
+bologna
+----
+or
+----
+hot
+----
+dogs
+----
+,
+----
+except
+----
+for
+----
+a
+----
+special
+----
+occasion
+----
+,
+----
+like
+----
+a
+----
+treat
+----
+for
+----
+the
+----
+grandchildren
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('2', 'LS') (')', '``') ('not', 'RB') ('buy', 'VB') ('bologna', 'NNS') ('or', 'CC') ('hot', 'JJ') ('dogs', 'NNS') (',', ',') ('except', 'IN') ('for', 'IN') ('a', 'DT') ('special', 'JJ') ('occasion', 'NN') (',', ',') ('like', 'IN') ('a', 'DT') ('treat', 'NN') ('for', 'IN') ('the', 'DT') ('grandchildren', 'NN') ('.', '.') 
+
+<< Note Number >>98
+Original Sentence4 >>> I encouraged him to follow up with his PCP but he said he was not going to.
+Preprocessed Sentence:>>>:i encouraged him to follow up with his pcp but he said he was not going to .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+encouraged
+----
+him
+----
+to
+----
+follow
+----
+up
+----
+with
+----
+his
+----
+pcp
+----
+but
+----
+he
+----
+said
+----
+he
+----
+was
+----
+not
+----
+going
+----
+to
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('encouraged', 'VBD') ('him', 'PRP') ('to', 'TO') ('follow', 'VB') ('up', 'RP') ('with', 'IN') ('his', 'PRP$') ('pcp', 'NN') ('but', 'CC') ('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('was', 'VBD') ('not', 'RB') ('going', 'VBG') ('to', 'TO') ('.', '.') 
+
+<< Note Number >>101
+Original Sentence4 >>> No male has lived past 60.
+Preprocessed Sentence:>>>:no male has lived past 60 .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+male
+----
+has
+----
+lived
+----
+past
+----
+60
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('male', 'JJ') ('has', 'VBZ') ('lived', 'VBN') ('past', 'JJ') ('60', 'CD') ('.', '.') 
+
+<< Note Number >>103
+Original Sentence2 >>> He said he is still not ready to quit.
+Preprocessed Sentence:>>>:he said he is still not ready to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+is
+----
+still
+----
+not
+----
+ready
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('still', 'RB') ('not', 'RB') ('ready', 'JJ') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>103
+Original Sentence7 >>> He does eventually want to quit just not now.
+Preprocessed Sentence:>>>:he does eventually want to quit just not now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+eventually
+----
+want
+----
+to
+----
+quit
+----
+just
+----
+not
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('eventually', 'RB') ('want', 'VB') ('to', 'TO') ('quit', 'VB') ('just', 'RB') ('not', 'RB') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>111
+Original Sentence3 >>> Not a daily thing for him.
+Preprocessed Sentence:>>>:not a daily thing for him .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+a
+----
+daily
+----
+thing
+----
+for
+----
+him
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('a', 'DT') ('daily', 'JJ') ('thing', 'NN') ('for', 'IN') ('him', 'PRP') ('.', '.') 
+
+<< Note Number >>111
+Original Sentence9 >>> Does not feel ti is harming him.
+Preprocessed Sentence:>>>:does not feel ti is harming him .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+feel
+----
+ti
+----
+is
+----
+harming
+----
+him
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('feel', 'VB') ('ti', 'NN') ('is', 'VBZ') ('harming', 'VBG') ('him', 'PRP') ('.', '.') 
+
+<< Note Number >>111
+Original Sentence10 >>> He knows its not good to be around his wife as well.
+Preprocessed Sentence:>>>:he knows its not good to be around his wife as well .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+knows
+----
+its
+----
+not
+----
+good
+----
+to
+----
+be
+----
+around
+----
+his
+----
+wife
+----
+as
+----
+well
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('knows', 'VBZ') ('its', 'PRP$') ('not', 'RB') ('good', 'JJ') ('to', 'TO') ('be', 'VB') ('around', 'IN') ('his', 'PRP$') ('wife', 'NN') ('as', 'IN') ('well', 'RB') ('.', '.') 
+
+<< Note Number >>117
+Original Sentence6 >>> No pasta.
+Preprocessed Sentence:>>>:no pasta .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+pasta
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('pasta', 'NN') ('.', '.') 
+
+<< Note Number >>117
+Original Sentence7 >>> No bread.
+Preprocessed Sentence:>>>:no bread .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+bread
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('bread', 'NN') ('.', '.') 
+
+<< Note Number >>119
+Original Sentence6 >>> He is not on meds for his CHOL.
+Preprocessed Sentence:>>>:he is not on medication for his chol .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+not
+----
+on
+----
+medication
+----
+for
+----
+his
+----
+chol
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('on', 'IN') ('medication', 'NN') ('for', 'IN') ('his', 'PRP$') ('chol', 'NN') ('.', '.') 
+
+<< Note Number >>121
+Original Sentence2 >>> She is no longer smoking in her car.
+Preprocessed Sentence:>>>:she is no longer smoking in her car .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+is
+----
+no
+----
+longer
+----
+smoking
+----
+in
+----
+her
+----
+car
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('is', 'VBZ') ('no', 'DT') ('longer', 'NN') ('smoking', 'VBG') ('in', 'IN') ('her', 'PRP$') ('car', 'NN') ('.', '.') 
+
+<< Note Number >>123
+Original Sentence8 >>> He is a contractor with Roche & is able to get strips for free.
+Preprocessed Sentence:>>>:he is a contractor with roche & is able to get strips for free .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+a
+----
+contractor
+----
+with
+----
+roche
+----
+&
+----
+is
+----
+able
+----
+to
+----
+get
+----
+strips
+----
+for
+----
+free
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('a', 'DT') ('contractor', 'NN') ('with', 'IN') ('roche', 'NN') ('&', 'CC') ('is', 'VBZ') ('able', 'JJ') ('to', 'TO') ('get', 'VB') ('strips', 'NNS') ('for', 'IN') ('free', 'JJ') ('.', '.') 
+
+<< Note Number >>130
+Original Sentence1 >>> Her weight has not changed.
+Preprocessed Sentence:>>>:her weight has not changed .  <<<
+
+Tokens of this sentence are as follows
+
+----
+her
+----
+weight
+----
+has
+----
+not
+----
+changed
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('her', 'PRP$') ('weight', 'NN') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('.', '.') 
+
+<< Note Number >>133
+Original Sentence2 >>> He is still tobacco free.
+Preprocessed Sentence:>>>:he is still tobacco free .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+still
+----
+tobacco
+----
+free
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('still', 'RB') ('tobacco', 'RB') ('free', 'JJ') ('.', '.') 
+
+<< Note Number >>133
+Original Sentence7 >>> Goal: stay tobacco free
+Preprocessed Sentence:>>>:goal: stay tobacco free <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+stay
+----
+tobacco
+----
+free
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('stay', 'NN') ('tobacco', 'NN') ('free', 'JJ') 
+
+<< Note Number >>135
+Original Sentence2 >>> Feels really good about not smoking in his car anymore.
+Preprocessed Sentence:>>>:feels really good about not smoking in his car anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+feels
+----
+really
+----
+good
+----
+about
+----
+not
+----
+smoking
+----
+in
+----
+his
+----
+car
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('feels', 'NNS') ('really', 'RB') ('good', 'JJ') ('about', 'IN') ('not', 'RB') ('smoking', 'VBG') ('in', 'IN') ('his', 'PRP$') ('car', 'NN') ('anymore', 'NN') ('.', '.') 
+
+<< Note Number >>135
+Original Sentence4 >>> Has not been consistent.
+Preprocessed Sentence:>>>:has not been consistent .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+been
+----
+consistent
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('consistent', 'JJ') ('.', '.') 
+
+<< Note Number >>135
+Original Sentence8 >>> Ultimate goal is to be smoke free by June 28th before he leaves for Florida.
+Preprocessed Sentence:>>>:ultimate goal is to be smoke free by june 28th before he leaves for florida .  <<<
+
+Tokens of this sentence are as follows
+
+----
+ultimate
+----
+goal
+----
+is
+----
+to
+----
+be
+----
+smoke
+----
+free
+----
+by
+----
+june
+----
+28th
+----
+before
+----
+he
+----
+leaves
+----
+for
+----
+florida
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('ultimate', 'JJ') ('goal', 'NN') ('is', 'VBZ') ('to', 'TO') ('be', 'VB') ('smoke', 'NN') ('free', 'JJ') ('by', 'IN') ('june', 'NN') ('28th', 'CD') ('before', 'IN') ('he', 'PRP') ('leaves', 'VBZ') ('for', 'IN') ('florida', 'NN') ('.', '.') 
+
+<< Note Number >>137
+Original Sentence2 >>> She still is not ready to quit.
+Preprocessed Sentence:>>>:she still is not ready to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+still
+----
+is
+----
+not
+----
+ready
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('still', 'RB') ('is', 'VBZ') ('not', 'RB') ('ready', 'RB') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>137
+Original Sentence3 >>> Not sure when she will want to start the patch.
+Preprocessed Sentence:>>>:not sure when she will want to start the patch .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+sure
+----
+when
+----
+she
+----
+will
+----
+want
+----
+to
+----
+start
+----
+the
+----
+patch
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('sure', 'JJ') ('when', 'WRB') ('she', 'PRP') ('will', 'MD') ('want', 'VB') ('to', 'TO') ('start', 'VB') ('the', 'DT') ('patch', 'NN') ('.', '.') 
+
+<< Note Number >>143
+Original Sentence2 >>> He has not changed anything and is happy where he is at.
+Preprocessed Sentence:>>>:he has not changed anything and is happy where he is at .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+changed
+----
+anything
+----
+and
+----
+is
+----
+happy
+----
+where
+----
+he
+----
+is
+----
+at
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('anything', 'NN') ('and', 'CC') ('is', 'VBZ') ('happy', 'JJ') ('where', 'WRB') ('he', 'PRP') ('is', 'VBZ') ('at', 'IN') ('.', '.') 
+
+<< Note Number >>145
+Original Sentence2 >>> Admits to normally drink 2-3 cups of regular coffee, no soda.
+Preprocessed Sentence:>>>:admits to normally drink 2 - 3 cups of regular coffee, no soda .  <<<
+
+Tokens of this sentence are as follows
+
+----
+admits
+----
+to
+----
+normally
+----
+drink
+----
+2
+----
+-
+----
+3
+----
+cups
+----
+of
+----
+regular
+----
+coffee
+----
+,
+----
+no
+----
+soda
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('admits', 'NNS') ('to', 'TO') ('normally', 'RB') ('drink', 'VB') ('2', 'CD') ('-', ':') ('3', 'CD') ('cups', 'NNS') ('of', 'IN') ('regular', 'JJ') ('coffee', 'NN') (',', ',') ('no', 'DT') ('soda', 'NN') ('.', '.') 
+
+<< Note Number >>145
+Original Sentence17 >>> 4) Have a glass of wine only on w/e days, not M-F.
+Preprocessed Sentence:>>>:4) have a glass of wine only on w / e days, not m - f .  <<<
+
+Tokens of this sentence are as follows
+
+----
+4
+----
+)
+----
+have
+----
+a
+----
+glass
+----
+of
+----
+wine
+----
+only
+----
+on
+----
+w
+----
+/
+----
+e
+----
+days
+----
+,
+----
+not
+----
+m
+----
+-
+----
+f
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('4', 'LS') (')', '``') ('have', 'VBP') ('a', 'DT') ('glass', 'NN') ('of', 'IN') ('wine', 'NN') ('only', 'RB') ('on', 'IN') ('w', 'NN') ('/', ':') ('e', 'NN') ('days', 'NNS') (',', ',') ('not', 'RB') ('m', 'VB') ('-', ':') ('f', 'NN') ('.', '.') 
+
+<< Note Number >>147
+Original Sentence6 >>> She said she will get a craving from time to time but it is not that bad.
+Preprocessed Sentence:>>>:she said she will get a craving from time to time but it is not that bad .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+said
+----
+she
+----
+will
+----
+get
+----
+a
+----
+craving
+----
+from
+----
+time
+----
+to
+----
+time
+----
+but
+----
+it
+----
+is
+----
+not
+----
+that
+----
+bad
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('said', 'VBD') ('she', 'PRP') ('will', 'MD') ('get', 'VB') ('a', 'DT') ('craving', 'NN') ('from', 'IN') ('time', 'NN') ('to', 'TO') ('time', 'VB') ('but', 'CC') ('it', 'PRP') ('is', 'VBZ') ('not', 'RB') ('that', 'IN') ('bad', 'JJ') ('.', '.') 
+
+<< Note Number >>147
+Original Sentence8 >>> Goal: stay smoke free
+Preprocessed Sentence:>>>:goal: stay smoke free <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+stay
+----
+smoke
+----
+free
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('stay', 'NN') ('smoke', 'NN') ('free', 'JJ') 
+
+<< Note Number >>151
+Original Sentence4 >>> Discussed using sugar free hard candy when they have urges to smoke after starting chantix.
+Preprocessed Sentence:>>>:discussed using sugar free hard candy when they have urges to smoke after starting chantix .  <<<
+
+Tokens of this sentence are as follows
+
+----
+discussed
+----
+using
+----
+sugar
+----
+free
+----
+hard
+----
+candy
+----
+when
+----
+they
+----
+have
+----
+urges
+----
+to
+----
+smoke
+----
+after
+----
+starting
+----
+chantix
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('discussed', 'VBD') ('using', 'VBG') ('sugar', 'NN') ('free', 'JJ') ('hard', 'JJ') ('candy', 'NN') ('when', 'WRB') ('they', 'PRP') ('have', 'VBP') ('urges', 'NNS') ('to', 'TO') ('smoke', 'VB') ('after', 'IN') ('starting', 'VBG') ('chantix', 'NN') ('.', '.') 
+
+<< Note Number >>153
+Original Sentence4 >>> Discussed using sugar free hard candy when they have urges to smoke after starting chantix.
+Preprocessed Sentence:>>>:discussed using sugar free hard candy when they have urges to smoke after starting chantix .  <<<
+
+Tokens of this sentence are as follows
+
+----
+discussed
+----
+using
+----
+sugar
+----
+free
+----
+hard
+----
+candy
+----
+when
+----
+they
+----
+have
+----
+urges
+----
+to
+----
+smoke
+----
+after
+----
+starting
+----
+chantix
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('discussed', 'VBD') ('using', 'VBG') ('sugar', 'NN') ('free', 'JJ') ('hard', 'JJ') ('candy', 'NN') ('when', 'WRB') ('they', 'PRP') ('have', 'VBP') ('urges', 'NNS') ('to', 'TO') ('smoke', 'VB') ('after', 'IN') ('starting', 'VBG') ('chantix', 'NN') ('.', '.') 
+
+<< Note Number >>155
+Original Sentence2 >>> No exercise.
+Preprocessed Sentence:>>>:no exercise .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+exercise
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('exercise', 'NN') ('.', '.') 
+
+<< Note Number >>157
+Original Sentence3 >>> She used to go to Weight Watchers, and was using her stationary bike 40-45 minutes 3 times a week, and did free weights, 3 and 5 lbs.
+Preprocessed Sentence:>>>:she used to go to weight watchers, and was using her stationary bike 40 - 45 minutes 3 times a week, and did free weights, 3 and 5 lbs .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+used
+----
+to
+----
+go
+----
+to
+----
+weight
+----
+watchers
+----
+,
+----
+and
+----
+was
+----
+using
+----
+her
+----
+stationary
+----
+bike
+----
+40
+----
+-
+----
+45
+----
+minutes
+----
+3
+----
+times
+----
+a
+----
+week
+----
+,
+----
+and
+----
+did
+----
+free
+----
+weights
+----
+,
+----
+3
+----
+and
+----
+5
+----
+lbs
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('used', 'VBD') ('to', 'TO') ('go', 'VB') ('to', 'TO') ('weight', 'VB') ('watchers', 'NNS') (',', ',') ('and', 'CC') ('was', 'VBD') ('using', 'VBG') ('her', 'PRP$') ('stationary', 'NN') ('bike', 'NN') ('40', 'CD') ('-', ':') ('45', 'CD') ('minutes', 'NNS') ('3', 'CD') ('times', 'NNS') ('a', 'DT') ('week', 'NN') (',', ',') ('and', 'CC') ('did', 'VBD') ('free', 'JJ') ('weights', 'NNS') (',', ',') ('3', 'CD') ('and', 'CC') ('5', 'CD') ('lbs', 'NNS') ('.', '.') 
+
+<< Note Number >>157
+Original Sentence6 >>> Very stressed right now trying to decide whether or not to go out on disability.
+Preprocessed Sentence:>>>:very stressed right now trying to decide whether or not to go out on disability .  <<<
+
+Tokens of this sentence are as follows
+
+----
+very
+----
+stressed
+----
+right
+----
+now
+----
+trying
+----
+to
+----
+decide
+----
+whether
+----
+or
+----
+not
+----
+to
+----
+go
+----
+out
+----
+on
+----
+disability
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('very', 'RB') ('stressed', 'VBN') ('right', 'RB') ('now', 'RB') ('trying', 'VBG') ('to', 'TO') ('decide', 'VB') ('whether', 'IN') ('or', 'CC') ('not', 'RB') ('to', 'TO') ('go', 'VB') ('out', 'RP') ('on', 'IN') ('disability', 'NN') ('.', '.') 
+
+<< Note Number >>159
+Original Sentence4 >>> Does not want one and does not like doctors.
+Preprocessed Sentence:>>>:does not want one and does not like doctors .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+want
+----
+one
+----
+and
+----
+does
+----
+not
+----
+like
+----
+doctors
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('one', 'CD') ('and', 'CC') ('does', 'VBZ') ('not', 'RB') ('like', 'IN') ('doctors', 'NNS') ('.', '.') 
+
+<< Note Number >>163
+Original Sentence7 >>> --Name15-- agrees to: 1) Switch to veggie cheese slice with no saturated fats.
+Preprocessed Sentence:>>>: -  - name15 -  -  agrees to: 1) switch to veggie cheese slice with no saturated fats .  <<<
+
+Tokens of this sentence are as follows
+
+----
+-
+----
+-
+----
+name15
+----
+-
+----
+-
+----
+agrees
+----
+to
+----
+:
+----
+1
+----
+)
+----
+switch
+----
+to
+----
+veggie
+----
+cheese
+----
+slice
+----
+with
+----
+no
+----
+saturated
+----
+fats
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('-', ':') ('-', ':') ('name15', 'NNP') ('-', ':') ('-', ':') ('agrees', 'NNS') ('to', 'TO') (':', ':') ('1', 'CD') (')', 'CD') ('switch', 'NN') ('to', 'TO') ('veggie', 'VB') ('cheese', 'JJ') ('slice', 'NN') ('with', 'IN') ('no', 'DT') ('saturated', 'VBN') ('fats', 'NNS') ('.', '.') 
+
+<< Note Number >>163
+Original Sentence11 >>> No follow up visit.
+Preprocessed Sentence:>>>:no follow up visit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+follow
+----
+up
+----
+visit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('follow', 'NN') ('up', 'IN') ('visit', 'NN') ('.', '.') 
+
+<< Note Number >>165
+Original Sentence3 >>> He doesn't think they have ever been this high before.
+Preprocessed Sentence:>>>:he does not think they have ever been this high before .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+think
+----
+they
+----
+have
+----
+ever
+----
+been
+----
+this
+----
+high
+----
+before
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('think', 'VB') ('they', 'PRP') ('have', 'VBP') ('ever', 'RB') ('been', 'VBN') ('this', 'DT') ('high', 'JJ') ('before', 'IN') ('.', '.') 
+
+<< Note Number >>165
+Original Sentence6 >>> Does not exercise anymore.
+Preprocessed Sentence:>>>:does not exercise anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+exercise
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('exercise', 'VB') ('anymore', 'RB') ('.', '.') 
+
+<< Note Number >>167
+Original Sentence3 >>> He has not decided if he is going to go get it filled or not.
+Preprocessed Sentence:>>>:he has not decided if he is going to go get it filled or not .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+decided
+----
+if
+----
+he
+----
+is
+----
+going
+----
+to
+----
+go
+----
+get
+----
+it
+----
+filled
+----
+or
+----
+not
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('decided', 'VBN') ('if', 'IN') ('he', 'PRP') ('is', 'VBZ') ('going', 'VBG') ('to', 'TO') ('go', 'VB') ('get', 'NN') ('it', 'PRP') ('filled', 'VBD') ('or', 'CC') ('not', 'RB') ('.', '.') 
+
+<< Note Number >>169
+Original Sentence1 >>> --Name17-- has not yet had her wellness exam, and did not seem to be aware of the fact that her FBS was 171.
+Preprocessed Sentence:>>>: -  - name17 -  -  has not yet had her wellness exam, and did not seem to be aware of the fact that her fbs was 171 .  <<<
+
+Tokens of this sentence are as follows
+
+----
+-
+----
+-
+----
+name17
+----
+-
+----
+-
+----
+has
+----
+not
+----
+yet
+----
+had
+----
+her
+----
+wellness
+----
+exam
+----
+,
+----
+and
+----
+did
+----
+not
+----
+seem
+----
+to
+----
+be
+----
+aware
+----
+of
+----
+the
+----
+fact
+----
+that
+----
+her
+----
+fbs
+----
+was
+----
+171
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('-', ':') ('-', ':') ('name17', 'NNP') ('-', ':') ('-', ':') ('has', 'VBZ') ('not', 'RB') ('yet', 'RB') ('had', 'VBD') ('her', 'PRP') ('wellness', 'RB') ('exam', 'VBP') (',', ',') ('and', 'CC') ('did', 'VBD') ('not', 'RB') ('seem', 'VB') ('to', 'TO') ('be', 'VB') ('aware', 'JJ') ('of', 'IN') ('the', 'DT') ('fact', 'NN') ('that', 'IN') ('her', 'PRP$') ('fbs', 'NNS') ('was', 'VBD') ('171', 'CD') ('.', '.') 
+
+<< Note Number >>169
+Original Sentence2 >>> When asked about her wine intake (which she was having 2-3 glasses each evening last year), she answered ?I?d rather not say.?
+Preprocessed Sentence:>>>:when asked about her wine intake (which she was having 2 - 3 glasses each evening last year), she answered ?i?d rather not say . ? <<<
+
+Tokens of this sentence are as follows
+
+----
+when
+----
+asked
+----
+about
+----
+her
+----
+wine
+----
+intake
+----
+(
+----
+which
+----
+she
+----
+was
+----
+having
+----
+2
+----
+-
+----
+3
+----
+glasses
+----
+each
+----
+evening
+----
+last
+----
+year
+----
+)
+----
+,
+----
+she
+----
+answered
+----
+?
+----
+i
+----
+?
+----
+d
+----
+rather
+----
+not
+----
+say
+----
+.
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('when', 'WRB') ('asked', 'VBD') ('about', 'IN') ('her', 'PRP$') ('wine', 'NN') ('intake', 'NN') ('(', ':') ('which', 'WDT') ('she', 'PRP') ('was', 'VBD') ('having', 'VBG') ('2', 'CD') ('-', ':') ('3', 'CD') ('glasses', 'NNS') ('each', 'DT') ('evening', 'VBG') ('last', 'JJ') ('year', 'NN') (')', ':') (',', ',') ('she', 'PRP') ('answered', 'VBD') ('?', '.') ('i', 'PRP') ('?', '.') ('d', 'JJ') ('rather', 'RB') ('not', 'RB') ('say', 'VB') ('.', '.') ('?', '.') 
+
+<< Note Number >>169
+Original Sentence5 >>> Admits to eating whatever she wants, and not exercising at all.
+Preprocessed Sentence:>>>:admits to eating whatever she wants, and not exercising at all .  <<<
+
+Tokens of this sentence are as follows
+
+----
+admits
+----
+to
+----
+eating
+----
+whatever
+----
+she
+----
+wants
+----
+,
+----
+and
+----
+not
+----
+exercising
+----
+at
+----
+all
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('admits', 'NNS') ('to', 'TO') ('eating', 'VBG') ('whatever', 'NN') ('she', 'PRP') ('wants', 'VBZ') (',', ',') ('and', 'CC') ('not', 'RB') ('exercising', 'VBG') ('at', 'IN') ('all', 'DT') ('.', '.') 
+
+<< Note Number >>169
+Original Sentence11 >>> 4) Self reflect on why she is not wanting to exercise.
+Preprocessed Sentence:>>>:4) self reflect on why she is not wanting to exercise .  <<<
+
+Tokens of this sentence are as follows
+
+----
+4
+----
+)
+----
+self
+----
+reflect
+----
+on
+----
+why
+----
+she
+----
+is
+----
+not
+----
+wanting
+----
+to
+----
+exercise
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('4', 'LS') (')', '``') ('self', 'PRP') ('reflect', 'VBP') ('on', 'IN') ('why', 'WRB') ('she', 'PRP') ('is', 'VBZ') ('not', 'RB') ('wanting', 'VBG') ('to', 'TO') ('exercise', 'VB') ('.', '.') 
+
+<< Note Number >>169
+Original Sentence14 >>> No follow up at this point.
+Preprocessed Sentence:>>>:no follow up at this point .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+follow
+----
+up
+----
+at
+----
+this
+----
+point
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('follow', 'NN') ('up', 'IN') ('at', 'IN') ('this', 'DT') ('point', 'NN') ('.', '.') 
+
+<< Note Number >>171
+Original Sentence2 >>> States she has not lost any wt; has just been so overwhelmed with work.
+Preprocessed Sentence:>>>:states she has not lost any weight; has just been so overwhelmed with work .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+she
+----
+has
+----
+not
+----
+lost
+----
+any
+----
+weight
+----
+;
+----
+has
+----
+just
+----
+been
+----
+so
+----
+overwhelmed
+----
+with
+----
+work
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('she', 'PRP') ('has', 'VBZ') ('not', 'RB') ('lost', 'VBN') ('any', 'DT') ('weight', 'NN') (';', ':') ('has', 'VBZ') ('just', 'RB') ('been', 'VBN') ('so', 'RB') ('overwhelmed', 'VBN') ('with', 'IN') ('work', 'NN') ('.', '.') 
+
+<< Note Number >>172
+Original Sentence5 >>> No exercise, as she complains of OA of the spine, although when she takes the meloxicam it feels better.
+Preprocessed Sentence:>>>:no exercise, as she complains of oa of the spine, although when she takes the meloxicam it feels better .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+exercise
+----
+,
+----
+as
+----
+she
+----
+complains
+----
+of
+----
+oa
+----
+of
+----
+the
+----
+spine
+----
+,
+----
+although
+----
+when
+----
+she
+----
+takes
+----
+the
+----
+meloxicam
+----
+it
+----
+feels
+----
+better
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('exercise', 'NN') (',', ',') ('as', 'IN') ('she', 'PRP') ('complains', 'VBZ') ('of', 'IN') ('oa', 'NN') ('of', 'IN') ('the', 'DT') ('spine', 'NN') (',', ',') ('although', 'IN') ('when', 'WRB') ('she', 'PRP') ('takes', 'VBZ') ('the', 'DT') ('meloxicam', 'NN') ('it', 'PRP') ('feels', 'VBZ') ('better', 'JJR') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence2 >>> States things are &amp;quot;not good&amp;quot;.
+Preprocessed Sentence:>>>:states things are &amp;quot;not good&amp;quot; .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+things
+----
+are
+----
+&
+----
+amp
+----
+;
+----
+quot
+----
+;
+----
+not
+----
+good
+----
+&
+----
+amp
+----
+;
+----
+quot
+----
+;
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('things', 'NNS') ('are', 'VBP') ('&', 'CC') ('amp', 'NN') (';', ':') ('quot', 'NN') (';', ':') ('not', 'RB') ('good', 'JJ') ('&', 'CC') ('amp', 'NN') (';', ':') ('quot', 'NN') (';', ':') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence5 >>> Has completed 30 HBO treatments, been on ATB's since Jan &amp;amp; still is not healing.
+Preprocessed Sentence:>>>:has completed 30 hbo treatments, been on atb's since jan &amp;amp; still is not healing .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+completed
+----
+30
+----
+hbo
+----
+treatments
+----
+,
+----
+been
+----
+on
+----
+atb
+----
+'s
+----
+since
+----
+jan
+----
+&
+----
+amp
+----
+;
+----
+amp
+----
+;
+----
+still
+----
+is
+----
+not
+----
+healing
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('completed', 'VBN') ('30', 'CD') ('hbo', 'NN') ('treatments', 'NNS') (',', ',') ('been', 'VBN') ('on', 'IN') ('atb', 'NN') ("'s", 'POS') ('since', 'IN') ('jan', 'NN') ('&', 'CC') ('amp', 'NN') (';', ':') ('amp', 'NN') (';', ':') ('still', 'RB') ('is', 'VBZ') ('not', 'RB') ('healing', 'VBG') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence11 >>> Started him on Victoza 2wks ago &amp;amp; he can see big difference in BS; ave no higher than 130's.
+Preprocessed Sentence:>>>:started him on victoza 2wks ago &amp;amp; he can see big difference in bs; ave no higher than 130's .  <<<
+
+Tokens of this sentence are as follows
+
+----
+started
+----
+him
+----
+on
+----
+victoza
+----
+2wks
+----
+ago
+----
+&
+----
+amp
+----
+;
+----
+amp
+----
+;
+----
+he
+----
+can
+----
+see
+----
+big
+----
+difference
+----
+in
+----
+bs
+----
+;
+----
+ave
+----
+no
+----
+higher
+----
+than
+----
+130
+----
+'s
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('started', 'VBD') ('him', 'PRP') ('on', 'IN') ('victoza', 'NN') ('2wks', 'CD') ('ago', 'RB') ('&', 'CC') ('amp', 'VB') (';', ':') ('amp', 'VB') (';', ':') ('he', 'PRP') ('can', 'MD') ('see', 'VB') ('big', 'JJ') ('difference', 'NN') ('in', 'IN') ('bs', 'NNS') (';', ':') ('ave', 'VBP') ('no', 'DT') ('higher', 'JJR') ('than', 'IN') ('130', 'CD') ("'s", 'POS') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence14 >>> He did not feel that would be helpful.
+Preprocessed Sentence:>>>:he did not feel that would be helpful .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+did
+----
+not
+----
+feel
+----
+that
+----
+would
+----
+be
+----
+helpful
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('feel', 'VB') ('that', 'IN') ('would', 'MD') ('be', 'VB') ('helpful', 'JJ') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence16 >>> Currently not yet back to work.
+Preprocessed Sentence:>>>:currently not yet back to work .  <<<
+
+Tokens of this sentence are as follows
+
+----
+currently
+----
+not
+----
+yet
+----
+back
+----
+to
+----
+work
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('currently', 'RB') ('not', 'RB') ('yet', 'RB') ('back', 'RB') ('to', 'TO') ('work', 'VB') ('.', '.') 
+
+<< Note Number >>186
+Original Sentence7 >>> He said he has no motivation right now to try and quit.
+Preprocessed Sentence:>>>:he said he has no motivation right now to try and quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+has
+----
+no
+----
+motivation
+----
+right
+----
+now
+----
+to
+----
+try
+----
+and
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('has', 'VBZ') ('no', 'DT') ('motivation', 'NN') ('right', 'RB') ('now', 'RB') ('to', 'TO') ('try', 'VB') ('and', 'CC') ('quit', 'NN') ('.', '.') 
+
+<< Note Number >>186
+Original Sentence8 >>> He said he is not ready.
+Preprocessed Sentence:>>>:he said he is not ready .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+is
+----
+not
+----
+ready
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('ready', 'RB') ('.', '.') 
+
+<< Note Number >>188
+Original Sentence2 >>> He has not changed anything since the last time we talked.
+Preprocessed Sentence:>>>:he has not changed anything since the last time we talked .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+changed
+----
+anything
+----
+since
+----
+the
+----
+last
+----
+time
+----
+we
+----
+talked
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('anything', 'NN') ('since', 'IN') ('the', 'DT') ('last', 'JJ') ('time', 'NN') ('we', 'PRP') ('talked', 'VBD') ('.', '.') 
+
+<< Note Number >>188
+Original Sentence3 >>> Still has no desire to quit right now.
+Preprocessed Sentence:>>>:still has no desire to quit right now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+still
+----
+has
+----
+no
+----
+desire
+----
+to
+----
+quit
+----
+right
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('still', 'RB') ('has', 'VBZ') ('no', 'DT') ('desire', 'NN') ('to', 'TO') ('quit', 'VB') ('right', 'RB') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>188
+Original Sentence4 >>> He has not thought about maybe making a quit attempt in the future.
+Preprocessed Sentence:>>>:he has not thought about maybe making a quit attempt in the future .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+thought
+----
+about
+----
+maybe
+----
+making
+----
+a
+----
+quit
+----
+attempt
+----
+in
+----
+the
+----
+future
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('thought', 'VBN') ('about', 'IN') ('maybe', 'RB') ('making', 'VBG') ('a', 'DT') ('quit', 'NN') ('attempt', 'NN') ('in', 'IN') ('the', 'DT') ('future', 'NN') ('.', '.') 
+
+<< Note Number >>188
+Original Sentence5 >>> Has not looked into any NRTs.
+Preprocessed Sentence:>>>:has not looked into any nrts .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+looked
+----
+into
+----
+any
+----
+nrts
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('looked', 'VBN') ('into', 'IN') ('any', 'DT') ('nrts', 'NNS') ('.', '.') 
+
+<< Note Number >>192
+Original Sentence6 >>> He said sometimes fruits and vegetables are not accessible.
+Preprocessed Sentence:>>>:he said sometimes fruits and vegetables are not accessible .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+sometimes
+----
+fruits
+----
+and
+----
+vegetables
+----
+are
+----
+not
+----
+accessible
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('sometimes', 'RB') ('fruits', 'VBZ') ('and', 'CC') ('vegetables', 'NNS') ('are', 'VBP') ('not', 'RB') ('accessible', 'JJ') ('.', '.') 
+
+<< Note Number >>192
+Original Sentence7 >>> He does not like how expensive fresh fruit and vegetables are.
+Preprocessed Sentence:>>>:he does not like how expensive fresh fruit and vegetables are .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+like
+----
+how
+----
+expensive
+----
+fresh
+----
+fruit
+----
+and
+----
+vegetables
+----
+are
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('like', 'IN') ('how', 'WRB') ('expensive', 'JJ') ('fresh', 'JJ') ('fruit', 'NN') ('and', 'CC') ('vegetables', 'NNS') ('are', 'VBP') ('.', '.') 
+
+<< Note Number >>194
+Original Sentence4 >>> He started taking them again, but not using as many.
+Preprocessed Sentence:>>>:he started taking them again, but not using as many .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+started
+----
+taking
+----
+them
+----
+again
+----
+,
+----
+but
+----
+not
+----
+using
+----
+as
+----
+many
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('started', 'VBD') ('taking', 'VBG') ('them', 'PRP') ('again', 'RB') (',', ',') ('but', 'CC') ('not', 'RB') ('using', 'VBG') ('as', 'IN') ('many', 'JJ') ('.', '.') 
+
+<< Note Number >>200
+Original Sentence6 >>> Going to discuss more about how to stay smoke free once we get them their.
+Preprocessed Sentence:>>>:going to discuss more about how to stay smoke free once we get them their .  <<<
+
+Tokens of this sentence are as follows
+
+----
+going
+----
+to
+----
+discuss
+----
+more
+----
+about
+----
+how
+----
+to
+----
+stay
+----
+smoke
+----
+free
+----
+once
+----
+we
+----
+get
+----
+them
+----
+their
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('going', 'VBG') ('to', 'TO') ('discuss', 'VB') ('more', 'JJR') ('about', 'IN') ('how', 'WRB') ('to', 'TO') ('stay', 'VB') ('smoke', 'NN') ('free', 'JJ') ('once', 'NN') ('we', 'PRP') ('get', 'VBP') ('them', 'PRP') ('their', 'PRP$') ('.', '.') 
+
+<< Note Number >>202
+Original Sentence6 >>> Going to discuss more about how to stay smoke free once we get them their.
+Preprocessed Sentence:>>>:going to discuss more about how to stay smoke free once we get them their .  <<<
+
+Tokens of this sentence are as follows
+
+----
+going
+----
+to
+----
+discuss
+----
+more
+----
+about
+----
+how
+----
+to
+----
+stay
+----
+smoke
+----
+free
+----
+once
+----
+we
+----
+get
+----
+them
+----
+their
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('going', 'VBG') ('to', 'TO') ('discuss', 'VB') ('more', 'JJR') ('about', 'IN') ('how', 'WRB') ('to', 'TO') ('stay', 'VB') ('smoke', 'NN') ('free', 'JJ') ('once', 'NN') ('we', 'PRP') ('get', 'VBP') ('them', 'PRP') ('their', 'PRP$') ('.', '.') 
+
+<< Note Number >>204
+Original Sentence6 >>> Does not want to do Chantix.
+Preprocessed Sentence:>>>:does not want to do chantix .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+want
+----
+to
+----
+do
+----
+chantix
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('do', 'VB') ('chantix', 'CD') ('.', '.') 
+
+<< Note Number >>206
+Original Sentence8 >>> Does not want to go on medication.
+Preprocessed Sentence:>>>:does not want to go on medication .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+want
+----
+to
+----
+go
+----
+on
+----
+medication
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('go', 'VB') ('on', 'IN') ('medication', 'NN') ('.', '.') 
+
+<< Note Number >>211
+Original Sentence6 >>> Needs to make up his mind whether or not he wants to quit.
+Preprocessed Sentence:>>>:needs to make up his mind whether or not he wants to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+needs
+----
+to
+----
+make
+----
+up
+----
+his
+----
+mind
+----
+whether
+----
+or
+----
+not
+----
+he
+----
+wants
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('needs', 'NNS') ('to', 'TO') ('make', 'VB') ('up', 'RP') ('his', 'PRP$') ('mind', 'NN') ('whether', 'IN') ('or', 'CC') ('not', 'RB') ('he', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>213
+Original Sentence2 >>> He said nothing has changed and he still has no desire to quit.
+Preprocessed Sentence:>>>:he said nothing has changed and he still has no desire to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+nothing
+----
+has
+----
+changed
+----
+and
+----
+he
+----
+still
+----
+has
+----
+no
+----
+desire
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('nothing', 'NN') ('has', 'VBZ') ('changed', 'VBN') ('and', 'CC') ('he', 'PRP') ('still', 'RB') ('has', 'VBZ') ('no', 'DT') ('desire', 'NN') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>217
+Original Sentence4 >>> He does not currently have a PCP.
+Preprocessed Sentence:>>>:he does not currently have a pcp .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+currently
+----
+have
+----
+a
+----
+pcp
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('currently', 'RB') ('have', 'VBP') ('a', 'DT') ('pcp', 'NN') ('.', '.') 
+
+<< Note Number >>219
+Original Sentence3 >>> He is still not testing at this moment.
+Preprocessed Sentence:>>>:he is still not testing at this moment .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+still
+----
+not
+----
+testing
+----
+at
+----
+this
+----
+moment
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('still', 'RB') ('not', 'RB') ('testing', 'VBG') ('at', 'IN') ('this', 'DT') ('moment', 'NN') ('.', '.') 
+
+<< Note Number >>223
+Original Sentence2 >>> He made it nice and clear that he was well aware of his numbers and felt there was no need to meet.
+Preprocessed Sentence:>>>:he made it nice and clear that he was well aware of his numbers and felt there was no need to meet .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+made
+----
+it
+----
+nice
+----
+and
+----
+clear
+----
+that
+----
+he
+----
+was
+----
+well
+----
+aware
+----
+of
+----
+his
+----
+numbers
+----
+and
+----
+felt
+----
+there
+----
+was
+----
+no
+----
+need
+----
+to
+----
+meet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('made', 'VBD') ('it', 'PRP') ('nice', 'JJ') ('and', 'CC') ('clear', 'JJ') ('that', 'IN') ('he', 'PRP') ('was', 'VBD') ('well', 'RB') ('aware', 'JJ') ('of', 'IN') ('his', 'PRP$') ('numbers', 'NNS') ('and', 'CC') ('felt', 'VBD') ('there', 'RB') ('was', 'VBD') ('no', 'DT') ('need', 'NN') ('to', 'TO') ('meet', 'VB') ('.', '.') 
+
+<< Note Number >>223
+Original Sentence3 >>> He does not want to go on meds for his CHOL numbers.
+Preprocessed Sentence:>>>:he does not want to go on medication for his chol numbers .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+want
+----
+to
+----
+go
+----
+on
+----
+medication
+----
+for
+----
+his
+----
+chol
+----
+numbers
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('go', 'VB') ('on', 'IN') ('medication', 'NN') ('for', 'IN') ('his', 'PRP$') ('chol', 'NN') ('numbers', 'NNS') ('.', '.') 
+
+<< Note Number >>229
+Original Sentence2 >>> He said he is just super busy the last couple years and his eating habits have not been good.
+Preprocessed Sentence:>>>:he said he is just super busy the last couple years and his eating habits have not been good .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+is
+----
+just
+----
+super
+----
+busy
+----
+the
+----
+last
+----
+couple
+----
+years
+----
+and
+----
+his
+----
+eating
+----
+habits
+----
+have
+----
+not
+----
+been
+----
+good
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('just', 'RB') ('super', 'JJR') ('busy', 'JJ') ('the', 'DT') ('last', 'JJ') ('couple', 'NN') ('years', 'NNS') ('and', 'CC') ('his', 'PRP$') ('eating', 'NN') ('habits', 'NNS') ('have', 'VBP') ('not', 'RB') ('been', 'VBN') ('good', 'JJ') ('.', '.') 
+
+<< Note Number >>235
+Original Sentence3 >>> She does not know what she wants to do anymore.
+Preprocessed Sentence:>>>:she does not know what she wants to do anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+know
+----
+what
+----
+she
+----
+wants
+----
+to
+----
+do
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('know', 'VB') ('what', 'WP') ('she', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('do', 'VB') ('anymore', 'RB') ('.', '.') 
+
+<< Note Number >>235
+Original Sentence5 >>> She is not sure if she wants to do a NRT anymore.
+Preprocessed Sentence:>>>:she is not sure if she wants to do a nrt anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+is
+----
+not
+----
+sure
+----
+if
+----
+she
+----
+wants
+----
+to
+----
+do
+----
+a
+----
+nrt
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('is', 'VBZ') ('not', 'RB') ('sure', 'JJ') ('if', 'IN') ('she', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('do', 'VB') ('a', 'DT') ('nrt', 'NN') ('anymore', 'NN') ('.', '.') 
+
+<< Note Number >>235
+Original Sentence8 >>> Goal: not smoking in her car
+Preprocessed Sentence:>>>:goal: not smoking in her car <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+not
+----
+smoking
+----
+in
+----
+her
+----
+car
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('not', 'RB') ('smoking', 'VBG') ('in', 'IN') ('her', 'PRP$') ('car', 'NN') 
+
+<< Note Number >>237
+Original Sentence4 >>> He is not having any symptoms currently.
+Preprocessed Sentence:>>>:he is not having any symptoms currently .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+not
+----
+having
+----
+any
+----
+symptoms
+----
+currently
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('having', 'VBG') ('any', 'DT') ('symptoms', 'NNS') ('currently', 'RB') ('.', '.') 
+
+<< Note Number >>239
+Original Sentence4 >>> She does not get out of breath walking anymore.
+Preprocessed Sentence:>>>:she does not get out of breath walking anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+get
+----
+out
+----
+of
+----
+breath
+----
+walking
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('get', 'VB') ('out', 'IN') ('of', 'IN') ('breath', 'NN') ('walking', 'VBG') ('anymore', 'NN') ('.', '.') 
+
+<< Note Number >>239
+Original Sentence6 >>> Does not snack much anymore and if she does its a fruit.
+Preprocessed Sentence:>>>:does not snack much anymore and if she does its a fruit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+snack
+----
+much
+----
+anymore
+----
+and
+----
+if
+----
+she
+----
+does
+----
+its
+----
+a
+----
+fruit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('snack', 'VB') ('much', 'JJ') ('anymore', 'NN') ('and', 'CC') ('if', 'IN') ('she', 'PRP') ('does', 'VBZ') ('its', 'PRP$') ('a', 'DT') ('fruit', 'NN') ('.', '.') 
+
+<< Note Number >>243
+Original Sentence2 >>> He is smoke free for a month now.
+Preprocessed Sentence:>>>:he is smoke free for a month now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+smoke
+----
+free
+----
+for
+----
+a
+----
+month
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('smoke', 'VB') ('free', 'JJ') ('for', 'IN') ('a', 'DT') ('month', 'NN') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>243
+Original Sentence7 >>> Goal: stay smoke free
+Preprocessed Sentence:>>>:goal: stay smoke free <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+stay
+----
+smoke
+----
+free
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('stay', 'NN') ('smoke', 'NN') ('free', 'JJ') 
+
+<< Note Number >>245
+Original Sentence6 >>> She said she has not been consistent in the last week.
+Preprocessed Sentence:>>>:she said she has not been consistent in the last week .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+said
+----
+she
+----
+has
+----
+not
+----
+been
+----
+consistent
+----
+in
+----
+the
+----
+last
+----
+week
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('said', 'VBD') ('she', 'PRP') ('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('consistent', 'JJ') ('in', 'IN') ('the', 'DT') ('last', 'JJ') ('week', 'NN') ('.', '.') 
+
+<< Note Number >>245
+Original Sentence7 >>> Not paying close enough attention to what she is putting in her body and exercise has been lacking
+Preprocessed Sentence:>>>:not paying close enough attention to what she is putting in her body and exercise has been lacking <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+paying
+----
+close
+----
+enough
+----
+attention
+----
+to
+----
+what
+----
+she
+----
+is
+----
+putting
+----
+in
+----
+her
+----
+body
+----
+and
+----
+exercise
+----
+has
+----
+been
+----
+lacking
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('paying', 'VBG') ('close', 'RB') ('enough', 'RB') ('attention', 'NN') ('to', 'TO') ('what', 'WP') ('she', 'PRP') ('is', 'VBZ') ('putting', 'VBG') ('in', 'IN') ('her', 'PRP$') ('body', 'NN') ('and', 'CC') ('exercise', 'VB') ('has', 'VBZ') ('been', 'VBN') ('lacking', 'VBG') 
+
+<< Note Number >>247
+Original Sentence2 >>> She has not changed much with being so busy at work and her gym.
+Preprocessed Sentence:>>>:she has not changed much with being so busy at work and her gym .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+has
+----
+not
+----
+changed
+----
+much
+----
+with
+----
+being
+----
+so
+----
+busy
+----
+at
+----
+work
+----
+and
+----
+her
+----
+gym
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('much', 'RB') ('with', 'IN') ('being', 'VBG') ('so', 'RB') ('busy', 'JJ') ('at', 'IN') ('work', 'NN') ('and', 'CC') ('her', 'PRP$') ('gym', 'NN') ('.', '.') 
+
+<< Note Number >>247
+Original Sentence5 >>> Has not been bringing in her lunch.
+Preprocessed Sentence:>>>:has not been bringing in her lunch .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+been
+----
+bringing
+----
+in
+----
+her
+----
+lunch
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('bringing', 'VBG') ('in', 'IN') ('her', 'PRP$') ('lunch', 'NN') ('.', '.') 
+
+<< Note Number >>251
+Original Sentence5 >>> Goal: smoke free by next appointment.
+Preprocessed Sentence:>>>:goal: smoke free by next appointment .  <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+smoke
+----
+free
+----
+by
+----
+next
+----
+appointment
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('smoke', 'NN') ('free', 'JJ') ('by', 'IN') ('next', 'JJ') ('appointment', 'NN') ('.', '.') 

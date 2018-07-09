@@ -1,0 +1,2009 @@
+Note_Number-1: Sent_Number-1: units	lantis	twice	day	
+Note_Number-1: Sent_Number-2: upped	units	surgery	
+Note_Number-1: Sent_Number-3: test	day	
+Note_Number-1: Sent_Number-4: adjusting	insulin	get	bs	
+Note_Number-1: Sent_Number-5: bs	yesterday	
+Note_Number-1: Sent_Number-6: doctor	like	see	bs	
+Note_Number-2: Sent_Number-1: met	do	tob	
+Note_Number-2: Sent_Number-2: is	chewing	days	
+Note_Number-2: Sent_Number-3: triggers	are	work	
+Note_Number-2: Sent_Number-5: claims	quit	want	is	using	everyday	
+Note_Number-2: Sent_Number-6: chews	day	
+Note_Number-2: Sent_Number-7: said	is	trying	cut	
+Note_Number-3: Sent_Number-1: met	do	dob	
+Note_Number-3: Sent_Number-2: said	feels	is	eating	is	doing	
+Note_Number-3: Sent_Number-3: stuck	goal	getting	gym	week	
+Note_Number-3: Sent_Number-4: said	is	feeling	
+Note_Number-3: Sent_Number-5: going	stay	goal	getting	cardio	week	
+Note_Number-3: Sent_Number-6: has	gotten	grazing	meals	
+Note_Number-4: Sent_Number-1: met	phone	do	dob	
+Note_Number-4: Sent_Number-2: is	doing	session	
+Note_Number-4: Sent_Number-3: bs	morning	
+Note_Number-4: Sent_Number-4: meals	
+Note_Number-4: Sent_Number-5: loves	pizza	spikes	
+Note_Number-4: Sent_Number-6: trying	get	walking	everyday	
+Note_Number-4: Sent_Number-7: using	go	meal	app	looking	menus	online	eating	
+Note_Number-4: Sent_Number-8: focusing	is	eating	trying	do	
+Note_Number-4: Sent_Number-9: is	
+Note_Number-5: Sent_Number-1: met	do	tob	
+Note_Number-5: Sent_Number-2: is	
+Note_Number-5: Sent_Number-3: is	
+Note_Number-5: Sent_Number-4: feels	lot	better	breathe	taste	has	improved	
+Note_Number-5: Sent_Number-5: has	upped	exercise	doing	intervals	jogging	
+Note_Number-5: Sent_Number-6: weight	
+Note_Number-5: Sent_Number-7: going	follow	month	
+Note_Number-6: Sent_Number-1: met	phone	do	dob	
+Note_Number-6: Sent_Number-2: is	doing	
+Note_Number-6: Sent_Number-3: weeks	knee	replacement	surgery	
+Note_Number-6: Sent_Number-5: is	eating	
+Note_Number-6: Sent_Number-6: glu	
+Note_Number-6: Sent_Number-7: like	keep	
+Note_Number-6: Sent_Number-8: going	keep	
+Note_Number-6: Sent_Number-9: starting	move	
+Note_Number-7: Sent_Number-1: met	do	wmp	
+Note_Number-7: Sent_Number-2: numbers	have	stayed	
+Note_Number-7: Sent_Number-4: had	funerals	
+Note_Number-7: Sent_Number-5: week	
+Note_Number-7: Sent_Number-6: getting	track	weeks	focusing	picking	exercise	
+Note_Number-8: Sent_Number-1: met	phone	do	
+Note_Number-8: Sent_Number-2: exchange	diet	
+Note_Number-8: Sent_Number-3: carb	protein	diet	exercise	
+Note_Number-8: Sent_Number-4: lost	diagnosed	
+Note_Number-8: Sent_Number-5: put	
+Note_Number-8: Sent_Number-6: wants	take	
+Note_Number-8: Sent_Number-7: meals	meals	day	
+Note_Number-8: Sent_Number-8: lunch	v8	juice	carrots	turkey	breast	tortilla	rice	cakes	soda	water	
+Note_Number-8: Sent_Number-9: cut	milk	fruit	
+Note_Number-8: Sent_Number-10: goal	minutes	walking	biking	week	
+Note_Number-9: Sent_Number-1: had	eye	exam	june	
+Note_Number-10: Sent_Number-1: see	foot	doctor	months	
+Note_Number-11: Sent_Number-1: left	voice	mail	
+Note_Number-11: Sent_Number-2: dphillips	rn	
+Note_Number-12: Sent_Number-1: met	do	wmp	
+Note_Number-12: Sent_Number-2: lost	week	
+Note_Number-12: Sent_Number-3: bp	
+Note_Number-12: Sent_Number-4: feeling	coming	vacation	
+Note_Number-12: Sent_Number-5: going	keep	increasing	exercise	
+Note_Number-13: Sent_Number-1: labs	psa	psa	done	urology	was	doctor	feels	is	inflammed	put	antibiotics	continues	monitor	
+Note_Number-13: Sent_Number-2: had	done	year	was	
+Note_Number-13: Sent_Number-3: continues	see	uro	
+Note_Number-13: Sent_Number-4: follow	pcp	gets	results	mail	
+Note_Number-13: Sent_Number-5: needs	
+Note_Number-13: Sent_Number-6: cholesterol	numbers	excellent	
+Note_Number-13: Sent_Number-7: lipitor	omega	
+Note_Number-13: Sent_Number-8: a1c	is	diabetes	runs	family	
+Note_Number-13: Sent_Number-9: excellent	numbers	
+Note_Number-14: Sent_Number-1: left	message	needing	repeat	bp	
+Note_Number-14: Sent_Number-2: member	bp	screening	labs	bs	tchol	ldl	a1c	dphillips	rn	
+Note_Number-15: Sent_Number-1: bp	screening	labs	bs	a1c	left	message	
+Note_Number-15: Sent_Number-2: dphillips	rn	
+Note_Number-16: Sent_Number-1: call	member	
+Note_Number-16: Sent_Number-2: went	llabs	
+Note_Number-16: Sent_Number-3: asked	is	doing	diabetes	pills	shots	
+Note_Number-16: Sent_Number-4: isnt	doing	anything	diabetes	nothing	cholesterol	either	
+Note_Number-16: Sent_Number-5: a1c	was	year	cholesterol	was	year	was	supposed	see	doctor	year	asap	
+Note_Number-16: Sent_Number-6: didnt	have	see	doctor	did	see	
+Note_Number-16: Sent_Number-7: reviewing	notes	was	encouraged	follow	was	call	doctor	fax	number	fax	results	
+Note_Number-16: Sent_Number-8: booklet	diabetes	was	mailed	
+Note_Number-16: Sent_Number-9: went	doctor	
+Note_Number-16: Sent_Number-10: a1c	is	
+Note_Number-17: Sent_Number-1: went	risks	complications	blindness	amputations	dialysis	dysfunction	
+Note_Number-17: Sent_Number-2: member	became	wanting	get	phone	amp	quot	get	get	need	see	doctor	
+Note_Number-17: Sent_Number-3: amp	quot	went	risk	pancreatitis	triglycerides	
+Note_Number-17: Sent_Number-4: is	supposed	call	doctor	call	fax	number	
+Note_Number-17: Sent_Number-6: reminded	spouses	are	required	see	doctor	get	form	year	discounted	insurance	
+Note_Number-18: Sent_Number-1: bs	a1c	known	
+Note_Number-18: Sent_Number-2: diabetes	regimen	change	weeks	byetta	metformin	glipizide	started	insulin	lantus	humulog	metformin	
+Note_Number-18: Sent_Number-3: bs	am	is	days	have	been	
+Note_Number-18: Sent_Number-4: have	gained	pounds	change	
+Note_Number-19: Sent_Number-1: walk	half	hour	minutes	day	
+Note_Number-19: Sent_Number-2: was	doing	work	videos	work	
+Note_Number-19: Sent_Number-3: had	stop	bronchitis	
+Note_Number-19: Sent_Number-4: breath	better	
+Note_Number-19: Sent_Number-5: humulog	twice	day	units	meals	
+Note_Number-19: Sent_Number-6: amp	quot	have	tooth	amp	quot	follow	appointment	doctor	gets	packet	mail	
+Note_Number-19: Sent_Number-7: encouraged	ask	doctor	referral	nutritionist	
+Note_Number-19: Sent_Number-8: agrees	ask	
+Note_Number-19: Sent_Number-9: dphillips	rn	
+Note_Number-20: Sent_Number-1: helped	hra	
+Note_Number-21: Sent_Number-1: values	values	
+Note_Number-22: Sent_Number-1: triglycerides	hdl	cholesterol	vldl	chol	
+Note_Number-22: Sent_Number-2: psa	a1c	medication	
+Note_Number-22: Sent_Number-3: bp	chol	asa	
+Note_Number-23: Sent_Number-1: met	phone	do	dob	
+Note_Number-23: Sent_Number-2: said	everything	is	going	
+Note_Number-23: Sent_Number-3: endocrinologist	had	have	blood	drawn	appointment	coming	week	
+Note_Number-23: Sent_Number-4: review	see	results	came	
+Note_Number-23: Sent_Number-5: give	idea	is	trigs	glu	a1c	are	
+Note_Number-23: Sent_Number-6: continuing	exercise	eat	
+Note_Number-24: Sent_Number-1: spoke	member	
+Note_Number-24: Sent_Number-2: reviewed	kyn	lab	results	
+Note_Number-24: Sent_Number-3: member	is	dm	med	
+Note_Number-24: Sent_Number-4: remember	name	dosage	
+Note_Number-24: Sent_Number-5: applies	cholesterol	bp	
+Note_Number-24: Sent_Number-6: med	
+Note_Number-24: Sent_Number-7: checking	sugar	q	day	
+Note_Number-24: Sent_Number-8: educated	regards	carbohydrade	starches	sugar	consumption	
+Note_Number-24: Sent_Number-9: drinking	sodas	wk	
+Note_Number-24: Sent_Number-10: couple	beers	weekend	
+Note_Number-24: Sent_Number-11: drinks	water	exercise	watch	sodium	intake	help	bp	
+Note_Number-24: Sent_Number-12: states	had	eye	exam	year	has	requested	copy	/	years	
+Note_Number-24: Sent_Number-13: results	
+Note_Number-24: Sent_Number-14: j	tart	rn	
+Note_Number-25: Sent_Number-1: met	do	wmp	
+Note_Number-25: Sent_Number-2: came	week	vacation	
+Note_Number-25: Sent_Number-3: put	
+Note_Number-25: Sent_Number-4: said	is	track	eating	exercise	
+Note_Number-25: Sent_Number-5: expecting	lose	weight	come	week	
+Note_Number-25: Sent_Number-6: have	goal	getting	
+Note_Number-26: Sent_Number-1: met	do	tob	
+Note_Number-26: Sent_Number-2: smoking	has	increased	
+Note_Number-26: Sent_Number-3: has	nerve	neck	
+Note_Number-26: Sent_Number-4: going	get	mri	week	
+Note_Number-26: Sent_Number-5: have	have	surgery	
+Note_Number-26: Sent_Number-6: is	stage	ii	patch	
+Note_Number-26: Sent_Number-7: going	keep	course	patch	
+Note_Number-26: Sent_Number-9: goal	continue	patch	
+Note_Number-27: Sent_Number-1: met	phone	do	tob	
+Note_Number-27: Sent_Number-2: has	interest	quitting	
+Note_Number-27: Sent_Number-3: let	know	time	does	come	wants	make	quit	attempt	let	know	
+Note_Number-27: Sent_Number-4: help	anyway	
+Note_Number-27: Sent_Number-5: finished	program	
+Note_Number-28: Sent_Number-1: met	phone	do	dob	
+Note_Number-28: Sent_Number-2: is	exercising	everyday	
+Note_Number-28: Sent_Number-3: glu	staying	
+Note_Number-28: Sent_Number-4: doctor	are	numbers	are	
+Note_Number-28: Sent_Number-5: a1c	check	nov	
+Note_Number-28: Sent_Number-6: is	is	
+Note_Number-28: Sent_Number-7: finished	program	
+Note_Number-29: Sent_Number-1: met	do	
+Note_Number-29: Sent_Number-2: is	smoking	
+Note_Number-29: Sent_Number-3: has	cut	
+Note_Number-29: Sent_Number-4: doing	e	cigarette	
+Note_Number-29: Sent_Number-5: going	follow	august	see	thing	are	going	
+Note_Number-29: Sent_Number-6: cigarettes	day	
+Note_Number-29: Sent_Number-7: had	put	dog	
+Note_Number-30: Sent_Number-1: met	do	
+Note_Number-30: Sent_Number-2: smoking	pack	day	
+Note_Number-30: Sent_Number-3: goal	is	try	quit	start	year	
+Note_Number-30: Sent_Number-4: finished	program	
+Note_Number-31: Sent_Number-1: met	do	tob	
+Note_Number-31: Sent_Number-2: is	lozenges	
+Note_Number-31: Sent_Number-3: has	been	spread	
+Note_Number-31: Sent_Number-4: has	been	doing	lozenge	year	
+Note_Number-31: Sent_Number-5: has	been	jan	
+Note_Number-31: Sent_Number-6: stress	job	feels	has	made	get	lozenge	
+Note_Number-32: Sent_Number-1: met	do	tob	
+Note_Number-32: Sent_Number-2: everything	has	stayed	
+Note_Number-32: Sent_Number-3: chewing	can	day	
+Note_Number-32: Sent_Number-6: let	know	nrts	
+Note_Number-32: Sent_Number-7: said	be	something	does	future	
+Note_Number-33: Sent_Number-1: called	review	kyn	results	fbs	a1c	tchol	tri	hdl	ldl	
+Note_Number-33: Sent_Number-2: family	history	diabetes	indicated	screening	form	
+Note_Number-33: Sent_Number-3: labs	faxed	md	file	
+Note_Number-34: Sent_Number-1: member	called	response	message	
+Note_Number-34: Sent_Number-2: sees	is	being	treated	arthritis	
+Note_Number-34: Sent_Number-3: takes	steroids	solumedrol	remicade	infusions	
+Note_Number-34: Sent_Number-5: follow	asap	
+Note_Number-34: Sent_Number-6: follow	weeks	
+Note_Number-35: Sent_Number-1: garber	shanen	shaneng	verizon	net	
+Note_Number-36: Sent_Number-1: called	member	left	message	member	return	call	re	kyn	results	
+Note_Number-36: Sent_Number-2: emailed	member	follows	
+Note_Number-37: Sent_Number-1: dear	member	
+Note_Number-38: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-38: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-38: Sent_Number-3: be	reached	monday	friday	
+Note_Number-38: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-38: Sent_Number-5: look	hearing	
+Note_Number-38: Sent_Number-6: thank	kwells	rn	
+Note_Number-39: Sent_Number-1: called	left	vm	member	return	call	
+Note_Number-39: Sent_Number-2: emailed	member	
+Note_Number-39: Sent_Number-3: hill	
+Note_Number-40: Sent_Number-1: response	member	
+Note_Number-40: Sent_Number-2: letter	mailed	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-40: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-40: Sent_Number-4: be	reached	monday	friday	
+Note_Number-40: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-40: Sent_Number-6: look	hearing	
+Note_Number-40: Sent_Number-7: thank	kwells	rn	
+Note_Number-41: Sent_Number-2: s	time	go	results	
+Note_Number-41: Sent_Number-4: ext	
+Note_Number-41: Sent_Number-5: mail	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-41: Sent_Number-6: am	looking	talking	
+Note_Number-41: Sent_Number-7: karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-42: Sent_Number-1: 'm	have	been	get	
+Note_Number-42: Sent_Number-2: couple	weeks	've	been	working	am	pm	
+Note_Number-43: Sent_Number-1: p	s	
+Note_Number-43: Sent_Number-2: work	schedule	is	am	seeing	lot	overtime	
+Note_Number-43: Sent_Number-4: thank	time	
+Note_Number-44: Sent_Number-1: morning	
+Note_Number-44: Sent_Number-2: thank	reply	
+Note_Number-44: Sent_Number-4: be	screening	client	noon	today	tomorrow	afternoon	
+Note_Number-44: Sent_Number-6: results	are	need	send	encrypted	have	set	password	open	email	
+Note_Number-44: Sent_Number-7: is	something	be	
+Note_Number-44: Sent_Number-8: stay	wednesday	thursday	evening	talk	
+Note_Number-44: Sent_Number-9: let	know	works	
+Note_Number-44: Sent_Number-10: be	looking	hearing	
+Note_Number-45: Sent_Number-1: met	phone	do	tob	
+Note_Number-45: Sent_Number-2: has	been	chewing	years	
+Note_Number-45: Sent_Number-3: last	day	half	
+Note_Number-45: Sent_Number-4: said	enjoys	doing	
+Note_Number-45: Sent_Number-5: has	daughters	wants	quit	
+Note_Number-45: Sent_Number-6: wife	quit	smoking	wellbutrin	
+Note_Number-45: Sent_Number-7: has	used	nrt	
+Note_Number-45: Sent_Number-8: triggers	are	runs	fishing	sporting	events	
+Note_Number-45: Sent_Number-9: fixation	
+Note_Number-45: Sent_Number-10: dependent	
+Note_Number-45: Sent_Number-11: goal	research	nrts	decide	week	is	going	try	
+Note_Number-45: Sent_Number-12: wants	quit	dec	daughters	bday	
+Note_Number-46: Sent_Number-1: member	number	kyn	sheet	is	disconnected	searching	finding	goal	worksheet	found	working	number	left	voicemail	
+Note_Number-46: Sent_Number-2: have	sent	email	
+Note_Number-46: Sent_Number-3: dphillips	rn	
+Note_Number-47: Sent_Number-1: completed	know	numbers	health	screening	
+Note_Number-47: Sent_Number-2: have	tried	call	holiday	guess	missed	
+Note_Number-47: Sent_Number-3: was	friends	house	fun	were	talking	screenings	checked	blood	sugar	was	
+Note_Number-47: Sent_Number-4: am	terrified	health	is	declining	
+Note_Number-47: Sent_Number-6: please	tell	is	going	
+Note_Number-47: Sent_Number-7: am	get	educated	get	control	
+Note_Number-47: Sent_Number-8: imagine	numbers	are	seeing	heart	disease	does	fact	run	family	
+Note_Number-47: Sent_Number-9: hope	have	caught	avoid	damage	
+Note_Number-47: Sent_Number-10: thanks	
+Note_Number-48: Sent_Number-1: number	have	kyn	form	is	longer	service	call	
+Note_Number-48: Sent_Number-2: am	sitting	phone	
+Note_Number-49: Sent_Number-2: am	office	week	monday	tuesday	thursday	friday	afternoon	
+Note_Number-49: Sent_Number-3: debbie	
+Note_Number-50: Sent_Number-1: met	do	tob	
+Note_Number-50: Sent_Number-2: started	e	cigarette	
+Note_Number-50: Sent_Number-3: gives	cigarettes	day	
+Note_Number-50: Sent_Number-6: going	monitor	support	quit	attempt	
+Note_Number-51: Sent_Number-1: bp	screening	labs	limits	
+Note_Number-51: Sent_Number-2: left	voice	mail	
+Note_Number-51: Sent_Number-3: dphillips	rn	
+Note_Number-52: Sent_Number-1: labs	bs	a1c	known	
+Note_Number-52: Sent_Number-2: left	message	
+Note_Number-52: Sent_Number-3: dphillips	rn	
+Note_Number-53: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-53: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-53: Sent_Number-3: is	talk	
+Note_Number-53: Sent_Number-4: be	reached	monday	friday	
+Note_Number-53: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-53: Sent_Number-6: look	hearing	
+Note_Number-53: Sent_Number-7: thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-54: Sent_Number-1: labs	known	bs	tri	a1c	left	message	
+Note_Number-54: Sent_Number-2: dphillips	rn	
+Note_Number-55: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-55: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-55: Sent_Number-3: is	talk	
+Note_Number-55: Sent_Number-4: be	reached	monday	friday	
+Note_Number-55: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-55: Sent_Number-6: look	hearing	
+Note_Number-55: Sent_Number-7: thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-56: Sent_Number-1: bp	screening	left	message	
+Note_Number-57: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-57: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-57: Sent_Number-3: is	talk	
+Note_Number-57: Sent_Number-4: be	reached	monday	friday	
+Note_Number-57: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-57: Sent_Number-6: look	hearing	
+Note_Number-57: Sent_Number-7: thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-58: Sent_Number-1: bp	screening	
+Note_Number-58: Sent_Number-2: labs	bs	tchol	
+Note_Number-59: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-59: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-59: Sent_Number-3: is	talk	
+Note_Number-59: Sent_Number-4: be	reached	monday	friday	
+Note_Number-59: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-59: Sent_Number-6: look	hearing	
+Note_Number-59: Sent_Number-7: thank	
+Note_Number-60: Sent_Number-1: debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-61: Sent_Number-1: known	labs	bs	tchol	tri	a1c	
+Note_Number-61: Sent_Number-2: leave	message	
+Note_Number-61: Sent_Number-3: send	email	
+Note_Number-61: Sent_Number-4: dphillips	rn	
+Note_Number-62: Sent_Number-1: rechecked	home	
+Note_Number-62: Sent_Number-2: had	found	day	husband	was	losing	job	
+Note_Number-62: Sent_Number-3: was	
+Note_Number-62: Sent_Number-4: went	home	checked	was	
+Note_Number-62: Sent_Number-5: is	doctors	office	has	check	
+Note_Number-63: Sent_Number-1: contact	letter	sent	email	address	answer	voice	mail	phone	
+Note_Number-63: Sent_Number-2: dphillips	rn	
+Note_Number-64: Sent_Number-1: labs	bs	tchol	tri	medication	cholesterol	screening	information	
+Note_Number-64: Sent_Number-2: left	voice	mail	
+Note_Number-64: Sent_Number-3: send	email	dphillips	rn	
+Note_Number-65: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-65: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-65: Sent_Number-3: is	talk	
+Note_Number-65: Sent_Number-4: be	reached	monday	friday	
+Note_Number-65: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-65: Sent_Number-6: look	hearing	
+Note_Number-65: Sent_Number-7: thank	
+Note_Number-66: Sent_Number-1: bp	screening	
+Note_Number-66: Sent_Number-2: left	message	
+Note_Number-66: Sent_Number-3: dphillips	rn	
+Note_Number-67: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-67: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-67: Sent_Number-3: is	talk	
+Note_Number-67: Sent_Number-4: be	reached	monday	friday	
+Note_Number-67: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-67: Sent_Number-6: look	hearing	
+Note_Number-67: Sent_Number-7: thank	
+Note_Number-68: Sent_Number-1: bp	lab	psa	left	message	dphillips	rn	
+Note_Number-69: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-69: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-69: Sent_Number-3: is	talk	
+Note_Number-69: Sent_Number-4: be	reached	monday	friday	
+Note_Number-69: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-69: Sent_Number-6: look	hearing	
+Note_Number-69: Sent_Number-7: thank	
+Note_Number-70: Sent_Number-1: bp	screening	left	message	
+Note_Number-70: Sent_Number-2: dphillips	rn	
+Note_Number-71: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-71: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-71: Sent_Number-3: is	talk	
+Note_Number-71: Sent_Number-4: be	reached	monday	friday	
+Note_Number-71: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-71: Sent_Number-6: look	hearing	
+Note_Number-71: Sent_Number-7: thank	
+Note_Number-72: Sent_Number-2: year	
+Note_Number-72: Sent_Number-3: left	message	send	email	
+Note_Number-72: Sent_Number-4: dphillips	rn	
+Note_Number-73: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-73: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-73: Sent_Number-3: is	talk	
+Note_Number-73: Sent_Number-4: be	reached	monday	friday	
+Note_Number-73: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-73: Sent_Number-6: look	hearing	
+Note_Number-73: Sent_Number-7: thank	
+Note_Number-74: Sent_Number-1: met	do	dob	
+Note_Number-74: Sent_Number-2: has	started	paleo	diet	crossfit	gym	
+Note_Number-74: Sent_Number-3: has	lost	pounds	
+Note_Number-74: Sent_Number-4: bs	has	been	everyday	
+Note_Number-74: Sent_Number-5: have	been	lunch	
+Note_Number-74: Sent_Number-6: feels	good	is	
+Note_Number-75: Sent_Number-1: labs	tchol	tri	
+Note_Number-75: Sent_Number-2: left	message	
+Note_Number-75: Sent_Number-3: dphillips	rn	send	email	
+Note_Number-76: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-76: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-76: Sent_Number-3: is	talk	
+Note_Number-76: Sent_Number-4: be	reached	monday	friday	
+Note_Number-76: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-76: Sent_Number-6: look	hearing	
+Note_Number-76: Sent_Number-7: thank	
+Note_Number-77: Sent_Number-1: met	do	
+Note_Number-77: Sent_Number-2: is	has	desire	quit	
+Note_Number-77: Sent_Number-3: going	keep	chewing	
+Note_Number-78: Sent_Number-2: went	results	
+Note_Number-78: Sent_Number-3: obtained	doctors	name	
+Note_Number-78: Sent_Number-4: provided	information	regarding	range	bs	a1c	etc	
+Note_Number-78: Sent_Number-5: emphasized	concerned	am	wellbeing	bs	risk	kidney	damage	etc	
+Note_Number-78: Sent_Number-6: agrees	see	dr	asap	
+Note_Number-78: Sent_Number-7: fax	results	see	doctor	
+Note_Number-78: Sent_Number-8: agrees	contact	appointment	work	care	learning	diabetes	etc	
+Note_Number-79: Sent_Number-1: labs	psa	year	was	
+Note_Number-79: Sent_Number-2: answered	yes	diagnosed	cancer	
+Note_Number-79: Sent_Number-3: left	message	
+Note_Number-79: Sent_Number-4: dphillips	rn	
+Note_Number-80: Sent_Number-1: member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-80: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-80: Sent_Number-3: is	talk	
+Note_Number-80: Sent_Number-4: be	reached	monday	friday	
+Note_Number-80: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	
+Note_Number-80: Sent_Number-6: look	hearing	
+Note_Number-80: Sent_Number-7: thank	
+Note_Number-81: Sent_Number-1: return	call	member	
+Note_Number-81: Sent_Number-2: was	diagnosed	cancer	care	year	
+Note_Number-81: Sent_Number-3: had	radiation	etc	
+Note_Number-81: Sent_Number-4: was	purpon	side	effects	were	was	remain	medication	
+Note_Number-81: Sent_Number-5: has	been	therapy	time	
+Note_Number-81: Sent_Number-6: cesium	therapy	
+Note_Number-81: Sent_Number-7: continues	monitor	levels	
+Note_Number-81: Sent_Number-8: sees	oncologist	months	pcp	
+Note_Number-81: Sent_Number-10: dphillips	rn	
+Note_Number-82: Sent_Number-1: went	results	
+Note_Number-82: Sent_Number-3: discussed	significance	triglycerides	call	doctor	
+Note_Number-82: Sent_Number-4: get	appointment	asap	
+Note_Number-82: Sent_Number-5: talked	family	history	
+Note_Number-82: Sent_Number-6: talk	family	see	is	anyone	triglycerides	
+Note_Number-82: Sent_Number-7: call	doctor	name	number	fax	number	appointment	date	
+Note_Number-82: Sent_Number-8: fax	labs	time	
+Note_Number-82: Sent_Number-9: dphillips	rn	
+Note_Number-83: Sent_Number-1: met	phone	do	
+Note_Number-83: Sent_Number-2: a1c	was	
+Note_Number-83: Sent_Number-3: trying	stay	sweets	carbohydrade	
+Note_Number-83: Sent_Number-4: test	day	
+Note_Number-83: Sent_Number-5: bs	is	range	
+Note_Number-83: Sent_Number-6: does	blood	work	months	
+Note_Number-83: Sent_Number-7: medication	
+Note_Number-83: Sent_Number-8: eat	lot	
+Note_Number-83: Sent_Number-10: go	
+Note_Number-83: Sent_Number-12: year	diagnosed	
+Note_Number-83: Sent_Number-13: goal	eat	times	week	
+Note_Number-84: Sent_Number-1: member	has	appointment	dr	tomorrow	am	
+Note_Number-84: Sent_Number-2: provided	number	fax	
+Note_Number-84: Sent_Number-3: sent	labs	doctor	
+Note_Number-84: Sent_Number-4: dphillips	rn	
+Note_Number-85: Sent_Number-1: met	phone	do	dob	
+Note_Number-85: Sent_Number-2: got	done	swimming	
+Note_Number-85: Sent_Number-3: runs	week	tries	swims	days	is	chicago	
+Note_Number-85: Sent_Number-4: eating	is	going	
+Note_Number-85: Sent_Number-5: going	see	doctor	
+Note_Number-86: Sent_Number-1: met	phone	do	
+Note_Number-86: Sent_Number-2: has	desire	quit	
+Note_Number-86: Sent_Number-3: going	keep	using	chewing	tobacco	time	
+Note_Number-87: Sent_Number-1: met	phone	do	dob	
+Note_Number-87: Sent_Number-2: has	been	carb	counting	has	opened	eyes	bit	
+Note_Number-87: Sent_Number-3: has	been	doing	meals	
+Note_Number-87: Sent_Number-4: need	work	snacks	
+Note_Number-87: Sent_Number-6: did	run	vacation	
+Note_Number-87: Sent_Number-7: said	fbs	is	has	been	
+Note_Number-87: Sent_Number-8: is	direction	is	heading	
+Note_Number-87: Sent_Number-9: goal	intervals	keeping	snacks	carb	maximum	
+Note_Number-88: Sent_Number-1: met	station	do	
+Note_Number-88: Sent_Number-2: has	been	weeks	
+Note_Number-88: Sent_Number-3: is	week	tobacco	feels	
+Note_Number-88: Sent_Number-4: said	is	having	dreams	nothing	took	
+Note_Number-88: Sent_Number-5: feels	moving	forward	
+Note_Number-88: Sent_Number-6: doing	month	stay	tobacco	
+Note_Number-89: Sent_Number-1: met	station	do	
+Note_Number-89: Sent_Number-2: met	doctor	has	decided	go	
+Note_Number-89: Sent_Number-3: has	prescription	plans	starting	
+Note_Number-89: Sent_Number-4: feels	is	time	be	vacation	
+Note_Number-89: Sent_Number-5: goal	start	chantix	
+Note_Number-90: Sent_Number-1: met	station	do	dob	
+Note_Number-90: Sent_Number-2: saw	endocrinologist	was	everything	
+Note_Number-90: Sent_Number-3: trigs	bs	
+Note_Number-90: Sent_Number-4: bs	is	staying	consistent	
+Note_Number-90: Sent_Number-5: does	cardio	days	firehouse	
+Note_Number-90: Sent_Number-6: feels	good	is	
+Note_Number-90: Sent_Number-7: stays	pop	food	
+Note_Number-90: Sent_Number-8: gets	lot	walking	mowing	business	
+Note_Number-90: Sent_Number-9: rides	bikes	family	
+Note_Number-90: Sent_Number-10: is	exercise	
+Note_Number-90: Sent_Number-11: weight	
+Note_Number-90: Sent_Number-12: goal	keep	weight	
+Note_Number-91: Sent_Number-1: member	called	receiving	message	
+Note_Number-91: Sent_Number-2: repeat	bp	was	
+Note_Number-91: Sent_Number-3: has	had	elevated	psa	
+Note_Number-91: Sent_Number-4: was	january	
+Note_Number-91: Sent_Number-5: saw	urologist	years	had	rectal	exam	
+Note_Number-91: Sent_Number-6: reports	is	time	colonoscopy	
+Note_Number-91: Sent_Number-7: encouraged	remember	doctor	regarding	lab	
+Note_Number-91: Sent_Number-9: psa	was	elevated	is	elevated	
+Note_Number-91: Sent_Number-10: address	doctor	get	taken	care	
+Note_Number-91: Sent_Number-11: needs	see	urologist	go	do	
+Note_Number-91: Sent_Number-12: agrees	
+Note_Number-91: Sent_Number-13: discussed	bs	a1c	exercises	eats	lots	fruits	veggies	wife	is	
+Note_Number-91: Sent_Number-14: encouraged	continue	watch	portions	move	keep	screenings	follow	
+Note_Number-91: Sent_Number-15: dphillips	rn	
+Note_Number-92: Sent_Number-1: met	go	blood	results	
+Note_Number-92: Sent_Number-2: blood	draws	has	cut	junk	food	
+Note_Number-92: Sent_Number-3: is	eating	
+Note_Number-92: Sent_Number-4: has	lost	
+Note_Number-92: Sent_Number-5: feels	
+Note_Number-92: Sent_Number-6: has	desire	drink	eat	junk	
+Note_Number-92: Sent_Number-7: tell	difference	feels	
+Note_Number-93: Sent_Number-1: went	results	qha	
+Note_Number-94: Sent_Number-1: met	do	dob	
+Note_Number-94: Sent_Number-2: wanted	information	recipes	look	food	label	
+Note_Number-94: Sent_Number-3: broke	food	label	
+Note_Number-94: Sent_Number-4: placed	importance	testing	everyday	
+Note_Number-94: Sent_Number-5: bs	week	
+Note_Number-94: Sent_Number-6: gave	breakfast	pantry	ideas	
+Note_Number-95: Sent_Number-1: fbs	a1c	psa	
+Note_Number-96: Sent_Number-1: spoke	member	phone	concerning	bs	a1c	
+Note_Number-96: Sent_Number-2: explained	importance	keeping	bs	control	effects	bs	have	body	period	time	
+Note_Number-96: Sent_Number-3: reviewed	psa	patient	numbers	had	increased	screening	year	
+Note_Number-96: Sent_Number-4: member	aware	is	problem	
+Note_Number-96: Sent_Number-5: requested	labs	be	faxed	today	gp	dr	k	kolbie	urologist	dr	weigel	dublin	ga	faxed	results	member	request	
+Note_Number-96: Sent_Number-6: member	appreciative	call	states	call	offices	make	fu	
+Note_Number-96: Sent_Number-7: faxed	rec	d	confirmation	fax	transmission	
+Note_Number-96: Sent_Number-8: emailed	member	let	know	info	had	been	faxed	dr	offices	
+Note_Number-96: Sent_Number-9: lgasfp	southlandfp	com	
+Note_Number-97: Sent_Number-1: dr	noah	weigel	middle	georgia	urology	associates	fairview	park	dr	dublin	ga	office	fax	dr	kirkland	kolbie1medical	center	hillcrest	pkwy	dublin	ga	office	fax	
+Note_Number-98: Sent_Number-1: fbs	a1c	cholesterol	triglycerides	bp	
+Note_Number-99: Sent_Number-1: truck	driver	
+Note_Number-99: Sent_Number-2: called	spoke	member	phone	
+Note_Number-99: Sent_Number-3: explained	a1c	indicated	bs	has	been	months	
+Note_Number-99: Sent_Number-4: confirmed	has	felt	noted	vision	problems	
+Note_Number-99: Sent_Number-5: was	eating	lot	candy	candy	bars	cakes	pies	weeks	has	tried	stop	
+Note_Number-99: Sent_Number-6: eating	fruits	veg	
+Note_Number-99: Sent_Number-7: trying	eat	meal	salad	
+Note_Number-99: Sent_Number-8: explained	chol	
+Note_Number-99: Sent_Number-9: were	elevated	year	are	elevated	year	
+Note_Number-99: Sent_Number-10: talked	member	limiting	saturated	fats	foods	contained	
+Note_Number-99: Sent_Number-11: states	has	stopped	eating	anything	
+Note_Number-99: Sent_Number-12: states	father	died	heart	attack	
+Note_Number-99: Sent_Number-13: encouraged	member	make	appointment	see	dr	grinner	meantime	start	taking	coated	oil	tab	morning	evening	
+Note_Number-100: Sent_Number-1: member	thanked	call	stated	boss	man	were	talking	were	going	make	changes	eat	
+Note_Number-101: Sent_Number-1: fbs	a1c	
+Note_Number-102: Sent_Number-1: called	left	message	member	call	
+Note_Number-103: Sent_Number-1: email	note	please	call	
+Note_Number-103: Sent_Number-2: like	go	labs	phone	
+Note_Number-103: Sent_Number-3: take	moment	time	
+Note_Number-104: Sent_Number-1: member	returned	call	
+Note_Number-104: Sent_Number-3: doctor	has	been	watching	sugar	
+Note_Number-104: Sent_Number-4: mother	has	developed	dm	ii	being	overweight	
+Note_Number-105: Sent_Number-1: non	fasting	bs	a1c	triglycerides	
+Note_Number-106: Sent_Number-1: called	left	member	vm	return	call	
+Note_Number-107: Sent_Number-1: email	please	call	
+Note_Number-107: Sent_Number-2: like	go	labs	phone	
+Note_Number-107: Sent_Number-3: take	moment	time	
+Note_Number-107: Sent_Number-4: 
+Note_Number-108: Sent_Number-1: reviewed	labs	were	
+Note_Number-108: Sent_Number-2: member	steroids	mos	
+Note_Number-108: Sent_Number-3: explained	being	steriods	increase	bs	triglycerides	follow	elevated	bs	
+Note_Number-108: Sent_Number-4: members	bs	was	was	non	fasting	day	screening	
+Note_Number-108: Sent_Number-5: member	states	sees	pcp	
+Note_Number-109: Sent_Number-1: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-110: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-110: Sent_Number-2: email	address	
+Note_Number-111: Sent_Number-1: non	fasting	bs	a1c	triglycerides	
+Note_Number-112: Sent_Number-1: spoke	member	phone	
+Note_Number-112: Sent_Number-2: aware	a1c	bs	elevated	
+Note_Number-112: Sent_Number-3: states	was	shots	while	doctor	told	be	elevated	
+Note_Number-112: Sent_Number-4: seeing	doctor	mos	
+Note_Number-112: Sent_Number-5: blood	work	follow	
+Note_Number-113: Sent_Number-1: alert	is	patient	
+Note_Number-114: Sent_Number-1: fbs	a1c	triglycerides	
+Note_Number-115: Sent_Number-2: voice	mail	
+Note_Number-116: Sent_Number-1: emailed	member	call	@	langboard	com	email	mr	chauncey	
+Note_Number-117: Sent_Number-1: please	call	
+Note_Number-117: Sent_Number-2: like	go	labs	phone	
+Note_Number-118: Sent_Number-1: take	moment	time	
+Note_Number-118: Sent_Number-3: like	compare	got	week	was	
+Note_Number-119: Sent_Number-1: repeat	bp	
+Note_Number-119: Sent_Number-2: member	returned	call	
+Note_Number-119: Sent_Number-3: explained	labs	lifestyle	
+Note_Number-119: Sent_Number-5: explained	losing	weight	was	
+Note_Number-119: Sent_Number-6: explained	member	needed	cut	foods	
+Note_Number-119: Sent_Number-7: sodas	diet	
+Note_Number-119: Sent_Number-8: encouraged	decrease	weight	waist	size	bs	triglycerides	decrease	decreased	
+Note_Number-120: Sent_Number-1: member	called	left	message	needed	talk	
+Note_Number-121: Sent_Number-1: called	member	
+Note_Number-122: Sent_Number-1: spoke	member	phone	tips	
+Note_Number-122: Sent_Number-2: answered	members	questions	satisfied	
+Note_Number-122: Sent_Number-3: member	appreciative	call	
+Note_Number-122: Sent_Number-4: states	heard	was	saying	talked	was	telling	someone	realized	had	missed	things	
+Note_Number-123: Sent_Number-1: fbs	a1c	triglycerides	
+Note_Number-124: Sent_Number-1: member	states	dm	runs	family	
+Note_Number-124: Sent_Number-2: father	has	
+Note_Number-124: Sent_Number-3: encouraged	see	dr	take	results	
+Note_Number-124: Sent_Number-6: states	get	doctor	follow	
+Note_Number-124: Sent_Number-7: states	was	bummed	
+Note_Number-125: Sent_Number-1: fasting	bs	a1c	
+Note_Number-126: Sent_Number-1: lm	member	return	call	
+Note_Number-126: Sent_Number-2: email	
+Note_Number-127: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-127: Sent_Number-2: please	call	
+Note_Number-128: Sent_Number-1: member	called	states	got	letter	mail	
+Note_Number-128: Sent_Number-2: reviewed	labs	
+Note_Number-128: Sent_Number-3: member	states	see	doctor	b	c	is	cholesterol	medication	has	have	labs	checked	
+Note_Number-128: Sent_Number-4: member	states	went	doctor	had	blood	work	done	
+Note_Number-128: Sent_Number-5: encouraged	member	follwup	doctor	labs	done	
+Note_Number-128: Sent_Number-6: stressed	importance	watching	bs	
+Note_Number-128: Sent_Number-7: reviewed	effects	sugar	body	time	
+Note_Number-129: Sent_Number-1: fasting	bs	a1c	
+Note_Number-130: Sent_Number-1: lm	member	return	call	
+Note_Number-130: Sent_Number-2: email	
+Note_Number-131: Sent_Number-1: non	fasting	bs	a1c	chol	
+Note_Number-133: Sent_Number-1: emailed	stan_clement99	yahoo	com	
+Note_Number-133: Sent_Number-2: please	call	
+Note_Number-133: Sent_Number-3: like	go	labs	phone	
+Note_Number-133: Sent_Number-4: take	moment	time	
+Note_Number-133: Sent_Number-6: like	compare	got	week	was	
+Note_Number-134: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-134: Sent_Number-2: please	call	
+Note_Number-135: Sent_Number-1: member	email	
+Note_Number-135: Sent_Number-2: asking	member	please	call	review	labs	phone	
+Note_Number-136: Sent_Number-1: non	fasting	bs	a1c	
+Note_Number-137: Sent_Number-1: left	message	member	labs	
+Note_Number-137: Sent_Number-2: asked	member	call	discuss	phone	
+Note_Number-137: Sent_Number-3: email	
+Note_Number-138: Sent_Number-1: talked	member	length	phone	
+Note_Number-138: Sent_Number-2: is	concerned	bs	weight	
+Note_Number-138: Sent_Number-4: encouraged	member	set	%	weight	loss	mos	%	
+Note_Number-138: Sent_Number-5: member	weighs	is	weight	be	bt	lbs	
+Note_Number-138: Sent_Number-6: member	states	thinks	do	
+Note_Number-138: Sent_Number-7: goal	setting	
+Note_Number-138: Sent_Number-8: talked	tapering	sodas	is	drinking	everyday	
+Note_Number-138: Sent_Number-9: encouraged	cut	soda	day	week	reduce	sodas	day	week	
+Note_Number-138: Sent_Number-10: is	
+Note_Number-138: Sent_Number-11: encouraged	replace	water	
+Note_Number-138: Sent_Number-12: explained	were	stop	drinking	soda	start	be	
+Note_Number-138: Sent_Number-13: encouraged	start	reducing	white	foods	diet	
+Note_Number-138: Sent_Number-14: states	is	thing	do	
+Note_Number-138: Sent_Number-15: explained	have	want	change	anything	
+Note_Number-139: Sent_Number-1: member	states	know	do	have	done	
+Note_Number-139: Sent_Number-2: grand	father	has	diabetes	has	watched	go	stages	dm	
+Note_Number-140: Sent_Number-1: non	fasting	bs	a1c	
+Note_Number-141: Sent_Number-1: member	called	elevated	a1c	
+Note_Number-141: Sent_Number-2: encouraged	watch	intake	foods	
+Note_Number-141: Sent_Number-3: call	
+Note_Number-142: Sent_Number-1: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-143: Sent_Number-1: called	cell	number	vm	
+Note_Number-143: Sent_Number-2: email	
+Note_Number-144: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-144: Sent_Number-2: please	call	
+Note_Number-145: Sent_Number-1: fbs	a1c	triglycerides	
+Note_Number-146: Sent_Number-1: called	left	member	message	call	labs	
+Note_Number-147: Sent_Number-1: emailed	fordsman	com	
+Note_Number-147: Sent_Number-2: please	call	
+Note_Number-147: Sent_Number-3: like	go	labs	phone	
+Note_Number-147: Sent_Number-4: take	moment	time	
+Note_Number-148: Sent_Number-1: member	states	knew	was	going	be	
+Note_Number-148: Sent_Number-2: dr	scott	valdosta	had	checking	sugar	while	was	told	stop	
+Note_Number-148: Sent_Number-3: started	putting	weight	lost	
+Note_Number-148: Sent_Number-4: reviewed	complications	diabetes	
+Note_Number-148: Sent_Number-5: encouraged	member	have	wife	make	changes	diet	exercise	routines	
+Note_Number-148: Sent_Number-6: member	states	are	trying	
+Note_Number-149: Sent_Number-1: fbs	a1c	
+Note_Number-150: Sent_Number-1: left	message	member	labs	
+Note_Number-150: Sent_Number-2: asked	member	call	discuss	phone	
+Note_Number-150: Sent_Number-3: email	
+Note_Number-151: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-151: Sent_Number-2: please	call	
+Note_Number-152: Sent_Number-1: non	fasting	a1c	triglycerides	
+Note_Number-153: Sent_Number-1: member	states	is	way	doctors	office	
+Note_Number-153: Sent_Number-2: screening	bp	was	doctor	was	checking	day	
+Note_Number-153: Sent_Number-3: trying	get	medication	
+Note_Number-153: Sent_Number-4: called	today	member	stated	reading	yesterday	was	going	everyday	have	checked	
+Note_Number-153: Sent_Number-5: member	states	is	feeling	(		bp	was	coming	
+Note_Number-153: Sent_Number-6: explained	a1c	triglycerides	were	be	sending	results	doctor	
+Note_Number-153: Sent_Number-7: encouraged	member	make	changes	diet	gave	suggestions	
+Note_Number-153: Sent_Number-8: weight	
+Note_Number-153: Sent_Number-9: encouraged	lose	weight	
+Note_Number-154: Sent_Number-1: fbs	a1c	
+Note_Number-155: Sent_Number-1: spoke	member	phone	
+Note_Number-155: Sent_Number-2: explained	lab	results	having	blood	sugar	was	body	life	
+Note_Number-155: Sent_Number-3: (		ed	
+Note_Number-155: Sent_Number-5: explained	losing	weight	was	
+Note_Number-155: Sent_Number-6: explained	member	needed	cut	foods	
+Note_Number-155: Sent_Number-7: sodas	diet	
+Note_Number-156: Sent_Number-1: vm	rec	d	brenda	dr	larry	s	office	valdosta	ga	rec	kyn	packet	member	labs	
+Note_Number-156: Sent_Number-3: shred	info	
+Note_Number-157: Sent_Number-1: non	fbs	a1c	
+Note_Number-158: Sent_Number-2: explained	a1c	shows	sugar	has	been	running	mos	
+Note_Number-159: Sent_Number-1: please	note	member	is	
+Note_Number-160: Sent_Number-1: fbs	a1c	
+Note_Number-161: Sent_Number-1: left	voicemail	member	call	
+Note_Number-162: Sent_Number-1: member	called	discussed	elevated	labs	phone	
+Note_Number-162: Sent_Number-2: explained	term	effect	body	elevated	
+Note_Number-162: Sent_Number-3: bp	night	was	
+Note_Number-163: Sent_Number-1: fbs	a1c	triglycerides	
+Note_Number-164: Sent_Number-1: spoke	member	phone	lab	results	
+Note_Number-164: Sent_Number-2: father	
+Note_Number-164: Sent_Number-3: member	states	has	pcp	
+Note_Number-164: Sent_Number-5: encouraged	member	see	doctor	address	problem	bs	
+Note_Number-164: Sent_Number-6: member	states	wife	is	nurse	like	fax	results	
+Note_Number-164: Sent_Number-7: confirmation	fax	was	
+Note_Number-165: Sent_Number-1: fbs	a1c	
+Note_Number-166: Sent_Number-2: call	minutes	
+Note_Number-166: Sent_Number-3: aware	want	speak	labs	
+Note_Number-167: Sent_Number-1: called	answer	
+Note_Number-168: Sent_Number-1: emailed	member	call	lab	work	
+Note_Number-169: Sent_Number-1: member	called	
+Note_Number-169: Sent_Number-2: rechecked	bp	
+Note_Number-169: Sent_Number-3: encouraged	keep	eye	bp	
+Note_Number-169: Sent_Number-4: reviewed	labs	member	phone	
+Note_Number-169: Sent_Number-5: states	fu	doctor	
+Note_Number-170: Sent_Number-1: non	fasting	bs	a1c	triglycerides	called	number	member	gave	
+Note_Number-170: Sent_Number-2: spoke	woman	phone	
+Note_Number-171: Sent_Number-1: alan	powell	alan	powell	lcpfh	org	emailed	alan	
+Note_Number-171: Sent_Number-2: asked	please	fu	member	
+Note_Number-171: Sent_Number-3: needs	doctor	
+Note_Number-172: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-172: Sent_Number-2: please	call	
+Note_Number-173: Sent_Number-1: email	results	be	
+Note_Number-173: Sent_Number-2: include	instructions	set	password	
+Note_Number-173: Sent_Number-3: thanks	
+Note_Number-174: Sent_Number-1: met	go	blood	results	
+Note_Number-174: Sent_Number-2: said	has	been	diagnosed	
+Note_Number-174: Sent_Number-3: glu	
+Note_Number-174: Sent_Number-4: a1c	
+Note_Number-174: Sent_Number-5: said	has	lost	
+Note_Number-174: Sent_Number-6: encouraged	go	see	doctor	asap	
+Note_Number-174: Sent_Number-7: elevated	chol	numbers	
+Note_Number-175: Sent_Number-1: went	results	qha	
+Note_Number-176: Sent_Number-1: met	do	
+Note_Number-176: Sent_Number-4: encourage	see	doctor	asap	
+Note_Number-176: Sent_Number-5: has	started	watch	portions	
+Note_Number-176: Sent_Number-6: eating	food	morning	breakfast	
+Note_Number-176: Sent_Number-7: walks	everyday	45mins	
+Note_Number-176: Sent_Number-8: has	lost	march	
+Note_Number-177: Sent_Number-1: met	phone	do	
+Note_Number-177: Sent_Number-3: is	smoking	pack	half	day	
+Note_Number-177: Sent_Number-4: hoping	get	scheduled	week	
+Note_Number-178: Sent_Number-1: hello	
+Note_Number-178: Sent_Number-2: results	are	follows	
+Note_Number-179: Sent_Number-1: lab	test	value	/	desired	level	blood	sugar	n	hemoglobin	a1c	n	blood	pressure	cholesterol	n	hdl	good	cholesterol	n	ldl	cholesterol	triglycerides	n	body	mass	index	n	
+Note_Number-180: Sent_Number-1: blood	pressure	is	desired	level	
+Note_Number-180: Sent_Number-2: change	minute	minute	
+Note_Number-180: Sent_Number-3: ldl	
+Note_Number-180: Sent_Number-4: cholesterol	is	desired	level	
+Note_Number-180: Sent_Number-5: are	things	do	reduce	ldl	
+Note_Number-180: Sent_Number-6: regard	diet	
+Note_Number-181: Sent_Number-1: amount	whole	grains	fiber	diet	help	reduce	ldl	
+Note_Number-181: Sent_Number-4: brown	rice	grain	pastas	are	days	provide	diet	products	break	starch	sugar	
+Note_Number-182: Sent_Number-1: omega	fatty	acids	red	meat	is	
+Note_Number-182: Sent_Number-2: fatty	fish	mackerel	lake	herring	sardines	albacore	tuna	salmon	are	omega	fatty	acids	
+Note_Number-183: Sent_Number-1: exercise	is	management	cholesterol	
+Note_Number-183: Sent_Number-2: being	taking	brisk	minute	walks	times	week	is	place	begin	
+Note_Number-183: Sent_Number-3: do	have	exercise	routine	place	
+Note_Number-184: Sent_Number-1: congratulations	!	
+Note_Number-184: Sent_Number-2: values	are	
+Note_Number-184: Sent_Number-3: encourage	continue	utilizing	health	habits	
+Note_Number-185: Sent_Number-1: met	phone	go	blood	results	
+Note_Number-185: Sent_Number-2: chol	use	be	
+Note_Number-185: Sent_Number-3: was	lipitor	had	side	effects	
+Note_Number-185: Sent_Number-5: metformin	diabetes	
+Note_Number-185: Sent_Number-6: a1c	glu	
+Note_Number-185: Sent_Number-7: seeing	doctor	
+Note_Number-185: Sent_Number-8: has	lost	years	
+Note_Number-185: Sent_Number-9: encouraged	see	doctor	asap	
+Note_Number-185: Sent_Number-10: eating	days	week	
+Note_Number-185: Sent_Number-11: coke	week	
+Note_Number-185: Sent_Number-12: goal	increase	exercise	increase	distance	bike	
+Note_Number-186: Sent_Number-1: went	results	
+Note_Number-187: Sent_Number-1: metformin	diabetes	
+Note_Number-187: Sent_Number-2: a1c	glu	
+Note_Number-187: Sent_Number-3: seeing	doctor	
+Note_Number-187: Sent_Number-4: has	lost	years	
+Note_Number-187: Sent_Number-5: encouraged	see	doctor	asap	
+Note_Number-187: Sent_Number-6: eating	days	week	
+Note_Number-187: Sent_Number-7: coke	week	
+Note_Number-187: Sent_Number-8: portion	control	is	majority	time	goal	increase	exercise	increase	distance	bike	
+Note_Number-188: Sent_Number-1: fbs	a1c	chol	triglycerides	
+Note_Number-189: Sent_Number-1: left	message	member	call	lab	work	
+Note_Number-190: Sent_Number-1: jgaskins1	@	plantlel	net	
+Note_Number-191: Sent_Number-1: email	note	please	call	
+Note_Number-191: Sent_Number-2: like	go	labs	phone	
+Note_Number-191: Sent_Number-3: take	moment	time	
+Note_Number-191: Sent_Number-5: like	compare	got	week	was	
+Note_Number-192: Sent_Number-1: member	called	
+Note_Number-192: Sent_Number-2: bp	states	checks	home	
+Note_Number-192: Sent_Number-3: member	states	has	seen	dr	
+Note_Number-192: Sent_Number-4: thomasville	is	diet	
+Note_Number-192: Sent_Number-5: has	started	carb	diet	
+Note_Number-192: Sent_Number-6: member	motivated	
+Note_Number-192: Sent_Number-7: encouraged	stick	fu	dr	needed	
+Note_Number-193: Sent_Number-1: morning	
+Note_Number-194: Sent_Number-1: email	guide	set	password	
+Note_Number-194: Sent_Number-2: send	results	use	password	open	email	
+Note_Number-195: Sent_Number-1: have	day	
+Note_Number-196: Sent_Number-1: non	fasting	bs	a1c	triglycerides	
+Note_Number-197: Sent_Number-1: called	left	message	member	call	lab	work	
+Note_Number-197: Sent_Number-2: email	listed	
+Note_Number-198: Sent_Number-1: sent	letter	home	address	asking	call	lab	results	
+Note_Number-199: Sent_Number-1: non	fasting	bs	a1c	triglycerides	
+Note_Number-200: Sent_Number-1: called	left	message	woman	member	call	labs	
+Note_Number-200: Sent_Number-2: took	number	states	give	
+Note_Number-201: Sent_Number-1: member	returned	call	
+Note_Number-201: Sent_Number-2: states	forgot	take	medication	day	were	draw	blood	
+Note_Number-201: Sent_Number-4: member	states	understands	
+Note_Number-201: Sent_Number-5: sees	doctor	up	
+Note_Number-201: Sent_Number-6: call	
+Note_Number-202: Sent_Number-1: spoke	member	calling	follwup	progress	changes	weight	loss	
+Note_Number-203: Sent_Number-1: hope	are	doing	
+Note_Number-203: Sent_Number-2: be	today	rest	week	like	review	screening	results	
+Note_Number-203: Sent_Number-3: am	ext	
+Note_Number-203: Sent_Number-4: 
+Note_Number-203: Sent_Number-5: looking	hearing	
+Note_Number-204: Sent_Number-1: hello	
+Note_Number-204: Sent_Number-2: hope	finds	doing	
+Note_Number-204: Sent_Number-3: be	today	rest	week	like	review	screening	results	
+Note_Number-204: Sent_Number-4: ?	m	looking	hearing	
+Note_Number-205: Sent_Number-1: aia	know	number	hello	
+Note_Number-205: Sent_Number-2: s	time	go	results	
+Note_Number-205: Sent_Number-4: ext	
+Note_Number-205: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-205: Sent_Number-6: am	looking	talking	
+Note_Number-206: Sent_Number-1: mailed	following	letter	know	number	hello	
+Note_Number-206: Sent_Number-2: s	time	go	results	
+Note_Number-206: Sent_Number-4: ext	
+Note_Number-206: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-206: Sent_Number-6: am	looking	talking	
+Note_Number-207: Sent_Number-1: fbs	a1c	triglycerides	
+Note_Number-208: Sent_Number-1: spoke	member	phone	labs	
+Note_Number-208: Sent_Number-2: member	states	diet	is	control	eats	meals	day	drinks	meals	fruit	berries	
+Note_Number-208: Sent_Number-4: asked	family	history	diabetes	
+Note_Number-208: Sent_Number-5: states	
+Note_Number-208: Sent_Number-6: explained	triglycerides	were	was	be	
+Note_Number-208: Sent_Number-7: encouraged	have	care	physician	recheck	blood	work	
+Note_Number-208: Sent_Number-8: states	do	
+Note_Number-209: Sent_Number-1: fbs	a1c	chol	
+Note_Number-210: Sent_Number-1: spoke	member	phone	
+Note_Number-210: Sent_Number-2: member	uses	cpap	machine	night	
+Note_Number-210: Sent_Number-3: discussed	labs	
+Note_Number-210: Sent_Number-4: expressed	concern	elevated	a1c	
+Note_Number-210: Sent_Number-5: encouraged	follow	doctor	concerning	level	have	blood	work	
+Note_Number-211: Sent_Number-1: fbs	a1c	psa	
+Note_Number-212: Sent_Number-1: called	number	given	
+Note_Number-212: Sent_Number-2: woman	answered	states	is	number	
+Note_Number-213: Sent_Number-1: email	note	ghall	tlcmoulding	com	emailed	failed	
+Note_Number-214: Sent_Number-1: sent	letter	have	tried	contact	reach	
+Note_Number-214: Sent_Number-2: please	call	
+Note_Number-215: Sent_Number-1: called	answer	answering	machine	
+Note_Number-216: Sent_Number-1: emailed	member	asked	call	labs	
+Note_Number-217: Sent_Number-1: member	responded	email	phone	call	
+Note_Number-217: Sent_Number-2: talked	a1c	results	
+Note_Number-217: Sent_Number-3: states	brother	is	
+Note_Number-217: Sent_Number-4: encouraged	fu	doctor	have	labs	repeated	
+Note_Number-217: Sent_Number-5: member	states	
+Note_Number-218: Sent_Number-1: fbs	a1c	chol	
+Note_Number-219: Sent_Number-1: called	phone	number	given	answer	
+Note_Number-220: Sent_Number-1: called	member	left	message	member	please	return	call	
+Note_Number-220: Sent_Number-2: kwellsrn	
+Note_Number-221: Sent_Number-1: called	phone	was	picked	tone	came	
+Note_Number-221: Sent_Number-3: kwellsrn	
+Note_Number-222: Sent_Number-1: email	message	dhunter	langdaleindustries	com	please	give	call	have	labs	like	discuss	phone	
+Note_Number-222: Sent_Number-2: take	moment	time	
+Note_Number-223: Sent_Number-1: member	returned	call	email	notice	
+Note_Number-223: Sent_Number-2: reviewed	labs	member	
+Note_Number-223: Sent_Number-3: states	is	is	cholesterol	medication	
+Note_Number-223: Sent_Number-4: member	has	history	cancer	
+Note_Number-224: Sent_Number-1: called	member	left	message	member	please	return	call	
+Note_Number-224: Sent_Number-2: kwellsrn	
+Note_Number-225: Sent_Number-1: called	member	number	listed	number	has	been	disconnected	
+Note_Number-225: Sent_Number-2: kwellsrn	
+Note_Number-226: Sent_Number-1: attempted	call	member	
+Note_Number-226: Sent_Number-2: number	is	disconnected	
+Note_Number-226: Sent_Number-3: kwells	rn	
+Note_Number-227: Sent_Number-1: fbs	a1c	
+Note_Number-228: Sent_Number-1: called	talked	member	labs	
+Note_Number-228: Sent_Number-2: concerned	elevated	a1c	
+Note_Number-228: Sent_Number-3: explained	labs	member	
+Note_Number-228: Sent_Number-4: member	concerned	states	dr	had	wanted	call	schedule	fu	problem	inability	weeks	
+Note_Number-228: Sent_Number-5: needed	flonase	relax	bladder	muscles	go	bathroom	
+Note_Number-228: Sent_Number-6: member	asked	fax	labs	dr	william	nash	
+Note_Number-228: Sent_Number-7: did	rec	d	confirmation	fax	went	
+Note_Number-228: Sent_Number-8: member	said	call	afternoon	check	see	office	got	labs	schedule	appointment	
+Note_Number-229: Sent_Number-1: fbs	a1c	
+Note_Number-230: Sent_Number-1: called	member	discuss	a1c	
+Note_Number-230: Sent_Number-2: sure	is	elevated	
+Note_Number-230: Sent_Number-3: explained	test	
+Note_Number-230: Sent_Number-5: states	is	gets	dr	office	end	visit	is	ok	wnl	
+Note_Number-231: Sent_Number-1: called	member	answer	amp	amp	gt	rings	
+Note_Number-231: Sent_Number-2: kwellsrn	
+Note_Number-232: Sent_Number-1: called	answer	rings	
+Note_Number-232: Sent_Number-2: kwellsrn	
+Note_Number-233: Sent_Number-1: called	member	was	getting	home	work	is	activities	director	
+Note_Number-233: Sent_Number-2: states	has	been	doing	fbs	am	running	
+Note_Number-233: Sent_Number-5: diet	
+Note_Number-233: Sent_Number-6: take	lantus	night	
+Note_Number-233: Sent_Number-7: walks	home	treadmill	walks	dog	times	
+Note_Number-233: Sent_Number-8: is	metoprololol	ex	lisinopril	crestor	spironolactone	
+Note_Number-233: Sent_Number-9: states	is	receiving	diabetes	education	heart	health	education	mail	
+Note_Number-233: Sent_Number-10: sent	mail	following	information	
+Note_Number-234: Sent_Number-1: getting	care	diabetes	diabetes	eating	control	taking	care	type	diabetes	
+Note_Number-235: Sent_Number-1: fbs	a1c	
+Note_Number-236: Sent_Number-1: called	left	message	member	call	labs	
+Note_Number-237: Sent_Number-1: emailed	member	asking	call	review	labs	
+Note_Number-238: Sent_Number-1: met	do	wmp	
+Note_Number-238: Sent_Number-2: was	midpoint	review	
+Note_Number-238: Sent_Number-3: has	lost	week	
+Note_Number-238: Sent_Number-4: is	feeling	
+Note_Number-238: Sent_Number-5: bp	
+Note_Number-238: Sent_Number-6: paying	lot	attention	is	eating	
+Note_Number-238: Sent_Number-7: portion	control	
+Note_Number-239: Sent_Number-1: member	called	reviewed	labs	phone	
+Note_Number-239: Sent_Number-2: member	states	understands	info	labs	
+Note_Number-239: Sent_Number-3: follow	pcp	
+Note_Number-240: Sent_Number-1: spoke	member	phone	states	is	doing	time	immediate	health	concerns	
+Note_Number-240: Sent_Number-2: kwellsrn	
+Note_Number-241: Sent_Number-1: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-242: Sent_Number-1: called	left	message	member	call	labs	
+Note_Number-243: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-243: Sent_Number-2: kwellsrn	
+Note_Number-244: Sent_Number-1: called	left	message	member	please	return	call	
+Note_Number-244: Sent_Number-2: kwellsrn	
+Note_Number-245: Sent_Number-1: left	message	member	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-246: Sent_Number-1: emailed	member	following	
+Note_Number-246: Sent_Number-2: need	fu	labs	
+Note_Number-246: Sent_Number-3: please	give	call	number	discuss	
+Note_Number-247: Sent_Number-1: x251	member	called	left	message	be	reached	
+Note_Number-248: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-248: Sent_Number-2: kwellsrn	
+Note_Number-249: Sent_Number-1: left	message	member	please	return	call	
+Note_Number-249: Sent_Number-2: kwellsrn	
+Note_Number-250: Sent_Number-1: member	returned	call	meeting	
+Note_Number-250: Sent_Number-2: called	back	had	leave	message	
+Note_Number-250: Sent_Number-3: kwellsrn	
+Note_Number-251: Sent_Number-1: returned	members	call	left	message	call	
+Note_Number-251: Sent_Number-2: kwellsrn	
+Note_Number-252: Sent_Number-2: takes	mg	lisinopril	
+Note_Number-252: Sent_Number-3: sees	md	thyroid	levels	bp	are	monitored	md	
+Note_Number-252: Sent_Number-4: took	name	number	
+Note_Number-252: Sent_Number-5: gave	ddhc	website	explore	
+Note_Number-252: Sent_Number-6: kwellsrn	
+Note_Number-253: Sent_Number-1: member	called	discussed	labs	phone	
+Note_Number-253: Sent_Number-2: states	is	taking	glucophage	cholesterol	lowering	medication	
+Note_Number-253: Sent_Number-3: encouraged	lose	weight	help	labs	go	
+Note_Number-253: Sent_Number-4: dr	following	pt	
+Note_Number-253: Sent_Number-5: reviewed	diet	exercise	goals	member	
+Note_Number-254: Sent_Number-1: called	member	left	message	member	please	return	call	
+Note_Number-254: Sent_Number-2: kwellsrn	
+Note_Number-255: Sent_Number-1: left	message	member	please	return	call	
+Note_Number-255: Sent_Number-2: kwellsrn	
+Note_Number-256: Sent_Number-1: called	member	left	message	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-257: Sent_Number-1: called	member	left	msg	member	please	return	call	
+Note_Number-257: Sent_Number-2: kwellsrn	
+Note_Number-258: Sent_Number-1: left	message	home	number	member	please	return	call	
+Note_Number-258: Sent_Number-2: cell	number	is	disconnected	
+Note_Number-258: Sent_Number-3: kwellsrn	
+Note_Number-259: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-259: Sent_Number-2: kwells	rn	
+Note_Number-260: Sent_Number-1: fbs	a1c	
+Note_Number-261: Sent_Number-1: left	message	member	call	concerning	lab	results	
+Note_Number-262: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-262: Sent_Number-2: kwellsrn	
+Note_Number-263: Sent_Number-1: lefts	message	member	please	return	call	
+Note_Number-263: Sent_Number-2: kwellsrn	
+Note_Number-264: Sent_Number-1: member	returned	call	
+Note_Number-264: Sent_Number-2: states	is	doing	thyroid	levels	get	balance	
+Note_Number-264: Sent_Number-4: taking	synthroid	mcg	
+Note_Number-264: Sent_Number-5: states	knows	levels	are	balance	starts	feeling	has	bone	pain	muscle	aches	
+Note_Number-264: Sent_Number-8: encouraged	ask	check	labs	be	lacking	t3	cause	bone	muscle	pain	
+Note_Number-264: Sent_Number-9: asked	is	taking	synthroid	is	states	s	way	afford	
+Note_Number-264: Sent_Number-10: explained	forms	vary	potency	has	use	ask	pharmacy	try	fill	medication	manufacturer	help	ensure	response	
+Note_Number-265: Sent_Number-1: member	has	had	family	members	ill	deaths	family	
+Note_Number-265: Sent_Number-2: encouraged	take	care	
+Note_Number-265: Sent_Number-3: kwellsrn	
+Note_Number-266: Sent_Number-1: sent	letter	home	address	asking	call	lab	results	
+Note_Number-267: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-267: Sent_Number-2: kwellsrn	
+Note_Number-268: Sent_Number-1: member	returned	call	
+Note_Number-268: Sent_Number-2: states	health	issue	is	asthma	
+Note_Number-268: Sent_Number-3: uses	nebulizer	twice	day	morning	night	
+Note_Number-268: Sent_Number-4: uses	albuterol	inhaler	symbicort	abreva	
+Note_Number-268: Sent_Number-5: states	sticks	medicine	regimen	does	
+Note_Number-268: Sent_Number-6: has	had	weeks	aggravates	asthma	
+Note_Number-268: Sent_Number-7: encouraged	continue	taking	care	asthma	using	medications	directed	
+Note_Number-268: Sent_Number-8: states	lost	wife	years	has	son	daughter	
+Note_Number-268: Sent_Number-9: enjoys	fishing	travels	places	fish	
+Note_Number-268: Sent_Number-10: is	having	cataract	surgery	week	right	eye	
+Note_Number-268: Sent_Number-11: talked	minutes	states	hates	coming	home	misses	wife	
+Note_Number-268: Sent_Number-12: does	have	dog	german	shepherd	keeps	company	
+Note_Number-268: Sent_Number-13: works	nursing	home	feels	needed	appreciated	residents	
+Note_Number-268: Sent_Number-14: kwellsrn	
+Note_Number-269: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-269: Sent_Number-2: kwellsrn	
+Note_Number-270: Sent_Number-1: member	called	states	is	doing	had	exacerbation	couple	weeks	had	go	er	asthma	
+Note_Number-270: Sent_Number-2: has	noticed	while	is	work	is	coughing	
+Note_Number-270: Sent_Number-5: reports	having	difficulty	staying	asleep	night	
+Note_Number-270: Sent_Number-6: wakes	has	use	nebulizer	clear	lungs	rest	
+Note_Number-270: Sent_Number-9: suggested	use	pillows	wedge	elevate	upper	body	sleeping	help	
+Note_Number-270: Sent_Number-10: is	going	ask	md	sleep	study	
+Note_Number-270: Sent_Number-12: mentioned	be	something	worth	looking	talk	md	
+Note_Number-271: Sent_Number-1: cataract	surgery	went	month	is	pleased	improvement	vision	
+Note_Number-271: Sent_Number-2: is	looking	fishing	trip	friends	week	
+Note_Number-271: Sent_Number-3: check	weeks	see	is	doing	
+Note_Number-272: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-272: Sent_Number-2: kwellsrn	
+Note_Number-273: Sent_Number-1: left	message	member	please	return	call	
+Note_Number-273: Sent_Number-2: kwellsrn	
+Note_Number-274: Sent_Number-1: left	message	member	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-275: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-275: Sent_Number-2: kwellsrn	
+Note_Number-276: Sent_Number-1: left	message	member	please	return	call	
+Note_Number-276: Sent_Number-2: kwellsrn	
+Note_Number-277: Sent_Number-1: left	message	member	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-279: Sent_Number-1: mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-279: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-279: Sent_Number-3: be	reached	monday	friday	
+Note_Number-279: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-279: Sent_Number-5: look	hearing	
+Note_Number-279: Sent_Number-6: thank	karen	wells	rn	care	manager	doctors	healthcare	kwells	rn	
+Note_Number-280: Sent_Number-1: mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-280: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-280: Sent_Number-3: be	reached	monday	friday	
+Note_Number-280: Sent_Number-4: please	call	doctors	healthcare	toll	
+Note_Number-281: Sent_Number-1: extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-281: Sent_Number-2: look	hearing	
+Note_Number-281: Sent_Number-3: kwells	rn	
+Note_Number-282: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-282: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-282: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-282: Sent_Number-4: be	reached	monday	friday	
+Note_Number-282: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-282: Sent_Number-6: look	hearing	
+Note_Number-282: Sent_Number-7: thank	kwells	rn	
+Note_Number-283: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-283: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-283: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-283: Sent_Number-4: be	reached	monday	friday	
+Note_Number-283: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-283: Sent_Number-6: look	hearing	
+Note_Number-283: Sent_Number-7: kwells	rn	
+Note_Number-284: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-284: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-284: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-284: Sent_Number-4: be	reached	monday	friday	
+Note_Number-284: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-284: Sent_Number-6: look	hearing	
+Note_Number-284: Sent_Number-7: thank	kwells	rn	
+Note_Number-285: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-285: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-285: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-285: Sent_Number-4: be	reached	monday	friday	
+Note_Number-285: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-285: Sent_Number-6: look	hearing	
+Note_Number-285: Sent_Number-7: kwells	rn	
+Note_Number-286: Sent_Number-1: received	email	member	please	feel	contact	email	
+Note_Number-286: Sent_Number-2: reply	apologies	taking	was	state	screening	pennsylvania	end	week	
+Note_Number-286: Sent_Number-3: wanted	review	know	number	results	see	have	questions	
+Note_Number-286: Sent_Number-4: privacy	laws	require	health	information	be	protected	order	discuss	email	need	password	access	information	encrypted	email	
+Note_Number-286: Sent_Number-5: send	email	following	says	password	setup	guide	creating	password	
+Note_Number-286: Sent_Number-6: have	set	password	please	let	know	send	results	
+Note_Number-286: Sent_Number-7: hope	are	having	day	kwells	rn	
+Note_Number-287: Sent_Number-1: received	email	member	indicating	has	set	password	
+Note_Number-287: Sent_Number-2: sent	following	encrypted	email	hello	alicia	results	are	follows	
+Note_Number-288: Sent_Number-1: fasting	blood	sugar	hemoglobin	a1c	blood	pressure	cholesterol	elevated	desired	level	is	hdl	
+Note_Number-288: Sent_Number-2: cholesterol	level	ldl	
+Note_Number-288: Sent_Number-3: cholesterol	elevated	desired	level	is	triglycerides	desired	level	is	results	are	
+Note_Number-288: Sent_Number-4: congratulations	excellent	blood	pressure	
+Note_Number-288: Sent_Number-5: are	doing	something	
+Note_Number-288: Sent_Number-6: areas	use	tweaking	are	cholesterol	ldl	
+Note_Number-288: Sent_Number-7: are	things	do	help	reduce	
+Note_Number-288: Sent_Number-8: regard	diet	adding	fiber	is	way	help	control	cholesterol	
+Note_Number-288: Sent_Number-10: try	adding	whole	grains	diet	is	way	increase	fiber	changing	bread	rice	pasta	whole	grain	products	
+Note_Number-288: Sent_Number-11: is	increasing	variety	grain	products	days	
+Note_Number-288: Sent_Number-12: reducing	saturated	trans	fat	cholesterol	diet	improve	triglyceride	levels	help	manage	cholesterol	
+Note_Number-288: Sent_Number-13: limit	intake	red	meat	help	reduce	saturated	intake	
+Note_Number-288: Sent_Number-14: eat	omega	fatty	acids	red	meat	is	
+Note_Number-288: Sent_Number-15: fatty	fish	mackerel	lake	herring	sardines	albacore	tuna	salmon	are	omega	fatty	acids	
+Note_Number-288: Sent_Number-16: exercise	is	helping	reduce	cholesterol	ten	minutes	times	day	is	
+Note_Number-288: Sent_Number-17: questions	do	have	exercise	routine	
+Note_Number-288: Sent_Number-18: does	include	
+Note_Number-288: Sent_Number-19: does	elevated	cholesterol	run	family	
+Note_Number-288: Sent_Number-20: have	seen	review	results	
+Note_Number-288: Sent_Number-21: changes	did	recommend	
+Note_Number-288: Sent_Number-22: ?	m	looking	hearing	response	
+Note_Number-288: Sent_Number-23: am	attaching	information	find	
+Note_Number-288: Sent_Number-24: kwells	rn	
+Note_Number-289: Sent_Number-1: received	email	member	evening	
+Note_Number-289: Sent_Number-2: thank	sending	results	
+Note_Number-289: Sent_Number-4: am	swimming	biking	running	training	stretching	circuit	training	yoga	
+Note_Number-289: Sent_Number-5: participate	triathlons	marathons	mountain	biking	road	biking	water	swimming	masters	swimming	pool	etc	
+Note_Number-289: Sent_Number-6: take	following	vitamins	supplements	multi	vitamin	calcium	coq10	red	rice	oil	c	fiber	
+Note_Number-289: Sent_Number-9: drink	juice	diluted	juice	water	
+Note_Number-289: Sent_Number-10: strive	eat	un	processed	foods	
+Note_Number-289: Sent_Number-12: 've	incorporated	meatless	day	week	
+Note_Number-289: Sent_Number-13: 've	replaced	dairy	milk	soy	milk	
+Note_Number-290: Sent_Number-1: response	email	wow	
+Note_Number-290: Sent_Number-2: are	
+Note_Number-290: Sent_Number-3: are	doing	right	things	
+Note_Number-290: Sent_Number-5: is	case	is	reduce	cholesterol	medication	
+Note_Number-290: Sent_Number-7: be	have	re	check	labs	evaluate	progress	
+Note_Number-290: Sent_Number-8: please	let	know	be	assistance	
+Note_Number-290: Sent_Number-9: have	day	
+Note_Number-291: Sent_Number-1: met	phone	do	
+Note_Number-291: Sent_Number-2: has	been	chewing	years	
+Note_Number-291: Sent_Number-3: last	days	
+Note_Number-291: Sent_Number-4: said	triggers	are	meals	driving	
+Note_Number-291: Sent_Number-5: knows	needs	quit	wants	quit	
+Note_Number-291: Sent_Number-6: has	tried	quit	couple	days	
+Note_Number-291: Sent_Number-7: has	tried	nrt	
+Note_Number-291: Sent_Number-8: made	aware	
+Note_Number-291: Sent_Number-9: said	wants	do	research	end	talk	doctor	
+Note_Number-292: Sent_Number-1: called	member	review	screening	results	bp	pulse	tchol	hdl	ldl	tri	ht	amp	quot	weight	
+Note_Number-292: Sent_Number-2: left	message	member	return	call	
+Note_Number-293: Sent_Number-1: return	call	member	went	elevated	psa	
+Note_Number-293: Sent_Number-2: reports	got	letter	regarding	results	doctor	got	packet	has	appointment	weeks	
+Note_Number-293: Sent_Number-4: agrees	
+Note_Number-293: Sent_Number-6: follow	member	means	prefers	goals	
+Note_Number-293: Sent_Number-7: dphillips	rn	
+Note_Number-294: Sent_Number-2: updated	empliant	based	call	
+Note_Number-295: Sent_Number-1: member	returned	call	
+Note_Number-295: Sent_Number-2: went	labs	
+Note_Number-295: Sent_Number-3: year	tchol	was	tri	was	
+Note_Number-295: Sent_Number-5: is	eating	
+Note_Number-295: Sent_Number-6: year	tchol	is	nd	tri	is	
+Note_Number-295: Sent_Number-7: is	seeing	nurse	practitioner	tuesday	
+Note_Number-295: Sent_Number-9: doesnt	have	packet	tuesday	call	get	faxed	
+Note_Number-295: Sent_Number-10: agrees	
+Note_Number-295: Sent_Number-11: is	running	family	mother	died	cancer	family	all	died	sibling	
+Note_Number-295: Sent_Number-12: is	going	follow	plan	let	know	doesnt	get	packet	
+Note_Number-295: Sent_Number-13: dphillips	rn	
+Note_Number-296: Sent_Number-1: met	phone	do	dob	
+Note_Number-296: Sent_Number-2: everything	is	going	
+Note_Number-296: Sent_Number-3: bs	is	staying	
+Note_Number-296: Sent_Number-4: keep	course	
+Note_Number-297: Sent_Number-1: member	returned	call	is	feeling	
+Note_Number-297: Sent_Number-2: started	allergy	shots	has	made	difference	
+Note_Number-297: Sent_Number-3: reports	energy	level	is	better	quality	life	has	improved	
+Note_Number-297: Sent_Number-4: continues	exercise	
+Note_Number-297: Sent_Number-5: monitors	bs	a1c	was	
+Note_Number-297: Sent_Number-6: fbs	are	month	
+Note_Number-297: Sent_Number-7: has	appointments	md	has	eye	exams	foot	checks	
+Note_Number-297: Sent_Number-8: encouraged	keep	work	
+Note_Number-297: Sent_Number-9: be	making	appointment	see	health	screening	
+Note_Number-298: Sent_Number-1: met	do	dob	
+Note_Number-298: Sent_Number-2: is	test	everyday	twice	day	
+Note_Number-298: Sent_Number-3: bs	running	
+Note_Number-298: Sent_Number-4: had	reading	yesterday	
+Note_Number-298: Sent_Number-5: told	needs	get	see	doctor	
+Note_Number-298: Sent_Number-6: is	paying	attention	is	eating	
+Note_Number-298: Sent_Number-8: has	lost	weight	
+Note_Number-298: Sent_Number-9: has	doctors	appointments	week	
+Note_Number-299: Sent_Number-1: met	phone	do	tob	
+Note_Number-299: Sent_Number-2: said	nothing	has	changed	is	is	
+Note_Number-300: Sent_Number-1: met	phone	do	
+Note_Number-300: Sent_Number-3: said	having	go	sessions	has	made	think	
+Note_Number-300: Sent_Number-4: wants	take	time	think	plan	action	wants	take	give	chance	quit	
+Note_Number-300: Sent_Number-5: be	getting	hold	assistance	
+Note_Number-301: Sent_Number-2: mailed	following	letter	regarding	kyn	results	
+Note_Number-302: Sent_Number-1: dear	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-302: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-302: Sent_Number-3: be	reached	monday	friday	
+Note_Number-302: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-302: Sent_Number-5: look	hearing	
+Note_Number-302: Sent_Number-6: thank	
+Note_Number-303: Sent_Number-1: called	left	message	member	return	call	re	kyn	results	
+Note_Number-303: Sent_Number-2: emailed	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-303: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-303: Sent_Number-4: be	reached	monday	friday	
+Note_Number-303: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-303: Sent_Number-6: look	hearing	
+Note_Number-303: Sent_Number-7: thank	kwells	rn	
+Note_Number-304: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-304: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-304: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-304: Sent_Number-4: be	reached	monday	friday	
+Note_Number-304: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-304: Sent_Number-6: look	hearing	
+Note_Number-304: Sent_Number-7: thank	kwells	rn	
+Note_Number-305: Sent_Number-1: called	member	review	kyn	results	bp	bs	a1c	tchol	tri	hdl	ldl	
+Note_Number-305: Sent_Number-2: member	gives	history	borderline	diabetes	required	management	
+Note_Number-305: Sent_Number-3: states	has	started	diet	change	exercise	program	has	cut	prepared	foods	
+Note_Number-305: Sent_Number-4: diabetes	
+Note_Number-305: Sent_Number-5: family	history	diabetes	
+Note_Number-305: Sent_Number-6: member	has	call	appointment	asap	
+Note_Number-305: Sent_Number-7: labs	faxed	dr	fahnstock	member	physician	listed	questionnaire	
+Note_Number-305: Sent_Number-8: member	call	email	has	had	follwup	appointment	
+Note_Number-306: Sent_Number-1: sent	email	member	thank	talking	morning	
+Note_Number-306: Sent_Number-2: have	faxed	results	physician	
+Note_Number-306: Sent_Number-3: please	schedule	follow	appointment	
+Note_Number-306: Sent_Number-4: look	working	reach	health	goals	
+Note_Number-306: Sent_Number-5: feel	contact	questions	
+Note_Number-306: Sent_Number-6: like	talk	physician	follow	visit	
+Note_Number-306: Sent_Number-7: have	day	
+Note_Number-306: Sent_Number-8: kwellsrn	
+Note_Number-307: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-307: Sent_Number-2: kwellsrn	
+Note_Number-308: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-308: Sent_Number-2: kwells	rn	
+Note_Number-309: Sent_Number-1: called	member	follow	left	message	return	call	re	kyn	results	
+Note_Number-309: Sent_Number-2: emailed	member	asked	call	re	kyn	results	
+Note_Number-309: Sent_Number-3: kwells	rn	
+Note_Number-310: Sent_Number-1: fbs	a1c	chol	
+Note_Number-311: Sent_Number-1: called	left	message	member	check	blood	pressure	call	results	
+Note_Number-311: Sent_Number-2: want	review	labs	member	phone	
+Note_Number-311: Sent_Number-3: email	
+Note_Number-312: Sent_Number-1: sent	letter	home	address	asking	call	lab	results	
+Note_Number-313: Sent_Number-1: called	member	reviewed	kyn	results	
+Note_Number-313: Sent_Number-2: congratulated	having	awesome	results	kyn	screening	
+Note_Number-313: Sent_Number-3: encouraged	keep	work	
+Note_Number-314: Sent_Number-2: asked	nurse	please	shred	info	
+Note_Number-315: Sent_Number-1: called	member	left	message	please	return	call	regarding	kyn	results	
+Note_Number-315: Sent_Number-2: screening	results	bs	a1c	bp	tchol	hdl	ldl	
+Note_Number-316: Sent_Number-1: emailed	member	follows	member	
+Note_Number-317: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-317: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-317: Sent_Number-3: is	talk	
+Note_Number-317: Sent_Number-4: be	reached	monday	friday	
+Note_Number-317: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	kwells	doctorsdirecthealthcare	net	
+Note_Number-317: Sent_Number-6: look	hearing	
+Note_Number-317: Sent_Number-7: kwells	rn	
+Note_Number-318: Sent_Number-1: called	left	message	member	return	call	re	kyn	results	
+Note_Number-318: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-318: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-318: Sent_Number-4: is	talk	
+Note_Number-318: Sent_Number-5: be	reached	monday	friday	
+Note_Number-318: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-318: Sent_Number-7: look	hearing	
+Note_Number-318: Sent_Number-8: kwells	rn	
+Note_Number-319: Sent_Number-1: called	left	message	member	return	call	regarding	kyn	results	
+Note_Number-319: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-319: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-319: Sent_Number-4: is	talk	
+Note_Number-319: Sent_Number-5: be	reached	monday	friday	
+Note_Number-319: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-319: Sent_Number-7: look	hearing	
+Note_Number-319: Sent_Number-8: thank	kwells	rn	
+Note_Number-320: Sent_Number-1: response	date	member	
+Note_Number-320: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-320: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-320: Sent_Number-4: is	talk	
+Note_Number-320: Sent_Number-5: be	reached	monday	friday	
+Note_Number-320: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-320: Sent_Number-7: look	hearing	
+Note_Number-320: Sent_Number-8: thank	kwells	rn	
+Note_Number-321: Sent_Number-1: called	member	reviewed	kyn	results	
+Note_Number-321: Sent_Number-2: exercises	times	week	does	step	classes	gym	
+Note_Number-321: Sent_Number-3: follows	heart	diet	red	meat	consumption	grains	
+Note_Number-321: Sent_Number-4: does	cardio	weight	training	
+Note_Number-321: Sent_Number-5: discussed	benefit	weight	training	help	reduce	cholesterol	ldl	
+Note_Number-321: Sent_Number-6: thinks	father	has	cholesterol	
+Note_Number-321: Sent_Number-7: discussed	factor	person	having	elevated	cholesterol	continue	work	reducing	
+Note_Number-321: Sent_Number-8: is	diet	exercise	is	do	improve	health	
+Note_Number-322: Sent_Number-1: called	member	left	message	call	re	kyn	results	
+Note_Number-322: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-322: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-322: Sent_Number-4: be	reached	monday	friday	
+Note_Number-322: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-322: Sent_Number-6: look	hearing	
+Note_Number-322: Sent_Number-7: thank	kwells	rn	
+Note_Number-323: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-323: Sent_Number-2: emailed	member	follows	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-323: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-323: Sent_Number-4: be	reached	monday	friday	
+Note_Number-323: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-323: Sent_Number-6: look	hearing	
+Note_Number-323: Sent_Number-7: kwells	rn	
+Note_Number-324: Sent_Number-1: met	do	dob	
+Note_Number-324: Sent_Number-2: is	testing	day	
+Note_Number-324: Sent_Number-3: tuesday	glu	wednesday	
+Note_Number-324: Sent_Number-4: said	is	
+Note_Number-324: Sent_Number-5: going	go	see	endocrinologist	ophthalmologist	week	
+Note_Number-324: Sent_Number-6: going	give	report	meeting	
+Note_Number-324: Sent_Number-7: weight	
+Note_Number-325: Sent_Number-1: spoke	member	april	
+Note_Number-325: Sent_Number-2: calling	check	status	did	get	peak	flow	meter	is	using	
+Note_Number-325: Sent_Number-3: are	asthma	symptoms	retiring	
+Note_Number-326: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-327: Sent_Number-2: kwells	rn	
+Note_Number-328: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-328: Sent_Number-3: did	have	bp	rechecked	was	
+Note_Number-328: Sent_Number-5: encouraged	reduce	amount	sugar	used	tea	use	sweetener	drink	water	
+Note_Number-328: Sent_Number-6: does	eat	cereal	breakfast	urged	use	non	pre	sweetened	cereals	are	fiber	has	yogurt	boiled	eggs	leftovers	lunch	
+Note_Number-328: Sent_Number-7: dinner	is	baked	meat	vegetables	
+Note_Number-328: Sent_Number-8: is	going	check	carbohydrate	sugar	content	yogurt	is	eating	
+Note_Number-328: Sent_Number-9: need	switch	types	reduce	amount	sugar	is	eating	
+Note_Number-328: Sent_Number-10: discussed	ways	reduce	a1c	exercise	
+Note_Number-328: Sent_Number-11: increasing	whole	grain	products	avoiding	bread	rice	potatoes	
+Note_Number-328: Sent_Number-12: states	wife	used	walk	miles	times	week	brisk	walk	had	gotten	
+Note_Number-328: Sent_Number-13: goal	is	return	walking	
+Note_Number-328: Sent_Number-14: encouraged	do	
+Note_Number-328: Sent_Number-15: emailed	member	following	diabetes	counting	pre	diabetes	getting	started	
+Note_Number-328: Sent_Number-16: kwells	rn	
+Note_Number-329: Sent_Number-1: left	message	member	please	return	call	regarding	kyn	screening	results	
+Note_Number-329: Sent_Number-2: bp	screening	was	
+Note_Number-329: Sent_Number-3: member	was	have	rechecked	see	went	
+Note_Number-329: Sent_Number-4: bs	a1c	tchol	tri	hdl	ldl	
+Note_Number-329: Sent_Number-5: kwellsrn	
+Note_Number-330: Sent_Number-1: lab	results	faxed	
+Note_Number-330: Sent_Number-2: kwellsrn	
+Note_Number-331: Sent_Number-1: letter	mailed	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-331: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-331: Sent_Number-3: is	talk	
+Note_Number-331: Sent_Number-4: be	reached	monday	friday	
+Note_Number-331: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-331: Sent_Number-6: look	hearing	
+Note_Number-331: Sent_Number-7: kwellsrn	
+Note_Number-332: Sent_Number-1: response	member	today	
+Note_Number-332: Sent_Number-2: called	left	message	please	return	call	regarding	kyn	screening	results	
+Note_Number-333: Sent_Number-1: member	called	review	kyn	results	
+Note_Number-333: Sent_Number-2: went	dr	screening	bp	was	something	remember	number	
+Note_Number-333: Sent_Number-3: has	bp	cuff	home	checks	
+Note_Number-333: Sent_Number-4: has	coat	syndrome	said	bp	goes	get	drs	office	sits	gets	minutes	returns	
+Note_Number-333: Sent_Number-5: reviewed	bs	a1c	ada	guidelines	put	risk	category	developing	diabetes	
+Note_Number-333: Sent_Number-7: family	history	diabetes	
+Note_Number-333: Sent_Number-8: eats	tuna	yogurt	apple	sauce	pudding	lunch	
+Note_Number-333: Sent_Number-9: discussed	ways	decrease	sugar	carbohydrate	intake	looked	breakfast	oatmeal	instant	packet	has	been	using	contains	grams	sugars	grams	carbohydrates	
+Note_Number-333: Sent_Number-10: homemade	oatmeal	has	gram	sugar	
+Note_Number-333: Sent_Number-11: change	making	oatmeal	help	decrease	sugar	carb	intake	
+Note_Number-333: Sent_Number-12: encouraged	have	protein	meal	
+Note_Number-333: Sent_Number-13: starting	couple	days	week	begin	change	boiled	eggs	grain	toast	egg	beaters	grain	toast	serving	fruit	
+Note_Number-334: Sent_Number-2: encouraged	add	walking	basis	whenever	raise	heart	rate	
+Note_Number-334: Sent_Number-3: stressed	exercise	is	part	staying	
+Note_Number-335: Sent_Number-2: encouraged	call	md	clarification	
+Note_Number-336: Sent_Number-1: mailed	member	information	get	
+Note_Number-336: Sent_Number-3: list	non	vegetables	following	letter	enjoyed	talking	yesterday	am	pleased	are	taking	role	improve	health	
+Note_Number-336: Sent_Number-4: be	challenging	make	changes	changes	make	difference	
+Note_Number-336: Sent_Number-5: hope	find	enclosed	information	
+Note_Number-336: Sent_Number-6: please	feel	contact	questions	
+Note_Number-336: Sent_Number-7: am	office	monday	friday	
+Note_Number-336: Sent_Number-8: ?	m	looking	success	
+Note_Number-336: Sent_Number-9: access	education	resources	www	doctorsdirecthealthcare	net	secure	site	username	dayton	
+Note_Number-337: Sent_Number-1: password	parts	kwells	rn	
+Note_Number-338: Sent_Number-1: called	member	left	message	call	follow	conversation	
+Note_Number-338: Sent_Number-2: kwells	rn	
+Note_Number-339: Sent_Number-1: called	member	difficulties	
+Note_Number-339: Sent_Number-2: call	be	completed	time	call	today	
+Note_Number-339: Sent_Number-3: kwellsrn	
+Note_Number-340: Sent_Number-1: called	member	was	get	answering	machine	left	message	please	return	call	re	kyn	results	
+Note_Number-340: Sent_Number-3: kwellsrn	
+Note_Number-341: Sent_Number-1: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-341: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-341: Sent_Number-3: is	talk	
+Note_Number-341: Sent_Number-4: be	reached	monday	friday	
+Note_Number-341: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-341: Sent_Number-6: look	hearing	
+Note_Number-341: Sent_Number-7: kwellsrn	
+Note_Number-342: Sent_Number-1: response	member	today	
+Note_Number-342: Sent_Number-3: mailed	following	letter	member	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-342: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-342: Sent_Number-5: is	talk	
+Note_Number-342: Sent_Number-6: be	reached	monday	friday	
+Note_Number-342: Sent_Number-7: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-342: Sent_Number-8: look	hearing	
+Note_Number-342: Sent_Number-9: 
+Note_Number-343: Sent_Number-1: attempted	reach	member	number	is	longer	service	
+Note_Number-343: Sent_Number-2: mailed	letter	follows	member	hope	finds	doing	
+Note_Number-343: Sent_Number-3: have	tried	times	contact	regarding	know	number	results	
+Note_Number-343: Sent_Number-5: health	is	
+Note_Number-343: Sent_Number-6: be	review	results	
+Note_Number-343: Sent_Number-7: be	reached	monday	friday	
+Note_Number-343: Sent_Number-8: set	time	hours	talk	
+Note_Number-343: Sent_Number-9: look	hearing	
+Note_Number-343: Sent_Number-10: reach	email	kwells	doctorsdirecthealthcare	net	
+Note_Number-343: Sent_Number-11: kwells	rn	
+Note_Number-344: Sent_Number-1: called	member	reviewed	kyn	results	
+Note_Number-344: Sent_Number-2: sees	md	
+Note_Number-344: Sent_Number-3: works	gym	has	lost	pounds	
+Note_Number-344: Sent_Number-4: is	pleased	results	
+Note_Number-344: Sent_Number-5: discussed	ways	help	reduce	triglycerides	
+Note_Number-344: Sent_Number-6: has	added	cardio	workout	
+Note_Number-344: Sent_Number-7: eats	heart	diet	
+Note_Number-344: Sent_Number-8: kwells	rn	
+Note_Number-345: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	tri	
+Note_Number-345: Sent_Number-2: left	message	member	return	call	re	kyn	results	
+Note_Number-345: Sent_Number-3: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-345: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-345: Sent_Number-5: is	talk	
+Note_Number-345: Sent_Number-6: be	reached	monday	friday	
+Note_Number-345: Sent_Number-7: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-345: Sent_Number-8: look	hearing	
+Note_Number-345: Sent_Number-9: kwells	rn	
+Note_Number-346: Sent_Number-1: called	member	left	message	return	call	review	kyn	results	
+Note_Number-346: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-346: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-346: Sent_Number-4: is	talk	
+Note_Number-346: Sent_Number-5: be	reached	monday	friday	
+Note_Number-346: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-346: Sent_Number-7: look	hearing	
+Note_Number-346: Sent_Number-8: kwells	rn	
+Note_Number-347: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-347: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-347: Sent_Number-4: is	talk	
+Note_Number-347: Sent_Number-5: be	reached	monday	friday	
+Note_Number-347: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-347: Sent_Number-7: look	hearing	
+Note_Number-347: Sent_Number-8: kwells	rn	
+Note_Number-348: Sent_Number-1: member	called	stated	bp	fluctuates	time	md	keeps	check	
+Note_Number-348: Sent_Number-2: discussed	elevated	cholesterol	triglycerides	measures	take	help	including	diet	changes	exercise	
+Note_Number-348: Sent_Number-3: is	going	cruise	day	gets	girlfriend	have	agreement	get	weight	watchers	exercise	program	
+Note_Number-348: Sent_Number-4: lost	pounds	year	weight	watchers	
+Note_Number-348: Sent_Number-5: started	watching	diet	time	screening	was	
+Note_Number-348: Sent_Number-6: is	
+Note_Number-348: Sent_Number-7: congratulated	success	
+Note_Number-348: Sent_Number-8: encouraged	keep	work	
+Note_Number-349: Sent_Number-2: does	use	grain	products	
+Note_Number-349: Sent_Number-3: thinks	parents	have	cholesterol	issues	
+Note_Number-350: Sent_Number-1: has	md	appointment	june	let	know	outcome	visit	is	
+Note_Number-351: Sent_Number-1: emailed	following	information	member	cholesterol	tlc	raising	hdl	
+Note_Number-351: Sent_Number-2: kwells	rn	
+Note_Number-352: Sent_Number-1: called	member	review	kyn	results	bs	a1c5	bp140	/	tchol	hdl	ldl	tri	
+Note_Number-353: Sent_Number-1: monitors	bp	home	times	week	states	is	home	was	screening	
+Note_Number-353: Sent_Number-2: encouraged	keep	log	readings	home	including	time	day	readings	take	md	goes	
+Note_Number-353: Sent_Number-3: sees	md	months	eval	
+Note_Number-353: Sent_Number-4: states	has	been	battling	elevated	cholesterol	years	is	levels	reports	chol	was	ldl	was	
+Note_Number-353: Sent_Number-6: is	family	history	elevated	cholesterol	bp	
+Note_Number-353: Sent_Number-7: takes	medications	remember	names	
+Note_Number-353: Sent_Number-8: congratulated	progress	
+Note_Number-353: Sent_Number-9: discussed	ways	reduce	triglycerides	
+Note_Number-353: Sent_Number-10: regard	exercise	reported	walks	lot	work	end	building	day	
+Note_Number-353: Sent_Number-11: gets	home	does	things	needs	do	home	is	wiped	end	day	
+Note_Number-353: Sent_Number-12: does	choose	walk	ride	moving	equipment	work	keep	
+Note_Number-353: Sent_Number-13: encouraged	keep	toward	walking	basis	raise	heart	rate	
+Note_Number-354: Sent_Number-1: father	died	colon	cancer	fifties	member	states	is	reason	wants	be	
+Note_Number-354: Sent_Number-2: is	following	physicians	advice	maintain	health	
+Note_Number-355: Sent_Number-1: emailed	member	following	tips	triglycerides	tips	chart	chart	
+Note_Number-356: Sent_Number-1: kwells	rn	
+Note_Number-357: Sent_Number-2: going	see	doctor	week	
+Note_Number-357: Sent_Number-3: walked	lot	week	sons	camp	
+Note_Number-357: Sent_Number-4: said	clothes	are	fitting	
+Note_Number-357: Sent_Number-5: eating	meals	day	
+Note_Number-357: Sent_Number-6: is	trying	watch	eats	
+Note_Number-357: Sent_Number-7: portion	control	is	inconsistent	
+Note_Number-357: Sent_Number-8: weight	went	
+Note_Number-357: Sent_Number-10: eat	vegetables	
+Note_Number-357: Sent_Number-11: staying	breads	pasta	
+Note_Number-357: Sent_Number-12: eats	lot	hamburger	
+Note_Number-357: Sent_Number-13: goal	keep	watching	portions	increase	exercise	
+Note_Number-358: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-358: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-358: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-358: Sent_Number-4: be	reached	monday	friday	
+Note_Number-358: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-358: Sent_Number-6: look	hearing	
+Note_Number-358: Sent_Number-7: thank	kwells	rn	
+Note_Number-359: Sent_Number-1: member	called	reviewed	kyn	results	
+Note_Number-359: Sent_Number-2: had	been	doing	weight	watchers	year	lost	pounds	
+Note_Number-359: Sent_Number-3: was	exercising	walking	mile	track	times	week	winter	came	
+Note_Number-360: Sent_Number-2: is	get	track	eating	exercising	
+Note_Number-360: Sent_Number-3: like	lose	pounds	gained	
+Note_Number-360: Sent_Number-4: follow	months	check	progress	
+Note_Number-360: Sent_Number-5: emailed	member	drinks	america	dining	education	sheets	i	cook	eating	
+Note_Number-360: Sent_Number-6: kwells	rn	
+Note_Number-361: Sent_Number-1: called	member	left	message	please	return	call	regarding	kyn	results	
+Note_Number-361: Sent_Number-2: bp	bs	a1c	tchol	tri	hdl	
+Note_Number-362: Sent_Number-1: faxed	labs	member	
+Note_Number-362: Sent_Number-2: kwellsrn	
+Note_Number-363: Sent_Number-1: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-363: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-363: Sent_Number-3: is	talk	
+Note_Number-363: Sent_Number-4: be	reached	monday	friday	
+Note_Number-363: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-363: Sent_Number-6: look	hearing	
+Note_Number-363: Sent_Number-7: k	wellsrn	
+Note_Number-364: Sent_Number-1: received	phone	message	mrs	chubb	states	husband	works	nights	was	asleep	asked	call	regarding	results	
+Note_Number-364: Sent_Number-2: returned	call	explained	privacy	laws	require	speak	husband	regarding	results	has	notified	speak	
+Note_Number-364: Sent_Number-3: call	husband	wakes	
+Note_Number-364: Sent_Number-4: kwellsrn	
+Note_Number-365: Sent_Number-1: return	call	member	is	awake	verified	date	address	
+Note_Number-365: Sent_Number-2: asks	speak	wife	regarding	results	
+Note_Number-365: Sent_Number-3: gives	permission	talk	find	
+Note_Number-365: Sent_Number-4: wife	got	phone	went	results	bp	get	rechecked	went	bs	a1c	
+Note_Number-365: Sent_Number-5: went	cholesterol	panel	tri	risk	heart	disease	bp	cholesterol	tri	bs	run	
+Note_Number-365: Sent_Number-6: encouraged	please	make	apt	pcp	
+Note_Number-365: Sent_Number-7: make	
+Note_Number-365: Sent_Number-8: follow	going	talk	ways	improve	life	style	eating	help	improve	numbers	
+Note_Number-365: Sent_Number-9: states	numbers	are	manner	
+Note_Number-365: Sent_Number-10: work	team	
+Note_Number-365: Sent_Number-11: dphillips	rn	
+Note_Number-366: Sent_Number-1: called	member	check	left	message	return	call	
+Note_Number-366: Sent_Number-2: kwells	rn	
+Note_Number-367: Sent_Number-1: called	member	left	message	return	call	re	kyn	screening	results	
+Note_Number-367: Sent_Number-2: emailed	member	follows	member	
+Note_Number-368: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-368: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-368: Sent_Number-3: be	reached	monday	friday	
+Note_Number-368: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-368: Sent_Number-5: look	hearing	
+Note_Number-368: Sent_Number-6: thank	kwells	rn	
+Note_Number-369: Sent_Number-1: called	left	vm	
+Note_Number-369: Sent_Number-2: emailed	ahill	rn	
+Note_Number-371: Sent_Number-1: know	number	
+Note_Number-372: Sent_Number-1: hello	
+Note_Number-372: Sent_Number-2: s	time	go	results	
+Note_Number-372: Sent_Number-4: ext	
+Note_Number-372: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-372: Sent_Number-6: am	looking	talking	
+Note_Number-372: Sent_Number-7: karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-373: Sent_Number-1: called	member	review	kyn	results	someone	answered	asked	member	
+Note_Number-373: Sent_Number-2: mailed	letter	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-373: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-373: Sent_Number-4: be	reached	monday	friday	
+Note_Number-373: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-373: Sent_Number-6: look	hearing	
+Note_Number-373: Sent_Number-7: thank	kwells	rn	
+Note_Number-374: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-374: Sent_Number-2: mailed	letter	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-374: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-374: Sent_Number-4: be	reached	monday	friday	
+Note_Number-374: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-374: Sent_Number-6: look	hearing	
+Note_Number-374: Sent_Number-7: thank	kwells	rn	
+Note_Number-375: Sent_Number-1: member	called	reviewed	kyn	results	
+Note_Number-375: Sent_Number-2: mother	has	cholesterol	
+Note_Number-375: Sent_Number-3: discussed	ways	reduce	cholesterol	eats	red	meat	times	week	
+Note_Number-375: Sent_Number-4: encouraged	cut	use	cuts	does	eat	red	meat	
+Note_Number-375: Sent_Number-5: use	ground	turkey	chicken	recipes	call	ground	beef	help	decrease	fat	cholesterol	intake	
+Note_Number-375: Sent_Number-6: encouraged	increase	fiber	grains	change	bread	rice	pasta	whole	grains	increase	fruits	vegetables	
+Note_Number-375: Sent_Number-7: is	starting	cycling	continue	do	exercise	fall	
+Note_Number-375: Sent_Number-8: goal	year	is	increase	exercise	decrease	cholesterol	
+Note_Number-375: Sent_Number-10: encouraged	do	
+Note_Number-375: Sent_Number-11: mailed	member	following	cholesterol	highway	i	cholesterol	
+Note_Number-375: Sent_Number-12: do	follow	diet	
+Note_Number-375: Sent_Number-13: kwells	rn	
+Note_Number-376: Sent_Number-1: phone	number	hr	called	member	call	be	completed	time	
+Note_Number-376: Sent_Number-2: 
+Note_Number-376: Sent_Number-3: try	
+Note_Number-376: Sent_Number-4: kwells	rn	
+Note_Number-377: Sent_Number-1: attempted	call	member	
+Note_Number-377: Sent_Number-2: recording	states	number	is	service	
+Note_Number-377: Sent_Number-3: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-377: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-377: Sent_Number-5: be	reached	monday	friday	
+Note_Number-377: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-377: Sent_Number-7: look	hearing	
+Note_Number-377: Sent_Number-8: thank	
+Note_Number-378: Sent_Number-1: contact	letter	sent	
+Note_Number-378: Sent_Number-2: hill	rn	
+Note_Number-380: Sent_Number-1: know	number	hello	
+Note_Number-380: Sent_Number-2: s	time	go	results	
+Note_Number-380: Sent_Number-4: ext	
+Note_Number-380: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-380: Sent_Number-6: am	looking	talking	
+Note_Number-380: Sent_Number-7: karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-381: Sent_Number-1: called	left	message	member	return	call	re	kyn	screening	
+Note_Number-381: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-381: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-381: Sent_Number-4: be	reached	monday	friday	
+Note_Number-381: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-381: Sent_Number-6: look	hearing	
+Note_Number-381: Sent_Number-7: thank	kwells	rn	
+Note_Number-382: Sent_Number-1: contact	letter	sent	
+Note_Number-382: Sent_Number-2: hill	rn	
+Note_Number-383: Sent_Number-1: received	notification	member	is	longer	employed	dayton	parts	kwells	rn	
+Note_Number-384: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-384: Sent_Number-2: kwells	rn	
+Note_Number-385: Sent_Number-1: talked	member	phone	reviewed	kyn	results	
+Note_Number-385: Sent_Number-2: has	been	years	eats	diet	
+Note_Number-385: Sent_Number-3: lost	pounds	stated	quit	snacking	night	
+Note_Number-385: Sent_Number-4: sees	md	
+Note_Number-385: Sent_Number-5: mailed	member	following	information	getting	care	diabetes	protect	heart	make	wise	food	choices	
+Note_Number-385: Sent_Number-6: kwells	rn	
+Note_Number-386: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-386: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-386: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-386: Sent_Number-4: be	reached	monday	friday	
+Note_Number-386: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-386: Sent_Number-6: look	hearing	
+Note_Number-386: Sent_Number-7: thank	kwells	rn	
+Note_Number-387: Sent_Number-1: called	member	reviewed	kyn	results	
+Note_Number-387: Sent_Number-3: discussed	cholesterol	ldl	elevation	
+Note_Number-387: Sent_Number-4: bp	md	office	was	per	member	
+Note_Number-387: Sent_Number-5: discussed	ways	decrease	cholesterol	ldl	changing	products	whole	grain	products	cardio	exercise	limiting	red	meat	
+Note_Number-387: Sent_Number-6: reports	eating	heart	diet	
+Note_Number-387: Sent_Number-7: emailed	following	information	member	are	blood	cholesterol	tryglycerides	
+Note_Number-387: Sent_Number-8: cholesterol	tlc	kwells	rn	
+Note_Number-388: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-388: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-388: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-388: Sent_Number-4: be	reached	monday	friday	
+Note_Number-388: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-388: Sent_Number-6: look	hearing	
+Note_Number-388: Sent_Number-7: thank	kwellsrn	
+Note_Number-389: Sent_Number-1: member	called	reviewed	kyn	results	
+Note_Number-389: Sent_Number-2: does	lot	work	job	
+Note_Number-389: Sent_Number-3: walks	day	
+Note_Number-389: Sent_Number-4: follows	heart	diet	
+Note_Number-389: Sent_Number-6: congratulated	bp	cholesterol	continue	heart	diet	exercise	
+Note_Number-389: Sent_Number-7: kwells	rn	
+Note_Number-390: Sent_Number-1: called	member	number	answer	rings	
+Note_Number-390: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-390: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-390: Sent_Number-4: be	reached	monday	friday	
+Note_Number-390: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-390: Sent_Number-6: look	hearing	
+Note_Number-390: Sent_Number-7: thank	kwells	rn	
+Note_Number-391: Sent_Number-1: attempted	call	
+Note_Number-391: Sent_Number-2: vm	
+Note_Number-391: Sent_Number-3: emailed	member	
+Note_Number-391: Sent_Number-4: adannen	daytonparts	com	
+Note_Number-392: Sent_Number-1: contact	letter	sent	
+Note_Number-392: Sent_Number-2: hill	rn	
+Note_Number-393: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-393: Sent_Number-2: left	message	please	return	call	
+Note_Number-393: Sent_Number-3: kwells	rn	
+Note_Number-394: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-394: Sent_Number-2: kwells	rn	
+Note_Number-395: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-395: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-395: Sent_Number-4: is	talk	
+Note_Number-395: Sent_Number-5: be	reached	monday	friday	
+Note_Number-395: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-395: Sent_Number-7: look	hearing	
+Note_Number-395: Sent_Number-8: kwells	rn	
+Note_Number-396: Sent_Number-1: called	member	review	kyn	results	left	message	return	call	
+Note_Number-396: Sent_Number-2: kwells	rn	
+Note_Number-397: Sent_Number-1: talked	member	phone	
+Note_Number-397: Sent_Number-2: saw	md	week	made	recommendations	reduce	intake	salt	fried	foods	start	exercising	
+Note_Number-397: Sent_Number-4: has	stopped	adding	salt	foods	
+Note_Number-397: Sent_Number-5: wife	are	joining	gym	
+Note_Number-397: Sent_Number-6: commended	taking	steps	improve	help	
+Note_Number-397: Sent_Number-7: mother	had	heart	attacks	is	motivated	do	protect	heart	
+Note_Number-397: Sent_Number-8: goes	dr	months	recheck	cholesterol	
+Note_Number-398: Sent_Number-1: mailed	member	following	information	cholesterol	highway	are	blood	cholesterol	triglycerides	
+Note_Number-398: Sent_Number-2: ways	sodium	i	cook	
+Note_Number-398: Sent_Number-3: make	choices	salt	
+Note_Number-398: Sent_Number-4: follow	member	months	see	dr	visit	lab	check	goes	celebrate	progress	
+Note_Number-398: Sent_Number-5: kwells	rn	
+Note_Number-399: Sent_Number-1: called	member	left	message	return	call	re	kyn	screening	results	
+Note_Number-399: Sent_Number-2: kwells	rn	
+Note_Number-400: Sent_Number-1: talked	member	phone	
+Note_Number-400: Sent_Number-2: has	family	history	diabetes	mother	side	
+Note_Number-400: Sent_Number-3: has	farm	works	working	time	job	
+Note_Number-400: Sent_Number-5: congratulated	numbers	being	
+Note_Number-400: Sent_Number-6: has	bp	checked	health	coach	takes	readings	dr	appointments	
+Note_Number-400: Sent_Number-8: encouraged	get	check	bp	home	is	relaxed	take	readings	dr	
+Note_Number-401: Sent_Number-2: tosses	turns	night	
+Note_Number-401: Sent_Number-3: was	tolerate	cpap	machine	
+Note_Number-402: Sent_Number-1: like	lose	weight	
+Note_Number-402: Sent_Number-2: reviewed	diet	drinks	cokes	day	water	
+Note_Number-402: Sent_Number-3: commended	drinking	water	encouraged	cut	sodas	help	decrease	sugar	carb	intake	
+Note_Number-402: Sent_Number-4: encouraged	change	whole	grains	use	brown	rice	decrease	intake	potatoes	
+Note_Number-402: Sent_Number-5: wife	does	cooking	roasts	bakes	/	grills	meats	frying	
+Note_Number-402: Sent_Number-6: discussed	benefits	eating	plenty	fruits	vegetables	
+Note_Number-402: Sent_Number-7: mailed	member	following	information	raise	hdl	level	i	cook	
+Note_Number-402: Sent_Number-8: i	lose	weight	
+Note_Number-402: Sent_Number-9: keep	eye	portion	size	
+Note_Number-402: Sent_Number-10: kwells	rn	
+Note_Number-403: Sent_Number-1: member	called	has	lost	pounds	year	using	eat	live	book	guideline	
+Note_Number-403: Sent_Number-5: works	day	work	home	is	something	get	done	evenings	
+Note_Number-403: Sent_Number-6: discussed	ways	add	activity	parking	parking	lot	store	taking	stairs	stead	elevator	doing	situps	jumping	jacks	commercials	watching	tv	
+Note_Number-403: Sent_Number-7: congratulated	progress	like	lose	ten	pounds	had	gained	keep	work	
+Note_Number-403: Sent_Number-8: kwellsrn	
+Note_Number-404: Sent_Number-3: kwells	rn	
+Note_Number-405: Sent_Number-1: called	member	review	kyn	results	left	message	return	call	
+Note_Number-405: Sent_Number-2: bp	screening	bs	a1c	tchol	tri	hdl	ldl	
+Note_Number-405: Sent_Number-3: kwellsrn	
+Note_Number-406: Sent_Number-1: member	returned	call	states	has	eaten	lot	peanut	butter	eggs	couple	months	
+Note_Number-406: Sent_Number-4: encouraged	monitor	bs	take	information	
+Note_Number-406: Sent_Number-5: bp	screening	
+Note_Number-406: Sent_Number-6: member	is	bp	med	
+Note_Number-406: Sent_Number-9: results	faxed	
+Note_Number-406: Sent_Number-10: asked	member	notify	appointment	agrees	do	
+Note_Number-406: Sent_Number-11: kwellsrn	
+Note_Number-407: Sent_Number-2: kwellsrn	
+Note_Number-408: Sent_Number-1: called	member	answered	phone	asked	member	
+Note_Number-408: Sent_Number-2: emailed	letter	member	follows	member	
+Note_Number-409: Sent_Number-1: hope	finds	doing	
+Note_Number-409: Sent_Number-2: have	tried	times	contact	regarding	know	number	results	
+Note_Number-409: Sent_Number-4: health	is	
+Note_Number-409: Sent_Number-5: be	review	results	
+Note_Number-409: Sent_Number-6: be	reached	monday	friday	
+Note_Number-409: Sent_Number-7: set	time	hours	talk	
+Note_Number-409: Sent_Number-8: look	hearing	
+Note_Number-409: Sent_Number-9: reach	email	kwells	doctorsdirecthealthcare	net	
+Note_Number-409: Sent_Number-10: kwells	rn	
+Note_Number-410: Sent_Number-1: email	member	was	months	check	june	family	doctor	dr	lentz	
+Note_Number-411: Sent_Number-1: reply	morning	thank	reply	
+Note_Number-411: Sent_Number-2: hope	appointment	went	
+Note_Number-411: Sent_Number-3: did	physician	review	know	number	results	
+Note_Number-411: Sent_Number-4: thanks	
+Note_Number-412: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-412: Sent_Number-2: called	member	review	results	left	message	please	return	call	
+Note_Number-413: Sent_Number-1: kwells	rn	
+Note_Number-414: Sent_Number-1: called	member	left	message	member	return	call	
+Note_Number-414: Sent_Number-2: kwells	rn	
+Note_Number-415: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-415: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-415: Sent_Number-4: is	talk	
+Note_Number-415: Sent_Number-5: be	reached	monday	friday	
+Note_Number-415: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-415: Sent_Number-7: look	hearing	
+Note_Number-415: Sent_Number-8: kwells	rn	
+Note_Number-416: Sent_Number-1: member	called	review	kyn	packet	
+Note_Number-416: Sent_Number-2: smokes	is	interested	smoking	cessation	information	
+Note_Number-416: Sent_Number-3: is	enrolled	receive	information	
+Note_Number-416: Sent_Number-4: discussed	a1c	drinks	lot	juices	
+Note_Number-416: Sent_Number-5: cut	
+Note_Number-416: Sent_Number-6: bp	is	
+Note_Number-416: Sent_Number-7: md	visits	
+Note_Number-416: Sent_Number-8: encouraged	keep	check	
+Note_Number-416: Sent_Number-9: eats	heart	diet	uses	grains	sodas	
+Note_Number-416: Sent_Number-10: lifts	weights	exercise	
+Note_Number-416: Sent_Number-11: encouraged	keep	habits	
+Note_Number-416: Sent_Number-12: emailed	member	following	i	diet	tips	
+Note_Number-416: Sent_Number-13: kwells	rn	
+Note_Number-417: Sent_Number-1: talked	member	phone	congratulated	being	
+Note_Number-417: Sent_Number-2: category	
+Note_Number-417: Sent_Number-3: was	hear	lab	results	were	range	
+Note_Number-417: Sent_Number-4: was	concerned	is	having	symptoms	are	palpitations	gain	is	exhausted	time	
+Note_Number-417: Sent_Number-5: has	family	member	has	been	diagnosed	hyperthyroidism	family	member	had	exophthalmos	
+Note_Number-417: Sent_Number-7: encouraged	see	md	share	symptom	history	ask	screening	tests	
+Note_Number-417: Sent_Number-8: stated	do	
+Note_Number-417: Sent_Number-9: call	outcome	questions	
+Note_Number-417: Sent_Number-10: kwells	rn	
+Note_Number-418: Sent_Number-1: called	member	review	kyn	results	
+Note_Number-418: Sent_Number-2: bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-419: Sent_Number-1: left	message	please	return	call	review	results	
+Note_Number-419: Sent_Number-2: kwells	rn	
+Note_Number-420: Sent_Number-1: called	member	left	message	return	call	regarding	kyn	results	
+Note_Number-420: Sent_Number-2: kwells	rn	
+Note_Number-421: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-421: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-421: Sent_Number-4: is	talk	
+Note_Number-421: Sent_Number-5: be	reached	monday	friday	
+Note_Number-421: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-421: Sent_Number-7: look	hearing	
+Note_Number-421: Sent_Number-8: kwells	rn	
+Note_Number-423: Sent_Number-1: know	number	hello	
+Note_Number-423: Sent_Number-2: s	time	go	results	
+Note_Number-423: Sent_Number-4: ext	
+Note_Number-423: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-423: Sent_Number-6: am	looking	talking	
+Note_Number-423: Sent_Number-7: karen	wells	rn	doctors	health	care	
+Note_Number-424: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-424: Sent_Number-2: kwells	rn	
+Note_Number-425: Sent_Number-1: called	left	vm	
+Note_Number-425: Sent_Number-2: email	
+Note_Number-425: Sent_Number-3: ahill	rn	
+Note_Number-427: Sent_Number-1: know	number	hello	
+Note_Number-427: Sent_Number-2: s	time	go	results	
+Note_Number-427: Sent_Number-4: ext	
+Note_Number-427: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-427: Sent_Number-6: am	looking	talking	
+Note_Number-427: Sent_Number-7: karen	wells	rn	doctors	health	care	
+Note_Number-428: Sent_Number-1: left	message	member	return	call	re	kyn	screening	results	
+Note_Number-428: Sent_Number-2: bp	screening	was	
+Note_Number-428: Sent_Number-4: was	screening	was	have	bp	rechecked	
+Note_Number-428: Sent_Number-5: results	bs	tchol	tri	hdl	a1c	
+Note_Number-428: Sent_Number-6: physician	listed	
+Note_Number-428: Sent_Number-7: kwellsrn	
+Note_Number-429: Sent_Number-1: emailed	member	following	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-429: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-429: Sent_Number-3: is	talk	
+Note_Number-429: Sent_Number-4: be	reached	monday	friday	
+Note_Number-429: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-429: Sent_Number-6: look	hearing	
+Note_Number-429: Sent_Number-7: **i	be	office	today	thursday	april	
+Note_Number-429: Sent_Number-8: kwellsrn	
+Note_Number-430: Sent_Number-1: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-430: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-430: Sent_Number-3: is	talk	
+Note_Number-430: Sent_Number-4: be	reached	monday	friday	
+Note_Number-430: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-430: Sent_Number-6: look	hearing	
+Note_Number-430: Sent_Number-7: kwellsrn	
+Note_Number-431: Sent_Number-1: response	member	today	
+Note_Number-431: Sent_Number-2: called	left	message	please	return	call	regarding	know	number	screening	results	
+Note_Number-431: Sent_Number-3: emailed	member	email	address	provided	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-431: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-431: Sent_Number-5: is	talk	
+Note_Number-431: Sent_Number-6: be	reached	monday	friday	
+Note_Number-431: Sent_Number-7: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-431: Sent_Number-8: look	hearing	
+Note_Number-431: Sent_Number-9: kwellsrn	
+Note_Number-432: Sent_Number-1: emailed	member	follows	member	hope	finds	doing	
+Note_Number-432: Sent_Number-2: have	tried	times	contact	regarding	know	number	results	
+Note_Number-432: Sent_Number-4: health	is	
+Note_Number-432: Sent_Number-5: be	review	results	
+Note_Number-432: Sent_Number-6: be	reached	monday	friday	
+Note_Number-432: Sent_Number-7: set	time	hours	talk	
+Note_Number-432: Sent_Number-8: look	hearing	
+Note_Number-432: Sent_Number-9: reach	email	
+Note_Number-433: Sent_Number-1: kwells	@	
+Note_Number-433: Sent_Number-2: 
+Note_Number-434: Sent_Number-1: bp	screening	was	
+Note_Number-434: Sent_Number-3: requested	communication	be	mail	
+Note_Number-435: Sent_Number-2: screening	member	had	stated	go	see	md	have	bp	checked	
+Note_Number-435: Sent_Number-3: gave	card	screening	had	bp	results	written	share	
+Note_Number-436: Sent_Number-1: mailed	letter	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-436: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-436: Sent_Number-3: is	talk	
+Note_Number-436: Sent_Number-4: be	reached	monday	friday	
+Note_Number-436: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-436: Sent_Number-6: look	hearing	
+Note_Number-436: Sent_Number-7: kwellsrn	
+Note_Number-437: Sent_Number-1: response	member	
+Note_Number-437: Sent_Number-2: mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-437: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-437: Sent_Number-4: is	talk	
+Note_Number-437: Sent_Number-5: be	reached	monday	friday	
+Note_Number-437: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-437: Sent_Number-7: look	hearing	
+Note_Number-437: Sent_Number-8: kwellsrn	
+Note_Number-438: Sent_Number-1: called	member	review	kyn	results	bs149	a1c	tchol	tri	hdl	ldl	
+Note_Number-438: Sent_Number-2: member	reports	history	polydipsia	polyuria	had	pneumonia	december	states	had	time	getting	
+Note_Number-438: Sent_Number-3: does	have	physician	call	appointment	asap	
+Note_Number-438: Sent_Number-4: discussed	effects	elevated	blood	sugars	kidney	eye	nerve	damage	etc	
+Note_Number-438: Sent_Number-5: lab	results	faxed	
+Note_Number-438: Sent_Number-6: member	agreed	contact	appointment	
+Note_Number-438: Sent_Number-7: kwellsrn	
+Note_Number-439: Sent_Number-2: kwells	rn	
+Note_Number-440: Sent_Number-1: left	message	member	call	
+Note_Number-440: Sent_Number-2: kwells	rn	
+Note_Number-441: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	
+Note_Number-441: Sent_Number-2: attempted	call	member	number	was	
+Note_Number-441: Sent_Number-3: try	
+Note_Number-441: Sent_Number-4: kwells	rn	
+Note_Number-442: Sent_Number-1: attempted	call	number	is	
+Note_Number-442: Sent_Number-2: kwells	rn	
+Note_Number-443: Sent_Number-1: attempted	call	member	number	is	
+Note_Number-443: Sent_Number-2: emailed	following	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-443: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-443: Sent_Number-4: is	talk	
+Note_Number-443: Sent_Number-5: be	reached	monday	friday	
+Note_Number-443: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-443: Sent_Number-7: look	hearing	
+Note_Number-443: Sent_Number-8: kwells	rn	
+Note_Number-444: Sent_Number-1: member	called	review	kyn	results	
+Note_Number-444: Sent_Number-2: does	have	family	members	diabetes	
+Note_Number-444: Sent_Number-4: does	walk	mile	am	miles	afternoons	is	something	used	do	is	getting	habit	
+Note_Number-444: Sent_Number-5: encouraged	continue	
+Note_Number-444: Sent_Number-6: discussed	benefit	changing	bread	rice	pasta	whole	grains	
+Note_Number-444: Sent_Number-7: congratulated	bp	chol	hdl	tri	being	limits	
+Note_Number-444: Sent_Number-8: discussed	ada	guidelines	place	a1c	risk	category	understand	importance	measures	
+Note_Number-444: Sent_Number-9: commended	exercise	habits	
+Note_Number-444: Sent_Number-10: encouraged	keep	intake	carbohydrates	sugar	
+Note_Number-444: Sent_Number-11: emailed	member	following	get	
+Note_Number-444: Sent_Number-13: kwells	rn	
+Note_Number-445: Sent_Number-1: spoke	member	phone	regarding	kyn	results	
+Note_Number-445: Sent_Number-2: bp	screening	was	
+Note_Number-445: Sent_Number-3: member	stated	had	bp	monitor	home	readings	home	have	been	
+Note_Number-445: Sent_Number-4: said	bp	was	elevated	times	fall	injured	finger	went	have	stitches	follow	visits	injury	bp	was	elevated	
+Note_Number-445: Sent_Number-5: visit	was	
+Note_Number-445: Sent_Number-7: has	appointment	today	eval	
+Note_Number-445: Sent_Number-8: kyn	results	reviewed	bs	a1c	discussed	risk	develop	diabetes	according	ada	guidelines	
+Note_Number-445: Sent_Number-9: tchol	tri	hdl	ldl	
+Note_Number-446: Sent_Number-1: member	agreed	contact	physicians	interventions	appointment	
+Note_Number-446: Sent_Number-2: labs	faxed	md	
+Note_Number-446: Sent_Number-3: kwellsrn	
+Note_Number-447: Sent_Number-1: called	member	follow	left	message	return	call	
+Note_Number-447: Sent_Number-2: kwells	rn	
+Note_Number-448: Sent_Number-1: called	member	left	message	return	call	re	follwup	kyn	screening	
+Note_Number-448: Sent_Number-2: kwells	rn	
+Note_Number-449: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	tri	
+Note_Number-449: Sent_Number-2: attempted	call	member	review	results	
+Note_Number-449: Sent_Number-4: mailed	member	following	letter	hello	am	registered	nurse	doctors	healthcare	
+Note_Number-450: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-450: Sent_Number-2: have	attempted	reach	phone	review	results	
+Note_Number-450: Sent_Number-3: be	reached	monday	friday	
+Note_Number-450: Sent_Number-5: reach	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-450: Sent_Number-6: look	hearing	
+Note_Number-450: Sent_Number-7: kwells	rn	
+Note_Number-451: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-451: Sent_Number-2: called	member	review	results	left	message	member	return	call	
+Note_Number-451: Sent_Number-3: kwells	rn	
+Note_Number-452: Sent_Number-1: called	left	message	member	return	call	regarding	kyn	results	
+Note_Number-452: Sent_Number-2: kwells	rn	
+Note_Number-453: Sent_Number-1: member	called	review	kyn	results	
+Note_Number-453: Sent_Number-2: family	history	diabetes	is	
+Note_Number-453: Sent_Number-3: discussed	ada	guidelines	place	risk	category	develop	diabetes	a1c	fbs	
+Note_Number-453: Sent_Number-4: discussed	ways	reduce	a1c	increasing	fiber	decreasing	carbohydrates	using	whole	grains	products	increasing	exercise	eat	omega	fatty	acids	red	meat	
+Note_Number-453: Sent_Number-5: enjoys	eating	coconut	drinks	liquid	inside	
+Note_Number-453: Sent_Number-6: eats	
+Note_Number-453: Sent_Number-7: encouraged	add	protein	breakfast	menu	times	week	decrease	carbohydrate	intake	
+Note_Number-454: Sent_Number-2: sees	bp	monitoring	
+Note_Number-454: Sent_Number-3: encouraged	write	bps	checks	take	information	md	
+Note_Number-455: Sent_Number-1: like	lost	weight	year	decrease	carbohydrate	consumption	
+Note_Number-455: Sent_Number-2: sent	following	information	mail	get	
+Note_Number-455: Sent_Number-4: counting	
+Note_Number-455: Sent_Number-5: kwells	rn	
+Note_Number-456: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	tri	
+Note_Number-457: Sent_Number-1: called	member	left	message	please	return	call	review	kyn	results	
+Note_Number-457: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-457: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-457: Sent_Number-4: is	talk	
+Note_Number-457: Sent_Number-5: be	reached	monday	friday	
+Note_Number-457: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-457: Sent_Number-7: look	hearing	
+Note_Number-457: Sent_Number-8: thank	kwells	rn	
+Note_Number-458: Sent_Number-1: called	member	left	message	return	call	regarding	kyn	results	
+Note_Number-458: Sent_Number-2: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-458: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-458: Sent_Number-4: is	talk	
+Note_Number-458: Sent_Number-5: be	reached	monday	friday	
+Note_Number-458: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-458: Sent_Number-7: look	hearing	
+Note_Number-458: Sent_Number-8: kwells	rn	
+Note_Number-459: Sent_Number-1: member	called	review	kyn	results	
+Note_Number-459: Sent_Number-2: started	fenofibrate	approx	
+Note_Number-459: Sent_Number-4: discussed	ways	decrease	cholesterol	changes	eating	grains	products	eating	protein	decreasing	red	meat	consumption	eat	increase	fiber	diet	fruits	veggies	eating	are	omega	fatty	acids	
+Note_Number-459: Sent_Number-5: stressed	benefit	cardio	exercise	
+Note_Number-459: Sent_Number-6: walks	dogs	times	week	neighborhood	
+Note_Number-460: Sent_Number-2: encouraged	do	take	reading	goes	md	follow	
+Note_Number-460: Sent_Number-3: reports	tolerating	fenofibrate	
+Note_Number-460: Sent_Number-4: call	email	sees	recheck	cholesterol	
+Note_Number-461: Sent_Number-1: encouraged	continue	making	changes	diet	incorporating	become	habit	
+Note_Number-462: Sent_Number-1: emailed	following	information	cholesterol	tlc	fruit	chart	chart	i	cook	
+Note_Number-462: Sent_Number-2: 
+Note_Number-462: Sent_Number-3: referred	member	explore	sparkpeople	com	
+Note_Number-462: Sent_Number-4: kwells	rn	
+Note_Number-463: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-464: Sent_Number-1: called	member	left	message	return	call	review	kyn	results	
+Note_Number-464: Sent_Number-2: emailed	member	follows	member	
+Note_Number-465: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-465: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-465: Sent_Number-3: is	talk	
+Note_Number-465: Sent_Number-4: be	reached	monday	friday	
+Note_Number-465: Sent_Number-5: be	office	today	thursday	
+Note_Number-465: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-465: Sent_Number-7: look	hearing	
+Note_Number-465: Sent_Number-8: thank	kwells	rn	
+Note_Number-466: Sent_Number-1: called	member	left	message	return	call	regarding	kyn	results	
+Note_Number-466: Sent_Number-2: emailed	member	follows	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-466: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-466: Sent_Number-4: is	talk	
+Note_Number-466: Sent_Number-5: be	reached	monday	friday	
+Note_Number-466: Sent_Number-6: be	office	today	thursday	
+Note_Number-466: Sent_Number-7: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-466: Sent_Number-8: look	hearing	
+Note_Number-466: Sent_Number-9: kwells	rn	
+Note_Number-467: Sent_Number-2: mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-467: Sent_Number-3: am	attempting	reach	discuss	results	
+Note_Number-467: Sent_Number-4: is	talk	
+Note_Number-467: Sent_Number-5: be	reached	monday	friday	
+Note_Number-467: Sent_Number-6: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-467: Sent_Number-7: look	hearing	
+Note_Number-467: Sent_Number-8: kwells	rn	
+Note_Number-468: Sent_Number-1: called	member	review	kyn	results	bp	bs	a1c	tchol	tri	hdl	
+Note_Number-468: Sent_Number-2: left	message	member	please	return	call	
+Note_Number-468: Sent_Number-3: kwellsrn	
+Note_Number-469: Sent_Number-1: member	returned	call	
+Note_Number-469: Sent_Number-2: had	bp	checked	monday	health	coach	work	was	
+Note_Number-469: Sent_Number-3: instruction	is	checking	home	take	readings	
+Note_Number-469: Sent_Number-4: keeps	record	bp	months	has	been	
+Note_Number-469: Sent_Number-5: reports	has	gained	pounds	
+Note_Number-469: Sent_Number-7: encouraged	decrease	salt	intake	increase	exercise	esp	
+Note_Number-469: Sent_Number-8: walking	
+Note_Number-469: Sent_Number-9: walk	daughter	said	
+Note_Number-469: Sent_Number-10: is	having	swimming	pool	installed	month	exercise	
+Note_Number-469: Sent_Number-11: instructed	see	bp	readings	eval	
+Note_Number-469: Sent_Number-12: states	do	let	know	dr	says	
+Note_Number-469: Sent_Number-13: lab	results	faxed	md	members	request	
+Note_Number-469: Sent_Number-14: reviewed	kyn	results	bs	a1c	tchol	tri	hdl	
+Note_Number-469: Sent_Number-15: kwellsrn	
+Note_Number-470: Sent_Number-1: left	message	member	call	re	kyn	follwup	
+Note_Number-470: Sent_Number-2: emailed	member	follows	morning	
+Note_Number-470: Sent_Number-3: trust	finds	doing	
+Note_Number-470: Sent_Number-4: has	been	couple	months	spoke	wanted	touch	base	see	things	are	going	
+Note_Number-470: Sent_Number-5: please	call	email	ext	
+Note_Number-470: Sent_Number-6: email	is	kwells	doctorsdirecthealthcare	net	
+Note_Number-470: Sent_Number-7: ?	m	looking	hearing	
+Note_Number-470: Sent_Number-8: have	super	day	
+Note_Number-470: Sent_Number-9: kwells	rn	
+Note_Number-471: Sent_Number-1: member	returned	call	states	saw	md	weeks	kyn	results	
+Note_Number-471: Sent_Number-2: md	changed	bp	medication	dosage	
+Note_Number-471: Sent_Number-3: bps	are	running	
+Note_Number-471: Sent_Number-5: has	been	checking	bp	home	keeping	record	readings	take	md	goes	
+Note_Number-471: Sent_Number-6: has	had	pressure	was	working	heat	
+Note_Number-471: Sent_Number-7: cautioned	dehydration	bps	being	heat	
+Note_Number-471: Sent_Number-8: got	swimming	pool	installed	is	looking	enjoying	kwells	rn	
+Note_Number-472: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-472: Sent_Number-2: kwells	rn	
+Note_Number-473: Sent_Number-1: called	left	vm	
+Note_Number-473: Sent_Number-2: email	
+Note_Number-473: Sent_Number-3: hill	rn	
+Note_Number-475: Sent_Number-1: hello	
+Note_Number-475: Sent_Number-2: s	time	go	results	
+Note_Number-475: Sent_Number-4: ext	
+Note_Number-475: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-475: Sent_Number-6: am	looking	talking	
+Note_Number-475: Sent_Number-7: karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-476: Sent_Number-2: emailed	member	follows	member	
+Note_Number-477: Sent_Number-1: doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-477: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-477: Sent_Number-3: be	reached	monday	friday	
+Note_Number-477: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-477: Sent_Number-5: look	hearing	
+Note_Number-477: Sent_Number-6: kwells	rn	
+Note_Number-478: Sent_Number-2: emailed	member	
+Note_Number-478: Sent_Number-3: hill	rn	
+Note_Number-480: Sent_Number-1: hello	
+Note_Number-480: Sent_Number-2: s	time	go	results	
+Note_Number-480: Sent_Number-4: ext	
+Note_Number-480: Sent_Number-5: email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	
+Note_Number-480: Sent_Number-6: am	looking	talking	
+Note_Number-480: Sent_Number-7: karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-481: Sent_Number-1: attempted	reach	member	number	provided	questionnaire	person	answering	phone	stated	name	lives	
+Note_Number-482: Sent_Number-1: emailed	member	address	provided	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-482: Sent_Number-2: am	attempting	reach	discuss	results	
+Note_Number-482: Sent_Number-3: is	talk	
+Note_Number-482: Sent_Number-4: be	reached	monday	friday	
+Note_Number-482: Sent_Number-5: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-482: Sent_Number-6: look	hearing	
+Note_Number-482: Sent_Number-7: lab	results	faxed	members	
+Note_Number-482: Sent_Number-8: kwellsrn	
+Note_Number-483: Sent_Number-1: member	returned	call	confirms	is	phone	number	
+Note_Number-483: Sent_Number-2: bp	bs	a1c	tchol	tri	hdl	
+Note_Number-484: Sent_Number-2: mother	sister	are	
+Note_Number-484: Sent_Number-3: does	recall	period	time	was	urinated	year	unexplained	pound	weight	loss	fatigue	
+Note_Number-484: Sent_Number-4: call	md	am	appointment	
+Note_Number-484: Sent_Number-5: agreed	call	sees	update	interventions	taken	
+Note_Number-484: Sent_Number-6: discussed	effects	untreated	elevated	blood	sugars	
+Note_Number-484: Sent_Number-7: kwellsrn	
+Note_Number-485: Sent_Number-2: refaxed	confirmation	received	
+Note_Number-485: Sent_Number-3: kwellsrn	
+Note_Number-486: Sent_Number-2: called	left	message	return	call	
+Note_Number-486: Sent_Number-3: kwells	rn	
+Note_Number-487: Sent_Number-1: talked	member	is	seeing	physician	reviewed	results	started	metformin	
+Note_Number-487: Sent_Number-2: goes	follow	visit	weeks	
+Note_Number-487: Sent_Number-4: is	feeling	
+Note_Number-487: Sent_Number-5: has	seen	nutritionist	has	helped	planning	
+Note_Number-487: Sent_Number-6: member	call	upcoming	follow	visit	
+Note_Number-487: Sent_Number-7: kwells	rn	
+Note_Number-488: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-488: Sent_Number-2: kwells	rn	
+Note_Number-489: Sent_Number-1: called	member	left	message	return	call	re	kyn	results	
+Note_Number-490: Sent_Number-1: mailed	letter	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-490: Sent_Number-2: am	attempting	reach	review	results	
+Note_Number-490: Sent_Number-3: be	reached	monday	friday	
+Note_Number-490: Sent_Number-4: please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	
+Note_Number-490: Sent_Number-5: look	hearing	
+Note_Number-490: Sent_Number-6: thank	kwells	

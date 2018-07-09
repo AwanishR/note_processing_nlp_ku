@@ -1,0 +1,150 @@
+Note_Number-1: met	phone	do	tob	tobacco	feels	can	tell	difference	nrt	orbal	chew	
+Note_Number-2: met	phone	do	nothing	has	changed	quit	feels	timing	is	does	try	near	future	
+Note_Number-3: met	do	dob	glu	watches	bit	eats	concerned	likes	nachos	chips	pizza	bread	pasta	likes	fish	knows	needs	pick	exercise	focus	thing	time	
+Note_Number-4: met	do	wmp	has	lost	has	dropped	weeks	suggested	almond	milk	greek	yogurt	doing	
+Note_Number-5: met	do	tob	nothing	has	changed	chewing	
+Note_Number-6: met	station	is	motivated	quit	has	attempted	quit	has	used	patch	has	used	way	like	be	smoke	come	end	month	is	going	work	smoking	vehicle	weeks	smokes	pack	day	triggers	stress	aftermeals	feels	has	goal	smoking	vehicle	have	quit	date	appointment	
+Note_Number-7: met	phone	go	blood	work	said	chol	numbers	go	lot	go	medication	said	is	eating	lot	better	watching	portions	knows	needs	pick	exercise	
+Note_Number-8: went	results	
+Note_Number-9: met	phone	do	is	smoke	chantix	is	going	be	seeing	doctor	week	wants	is	pushing	symptoms	anxiety	goal	stay	smoke	
+Note_Number-10: met	phone	go	blood	work	made	aware	elevated	chol	numbers	has	been	dealing	chol	years	has	family	history	works	doctor	has	stress	test	done	heart	scan	is	seeing	cardiologist	is	shape	like	provide	information	eating	go	
+Note_Number-11: went	results	
+Note_Number-12: met	phone	do	tob	has	started	quit	date	is	june	daughter	are	going	do	grandson	is	feels	quitting	is	doing	daughter	
+Note_Number-13: met	phone	go	blood	results	made	aware	glu	a1c	said	is	knows	has	do	chol	numbers	have	come	way	is	medication	went	qha	
+Note_Number-14: went	results	
+Note_Number-15: met	phone	go	blood	results	said	chol	numbers	are	jumping	tc	eats	lot	chicken	went	qha	
+Note_Number-16: went	results	
+Note_Number-17: met	phone	do	tob	is	using	lozenge	has	been	trying	get	lozenge	said	has	cut	job	is	lot	has	been	going	keep	cutting	
+Note_Number-18: met	go	blood	results	made	tc	trigs	gave	information	help	improve	numbers	big	sweets	person	went	qha	
+Note_Number-19: went	results	
+Note_Number-20: call	kate	re	healthy	rewards	states	forward	cleveland	clinic	discussed	ways	earn	smoking	cessation	is	interested	pursuing	return	consent	
+Note_Number-21: met	do	tob	has	smoking	pack	day	stress	job	environment	is	says	wants	time	bought	patch	
+Note_Number-22: met	phone	do	dob	said	is	running	amount	nothing	has	changed	time	talked	glu	numbers	are	running	upset	having	do	program	
+Note_Number-23: met	phone	do	tob	said	is	quitting	does	want	help	area	
+Note_Number-24: met	phone	do	tob	nothing	has	changed	working	trying	get	wife	quit	has	cigar	time	time	
+Note_Number-25: met	do	tob	is	using	has	been	doing	cigarette	has	increased	smoking	day	knows	needs	work	will	be	moving	amount	nicotine	goal	cigarette	day	
+Note_Number-26: met	phone	go	blood	results	has	followed	doctor	chol	medication	was	medication	has	side	effects	doctor	took	is	going	try	level	exercise	works	days	fire	house	lifts	runs	eats	lot	red	meat	gave	information	help	improve	chol	numbers	
+Note_Number-27: went	results	
+Note_Number-28: met	phone	do	tob	chewing	tobacco	last	days	has	cut	wants	quit	suggested	sugar	candy	sight	mind	has	tried	gum	lozenge	going	call	doctor	b/c	wants	do	goal	get	script	chantix	begin	appoitment	
+Note_Number-29: call	lanny	questions	re	healthy	rewards	criteria	met	need	complete	return	consent	exp	process	getting	checks	understood	
+Note_Number-30: husband	have	schedules	helps	see	evening	kids	are	motivator	husband	doing	chantix	thinks	patch	is	going	be	option	wants	start	vacation	begin	july	
+Note_Number-31: went	results	said	psm	did	job	breaking	number	gave	information	help	elevated	chol	numbers	appreciated	
+Note_Number-32: went	results	
+Note_Number-33: met	phone	go	blood	results	made	aware	elevated	trigs	hdl	gave	information	help	numbers	said	numbers	were	issue	year	
+Note_Number-34: went	results	
+Note_Number-35: met	phone	do	tob	has	been	smoking	years	smokes	packs	day	does	lot	is	stressed	feels	calms	said	likes	have	morning	coffee	part	morning	routine	said	is	timing	try	quit	everything	going	city	
+Note_Number-36: met	phone	do	nothing	has	changed	besides	is	stressed	smoking	is	comfort	has	plans	try	quit	days	
+Note_Number-37: met	phone	go	blood	results	made	aware	elevated	chol	numbers	feels	needs	do	going	went	qha	sent	hra	link	username	password	wife	form	wife	
+Note_Number-38: went	results	
+Note_Number-39: met	do	wmp	went	food	labels	lost	week	doing	
+Note_Number-40: met	do	is	chewing	day	wants	quit	says	be	come	monday	june	
+Note_Number-41: met	phone	go	blood	results	made	aware	elevated	chol	numbers	gave	information	help	numbers	
+Note_Number-42: went	results	
+Note_Number-43: met	do	dob	has	been	paying	attention	is	eating	basis	said	use	have	walking	routine	fell	year	feels	being	work	has	caused	lack	motivation	walk	does	have	gym	membership	goal	continue	focus	food	is	eating	amount	
+Note_Number-44: lm	dick	follow	bp	health	fair	noted	clms	afterward	bp	seeing	response	health	fair	call	questions	
+Note_Number-45: met	phone	go	blood	results	said	ate	red	meat	months	very	went	qha	
+Note_Number-46: went	results	
+Note_Number-47: follow	call	christina	see	is	doing	weight	loss	states	cont	have	issues	pain	body	is	seems	do	anything	becoming	exhausted	receiving	pt	prob	achilles	getting	euflexxa	inj	bone	bone	knee	asked	chf	sx	states	days	has	be	na	h2o	intake	is	noticing	swelling	difficulty	getting	thru	meijer	enc	call	cardiologist	states	muscles	are	strength	discussed	pool	exercises	enc	call	be	assistance	call	cardiologist	very	appreciative	call	
+Note_Number-48: met	phone	go	blood	results	was	numbers	being	elevated	eats	lot	red	meat	reason	elevated	tc	ldl	gave	information	help	numbers	went	qha	
+Note_Number-49: went	results	
+Note_Number-50: do	wmp	super	busy	has	help	work	lost	bp	staying	consistent	was	vacation	forgot	take	bp	medication	
+Note_Number-51: do	wmp	has	lost	bp	has	come	feels	has	started	getting	use	do	
+Note_Number-52: met	do	is	smoke	chantix	having	dreams	does	mind	is	trying	lose	weight	watching	is	eating	basis	
+Note_Number-53: met	phone	go	blood	results	has	had	issue	chol	numbers	felt	was	was	holidays	has	went	palio	diet	eating	went	qha	
+Note_Number-54: went	results	
+Note_Number-55: met	phone	go	blood	results	blood	draw	has	been	working	closes	pcp	has	had	sessions	nurse	regards	glucose	a1c	specialist	going	call	june	
+Note_Number-56: went	results	
+Note_Number-57: met	phone	do	dob	has	met	nurse	occasions	help	glucose	a1c	has	met	occasions	diabetes	specialist	has	brought	glucose	is	metaphormin	working	pcp	having	blood	work	done	june	going	give	call	appointment	
+Note_Number-58: dob	
+Note_Number-59: met	phone	go	blood	results	has	family	history	comes	chol	keeps	eye	has	had	issues	gave	information	help	elevated	numbers	
+Note_Number-60: went	results	
+Note_Number-61: met	phone	go	blood	work	did	pcp	blood	work	are	keeping	eye	has	put	medication	going	run	blood	work	fall	sent	hra	link	reset	username	password	
+Note_Number-62: went	results	
+Note_Number-63: met	phone	do	dob	started	week	exercise	weights	came	respiratory	infection	has	affected	week	was	go	classes	week	did	lift	weights	week	doing	2sets	repetitions	arms	shoulders	was	surprised	body	reacted	testing	continuing	pay	attention	is	eating	goal	get	exercise	routine	
+Note_Number-64: met	phone	go	results	said	has	followed	pcp	blood	work	was	done	use	be	medication	chol	made	sick	has	changed	diet	stopped	eating	fast	food	was	eating	everyday	continues	run	miles	days	station	doctor	is	doing	month	follow	have	blood	drawn	see	numbers	have	come	keeping	eye	psa	
+Note_Number-65: went	results	
+Note_Number-66: met	do	tob	phone	said	has	filled	script	chantix	is	wants	anymore	said	has	cut	back	day	going	continue	consider	getting	script	filled	
+Note_Number-67: met	phone	do	has	desire	quit	feels	does	do	is	is	lot	going	father	law	had	appliances	break	
+Note_Number-68: spoke	tom	concerning	elig	is	er	diverticulitis	states	has	had	sx	are	verified	elig	relayed	cigna	entering	enc	hospital	call	benefits	cont	issues	very	appreciative	
+Note_Number-69: met	phone	go	blood	results	did	follow	pcp	gave	information	help	is	tc	ldl	likes	red	meat	went	qha	
+Note_Number-70: went	results	
+Note_Number-71: met	phone	go	blood	work	did	want	advice	said	followed	pcp	went	qha	
+Note_Number-72: went	results	
+Note_Number-73: purpose	cholesterol	education	
+Note_Number-74: tracey	states	exercises	days	week	eats	fish	consumes	heart	fats	grains	plenty	fruits	vegetables	does	consume	saturated	fats	
+Note_Number-75: tchol	hdl	ldl	wt	ht	bmi	
+Note_Number-76: health	education	hyperlipidemia	obesity	
+Note_Number-77: patricia	states	was	fulfill	insurance	requirement	education	stated	doctor	manages	health	stated	insurance	was	invading	privacy	did	want	talk	requested	cholesterol	education	materials	be	given	read	
+Note_Number-78: tchol	hdl	ldl	tg	bmi	ht	wt	estimated	requirement	lose	
+Note_Number-79: purpose	hyperlipidemia	management	
+Note_Number-80: tiffany	states	exercises	days	jogs	hikes	gardening	consumes	fats	fruits	vegetables	meats	nuts	beans	foods	states	tries	eat	heart	diet	states	loves	sweets	has	learned	curb	intake	
+Note_Number-81: tchol	hdl	ldl	tg	bmi	ht	wt	
+Note_Number-82: purpose	type	diabetes	obesity	hyperlipidemia	
+Note_Number-83: gerry	reported	was	diagnosed	type	diabetes	year	time	diagnosis	ha1c	was	%	weight	was	lost	following	diet	given	has	gained	lbs	starting	work	mg	months	eats	am	lunch	pm	dinner	pm	snacks	reports	problem	is	consuming	food	pasta	purchased	cake	pie	eat	home	has	nothing	mentality	regarding	eating	lives	new	port	richey	does	exercise	walks	work	is	metformin	mg	
+Note_Number-84: sindy	was	diagnosed	march	peanuts	chocolate	allergies	has	eliminated	food	diet	feels	better	bloating	congestion	diet	consists	fruits	veggies	chicken	turkey	beef	eggs	almond	milk	feta	cheese	brown	rice	potatoes	corn	complained	hypoglycemia	night	takes	tablet	glipizide	gm	metformin	bid	bg	ranges	fbg	hs	consumes	gm	cho	meal	snack	day	walks	3x/week	is	reports	losing	march	
+Note_Number-85: tchol	hdl	tg	bmi	ha1c	%	estimated	requirement	lose	=	gm	cho	
+Note_Number-86: instructed	client	increase	cho	intake	evening	meal	prevent	hypoglycemia	treatment	hypoglycemia	was	reviewed	reviewed	satiety	hunger	cues	education	materials	included	discovery	scale\\	\\	carb	counting	meal	planning\\	
+Note_Number-87: met	phone	do	tob	is	quitting	time	smoking	pack	day	
+Note_Number-88: met	phone	do	dob	is	eating	lunch	said	dinner	has	been	fruit	has	glu	mid	said	feels	besides	knees	running	running	days	a1c	is	november	
+Note_Number-89: met	phone	do	tob	has	had	cigar	days	said	stays	does	think	something	does	basis	go	decent	amount	days	
+Note_Number-90: met	phone	do	tob	said	has	chew	day	feels	is	thing	is	doing	life	is	has	desire	quit	
+Note_Number-91: met	phone	go	tob	is	stage	patch	owns	bar	weakness	is	closing	night	has	beers	has	tried	using	gum	candy	replace	said	drinks	lets	guard	give	others	are	doing	has	been	smoke	weeks	going	do	round	stage	moving	stage	
+Note_Number-92: met	do	dob	said	is	starting	sleep	has	energy	day	does	drag	use	feels	program	has	helped	lot	walking	eating	has	been	staying	consistent	glu	today	family	is	becoming	has	helped	stayed	motivated	feeling	has	been	do	lot	going	steps	has	gotten	lot	easier	started	doing	stability	ball	exercises	taking	going	follow	end	july	
+Note_Number-93: met	phone	do	tob	started	tuesday	has	had	chew	saturday	june	has	had	urge	kept	overcame	said	is	having	side	effects	feels	good	everything	talked	purchasing	gum	is	bouncing	tractor	goal	stay	tobacco	
+Note_Number-94: met	phone	do	tob	started	chantix	week	day	has	went	pack	cigarettes	day	having	dreams	going	stick	going	see	twins	week	does	want	be	smoking	has	started	noticing	change	has	urge	
+Note_Number-95: met	phone	do	tob	started	chantix	week	day	has	went	pack	cigarettes	day	having	dreams	going	stick	going	see	twins	week	does	want	be	smoking	has	started	noticing	change	has	urge	
+Note_Number-96: met	do	dob	had	blood	work	done	doctor	weeks	glu	was	a1c	dropped	doctor	has	upped	insulin	sugar	is	control	increased	oil	has	cut	pasta	bread	wife	has	corn	allergy	try	stick	paleo	diet	lost	chicken	eggs	fruits	vegetables	packs	lunch	everday	do	eat	lot	goes	gym	does	lifting	cardio	hates	cardio	goal	increase	cardio	15-20mins	
+Note_Number-97: met	do	tob	is	chewing	cans	week	said	has	had	days	does	nicotine	oral	fixation	boredom	likes	do	plays	sundays	straws	toothpicks	sugar	candy	replace	
+Note_Number-98: met	do	tob	is	starting	consider	chantix	is	working	husband	is	thinking	patch	work	smoking	is	habit	thinks	chantix	is	nrt	work	going	think	
+Note_Number-99: met	phone	go	blood	results	was	er	call	gul	follow	doctor	asap	going	do	tobacco	education	starting	week	
+Note_Number-100: went	results	er	call	
+Note_Number-101: met	phone	go	blood	results	made	aware	tc	ldl	said	has	had	issues	chol	has	ratio	number	appreciated	following	went	qha	
+Note_Number-102: went	results	
+Note_Number-103: met	phone	go	blood	work	said	numbers	have	improved	year	works	is	pcp	has	lost	course	years	use	eat	lot	wife	works	cardiologist	has	had	stress	test	dye	test	done	everything	looks	
+Note_Number-104: went	results	
+Note_Number-105: met	phone	go	blood	results	numbers	have	improved	has	been	seeing	allergist	had	blood	work	done	doctor	everything	looked	
+Note_Number-106: went	results	
+Note_Number-107: please	allow	venofer	infusion	dos	mr	
+Note_Number-108: met	do	dob	gave	portion	size	cooking	snacking	fast	food	choices	feeling	is	doing	discussed	importance	testing	
+Note_Number-109: met	station	tob	has	decided	is	going	take	chantix	going	call	doctor	today	wants	start	june	leaves	vacation	has	done	chantix	feels	confident	work	time	
+Note_Number-110: met	station	do	tob	chews	every	days	chews	pouches	quit	cold	turkey	year	weeks	going	see	doctor	tomorrow	discuss	nrts	thinking	going	patch	gum	going	start	june	
+Note_Number-111: met	phone	go	tob	has	desire	quit	made	aware	nrts	are	copay	months	
+Note_Number-112: met	phone	go	blood	work	made	aware	a1c	number	eats	lot	candy	told	cut	help	a1c	
+Note_Number-113: went	results	
+Note_Number-114: met	phone	do	tob	is	longer	girl	was	dating	said	has	helped	stress	anxiety	was	averaging	cigarettes	day	said	is	does	plan	buying	anymore	is	looking	job	is	school	
+Note_Number-115: met	phone	go	dob	bs	running	is	using	go	meals	app	phone	track	readings	keep	track	information	is	struggling	watching	eats	doing	walking	everyday	is	going	download	restaurants	app	goes	eat	
+Note_Number-116: met	go	tob	has	been	smoke	days	said	tell	difference	breathing	feels	lot	better	is	walking	lunch	breaks	is	eating	oatmeal	morning	packs	lunch	everyday	weight	has	gone	month	focusing	staying	smoke	right	goal	stay	smoke	
+Note_Number-117: met	phone	do	tob	said	is	try	quit	made	aware	nrts	are	copay	said	knows	needs	quit	time	comes	is	said	try	nrt	wife	tried	did	work	
+Note_Number-118: reviewed	wellness	form	follow-up	required	time	
+Note_Number-119: met	phone	do	tob	is	does	try	quit	thinks	is	wants	do	patch	stopped	putting	cigarettes	car	help	delay	
+Note_Number-120: met	do	wmp	lost	.5lbs	lost	doing	has	started	riding	bike	home	considering	doing	need	pick	exercise	component	
+Note_Number-121: met	do	dob	is	walking	day	miles	is	eating	day	day	husband	are	doing	glu	was	course	program	has	dropped	glu	going	follow	month	
+Note_Number-122: met	do	tob	is	struggling	wanting	quit	trying	quit	is	scared	is	going	gain	bunch	weight	doctor	told	see	get	glu	control	quits	smoking	is	husband	quitting	is	going	focus	getting	glu	control	work	quitting	
+Note_Number-123: met	go	wmp	has	lost	making	total	lost	doing	has	upped	running	exercise	going	california	week	
+Note_Number-124: met	do	wmp	gained	retaining	lot	water	morning	ankles	hands	were	swollen	eating	exercise	bp	had	salt	morning	
+Note_Number-125: met	phone	go	tob	is	smoke	has	been	month	half	feels	good	has	picked	exercise	routine	splurges	time	time	eating	following	july	
+Note_Number-126: week	chantix	smoking	cigarettes	day	evening	cigarette	eating	has	increased	will	work	is	goal	tobacco	appointment	
+Note_Number-127: met	phone	do	tob	is	thinks	winter	be	time	quit	has	been	considering	wants	do	research	have	given	opinion	know	
+Note_Number-128: met	phone	do	dob	has	come	knee	replacement	surgery	sore	getting	alright	bs	is	staying	is	watching	calories	carbohydrade	feels	has	lost	has	potassium	number	control	
+Note_Number-129: met	do	dob	nothing	has	changed	time	knows	needs	work	exercise	matter	getting	do	said	has	lost	screenings	march	glu	today	goes	going	start	testing	day	
+Note_Number-130: call	laura	stating	katie	has	been	wanting	know	do	are	planning	surgery	states	had	mra	showed	lesions	gi	ascending	colon	rectum	looks	grade	sand	paper	has	been	used	is	dose	humira	steroids	planning	colectomy	colostomy	mos	return	surgery	j	colectomy	severity	condition	point	are	excited	surgery	katie	start	feeling	given	edgepark	ostomy	supplies	keep	posted	
+Note_Number-131: met	do	tob	does	want	quit	feels	good	is	has	family	issues	work	
+Note_Number-132: met	phone	go	tob	has	smoking	everyday	started	smoking	daughter	left	spain	struggles	has	talked	period	time	said	wants	continue	take	chantix	way	is	smoking	use	has	outlook	told	need	come	plan	months	runs	said	does	want	follow	weeks	like	follow	month	
+Note_Number-133: met	do	wmp	gained	body	fat	has	stayed	program	said	has	been	struggling	has	committed	program	struggling	weekends	
+Note_Number-134: met	phone	do	tob	has	interest	quitting	smoking	pack	day	said	does	think	try	quit	year	said	road	be	possibility	
+Note_Number-135: met	phone	do	dob	was	vacation	week	said	did	lot	walking	riding	bike	ate	meal	vacation	said	is	pack	is	work	routine	said	is	eating	lunch	glu	mid	morning	feels	nov	is	a1c	have	come	
+Note_Number-136: met	do	tob	is	chewing	can	day	feels	is	cutting	softball	work	are	is	triggers	using	gum	help	replace	wants	cut	mind	is	made	quit	
+Note_Number-137: met	do	tob	is	quit	has	cut	is	smoking	pack	day	trying	cut	amount	smokes	day	attack	quitting	wants	work	
+Note_Number-138: met	phone	do	tob	is	has	week	chantix	longer	has	use	toothpicks	get	urge	feels	confident	is	done	urges	come	do	month	chantix	
+Note_Number-139: met	do	dob	brought	glucometer	showed	use	tested	glu	was	down	screened	march	very	happy	progress	course	program	felt	was	feels	moving	forward	
+Note_Number-140: return	call	member	
+Note_Number-141: call	debbie	re	wellness	program	had	questions	re	hra	states	has	stopped	smoking	weeks	quot	cold	turkey	quot	had	been	smoker	years	encouragement	provided	amp	answered	questions	trans	benefits	had	questions	re	
+Note_Number-142: met	phone	go	blood	results	has	been	medication	chol	has	reaction	medication	blood	was	drawn	march	gave	information	help	hdl	
+Note_Number-143: went	results	
+Note_Number-144: met	phone	dob	has	been	years	takes	oral	medication	test	fbs	dinner	started	is	change	may	feeling	sleeping	has	lost	uses	myfitnesspal	does	eat	pasta	does	grain	eats	meals	day	drinks	lot	water	right	track	goal	exercise	everday	
+Note_Number-145: met	do	tob	said	nothing	has	changed	does	plan	changing	going	keep	chewing	
+Note_Number-146: met	go	blood	results	made	aware	chol	numbers	compared	year	gave	information	help	prevent	numbers	increasing	said	knows	needs	do	went	qha	
+Note_Number-147: went	results	
+Note_Number-148: call	tom	stating	has	appointments	fp	phys	surgeon	following	hospital	stay	diverticulitis	looking	surgery	discussed	rewards	program	ability	earn	addl	offset	costs	email	info	complete	y	acute	needs	identified	
+Note_Number-149: met	phone	do	dob	said	everything	is	going	bs	was	morning	working	doctor	doctor	believes	work	way	medication	year	is	watching	portion	control	seeing	doctor	month	doctor	is	talking	lowering	dosage	medication	
+Note_Number-150: met	phone	do	dob	has	been	refers	runs	family	mother	sister	being	type	gained	right	retired	made	bs	elevated	months	has	lost	numbers	have	improved	bs	was	morning	is	playing	hockey	running	miles	week	eats	complex	carbohydrade	wife	daughter	do	cooking	cooking	has	helped	bs	eats	lives	michigan	

@@ -1,0 +1,5 @@
+('met', 'NN')('over', 'IN')('the', 'DT')('phone', 'NN')('to', 'TO')('go', 'VB')('over', 'IN')('tob', 'NN')('#', '#')('1', 'CD')('.', '.')(NoteID:1)(SentID:1)
+('going', 'VBG')('to', 'TO')('try', 'NN')('it', 'PRP')('again', 'RB')('in', 'IN')('june', 'NN')('.', '.')(NoteID:1)(SentID:3)
+('he', 'PRP')('wants', 'VBZ')('to', 'TO')('quit', 'VB')('and', 'CC')('knows', 'VBZ')('he', 'PRP')('can', 'MD')('do', 'VB')('it', 'PRP')('in', 'IN')('june', 'NN')('.', '.')(NoteID:1)(SentID:4)
+('doing', 'VBG')('it', 'PRP')('with', 'IN')('his', 'PRP$')('wife', 'NN')('.', '.')(NoteID:1)(SentID:5)
+('he', 'PRP')('has', 'VBZ')('quit', 'VBN')('before', 'IN')('so', 'RB')('he', 'PRP')('has', 'VBZ')('confidence', 'NN')('he', 'PRP')('can', 'MD')('do', 'VB')('it', 'PRP')('again', 'RB')('.', '.')(NoteID:1)(SentID:6)

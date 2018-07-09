@@ -1,0 +1,167 @@
+Note_Number-2: Sent_Number-4: says	wants	cut	making	effort	
+Note_Number-6: Sent_Number-4: does	have	
+Note_Number-7: Sent_Number-3: did	get	exercise	was	hoping	
+Note_Number-17: Sent_Number-5: told	tell	a1c	number	get	saw	labs	work	quicker	getting	
+Note_Number-26: Sent_Number-8: has	been	working	lot	hours	getting	sleep	
+Note_Number-32: Sent_Number-4: has	been	trying	cut	
+Note_Number-32: Sent_Number-5: said	does	use	anymore	home	
+Note_Number-34: Sent_Number-4: does	have	thirst	urination	weight	changes	unexplained	fatigue	etc	
+Note_Number-41: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	hello	
+Note_Number-41: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-42: Sent_Number-3: 'm	reach	hours	is	hope	are	reach	agreement	time	go	test	results	
+Note_Number-43: Sent_Number-3: do	know	change	
+Note_Number-44: Sent_Number-3: understand	are	hours	day	seems	
+Note_Number-44: Sent_Number-5: email	results	do	mind	doing	
+Note_Number-47: Sent_Number-5: have	worked	avoid	fathers	lifestyle	got	sided	sugar	family	
+Note_Number-49: Sent_Number-1: am	going	call	are	leave	message	
+Note_Number-50: Sent_Number-4: does	want	put	time	frame	like	be	
+Note_Number-50: Sent_Number-5: wants	do	pace	be	pressured	
+Note_Number-72: Sent_Number-1: know	bs	a1c	
+Note_Number-78: Sent_Number-1: known	bs	was	a1c	tchol	tri	
+Note_Number-81: Sent_Number-9: continue	follow	psa	levels	has	chosen	quality	life	do	
+Note_Number-82: Sent_Number-2: member	does	have	doctor	is	listed	chart	
+Note_Number-83: Sent_Number-9: do	do	activity	
+Note_Number-83: Sent_Number-11: lifestyle	being	keep	weight	
+Note_Number-86: Sent_Number-4: going	push	issue	
+Note_Number-87: Sent_Number-5: had	been	do	minute	intervals	treadmill	holiday	weekend	
+Note_Number-91: Sent_Number-8: do	let	fall	cracks	
+Note_Number-104: Sent_Number-2: states	has	changed	diet	gained	amt	weight	has	been	steroids	months	
+Note_Number-115: Sent_Number-1: called	member	office	
+Note_Number-118: Sent_Number-2: have	rechecked	bp	do	
+Note_Number-119: Sent_Number-4: member	does	have	goes	douglas	
+Note_Number-121: Sent_Number-2: office	today	
+Note_Number-124: Sent_Number-4: states	has	change	doctors	is	wants	go	
+Note_Number-124: Sent_Number-5: explained	member	ignored	results	did	get	medicine	bring	sugar	have	complications	disease	
+Note_Number-124: Sent_Number-8: did	want	hear	news	labs	
+Note_Number-132: Sent_Number-1: called	member	does	have	vm	
+Note_Number-133: Sent_Number-5: have	rechecked	bp	do	
+Note_Number-138: Sent_Number-3: does	have	care	physician	thinks	does	need	cause	age	
+Note_Number-155: Sent_Number-4: member	does	have	doctor	
+Note_Number-156: Sent_Number-2: states	member	is	patient	dr	smith	s	
+Note_Number-158: Sent_Number-1: member	states	did	know	sugar	was	
+Note_Number-158: Sent_Number-3: member	assured	was	
+Note_Number-158: Sent_Number-4: does	have	doctor	
+Note_Number-158: Sent_Number-5: talked	member	bs	information	
+Note_Number-158: Sent_Number-6: encouraged	take	care	self	order	stay	take	care	wife	is	
+Note_Number-164: Sent_Number-4: asked	fax	results	bc	did	write	number	name	pcp	
+Note_Number-166: Sent_Number-1: called	spoke	wife	says	is	home	time	is	home	
+Note_Number-170: Sent_Number-3: take	message	
+Note_Number-170: Sent_Number-4: let	know	be	home	call	
+Note_Number-176: Sent_Number-2: claims	is	
+Note_Number-176: Sent_Number-3: medication	glu	
+Note_Number-177: Sent_Number-2: said	is	quit	
+Note_Number-181: Sent_Number-2: have	change	bread	rice	pasta	whole	grain	products	
+Note_Number-181: Sent_Number-3: labels	be	misleading	bread	say	is	grain	multi	grain	
+Note_Number-185: Sent_Number-4: medication	chol	
+Note_Number-191: Sent_Number-4: have	rechecked	bp	do	
+Note_Number-201: Sent_Number-3: reviewed	labs	consequences	taking	care	diabetes	
+Note_Number-205: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-206: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-208: Sent_Number-3: explained	something	was	bs	be	
+Note_Number-221: Sent_Number-2: did	speak	anyone	
+Note_Number-230: Sent_Number-4: has	rechecked	bp	
+Note_Number-233: Sent_Number-3: remember	a1c	was	thinks	was	is	working	reducing	exercising	following	diet	
+Note_Number-233: Sent_Number-4: knows	do	does	do	cheats	
+Note_Number-252: Sent_Number-1: talked	member	was	work	time	states	is	doing	thyroid	medication	bp	medication	are	working	
+Note_Number-264: Sent_Number-3: has	gland	does	work	
+Note_Number-264: Sent_Number-6: does	see	endocrinologist	
+Note_Number-264: Sent_Number-7: t3	t4	run	
+Note_Number-270: Sent_Number-3: does	start	gets	work	does	happen	home	
+Note_Number-270: Sent_Number-4: thinks	be	perfumes	cleaners	/	work	is	does	home	
+Note_Number-270: Sent_Number-7: does	have	peak	flow	meter	talk	md	getting	
+Note_Number-270: Sent_Number-8: has	noticed	sleep	fine	recliner	night	lying	does	rest	
+Note_Number-270: Sent_Number-11: has	had	allergy	testing	done	thirty	years	
+Note_Number-278: Sent_Number-1: attempted	reach	member	phone	number	is	service	
+Note_Number-288: Sent_Number-9: fiber	is	absorbed	body	absorbs	cholesterol	takes	
+Note_Number-289: Sent_Number-3: have	discussed	doctor	am	trying	ldl	cholesterol	do	want	be	put	drug	rest	life	exercise	days	week	hour	
+Note_Number-289: Sent_Number-7: do	eat	bread	rice	pasta	eat	rice	grain	breads	pastas	
+Note_Number-289: Sent_Number-8: avoid	sugar	do	drink	soda	iced	tea	coffee	alcohol	fruit	juices	
+Note_Number-289: Sent_Number-11: do	eat	eat	lot	chicken	making	effort	eat	red	meat	eat	vegetables	
+Note_Number-289: Sent_Number-14: do	eat	food	
+Note_Number-290: Sent_Number-4: am	wondering	is	family	history	elevated	cholesterol	issues	are	doing	right	things	cholesterol	does	come	be	component	cholesterol	elevation	
+Note_Number-290: Sent_Number-6: understand	wanting	be	cholesterol	medication	are	doing	everything	keep	going	route	
+Note_Number-291: Sent_Number-10: goal	using	driving	
+Note_Number-293: Sent_Number-3: encouraged	be	psa	was	discussed	missed	appointment	
+Note_Number-293: Sent_Number-5: a1c	is	explained	means	is	risk	developing	diabetes	encouraged	talk	forget	promises	
+Note_Number-294: Sent_Number-1: member	called	look	lab	take	specimen	feeling	let	know	had	tetanus	shot	friday	doctors	office	
+Note_Number-295: Sent_Number-4: was	put	medication	was	told	was	related	alcohol	consumption	reduced	amount	
+Note_Number-295: Sent_Number-8: encouraged	get	medication	is	being	controlled	lifestyle	choices	
+Note_Number-298: Sent_Number-7: grazing	evening	anymore	
+Note_Number-299: Sent_Number-3: going	change	time	
+Note_Number-300: Sent_Number-2: said	is	thinking	road	does	want	quit	
+Note_Number-301: Sent_Number-1: member	did	phone	number	email	screening	
+Note_Number-314: Sent_Number-1: dr	anderson	s	office	called	states	do	have	patient	name	kenneth	jackson	
+Note_Number-327: Sent_Number-1: answering	phone	said	be	evening	call	monday	reach	
+Note_Number-328: Sent_Number-2: does	know	history	diabetes	
+Note_Number-328: Sent_Number-4: does	drink	does	drink	tea	
+Note_Number-333: Sent_Number-6: is	experiencing	symtoms	elevated	bs	
+Note_Number-334: Sent_Number-1: does	exercise	besides	does	work	is	doing	yardwork	warm	months	
+Note_Number-335: Sent_Number-1: was	concerned	sheet	brought	home	md	appointment	listed	diagnosis	kidney	disease	stage	did	know	anything	stated	was	told	anything	md	office	
+Note_Number-336: Sent_Number-2: do	have	knock	prevent	diabetes	alert	are	risk	
+Note_Number-340: Sent_Number-2: member	did	list	questionnaire	
+Note_Number-342: Sent_Number-2: called	member	message	states	person	number	is	accepting	calls	time	
+Note_Number-343: Sent_Number-4: am	concerned	health	want	encourage	have	done	see	physician	
+Note_Number-347: Sent_Number-1: have	received	response	member	today	
+Note_Number-349: Sent_Number-1: does	eat	food	does	drink	sodas	
+Note_Number-353: Sent_Number-5: said	discovered	cholesterol	was	elevated	years	made	suggested	changes	diet	does	eat	fried	food	avoids	red	meat	eats	heart	diet	levels	did	change	
+Note_Number-357: Sent_Number-1: does	have	meter	
+Note_Number-357: Sent_Number-9: does	eat	fruit	
+Note_Number-360: Sent_Number-1: having	kitchen	renovated	got	track	was	cook	home	was	eating	lot	gained	pounds	
+Note_Number-370: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-372: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-375: Sent_Number-9: has	seen	md	
+Note_Number-379: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-380: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-387: Sent_Number-2: has	seen	md	kyn	packet	saw	screening	
+Note_Number-389: Sent_Number-5: thinks	mother	have	had	bp	brother	do	
+Note_Number-395: Sent_Number-1: have	received	response	member	today	
+Note_Number-397: Sent_Number-3: does	eat	
+Note_Number-400: Sent_Number-4: is	does	have	time	do	exercise	program	gym	etc	
+Note_Number-400: Sent_Number-7: does	have	bp	monitor	home	
+Note_Number-401: Sent_Number-1: has	issues	sleep	does	reach	deep	sleep	stage	according	sleep	study	
+Note_Number-403: Sent_Number-2: eats	lots	fruits	vegetables	meat	red	meat	grains	nuts	
+Note_Number-403: Sent_Number-3: had	seen	md	year	was	going	be	put	medicine	cholesterol	blood	pressure	did	want	be	put	medications	lost	weight	has	been	stay	medication	
+Note_Number-403: Sent_Number-4: does	have	exercise	program	lack	time	is	problem	
+Note_Number-404: Sent_Number-1: member	did	provide	phone	number	email	address	questionnaire	screening	
+Note_Number-404: Sent_Number-2: indicated	did	wish	communicate	health	coach	time	
+Note_Number-406: Sent_Number-2: does	check	bs	home	does	have	monitor	
+Note_Number-406: Sent_Number-3: reports	bs	check	md	was	december	a1c	was	time	does	remember	fbs	was	
+Note_Number-406: Sent_Number-7: does	monitor	bp	home	do	take	readings	md	
+Note_Number-406: Sent_Number-8: md	visit	is	scheduled	june	see	md	sooner	review	kyn	results	
+Note_Number-407: Sent_Number-1: fax	did	go	verified	correct	number	office	refaxed	labs	
+Note_Number-409: Sent_Number-3: am	concerned	health	want	encourage	have	done	see	physician	
+Note_Number-410: Sent_Number-2: did	get	results	
+Note_Number-415: Sent_Number-1: have	received	response	member	today	
+Note_Number-417: Sent_Number-6: member	does	want	end	family	member	
+Note_Number-421: Sent_Number-1: have	received	response	member	today	
+Note_Number-422: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-423: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-426: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-427: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-428: Sent_Number-3: screening	said	is	bp	med	was	md	bp	time	was	
+Note_Number-432: Sent_Number-3: am	concerned	health	want	encourage	have	done	see	physician	
+Note_Number-434: Sent_Number-2: screening	member	refused	provide	phone	number	screener	stated	did	want	anyone	calling	house	reason	
+Note_Number-435: Sent_Number-1: kyn	lab	results	do	contain	alert	values	do	need	follow	members	bp	
+Note_Number-439: Sent_Number-1: have	heard	member	called	left	message	return	call	
+Note_Number-444: Sent_Number-3: diet	does	include	sweets	concentrated	forms	sugar	carbohydrates	
+Note_Number-444: Sent_Number-12: do	have	knock	prevent	diabetes	
+Note_Number-445: Sent_Number-6: is	bp	medication	time	
+Note_Number-449: Sent_Number-3: answering	phone	states	is	asleep	does	want	calls	had	indicated	screening	form	sees	does	want	talk	anyone	
+Note_Number-450: Sent_Number-4: times	are	set	time	let	know	
+Note_Number-454: Sent_Number-1: does	have	blood	pressure	monitor	home	has	checked	pharmacy	
+Note_Number-455: Sent_Number-3: do	have	knock	prevent	diabetes	
+Note_Number-459: Sent_Number-3: months	has	been	dr	recheck	cholesterol	
+Note_Number-460: Sent_Number-1: does	have	bp	monitor	home	has	rechecked	bp	screening	
+Note_Number-467: Sent_Number-1: have	received	response	member	today	
+Note_Number-469: Sent_Number-6: eats	pretzels	night	is	exercising	weather	
+Note_Number-471: Sent_Number-4: does	notice	feels	
+Note_Number-474: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	
+Note_Number-475: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-476: Sent_Number-1: attempted	call	member	number	recording	indicates	number	is	service	
+Note_Number-478: Sent_Number-1: called	member	number	service	
+Note_Number-479: Sent_Number-1: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	
+Note_Number-480: Sent_Number-3: have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	
+Note_Number-484: Sent_Number-1: states	teen	was	told	was	did	realize	blood	sugar	was	
+Note_Number-485: Sent_Number-1: member	called	say	had	contacted	physicians	office	had	received	fax	labwork	
+Note_Number-486: Sent_Number-1: have	heard	member	
+Note_Number-487: Sent_Number-3: stated	is	noticing	is	tired	time	does	urinate	used	

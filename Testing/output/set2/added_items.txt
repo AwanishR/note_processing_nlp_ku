@@ -1,0 +1,23 @@
+Pass 2 ---
+Added ->
+Removed CAP as diagnosis from diag NER file.
+Included No and free in negation rule.
+
+
+--------------------------------
+Changes in count after pass 2 ----
+
+Note 22: CAP 3 (diagnosis - xx, FP) --> TN > +3, FP > -3
+Note 34: CAP 2 (diagnosis - xx , FP ) --> TN > +2, FP > -2
+Note 39: exercising (habit -xx, FP), medication (drug - xx, FP) --> TN > +2, FP > -2
+Note 54: smoke (habit - xx, FP, use of word free) --> TN > +1, FP > -1
+Note 56: tobacco 2(habit - xx, FP, "just like chewing tobacco", "tobacco free") --> TN > +1, TP > +1, FN > -2
+Note 58: smoking (habit - xx, FP, "no smoking") --> TN > +2, FP > -1
+Note 62: smoke (habit - xx, FP, "smoke free") --> TN > +1, FP > -1
+Note 133: tobacoo  (habit - xx, "FP", word free) --> TN >  +1, FP > -1
+Note 135: smoke (habit - xx, FP, word free) --> TN > +1, FP > -1
+Note 147: smoke (habit - xx, FP, free) --> TN > +1, FP > -1
+Note 155: exercise (habit - xx, FP, no) --> TN > +1, FP > -1
+Note 172: exercise (habit - xx, FP, no) --> TN > +1, FP > -1
+Note 243: smoke (habit - xx, FP, "free") --> TN > +2, FP > -1
+CAP : TN > +2

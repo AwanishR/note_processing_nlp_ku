@@ -1,0 +1,90 @@
+
+<< Note Number >>1
+Original Sentence2 >>> Did chantix last year and it helped but did not have the right mindset going into it.
+Preprocessed Sentence:>>>:did chantix last year and it helped but did not have the right mindset going into it .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+chantix
+----
+last
+----
+year
+----
+and
+----
+it
+----
+helped
+----
+but
+----
+did
+----
+not
+----
+have
+----
+the
+----
+right
+----
+mindset
+----
+going
+----
+into
+----
+it
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('chantix', 'VBN') ('last', 'JJ') ('year', 'NN') ('and', 'CC') ('it', 'PRP') ('helped', 'VBD') ('but', 'CC') ('did', 'VBD') ('not', 'RB') ('have', 'VB') ('the', 'DT') ('right', 'NN') ('mindset', 'NN') ('going', 'VBG') ('into', 'IN') ('it', 'PRP') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence7 >>> tobacco free.
+Preprocessed Sentence:>>>:tobacco free .  <<<
+
+Tokens of this sentence are as follows
+
+----
+tobacco
+----
+free
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('tobacco', 'NN') ('free', 'JJ') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence8 >>> Smoke free.
+Preprocessed Sentence:>>>:smoke free .  <<<
+
+Tokens of this sentence are as follows
+
+----
+smoke
+----
+free
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('smoke', 'NN') ('free', 'JJ') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence9 >>> No diabetes.
+Preprocessed Sentence:>>>:no diabetes .  <<<
+
+Tokens of this sentence are as follows
+
+----
+no
+----
+diabetes
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('no', 'DT') ('diabetes', 'NNS') ('.', '.') 

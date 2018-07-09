@@ -1,0 +1,43 @@
+Processing note of file testing/test_data/set2/test_data.txt....
+
+Processing completed!!!
+Total Time taken is 0 munutes and 11 seconds
+('\nTotal number of sentences detected :', 1189)
+('\nTotal number of tokens detected :', 42298)
+
+NER matcher completed...
+Total Time taken is 0 munutes and 28 seconds
+Total match found::824
+>>> 
+
+>>> 
+NN-VB extractor running for negation ...
+Total Time taken is 0 munutes and 0 seconds
+
+Noun-Verb extraction completed!!!
+Total Noun-Verb extracted::435
+>>> 
+
+>>> 
+NN-VB extractor running ...
+Total Time taken is 0 munutes and 0 seconds
+
+Noun-Verb extraction completed!!!
+Total Noun-Verb extracted::4476
+>>> 
+
+>>> 
+Processing NER matcher Neg ...
+in main
+NER matcher completed...
+Total Time taken is 0 munutes and 0 seconds
+Total match found::28
+>>> 
+
+Processing completed!!!
+Total Time taken is 0 munutes and 7 seconds
+('\nTotal number of sentences detected :', 1)
+('\nTotal number of notes detected :', 252)
+('\nTotal diag bigrams detected :', 1)
+('\nTotal prod bigrams detected :', 21)
+('\nTotal vital bigrams detected :', 15)

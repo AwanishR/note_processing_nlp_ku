@@ -1,0 +1,490 @@
+Note_Number-1: units	lantis	twice	day	upped	units	surgery	test	day	adjusting	insulin	get	bs	bs	yesterday	doctor	like	see	bs	
+Note_Number-2: met	do	tob	is	chewing	days	triggers	are	work	says	wants	cut	making	effort	claims	quit	want	is	using	everyday	chews	day	said	is	trying	cut	
+Note_Number-3: met	do	dob	said	feels	is	eating	is	doing	stuck	goal	getting	gym	week	said	is	feeling	going	stay	goal	getting	cardio	week	has	gotten	grazing	meals	
+Note_Number-4: met	phone	do	dob	is	doing	session	bs	morning	meals	loves	pizza	spikes	trying	get	walking	everyday	using	go	meal	app	looking	menus	online	eating	focusing	is	eating	trying	do	is	
+Note_Number-5: met	do	tob	is	is	feels	lot	better	breathe	taste	has	improved	has	upped	exercise	doing	intervals	jogging	weight	going	follow	month	
+Note_Number-6: met	phone	do	dob	is	doing	weeks	knee	replacement	surgery	does	have	is	eating	glu	like	keep	going	keep	starting	move	
+Note_Number-7: met	do	wmp	numbers	have	stayed	did	get	exercise	was	hoping	had	funerals	week	getting	track	weeks	focusing	picking	exercise	
+Note_Number-8: met	phone	do	exchange	diet	carb	protein	diet	exercise	lost	diagnosed	put	wants	take	meals	meals	day	lunch	v8	juice	carrots	turkey	breast	tortilla	rice	cakes	soda	water	cut	milk	fruit	goal	minutes	walking	biking	week	
+Note_Number-9: had	eye	exam	june	
+Note_Number-10: see	foot	doctor	months	
+Note_Number-11: left	voice	mail	dphillips	rn	
+Note_Number-12: met	do	wmp	lost	week	bp	feeling	coming	vacation	going	keep	increasing	exercise	
+Note_Number-13: labs	psa	psa	done	urology	was	doctor	feels	is	inflammed	put	antibiotics	continues	monitor	had	done	year	was	continues	see	uro	follow	pcp	gets	results	mail	needs	cholesterol	numbers	excellent	lipitor	omega	a1c	is	diabetes	runs	family	excellent	numbers	
+Note_Number-14: left	message	needing	repeat	bp	member	bp	screening	labs	bs	tchol	ldl	a1c	dphillips	rn	
+Note_Number-15: bp	screening	labs	bs	a1c	left	message	dphillips	rn	
+Note_Number-16: call	member	went	llabs	asked	is	doing	diabetes	pills	shots	isnt	doing	anything	diabetes	nothing	cholesterol	either	a1c	was	year	cholesterol	was	year	was	supposed	see	doctor	year	asap	didnt	have	see	doctor	did	see	reviewing	notes	was	encouraged	follow	was	call	doctor	fax	number	fax	results	booklet	diabetes	was	mailed	went	doctor	a1c	is	
+Note_Number-17: went	risks	complications	blindness	amputations	dialysis	dysfunction	member	became	wanting	get	phone	amp	quot	get	get	need	see	doctor	amp	quot	went	risk	pancreatitis	triglycerides	is	supposed	call	doctor	call	fax	number	told	tell	a1c	number	get	saw	labs	work	quicker	getting	reminded	spouses	are	required	see	doctor	get	form	year	discounted	insurance	
+Note_Number-18: bs	a1c	known	diabetes	regimen	change	weeks	byetta	metformin	glipizide	started	insulin	lantus	humulog	metformin	bs	am	is	days	have	been	have	gained	pounds	change	
+Note_Number-19: walk	half	hour	minutes	day	was	doing	work	videos	work	had	stop	bronchitis	breath	better	humulog	twice	day	units	meals	amp	quot	have	tooth	amp	quot	follow	appointment	doctor	gets	packet	mail	encouraged	ask	doctor	referral	nutritionist	agrees	ask	dphillips	rn	
+Note_Number-20: helped	hra	
+Note_Number-21: values	values	
+Note_Number-22: triglycerides	hdl	cholesterol	vldl	chol	psa	a1c	medication	bp	chol	asa	
+Note_Number-23: met	phone	do	dob	said	everything	is	going	endocrinologist	had	have	blood	drawn	appointment	coming	week	review	see	results	came	give	idea	is	trigs	glu	a1c	are	continuing	exercise	eat	
+Note_Number-24: spoke	member	reviewed	kyn	lab	results	member	is	dm	med	remember	name	dosage	applies	cholesterol	bp	med	checking	sugar	q	day	educated	regards	carbohydrade	starches	sugar	consumption	drinking	sodas	wk	couple	beers	weekend	drinks	water	exercise	watch	sodium	intake	help	bp	states	had	eye	exam	year	has	requested	copy	/	years	results	j	tart	rn	
+Note_Number-25: met	do	wmp	came	week	vacation	put	said	is	track	eating	exercise	expecting	lose	weight	come	week	have	goal	getting	
+Note_Number-26: met	do	tob	smoking	has	increased	has	nerve	neck	going	get	mri	week	have	have	surgery	is	stage	ii	patch	going	keep	course	patch	has	been	working	lot	hours	getting	sleep	goal	continue	patch	
+Note_Number-27: met	phone	do	tob	has	interest	quitting	let	know	time	does	come	wants	make	quit	attempt	let	know	help	anyway	finished	program	
+Note_Number-28: met	phone	do	dob	is	exercising	everyday	glu	staying	doctor	are	numbers	are	a1c	check	nov	is	is	finished	program	
+Note_Number-29: met	do	is	smoking	has	cut	doing	e	cigarette	going	follow	august	see	thing	are	going	cigarettes	day	had	put	dog	
+Note_Number-30: met	do	smoking	pack	day	goal	is	try	quit	start	year	finished	program	
+Note_Number-31: met	do	tob	is	lozenges	has	been	spread	has	been	doing	lozenge	year	has	been	jan	stress	job	feels	has	made	get	lozenge	
+Note_Number-32: met	do	tob	everything	has	stayed	chewing	can	day	has	been	trying	cut	said	does	use	anymore	home	let	know	nrts	said	be	something	does	future	
+Note_Number-33: called	review	kyn	results	fbs	a1c	tchol	tri	hdl	ldl	family	history	diabetes	indicated	screening	form	labs	faxed	md	file	
+Note_Number-34: member	called	response	message	sees	is	being	treated	arthritis	takes	steroids	solumedrol	remicade	infusions	does	have	thirst	urination	weight	changes	unexplained	fatigue	etc	follow	asap	follow	weeks	
+Note_Number-35: garber	shanen	shaneng	verizon	net	
+Note_Number-36: called	member	left	message	member	return	call	re	kyn	results	emailed	member	follows	
+Note_Number-37: dear	member	
+Note_Number-38: doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-39: called	left	vm	member	return	call	emailed	member	hill	
+Note_Number-40: response	member	letter	mailed	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-41: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	mail	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-42: 'm	have	been	get	couple	weeks	've	been	working	am	pm	'm	reach	hours	is	hope	are	reach	agreement	time	go	test	results	
+Note_Number-43: p	s	work	schedule	is	am	seeing	lot	overtime	do	know	change	thank	time	
+Note_Number-44: morning	thank	reply	understand	are	hours	day	seems	be	screening	client	noon	today	tomorrow	afternoon	email	results	do	mind	doing	results	are	need	send	encrypted	have	set	password	open	email	is	something	be	stay	wednesday	thursday	evening	talk	let	know	works	be	looking	hearing	
+Note_Number-45: met	phone	do	tob	has	been	chewing	years	last	day	half	said	enjoys	doing	has	daughters	wants	quit	wife	quit	smoking	wellbutrin	has	used	nrt	triggers	are	runs	fishing	sporting	events	fixation	dependent	goal	research	nrts	decide	week	is	going	try	wants	quit	dec	daughters	bday	
+Note_Number-46: member	number	kyn	sheet	is	disconnected	searching	finding	goal	worksheet	found	working	number	left	voicemail	have	sent	email	dphillips	rn	
+Note_Number-47: completed	know	numbers	health	screening	have	tried	call	holiday	guess	missed	was	friends	house	fun	were	talking	screenings	checked	blood	sugar	was	am	terrified	health	is	declining	have	worked	avoid	fathers	lifestyle	got	sided	sugar	family	please	tell	is	going	am	get	educated	get	control	imagine	numbers	are	seeing	heart	disease	does	fact	run	family	hope	have	caught	avoid	damage	thanks	
+Note_Number-48: number	have	kyn	form	is	longer	service	call	am	sitting	phone	
+Note_Number-49: am	going	call	are	leave	message	am	office	week	monday	tuesday	thursday	friday	afternoon	debbie	
+Note_Number-50: met	do	tob	started	e	cigarette	gives	cigarettes	day	does	want	put	time	frame	like	be	wants	do	pace	be	pressured	going	monitor	support	quit	attempt	
+Note_Number-51: bp	screening	labs	limits	left	voice	mail	dphillips	rn	
+Note_Number-52: labs	bs	a1c	known	left	message	dphillips	rn	
+Note_Number-53: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-54: labs	known	bs	tri	a1c	left	message	dphillips	rn	
+Note_Number-55: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-56: bp	screening	left	message	
+Note_Number-57: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-58: bp	screening	labs	bs	tchol	
+Note_Number-59: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-60: debbie	phillips	rn	ccm	care	manager	doctors	healthcare	
+Note_Number-61: known	labs	bs	tchol	tri	a1c	leave	message	send	email	dphillips	rn	
+Note_Number-62: rechecked	home	had	found	day	husband	was	losing	job	was	went	home	checked	was	is	doctors	office	has	check	
+Note_Number-63: contact	letter	sent	email	address	answer	voice	mail	phone	dphillips	rn	
+Note_Number-64: labs	bs	tchol	tri	medication	cholesterol	screening	information	left	voice	mail	send	email	dphillips	rn	
+Note_Number-65: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-66: bp	screening	left	message	dphillips	rn	
+Note_Number-67: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-68: bp	lab	psa	left	message	dphillips	rn	
+Note_Number-69: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-70: bp	screening	left	message	dphillips	rn	
+Note_Number-71: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-72: know	bs	a1c	year	left	message	send	email	dphillips	rn	
+Note_Number-73: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-74: met	do	dob	has	started	paleo	diet	crossfit	gym	has	lost	pounds	bs	has	been	everyday	have	been	lunch	feels	good	is	
+Note_Number-75: labs	tchol	tri	left	message	dphillips	rn	send	email	
+Note_Number-76: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-77: met	do	is	has	desire	quit	going	keep	chewing	
+Note_Number-78: known	bs	was	a1c	tchol	tri	went	results	obtained	doctors	name	provided	information	regarding	range	bs	a1c	etc	emphasized	concerned	am	wellbeing	bs	risk	kidney	damage	etc	agrees	see	dr	asap	fax	results	see	doctor	agrees	contact	appointment	work	care	learning	diabetes	etc	
+Note_Number-79: labs	psa	year	was	answered	yes	diagnosed	cancer	left	message	dphillips	rn	
+Note_Number-80: member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	debbie	dphillips	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-81: return	call	member	was	diagnosed	cancer	care	year	had	radiation	etc	was	purpon	side	effects	were	was	remain	medication	has	been	therapy	time	cesium	therapy	continues	monitor	levels	sees	oncologist	months	pcp	continue	follow	psa	levels	has	chosen	quality	life	do	dphillips	rn	
+Note_Number-82: went	results	member	does	have	doctor	is	listed	chart	discussed	significance	triglycerides	call	doctor	get	appointment	asap	talked	family	history	talk	family	see	is	anyone	triglycerides	call	doctor	name	number	fax	number	appointment	date	fax	labs	time	dphillips	rn	
+Note_Number-83: met	phone	do	a1c	was	trying	stay	sweets	carbohydrade	test	day	bs	is	range	does	blood	work	months	medication	eat	lot	do	do	activity	go	lifestyle	being	keep	weight	year	diagnosed	goal	eat	times	week	
+Note_Number-84: member	has	appointment	dr	tomorrow	am	provided	number	fax	sent	labs	doctor	dphillips	rn	
+Note_Number-85: met	phone	do	dob	got	done	swimming	runs	week	tries	swims	days	is	chicago	eating	is	going	going	see	doctor	
+Note_Number-86: met	phone	do	has	desire	quit	going	keep	using	chewing	tobacco	time	going	push	issue	
+Note_Number-87: met	phone	do	dob	has	been	carb	counting	has	opened	eyes	bit	has	been	doing	meals	need	work	snacks	had	been	do	minute	intervals	treadmill	holiday	weekend	did	run	vacation	said	fbs	is	has	been	is	direction	is	heading	goal	intervals	keeping	snacks	carb	maximum	
+Note_Number-88: met	station	do	has	been	weeks	is	week	tobacco	feels	said	is	having	dreams	nothing	took	feels	moving	forward	doing	month	stay	tobacco	
+Note_Number-89: met	station	do	met	doctor	has	decided	go	has	prescription	plans	starting	feels	is	time	be	vacation	goal	start	chantix	
+Note_Number-90: met	station	do	dob	saw	endocrinologist	was	everything	trigs	bs	bs	is	staying	consistent	does	cardio	days	firehouse	feels	good	is	stays	pop	food	gets	lot	walking	mowing	business	rides	bikes	family	is	exercise	weight	goal	keep	weight	
+Note_Number-91: member	called	receiving	message	repeat	bp	was	has	had	elevated	psa	was	january	saw	urologist	years	had	rectal	exam	reports	is	time	colonoscopy	encouraged	remember	doctor	regarding	lab	do	let	fall	cracks	psa	was	elevated	is	elevated	address	doctor	get	taken	care	needs	see	urologist	go	do	agrees	discussed	bs	a1c	exercises	eats	lots	fruits	veggies	wife	is	encouraged	continue	watch	portions	move	keep	screenings	follow	dphillips	rn	
+Note_Number-92: met	go	blood	results	blood	draws	has	cut	junk	food	is	eating	has	lost	feels	has	desire	drink	eat	junk	tell	difference	feels	
+Note_Number-93: went	results	qha	
+Note_Number-94: met	do	dob	wanted	information	recipes	look	food	label	broke	food	label	placed	importance	testing	everyday	bs	week	gave	breakfast	pantry	ideas	
+Note_Number-95: fbs	a1c	psa	
+Note_Number-96: spoke	member	phone	concerning	bs	a1c	explained	importance	keeping	bs	control	effects	bs	have	body	period	time	reviewed	psa	patient	numbers	had	increased	screening	year	member	aware	is	problem	requested	labs	be	faxed	today	gp	dr	k	kolbie	urologist	dr	weigel	dublin	ga	faxed	results	member	request	member	appreciative	call	states	call	offices	make	fu	faxed	rec	d	confirmation	fax	transmission	emailed	member	let	know	info	had	been	faxed	dr	offices	lgasfp	southlandfp	com	
+Note_Number-97: dr	noah	weigel	middle	georgia	urology	associates	fairview	park	dr	dublin	ga	office	fax	dr	kirkland	kolbie1medical	center	hillcrest	pkwy	dublin	ga	office	fax	
+Note_Number-98: fbs	a1c	cholesterol	triglycerides	bp	
+Note_Number-99: truck	driver	called	spoke	member	phone	explained	a1c	indicated	bs	has	been	months	confirmed	has	felt	noted	vision	problems	was	eating	lot	candy	candy	bars	cakes	pies	weeks	has	tried	stop	eating	fruits	veg	trying	eat	meal	salad	explained	chol	were	elevated	year	are	elevated	year	talked	member	limiting	saturated	fats	foods	contained	states	has	stopped	eating	anything	states	father	died	heart	attack	encouraged	member	make	appointment	see	dr	grinner	meantime	start	taking	coated	oil	tab	morning	evening	
+Note_Number-100: member	thanked	call	stated	boss	man	were	talking	were	going	make	changes	eat	
+Note_Number-101: fbs	a1c	
+Note_Number-102: called	left	message	member	call	
+Note_Number-103: email	note	please	call	like	go	labs	phone	take	moment	time	
+Note_Number-104: member	returned	call	states	has	changed	diet	gained	amt	weight	has	been	steroids	months	doctor	has	been	watching	sugar	mother	has	developed	dm	ii	being	overweight	
+Note_Number-105: non	fasting	bs	a1c	triglycerides	
+Note_Number-106: called	left	member	vm	return	call	
+Note_Number-107: email	please	call	like	go	labs	phone	take	moment	time	
+Note_Number-108: reviewed	labs	were	member	steroids	mos	explained	being	steriods	increase	bs	triglycerides	follow	elevated	bs	members	bs	was	was	non	fasting	day	screening	member	states	sees	pcp	
+Note_Number-109: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-110: called	member	left	message	return	call	email	address	
+Note_Number-111: non	fasting	bs	a1c	triglycerides	
+Note_Number-112: spoke	member	phone	aware	a1c	bs	elevated	states	was	shots	while	doctor	told	be	elevated	seeing	doctor	mos	blood	work	follow	
+Note_Number-113: alert	is	patient	
+Note_Number-114: fbs	a1c	triglycerides	
+Note_Number-115: called	member	office	voice	mail	
+Note_Number-116: emailed	member	call	@	langboard	com	email	mr	chauncey	
+Note_Number-117: please	call	like	go	labs	phone	
+Note_Number-118: take	moment	time	have	rechecked	bp	do	like	compare	got	week	was	
+Note_Number-119: repeat	bp	member	returned	call	explained	labs	lifestyle	member	does	have	goes	douglas	explained	losing	weight	was	explained	member	needed	cut	foods	sodas	diet	encouraged	decrease	weight	waist	size	bs	triglycerides	decrease	decreased	
+Note_Number-120: member	called	left	message	needed	talk	
+Note_Number-121: called	member	office	today	
+Note_Number-122: spoke	member	phone	tips	answered	members	questions	satisfied	member	appreciative	call	states	heard	was	saying	talked	was	telling	someone	realized	had	missed	things	
+Note_Number-123: fbs	a1c	triglycerides	
+Note_Number-124: member	states	dm	runs	family	father	has	encouraged	see	dr	take	results	states	has	change	doctors	is	wants	go	explained	member	ignored	results	did	get	medicine	bring	sugar	have	complications	disease	states	get	doctor	follow	states	was	bummed	did	want	hear	news	labs	
+Note_Number-125: fasting	bs	a1c	
+Note_Number-126: lm	member	return	call	email	
+Note_Number-127: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-128: member	called	states	got	letter	mail	reviewed	labs	member	states	see	doctor	b	c	is	cholesterol	medication	has	have	labs	checked	member	states	went	doctor	had	blood	work	done	encouraged	member	follwup	doctor	labs	done	stressed	importance	watching	bs	reviewed	effects	sugar	body	time	
+Note_Number-129: fasting	bs	a1c	
+Note_Number-130: lm	member	return	call	email	
+Note_Number-131: non	fasting	bs	a1c	chol	
+Note_Number-132: called	member	does	have	vm	
+Note_Number-133: emailed	stan_clement99	yahoo	com	please	call	like	go	labs	phone	take	moment	time	have	rechecked	bp	do	like	compare	got	week	was	
+Note_Number-134: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-135: member	email	asking	member	please	call	review	labs	phone	
+Note_Number-136: non	fasting	bs	a1c	
+Note_Number-137: left	message	member	labs	asked	member	call	discuss	phone	email	
+Note_Number-138: talked	member	length	phone	is	concerned	bs	weight	does	have	care	physician	thinks	does	need	cause	age	encouraged	member	set	%	weight	loss	mos	%	member	weighs	is	weight	be	bt	lbs	member	states	thinks	do	goal	setting	talked	tapering	sodas	is	drinking	everyday	encouraged	cut	soda	day	week	reduce	sodas	day	week	is	encouraged	replace	water	explained	were	stop	drinking	soda	start	be	encouraged	start	reducing	white	foods	diet	states	is	thing	do	explained	have	want	change	anything	
+Note_Number-139: member	states	know	do	have	done	grand	father	has	diabetes	has	watched	go	stages	dm	
+Note_Number-140: non	fasting	bs	a1c	
+Note_Number-141: member	called	elevated	a1c	encouraged	watch	intake	foods	call	
+Note_Number-142: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-143: called	cell	number	vm	email	
+Note_Number-144: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-145: fbs	a1c	triglycerides	
+Note_Number-146: called	left	member	message	call	labs	
+Note_Number-147: emailed	fordsman	com	please	call	like	go	labs	phone	take	moment	time	
+Note_Number-148: member	states	knew	was	going	be	dr	scott	valdosta	had	checking	sugar	while	was	told	stop	started	putting	weight	lost	reviewed	complications	diabetes	encouraged	member	have	wife	make	changes	diet	exercise	routines	member	states	are	trying	
+Note_Number-149: fbs	a1c	
+Note_Number-150: left	message	member	labs	asked	member	call	discuss	phone	email	
+Note_Number-151: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-152: non	fasting	a1c	triglycerides	
+Note_Number-153: member	states	is	way	doctors	office	screening	bp	was	doctor	was	checking	day	trying	get	medication	called	today	member	stated	reading	yesterday	was	going	everyday	have	checked	member	states	is	feeling	(		bp	was	coming	explained	a1c	triglycerides	were	be	sending	results	doctor	encouraged	member	make	changes	diet	gave	suggestions	weight	encouraged	lose	weight	
+Note_Number-154: fbs	a1c	
+Note_Number-155: spoke	member	phone	explained	lab	results	having	blood	sugar	was	body	life	(		ed	member	does	have	doctor	explained	losing	weight	was	explained	member	needed	cut	foods	sodas	diet	
+Note_Number-156: vm	rec	d	brenda	dr	larry	s	office	valdosta	ga	rec	kyn	packet	member	labs	states	member	is	patient	dr	smith	s	shred	info	
+Note_Number-157: non	fbs	a1c	
+Note_Number-158: member	states	did	know	sugar	was	explained	a1c	shows	sugar	has	been	running	mos	member	assured	was	does	have	doctor	talked	member	bs	information	encouraged	take	care	self	order	stay	take	care	wife	is	
+Note_Number-159: please	note	member	is	
+Note_Number-160: fbs	a1c	
+Note_Number-161: left	voicemail	member	call	
+Note_Number-162: member	called	discussed	elevated	labs	phone	explained	term	effect	body	elevated	bp	night	was	
+Note_Number-163: fbs	a1c	triglycerides	
+Note_Number-164: spoke	member	phone	lab	results	father	member	states	has	pcp	asked	fax	results	bc	did	write	number	name	pcp	encouraged	member	see	doctor	address	problem	bs	member	states	wife	is	nurse	like	fax	results	confirmation	fax	was	
+Note_Number-165: fbs	a1c	
+Note_Number-166: called	spoke	wife	says	is	home	time	is	home	call	minutes	aware	want	speak	labs	
+Note_Number-167: called	answer	
+Note_Number-168: emailed	member	call	lab	work	
+Note_Number-169: member	called	rechecked	bp	encouraged	keep	eye	bp	reviewed	labs	member	phone	states	fu	doctor	
+Note_Number-170: non	fasting	bs	a1c	triglycerides	called	number	member	gave	spoke	woman	phone	take	message	let	know	be	home	call	
+Note_Number-171: alan	powell	alan	powell	lcpfh	org	emailed	alan	asked	please	fu	member	needs	doctor	
+Note_Number-172: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-173: email	results	be	include	instructions	set	password	thanks	
+Note_Number-174: met	go	blood	results	said	has	been	diagnosed	glu	a1c	said	has	lost	encouraged	go	see	doctor	asap	elevated	chol	numbers	
+Note_Number-175: went	results	qha	
+Note_Number-176: met	do	claims	is	medication	glu	encourage	see	doctor	asap	has	started	watch	portions	eating	food	morning	breakfast	walks	everyday	45mins	has	lost	march	
+Note_Number-177: met	phone	do	said	is	quit	is	smoking	pack	half	day	hoping	get	scheduled	week	
+Note_Number-178: hello	results	are	follows	
+Note_Number-179: lab	test	value	/	desired	level	blood	sugar	n	hemoglobin	a1c	n	blood	pressure	cholesterol	n	hdl	good	cholesterol	n	ldl	cholesterol	triglycerides	n	body	mass	index	n	
+Note_Number-180: blood	pressure	is	desired	level	change	minute	minute	ldl	cholesterol	is	desired	level	are	things	do	reduce	ldl	regard	diet	
+Note_Number-181: amount	whole	grains	fiber	diet	help	reduce	ldl	have	change	bread	rice	pasta	whole	grain	products	labels	be	misleading	bread	say	is	grain	multi	grain	brown	rice	grain	pastas	are	days	provide	diet	products	break	starch	sugar	
+Note_Number-182: omega	fatty	acids	red	meat	is	fatty	fish	mackerel	lake	herring	sardines	albacore	tuna	salmon	are	omega	fatty	acids	
+Note_Number-183: exercise	is	management	cholesterol	being	taking	brisk	minute	walks	times	week	is	place	begin	do	have	exercise	routine	place	
+Note_Number-184: congratulations	!	values	are	encourage	continue	utilizing	health	habits	
+Note_Number-185: met	phone	go	blood	results	chol	use	be	was	lipitor	had	side	effects	medication	chol	metformin	diabetes	a1c	glu	seeing	doctor	has	lost	years	encouraged	see	doctor	asap	eating	days	week	coke	week	goal	increase	exercise	increase	distance	bike	
+Note_Number-186: went	results	
+Note_Number-187: metformin	diabetes	a1c	glu	seeing	doctor	has	lost	years	encouraged	see	doctor	asap	eating	days	week	coke	week	portion	control	is	majority	time	goal	increase	exercise	increase	distance	bike	
+Note_Number-188: fbs	a1c	chol	triglycerides	
+Note_Number-189: left	message	member	call	lab	work	
+Note_Number-190: jgaskins1	@	plantlel	net	
+Note_Number-191: email	note	please	call	like	go	labs	phone	take	moment	time	have	rechecked	bp	do	like	compare	got	week	was	
+Note_Number-192: member	called	bp	states	checks	home	member	states	has	seen	dr	thomasville	is	diet	has	started	carb	diet	member	motivated	encouraged	stick	fu	dr	needed	
+Note_Number-193: morning	
+Note_Number-194: email	guide	set	password	send	results	use	password	open	email	
+Note_Number-195: have	day	
+Note_Number-196: non	fasting	bs	a1c	triglycerides	
+Note_Number-197: called	left	message	member	call	lab	work	email	listed	
+Note_Number-198: sent	letter	home	address	asking	call	lab	results	
+Note_Number-199: non	fasting	bs	a1c	triglycerides	
+Note_Number-200: called	left	message	woman	member	call	labs	took	number	states	give	
+Note_Number-201: member	returned	call	states	forgot	take	medication	day	were	draw	blood	reviewed	labs	consequences	taking	care	diabetes	member	states	understands	sees	doctor	up	call	
+Note_Number-202: spoke	member	calling	follwup	progress	changes	weight	loss	
+Note_Number-203: hope	are	doing	be	today	rest	week	like	review	screening	results	am	ext	looking	hearing	
+Note_Number-204: hello	hope	finds	doing	be	today	rest	week	like	review	screening	results	?	m	looking	hearing	
+Note_Number-205: aia	know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	
+Note_Number-206: mailed	following	letter	know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	
+Note_Number-207: fbs	a1c	triglycerides	
+Note_Number-208: spoke	member	phone	labs	member	states	diet	is	control	eats	meals	day	drinks	meals	fruit	berries	explained	something	was	bs	be	asked	family	history	diabetes	states	explained	triglycerides	were	was	be	encouraged	have	care	physician	recheck	blood	work	states	do	
+Note_Number-209: fbs	a1c	chol	
+Note_Number-210: spoke	member	phone	member	uses	cpap	machine	night	discussed	labs	expressed	concern	elevated	a1c	encouraged	follow	doctor	concerning	level	have	blood	work	
+Note_Number-211: fbs	a1c	psa	
+Note_Number-212: called	number	given	woman	answered	states	is	number	
+Note_Number-213: email	note	ghall	tlcmoulding	com	emailed	failed	
+Note_Number-214: sent	letter	have	tried	contact	reach	please	call	
+Note_Number-215: called	answer	answering	machine	
+Note_Number-216: emailed	member	asked	call	labs	
+Note_Number-217: member	responded	email	phone	call	talked	a1c	results	states	brother	is	encouraged	fu	doctor	have	labs	repeated	member	states	
+Note_Number-218: fbs	a1c	chol	
+Note_Number-219: called	phone	number	given	answer	
+Note_Number-220: called	member	left	message	member	please	return	call	kwellsrn	
+Note_Number-221: called	phone	was	picked	tone	came	did	speak	anyone	kwellsrn	
+Note_Number-222: email	message	dhunter	langdaleindustries	com	please	give	call	have	labs	like	discuss	phone	take	moment	time	
+Note_Number-223: member	returned	call	email	notice	reviewed	labs	member	states	is	is	cholesterol	medication	member	has	history	cancer	
+Note_Number-224: called	member	left	message	member	please	return	call	kwellsrn	
+Note_Number-225: called	member	number	listed	number	has	been	disconnected	kwellsrn	
+Note_Number-226: attempted	call	member	number	is	disconnected	kwells	rn	
+Note_Number-227: fbs	a1c	
+Note_Number-228: called	talked	member	labs	concerned	elevated	a1c	explained	labs	member	member	concerned	states	dr	had	wanted	call	schedule	fu	problem	inability	weeks	needed	flonase	relax	bladder	muscles	go	bathroom	member	asked	fax	labs	dr	william	nash	did	rec	d	confirmation	fax	went	member	said	call	afternoon	check	see	office	got	labs	schedule	appointment	
+Note_Number-229: fbs	a1c	
+Note_Number-230: called	member	discuss	a1c	sure	is	elevated	explained	test	has	rechecked	bp	states	is	gets	dr	office	end	visit	is	ok	wnl	
+Note_Number-231: called	member	answer	amp	amp	gt	rings	kwellsrn	
+Note_Number-232: called	answer	rings	kwellsrn	
+Note_Number-233: called	member	was	getting	home	work	is	activities	director	states	has	been	doing	fbs	am	running	remember	a1c	was	thinks	was	is	working	reducing	exercising	following	diet	knows	do	does	do	cheats	diet	take	lantus	night	walks	home	treadmill	walks	dog	times	is	metoprololol	ex	lisinopril	crestor	spironolactone	states	is	receiving	diabetes	education	heart	health	education	mail	sent	mail	following	information	
+Note_Number-234: getting	care	diabetes	diabetes	eating	control	taking	care	type	diabetes	
+Note_Number-235: fbs	a1c	
+Note_Number-236: called	left	message	member	call	labs	
+Note_Number-237: emailed	member	asking	call	review	labs	
+Note_Number-238: met	do	wmp	was	midpoint	review	has	lost	week	is	feeling	bp	paying	lot	attention	is	eating	portion	control	
+Note_Number-239: member	called	reviewed	labs	phone	member	states	understands	info	labs	follow	pcp	
+Note_Number-240: spoke	member	phone	states	is	doing	time	immediate	health	concerns	kwellsrn	
+Note_Number-241: non	fasting	bs	a1c	chol	triglycerides	
+Note_Number-242: called	left	message	member	call	labs	
+Note_Number-243: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-244: called	left	message	member	please	return	call	kwellsrn	
+Note_Number-245: left	message	member	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-246: emailed	member	following	need	fu	labs	please	give	call	number	discuss	
+Note_Number-247: x251	member	called	left	message	be	reached	
+Note_Number-248: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-249: left	message	member	please	return	call	kwellsrn	
+Note_Number-250: member	returned	call	meeting	called	back	had	leave	message	kwellsrn	
+Note_Number-251: returned	members	call	left	message	call	kwellsrn	
+Note_Number-252: talked	member	was	work	time	states	is	doing	thyroid	medication	bp	medication	are	working	takes	mg	lisinopril	sees	md	thyroid	levels	bp	are	monitored	md	took	name	number	gave	ddhc	website	explore	kwellsrn	
+Note_Number-253: member	called	discussed	labs	phone	states	is	taking	glucophage	cholesterol	lowering	medication	encouraged	lose	weight	help	labs	go	dr	following	pt	reviewed	diet	exercise	goals	member	
+Note_Number-254: called	member	left	message	member	please	return	call	kwellsrn	
+Note_Number-255: left	message	member	please	return	call	kwellsrn	
+Note_Number-256: called	member	left	message	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-257: called	member	left	msg	member	please	return	call	kwellsrn	
+Note_Number-258: left	message	home	number	member	please	return	call	cell	number	is	disconnected	kwellsrn	
+Note_Number-259: called	member	left	message	please	return	call	kwells	rn	
+Note_Number-260: fbs	a1c	
+Note_Number-261: left	message	member	call	concerning	lab	results	
+Note_Number-262: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-263: lefts	message	member	please	return	call	kwellsrn	
+Note_Number-264: member	returned	call	states	is	doing	thyroid	levels	get	balance	has	gland	does	work	taking	synthroid	mcg	states	knows	levels	are	balance	starts	feeling	has	bone	pain	muscle	aches	does	see	endocrinologist	t3	t4	run	encouraged	ask	check	labs	be	lacking	t3	cause	bone	muscle	pain	asked	is	taking	synthroid	is	states	s	way	afford	explained	forms	vary	potency	has	use	ask	pharmacy	try	fill	medication	manufacturer	help	ensure	response	
+Note_Number-265: member	has	had	family	members	ill	deaths	family	encouraged	take	care	kwellsrn	
+Note_Number-266: sent	letter	home	address	asking	call	lab	results	
+Note_Number-267: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-268: member	returned	call	states	health	issue	is	asthma	uses	nebulizer	twice	day	morning	night	uses	albuterol	inhaler	symbicort	abreva	states	sticks	medicine	regimen	does	has	had	weeks	aggravates	asthma	encouraged	continue	taking	care	asthma	using	medications	directed	states	lost	wife	years	has	son	daughter	enjoys	fishing	travels	places	fish	is	having	cataract	surgery	week	right	eye	talked	minutes	states	hates	coming	home	misses	wife	does	have	dog	german	shepherd	keeps	company	works	nursing	home	feels	needed	appreciated	residents	kwellsrn	
+Note_Number-269: called	member	left	message	return	call	kwellsrn	
+Note_Number-270: member	called	states	is	doing	had	exacerbation	couple	weeks	had	go	er	asthma	has	noticed	while	is	work	is	coughing	does	start	gets	work	does	happen	home	thinks	be	perfumes	cleaners	/	work	is	does	home	reports	having	difficulty	staying	asleep	night	wakes	has	use	nebulizer	clear	lungs	rest	does	have	peak	flow	meter	talk	md	getting	has	noticed	sleep	fine	recliner	night	lying	does	rest	suggested	use	pillows	wedge	elevate	upper	body	sleeping	help	is	going	ask	md	sleep	study	has	had	allergy	testing	done	thirty	years	mentioned	be	something	worth	looking	talk	md	
+Note_Number-271: cataract	surgery	went	month	is	pleased	improvement	vision	is	looking	fishing	trip	friends	week	check	weeks	see	is	doing	
+Note_Number-272: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-273: left	message	member	please	return	call	kwellsrn	
+Note_Number-274: left	message	member	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-275: called	member	left	message	please	return	call	kwellsrn	
+Note_Number-276: left	message	member	please	return	call	kwellsrn	
+Note_Number-277: left	message	member	please	return	call	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-278: attempted	reach	member	phone	number	is	service	
+Note_Number-279: mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	karen	wells	rn	care	manager	doctors	healthcare	kwells	rn	
+Note_Number-280: mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	
+Note_Number-281: extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-282: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-283: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-284: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-285: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-286: received	email	member	please	feel	contact	email	reply	apologies	taking	was	state	screening	pennsylvania	end	week	wanted	review	know	number	results	see	have	questions	privacy	laws	require	health	information	be	protected	order	discuss	email	need	password	access	information	encrypted	email	send	email	following	says	password	setup	guide	creating	password	have	set	password	please	let	know	send	results	hope	are	having	day	kwells	rn	
+Note_Number-287: received	email	member	indicating	has	set	password	sent	following	encrypted	email	hello	alicia	results	are	follows	
+Note_Number-288: fasting	blood	sugar	hemoglobin	a1c	blood	pressure	cholesterol	elevated	desired	level	is	hdl	cholesterol	level	ldl	cholesterol	elevated	desired	level	is	triglycerides	desired	level	is	results	are	congratulations	excellent	blood	pressure	are	doing	something	areas	use	tweaking	are	cholesterol	ldl	are	things	do	help	reduce	regard	diet	adding	fiber	is	way	help	control	cholesterol	fiber	is	absorbed	body	absorbs	cholesterol	takes	try	adding	whole	grains	diet	is	way	increase	fiber	changing	bread	rice	pasta	whole	grain	products	is	increasing	variety	grain	products	days	reducing	saturated	trans	fat	cholesterol	diet	improve	triglyceride	levels	help	manage	cholesterol	limit	intake	red	meat	help	reduce	saturated	intake	eat	omega	fatty	acids	red	meat	is	fatty	fish	mackerel	lake	herring	sardines	albacore	tuna	salmon	are	omega	fatty	acids	exercise	is	helping	reduce	cholesterol	ten	minutes	times	day	is	questions	do	have	exercise	routine	does	include	does	elevated	cholesterol	run	family	have	seen	review	results	changes	did	recommend	?	m	looking	hearing	response	am	attaching	information	find	kwells	rn	
+Note_Number-289: received	email	member	evening	thank	sending	results	have	discussed	doctor	am	trying	ldl	cholesterol	do	want	be	put	drug	rest	life	exercise	days	week	hour	am	swimming	biking	running	training	stretching	circuit	training	yoga	participate	triathlons	marathons	mountain	biking	road	biking	water	swimming	masters	swimming	pool	etc	take	following	vitamins	supplements	multi	vitamin	calcium	coq10	red	rice	oil	c	fiber	do	eat	bread	rice	pasta	eat	rice	grain	breads	pastas	avoid	sugar	do	drink	soda	iced	tea	coffee	alcohol	fruit	juices	drink	juice	diluted	juice	water	strive	eat	un	processed	foods	do	eat	eat	lot	chicken	making	effort	eat	red	meat	eat	vegetables	've	incorporated	meatless	day	week	've	replaced	dairy	milk	soy	milk	do	eat	food	
+Note_Number-290: response	email	wow	are	are	doing	right	things	am	wondering	is	family	history	elevated	cholesterol	issues	are	doing	right	things	cholesterol	does	come	be	component	cholesterol	elevation	is	case	is	reduce	cholesterol	medication	understand	wanting	be	cholesterol	medication	are	doing	everything	keep	going	route	be	have	re	check	labs	evaluate	progress	please	let	know	be	assistance	have	day	
+Note_Number-291: met	phone	do	has	been	chewing	years	last	days	said	triggers	are	meals	driving	knows	needs	quit	wants	quit	has	tried	quit	couple	days	has	tried	nrt	made	aware	said	wants	do	research	end	talk	doctor	goal	using	driving	
+Note_Number-292: called	member	review	screening	results	bp	pulse	tchol	hdl	ldl	tri	ht	amp	quot	weight	left	message	member	return	call	
+Note_Number-293: return	call	member	went	elevated	psa	reports	got	letter	regarding	results	doctor	got	packet	has	appointment	weeks	encouraged	be	psa	was	discussed	missed	appointment	agrees	a1c	is	explained	means	is	risk	developing	diabetes	encouraged	talk	forget	promises	follow	member	means	prefers	goals	dphillips	rn	
+Note_Number-294: member	called	look	lab	take	specimen	feeling	let	know	had	tetanus	shot	friday	doctors	office	updated	empliant	based	call	
+Note_Number-295: member	returned	call	went	labs	year	tchol	was	tri	was	was	put	medication	was	told	was	related	alcohol	consumption	reduced	amount	is	eating	year	tchol	is	nd	tri	is	is	seeing	nurse	practitioner	tuesday	encouraged	get	medication	is	being	controlled	lifestyle	choices	doesnt	have	packet	tuesday	call	get	faxed	agrees	is	running	family	mother	died	cancer	family	all	died	sibling	is	going	follow	plan	let	know	doesnt	get	packet	dphillips	rn	
+Note_Number-296: met	phone	do	dob	everything	is	going	bs	is	staying	keep	course	
+Note_Number-297: member	returned	call	is	feeling	started	allergy	shots	has	made	difference	reports	energy	level	is	better	quality	life	has	improved	continues	exercise	monitors	bs	a1c	was	fbs	are	month	has	appointments	md	has	eye	exams	foot	checks	encouraged	keep	work	be	making	appointment	see	health	screening	
+Note_Number-298: met	do	dob	is	test	everyday	twice	day	bs	running	had	reading	yesterday	told	needs	get	see	doctor	is	paying	attention	is	eating	grazing	evening	anymore	has	lost	weight	has	doctors	appointments	week	
+Note_Number-299: met	phone	do	tob	said	nothing	has	changed	is	is	going	change	time	
+Note_Number-300: met	phone	do	said	is	thinking	road	does	want	quit	said	having	go	sessions	has	made	think	wants	take	time	think	plan	action	wants	take	give	chance	quit	be	getting	hold	assistance	
+Note_Number-301: member	did	phone	number	email	screening	mailed	following	letter	regarding	kyn	results	
+Note_Number-302: dear	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-303: called	left	message	member	return	call	re	kyn	results	emailed	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-304: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-305: called	member	review	kyn	results	bp	bs	a1c	tchol	tri	hdl	ldl	member	gives	history	borderline	diabetes	required	management	states	has	started	diet	change	exercise	program	has	cut	prepared	foods	diabetes	family	history	diabetes	member	has	call	appointment	asap	labs	faxed	dr	fahnstock	member	physician	listed	questionnaire	member	call	email	has	had	follwup	appointment	
+Note_Number-306: sent	email	member	thank	talking	morning	have	faxed	results	physician	please	schedule	follow	appointment	look	working	reach	health	goals	feel	contact	questions	like	talk	physician	follow	visit	have	day	kwellsrn	
+Note_Number-307: called	member	left	message	return	call	kwellsrn	
+Note_Number-308: called	member	left	message	return	call	kwells	rn	
+Note_Number-309: called	member	follow	left	message	return	call	re	kyn	results	emailed	member	asked	call	re	kyn	results	kwells	rn	
+Note_Number-310: fbs	a1c	chol	
+Note_Number-311: called	left	message	member	check	blood	pressure	call	results	want	review	labs	member	phone	email	
+Note_Number-312: sent	letter	home	address	asking	call	lab	results	
+Note_Number-313: called	member	reviewed	kyn	results	congratulated	having	awesome	results	kyn	screening	encouraged	keep	work	
+Note_Number-314: dr	anderson	s	office	called	states	do	have	patient	name	kenneth	jackson	asked	nurse	please	shred	info	
+Note_Number-315: called	member	left	message	please	return	call	regarding	kyn	results	screening	results	bs	a1c	bp	tchol	hdl	ldl	
+Note_Number-316: emailed	member	follows	member	
+Note_Number-317: doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-318: called	left	message	member	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-319: called	left	message	member	return	call	regarding	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-320: response	date	member	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-321: called	member	reviewed	kyn	results	exercises	times	week	does	step	classes	gym	follows	heart	diet	red	meat	consumption	grains	does	cardio	weight	training	discussed	benefit	weight	training	help	reduce	cholesterol	ldl	thinks	father	has	cholesterol	discussed	factor	person	having	elevated	cholesterol	continue	work	reducing	is	diet	exercise	is	do	improve	health	
+Note_Number-322: called	member	left	message	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-323: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-324: met	do	dob	is	testing	day	tuesday	glu	wednesday	said	is	going	go	see	endocrinologist	ophthalmologist	week	going	give	report	meeting	weight	
+Note_Number-325: spoke	member	april	calling	check	status	did	get	peak	flow	meter	is	using	are	asthma	symptoms	retiring	
+Note_Number-326: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-327: answering	phone	said	be	evening	call	monday	reach	kwells	rn	
+Note_Number-328: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	does	know	history	diabetes	did	have	bp	rechecked	was	does	drink	does	drink	tea	encouraged	reduce	amount	sugar	used	tea	use	sweetener	drink	water	does	eat	cereal	breakfast	urged	use	non	pre	sweetened	cereals	are	fiber	has	yogurt	boiled	eggs	leftovers	lunch	dinner	is	baked	meat	vegetables	is	going	check	carbohydrate	sugar	content	yogurt	is	eating	need	switch	types	reduce	amount	sugar	is	eating	discussed	ways	reduce	a1c	exercise	increasing	whole	grain	products	avoiding	bread	rice	potatoes	states	wife	used	walk	miles	times	week	brisk	walk	had	gotten	goal	is	return	walking	encouraged	do	emailed	member	following	diabetes	counting	pre	diabetes	getting	started	kwells	rn	
+Note_Number-329: left	message	member	please	return	call	regarding	kyn	screening	results	bp	screening	was	member	was	have	rechecked	see	went	bs	a1c	tchol	tri	hdl	ldl	kwellsrn	
+Note_Number-330: lab	results	faxed	kwellsrn	
+Note_Number-331: letter	mailed	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-332: response	member	today	called	left	message	please	return	call	regarding	kyn	screening	results	
+Note_Number-333: member	called	review	kyn	results	went	dr	screening	bp	was	something	remember	number	has	bp	cuff	home	checks	has	coat	syndrome	said	bp	goes	get	drs	office	sits	gets	minutes	returns	reviewed	bs	a1c	ada	guidelines	put	risk	category	developing	diabetes	is	experiencing	symtoms	elevated	bs	family	history	diabetes	eats	tuna	yogurt	apple	sauce	pudding	lunch	discussed	ways	decrease	sugar	carbohydrate	intake	looked	breakfast	oatmeal	instant	packet	has	been	using	contains	grams	sugars	grams	carbohydrates	homemade	oatmeal	has	gram	sugar	change	making	oatmeal	help	decrease	sugar	carb	intake	encouraged	have	protein	meal	starting	couple	days	week	begin	change	boiled	eggs	grain	toast	egg	beaters	grain	toast	serving	fruit	
+Note_Number-334: does	exercise	besides	does	work	is	doing	yardwork	warm	months	encouraged	add	walking	basis	whenever	raise	heart	rate	stressed	exercise	is	part	staying	
+Note_Number-335: was	concerned	sheet	brought	home	md	appointment	listed	diagnosis	kidney	disease	stage	did	know	anything	stated	was	told	anything	md	office	encouraged	call	md	clarification	
+Note_Number-336: mailed	member	information	get	do	have	knock	prevent	diabetes	alert	are	risk	list	non	vegetables	following	letter	enjoyed	talking	yesterday	am	pleased	are	taking	role	improve	health	be	challenging	make	changes	changes	make	difference	hope	find	enclosed	information	please	feel	contact	questions	am	office	monday	friday	?	m	looking	success	access	education	resources	www	doctorsdirecthealthcare	net	secure	site	username	dayton	
+Note_Number-337: password	parts	kwells	rn	
+Note_Number-338: called	member	left	message	call	follow	conversation	kwells	rn	
+Note_Number-339: called	member	difficulties	call	be	completed	time	call	today	kwellsrn	
+Note_Number-340: called	member	was	get	answering	machine	left	message	please	return	call	re	kyn	results	member	did	list	questionnaire	kwellsrn	
+Note_Number-341: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-342: response	member	today	called	member	message	states	person	number	is	accepting	calls	time	mailed	following	letter	member	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	
+Note_Number-343: attempted	reach	member	number	is	longer	service	mailed	letter	follows	member	hope	finds	doing	have	tried	times	contact	regarding	know	number	results	am	concerned	health	want	encourage	have	done	see	physician	health	is	be	review	results	be	reached	monday	friday	set	time	hours	talk	look	hearing	reach	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-344: called	member	reviewed	kyn	results	sees	md	works	gym	has	lost	pounds	is	pleased	results	discussed	ways	help	reduce	triglycerides	has	added	cardio	workout	eats	heart	diet	kwells	rn	
+Note_Number-345: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	tri	left	message	member	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-346: called	member	left	message	return	call	review	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-347: have	received	response	member	today	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-348: member	called	stated	bp	fluctuates	time	md	keeps	check	discussed	elevated	cholesterol	triglycerides	measures	take	help	including	diet	changes	exercise	is	going	cruise	day	gets	girlfriend	have	agreement	get	weight	watchers	exercise	program	lost	pounds	year	weight	watchers	started	watching	diet	time	screening	was	is	congratulated	success	encouraged	keep	work	
+Note_Number-349: does	eat	food	does	drink	sodas	does	use	grain	products	thinks	parents	have	cholesterol	issues	
+Note_Number-350: has	md	appointment	june	let	know	outcome	visit	is	
+Note_Number-351: emailed	following	information	member	cholesterol	tlc	raising	hdl	kwells	rn	
+Note_Number-352: called	member	review	kyn	results	bs	a1c5	bp140	/	tchol	hdl	ldl	tri	
+Note_Number-353: monitors	bp	home	times	week	states	is	home	was	screening	encouraged	keep	log	readings	home	including	time	day	readings	take	md	goes	sees	md	months	eval	states	has	been	battling	elevated	cholesterol	years	is	levels	reports	chol	was	ldl	was	said	discovered	cholesterol	was	elevated	years	made	suggested	changes	diet	does	eat	fried	food	avoids	red	meat	eats	heart	diet	levels	did	change	is	family	history	elevated	cholesterol	bp	takes	medications	remember	names	congratulated	progress	discussed	ways	reduce	triglycerides	regard	exercise	reported	walks	lot	work	end	building	day	gets	home	does	things	needs	do	home	is	wiped	end	day	does	choose	walk	ride	moving	equipment	work	keep	encouraged	keep	toward	walking	basis	raise	heart	rate	
+Note_Number-354: father	died	colon	cancer	fifties	member	states	is	reason	wants	be	is	following	physicians	advice	maintain	health	
+Note_Number-355: emailed	member	following	tips	triglycerides	tips	chart	chart	
+Note_Number-356: kwells	rn	
+Note_Number-357: does	have	meter	going	see	doctor	week	walked	lot	week	sons	camp	said	clothes	are	fitting	eating	meals	day	is	trying	watch	eats	portion	control	is	inconsistent	weight	went	does	eat	fruit	eat	vegetables	staying	breads	pasta	eats	lot	hamburger	goal	keep	watching	portions	increase	exercise	
+Note_Number-358: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-359: member	called	reviewed	kyn	results	had	been	doing	weight	watchers	year	lost	pounds	was	exercising	walking	mile	track	times	week	winter	came	
+Note_Number-360: having	kitchen	renovated	got	track	was	cook	home	was	eating	lot	gained	pounds	is	get	track	eating	exercising	like	lose	pounds	gained	follow	months	check	progress	emailed	member	drinks	america	dining	education	sheets	i	cook	eating	kwells	rn	
+Note_Number-361: called	member	left	message	please	return	call	regarding	kyn	results	bp	bs	a1c	tchol	tri	hdl	
+Note_Number-362: faxed	labs	member	kwellsrn	
+Note_Number-363: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	k	wellsrn	
+Note_Number-364: received	phone	message	mrs	chubb	states	husband	works	nights	was	asleep	asked	call	regarding	results	returned	call	explained	privacy	laws	require	speak	husband	regarding	results	has	notified	speak	call	husband	wakes	kwellsrn	
+Note_Number-365: return	call	member	is	awake	verified	date	address	asks	speak	wife	regarding	results	gives	permission	talk	find	wife	got	phone	went	results	bp	get	rechecked	went	bs	a1c	went	cholesterol	panel	tri	risk	heart	disease	bp	cholesterol	tri	bs	run	encouraged	please	make	apt	pcp	make	follow	going	talk	ways	improve	life	style	eating	help	improve	numbers	states	numbers	are	manner	work	team	dphillips	rn	
+Note_Number-366: called	member	check	left	message	return	call	kwells	rn	
+Note_Number-367: called	member	left	message	return	call	re	kyn	screening	results	emailed	member	follows	member	
+Note_Number-368: doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-369: called	left	vm	emailed	ahill	rn	
+Note_Number-370: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-371: know	number	
+Note_Number-372: hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-373: called	member	review	kyn	results	someone	answered	asked	member	mailed	letter	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-374: called	member	left	message	return	call	re	kyn	results	mailed	letter	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-375: member	called	reviewed	kyn	results	mother	has	cholesterol	discussed	ways	reduce	cholesterol	eats	red	meat	times	week	encouraged	cut	use	cuts	does	eat	red	meat	use	ground	turkey	chicken	recipes	call	ground	beef	help	decrease	fat	cholesterol	intake	encouraged	increase	fiber	grains	change	bread	rice	pasta	whole	grains	increase	fruits	vegetables	is	starting	cycling	continue	do	exercise	fall	goal	year	is	increase	exercise	decrease	cholesterol	has	seen	md	encouraged	do	mailed	member	following	cholesterol	highway	i	cholesterol	do	follow	diet	kwells	rn	
+Note_Number-376: phone	number	hr	called	member	call	be	completed	time	try	kwells	rn	
+Note_Number-377: attempted	call	member	recording	states	number	is	service	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	
+Note_Number-378: contact	letter	sent	hill	rn	
+Note_Number-379: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-380: know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-381: called	left	message	member	return	call	re	kyn	screening	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-382: contact	letter	sent	hill	rn	
+Note_Number-383: received	notification	member	is	longer	employed	dayton	parts	kwells	rn	
+Note_Number-384: called	member	left	message	return	call	re	kyn	results	kwells	rn	
+Note_Number-385: talked	member	phone	reviewed	kyn	results	has	been	years	eats	diet	lost	pounds	stated	quit	snacking	night	sees	md	mailed	member	following	information	getting	care	diabetes	protect	heart	make	wise	food	choices	kwells	rn	
+Note_Number-386: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-387: called	member	reviewed	kyn	results	has	seen	md	kyn	packet	saw	screening	discussed	cholesterol	ldl	elevation	bp	md	office	was	per	member	discussed	ways	decrease	cholesterol	ldl	changing	products	whole	grain	products	cardio	exercise	limiting	red	meat	reports	eating	heart	diet	emailed	following	information	member	are	blood	cholesterol	tryglycerides	cholesterol	tlc	kwells	rn	
+Note_Number-388: called	member	left	message	return	call	re	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwellsrn	
+Note_Number-389: member	called	reviewed	kyn	results	does	lot	work	job	walks	day	follows	heart	diet	thinks	mother	have	had	bp	brother	do	congratulated	bp	cholesterol	continue	heart	diet	exercise	kwells	rn	
+Note_Number-390: called	member	number	answer	rings	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-391: attempted	call	vm	emailed	member	adannen	daytonparts	com	
+Note_Number-392: contact	letter	sent	hill	rn	
+Note_Number-393: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	left	message	please	return	call	kwells	rn	
+Note_Number-394: called	member	left	message	return	call	re	kyn	results	kwells	rn	
+Note_Number-395: have	received	response	member	today	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-396: called	member	review	kyn	results	left	message	return	call	kwells	rn	
+Note_Number-397: talked	member	phone	saw	md	week	made	recommendations	reduce	intake	salt	fried	foods	start	exercising	does	eat	has	stopped	adding	salt	foods	wife	are	joining	gym	commended	taking	steps	improve	help	mother	had	heart	attacks	is	motivated	do	protect	heart	goes	dr	months	recheck	cholesterol	
+Note_Number-398: mailed	member	following	information	cholesterol	highway	are	blood	cholesterol	triglycerides	ways	sodium	i	cook	make	choices	salt	follow	member	months	see	dr	visit	lab	check	goes	celebrate	progress	kwells	rn	
+Note_Number-399: called	member	left	message	return	call	re	kyn	screening	results	kwells	rn	
+Note_Number-400: talked	member	phone	has	family	history	diabetes	mother	side	has	farm	works	working	time	job	is	does	have	time	do	exercise	program	gym	etc	congratulated	numbers	being	has	bp	checked	health	coach	takes	readings	dr	appointments	does	have	bp	monitor	home	encouraged	get	check	bp	home	is	relaxed	take	readings	dr	
+Note_Number-401: has	issues	sleep	does	reach	deep	sleep	stage	according	sleep	study	tosses	turns	night	was	tolerate	cpap	machine	
+Note_Number-402: like	lose	weight	reviewed	diet	drinks	cokes	day	water	commended	drinking	water	encouraged	cut	sodas	help	decrease	sugar	carb	intake	encouraged	change	whole	grains	use	brown	rice	decrease	intake	potatoes	wife	does	cooking	roasts	bakes	/	grills	meats	frying	discussed	benefits	eating	plenty	fruits	vegetables	mailed	member	following	information	raise	hdl	level	i	cook	i	lose	weight	keep	eye	portion	size	kwells	rn	
+Note_Number-403: member	called	has	lost	pounds	year	using	eat	live	book	guideline	eats	lots	fruits	vegetables	meat	red	meat	grains	nuts	had	seen	md	year	was	going	be	put	medicine	cholesterol	blood	pressure	did	want	be	put	medications	lost	weight	has	been	stay	medication	does	have	exercise	program	lack	time	is	problem	works	day	work	home	is	something	get	done	evenings	discussed	ways	add	activity	parking	parking	lot	store	taking	stairs	stead	elevator	doing	situps	jumping	jacks	commercials	watching	tv	congratulated	progress	like	lose	ten	pounds	had	gained	keep	work	kwellsrn	
+Note_Number-404: member	did	provide	phone	number	email	address	questionnaire	screening	indicated	did	wish	communicate	health	coach	time	kwells	rn	
+Note_Number-405: called	member	review	kyn	results	left	message	return	call	bp	screening	bs	a1c	tchol	tri	hdl	ldl	kwellsrn	
+Note_Number-406: member	returned	call	states	has	eaten	lot	peanut	butter	eggs	couple	months	does	check	bs	home	does	have	monitor	reports	bs	check	md	was	december	a1c	was	time	does	remember	fbs	was	encouraged	monitor	bs	take	information	bp	screening	member	is	bp	med	does	monitor	bp	home	do	take	readings	md	md	visit	is	scheduled	june	see	md	sooner	review	kyn	results	results	faxed	asked	member	notify	appointment	agrees	do	kwellsrn	
+Note_Number-407: fax	did	go	verified	correct	number	office	refaxed	labs	kwellsrn	
+Note_Number-408: called	member	answered	phone	asked	member	emailed	letter	member	follows	member	
+Note_Number-409: hope	finds	doing	have	tried	times	contact	regarding	know	number	results	am	concerned	health	want	encourage	have	done	see	physician	health	is	be	review	results	be	reached	monday	friday	set	time	hours	talk	look	hearing	reach	email	kwells	doctorsdirecthealthcare	net	kwells	rn	
+Note_Number-410: email	member	was	months	check	june	family	doctor	dr	lentz	did	get	results	
+Note_Number-411: reply	morning	thank	reply	hope	appointment	went	did	physician	review	know	number	results	thanks	
+Note_Number-412: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	called	member	review	results	left	message	please	return	call	
+Note_Number-413: kwells	rn	
+Note_Number-414: called	member	left	message	member	return	call	kwells	rn	
+Note_Number-415: have	received	response	member	today	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-416: member	called	review	kyn	packet	smokes	is	interested	smoking	cessation	information	is	enrolled	receive	information	discussed	a1c	drinks	lot	juices	cut	bp	is	md	visits	encouraged	keep	check	eats	heart	diet	uses	grains	sodas	lifts	weights	exercise	encouraged	keep	habits	emailed	member	following	i	diet	tips	kwells	rn	
+Note_Number-417: talked	member	phone	congratulated	being	category	was	hear	lab	results	were	range	was	concerned	is	having	symptoms	are	palpitations	gain	is	exhausted	time	has	family	member	has	been	diagnosed	hyperthyroidism	family	member	had	exophthalmos	member	does	want	end	family	member	encouraged	see	md	share	symptom	history	ask	screening	tests	stated	do	call	outcome	questions	kwells	rn	
+Note_Number-418: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-419: left	message	please	return	call	review	results	kwells	rn	
+Note_Number-420: called	member	left	message	return	call	regarding	kyn	results	kwells	rn	
+Note_Number-421: have	received	response	member	today	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-422: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-423: know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	
+Note_Number-424: called	member	left	message	return	call	re	kyn	results	kwells	rn	
+Note_Number-425: called	left	vm	email	ahill	rn	
+Note_Number-426: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	
+Note_Number-427: know	number	hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	
+Note_Number-428: left	message	member	return	call	re	kyn	screening	results	bp	screening	was	screening	said	is	bp	med	was	md	bp	time	was	was	screening	was	have	bp	rechecked	results	bs	tchol	tri	hdl	a1c	physician	listed	kwellsrn	
+Note_Number-429: emailed	member	following	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	**i	be	office	today	thursday	april	kwellsrn	
+Note_Number-430: mailed	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-431: response	member	today	called	left	message	please	return	call	regarding	know	number	screening	results	emailed	member	email	address	provided	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-432: emailed	member	follows	member	hope	finds	doing	have	tried	times	contact	regarding	know	number	results	am	concerned	health	want	encourage	have	done	see	physician	health	is	be	review	results	be	reached	monday	friday	set	time	hours	talk	look	hearing	reach	email	
+Note_Number-433: kwells	@	
+Note_Number-434: bp	screening	was	screening	member	refused	provide	phone	number	screener	stated	did	want	anyone	calling	house	reason	requested	communication	be	mail	
+Note_Number-435: kyn	lab	results	do	contain	alert	values	do	need	follow	members	bp	screening	member	had	stated	go	see	md	have	bp	checked	gave	card	screening	had	bp	results	written	share	
+Note_Number-436: mailed	letter	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-437: response	member	mailed	member	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwellsrn	
+Note_Number-438: called	member	review	kyn	results	bs149	a1c	tchol	tri	hdl	ldl	member	reports	history	polydipsia	polyuria	had	pneumonia	december	states	had	time	getting	does	have	physician	call	appointment	asap	discussed	effects	elevated	blood	sugars	kidney	eye	nerve	damage	etc	lab	results	faxed	member	agreed	contact	appointment	kwellsrn	
+Note_Number-439: have	heard	member	called	left	message	return	call	kwells	rn	
+Note_Number-440: left	message	member	call	kwells	rn	
+Note_Number-441: kyn	results	bs	a1c	bp	tchol	hdl	ldl	attempted	call	member	number	was	try	kwells	rn	
+Note_Number-442: attempted	call	number	is	kwells	rn	
+Note_Number-443: attempted	call	member	number	is	emailed	following	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-444: member	called	review	kyn	results	does	have	family	members	diabetes	diet	does	include	sweets	concentrated	forms	sugar	carbohydrates	does	walk	mile	am	miles	afternoons	is	something	used	do	is	getting	habit	encouraged	continue	discussed	benefit	changing	bread	rice	pasta	whole	grains	congratulated	bp	chol	hdl	tri	being	limits	discussed	ada	guidelines	place	a1c	risk	category	understand	importance	measures	commended	exercise	habits	encouraged	keep	intake	carbohydrates	sugar	emailed	member	following	get	do	have	knock	prevent	diabetes	kwells	rn	
+Note_Number-445: spoke	member	phone	regarding	kyn	results	bp	screening	was	member	stated	had	bp	monitor	home	readings	home	have	been	said	bp	was	elevated	times	fall	injured	finger	went	have	stitches	follow	visits	injury	bp	was	elevated	visit	was	is	bp	medication	time	has	appointment	today	eval	kyn	results	reviewed	bs	a1c	discussed	risk	develop	diabetes	according	ada	guidelines	tchol	tri	hdl	ldl	
+Note_Number-446: member	agreed	contact	physicians	interventions	appointment	labs	faxed	md	kwellsrn	
+Note_Number-447: called	member	follow	left	message	return	call	kwells	rn	
+Note_Number-448: called	member	left	message	return	call	re	follwup	kyn	screening	kwells	rn	
+Note_Number-449: kyn	results	bs	a1c	bp	tchol	hdl	tri	attempted	call	member	review	results	answering	phone	states	is	asleep	does	want	calls	had	indicated	screening	form	sees	does	want	talk	anyone	mailed	member	following	letter	hello	am	registered	nurse	doctors	healthcare	
+Note_Number-450: doctors	direct	performs	disease	management	follow	know	number	screening	have	attempted	reach	phone	review	results	be	reached	monday	friday	times	are	set	time	let	know	reach	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-451: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	called	member	review	results	left	message	member	return	call	kwells	rn	
+Note_Number-452: called	left	message	member	return	call	regarding	kyn	results	kwells	rn	
+Note_Number-453: member	called	review	kyn	results	family	history	diabetes	is	discussed	ada	guidelines	place	risk	category	develop	diabetes	a1c	fbs	discussed	ways	reduce	a1c	increasing	fiber	decreasing	carbohydrates	using	whole	grains	products	increasing	exercise	eat	omega	fatty	acids	red	meat	enjoys	eating	coconut	drinks	liquid	inside	eats	encouraged	add	protein	breakfast	menu	times	week	decrease	carbohydrate	intake	
+Note_Number-454: does	have	blood	pressure	monitor	home	has	checked	pharmacy	sees	bp	monitoring	encouraged	write	bps	checks	take	information	md	
+Note_Number-455: like	lost	weight	year	decrease	carbohydrate	consumption	sent	following	information	mail	get	do	have	knock	prevent	diabetes	counting	kwells	rn	
+Note_Number-456: kyn	results	bs	a1c	bp	tchol	hdl	tri	
+Note_Number-457: called	member	left	message	please	return	call	review	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-458: called	member	left	message	return	call	regarding	kyn	results	emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-459: member	called	review	kyn	results	started	fenofibrate	approx	months	has	been	dr	recheck	cholesterol	discussed	ways	decrease	cholesterol	changes	eating	grains	products	eating	protein	decreasing	red	meat	consumption	eat	increase	fiber	diet	fruits	veggies	eating	are	omega	fatty	acids	stressed	benefit	cardio	exercise	walks	dogs	times	week	neighborhood	
+Note_Number-460: does	have	bp	monitor	home	has	rechecked	bp	screening	encouraged	do	take	reading	goes	md	follow	reports	tolerating	fenofibrate	call	email	sees	recheck	cholesterol	
+Note_Number-461: encouraged	continue	making	changes	diet	incorporating	become	habit	
+Note_Number-462: emailed	following	information	cholesterol	tlc	fruit	chart	chart	i	cook	referred	member	explore	sparkpeople	com	kwells	rn	
+Note_Number-463: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-464: called	member	left	message	return	call	review	kyn	results	emailed	member	follows	member	
+Note_Number-465: doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	be	office	today	thursday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	rn	
+Note_Number-466: called	member	left	message	return	call	regarding	kyn	results	emailed	member	follows	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	be	office	today	thursday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-467: have	received	response	member	today	mailed	following	letter	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-468: called	member	review	kyn	results	bp	bs	a1c	tchol	tri	hdl	left	message	member	please	return	call	kwellsrn	
+Note_Number-469: member	returned	call	had	bp	checked	monday	health	coach	work	was	instruction	is	checking	home	take	readings	keeps	record	bp	months	has	been	reports	has	gained	pounds	eats	pretzels	night	is	exercising	weather	encouraged	decrease	salt	intake	increase	exercise	esp	walking	walk	daughter	said	is	having	swimming	pool	installed	month	exercise	instructed	see	bp	readings	eval	states	do	let	know	dr	says	lab	results	faxed	md	members	request	reviewed	kyn	results	bs	a1c	tchol	tri	hdl	kwellsrn	
+Note_Number-470: left	message	member	call	re	kyn	follwup	emailed	member	follows	morning	trust	finds	doing	has	been	couple	months	spoke	wanted	touch	base	see	things	are	going	please	call	email	ext	email	is	kwells	doctorsdirecthealthcare	net	?	m	looking	hearing	have	super	day	kwells	rn	
+Note_Number-471: member	returned	call	states	saw	md	weeks	kyn	results	md	changed	bp	medication	dosage	bps	are	running	does	notice	feels	has	been	checking	bp	home	keeping	record	readings	take	md	goes	has	had	pressure	was	working	heat	cautioned	dehydration	bps	being	heat	got	swimming	pool	installed	is	looking	enjoying	kwells	rn	
+Note_Number-472: called	member	left	message	return	call	re	kyn	results	kwells	rn	
+Note_Number-473: called	left	vm	email	hill	rn	
+Note_Number-474: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	
+Note_Number-475: hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-476: attempted	call	member	number	recording	indicates	number	is	service	emailed	member	follows	member	
+Note_Number-477: doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	kwells	rn	
+Note_Number-478: called	member	number	service	emailed	member	hill	rn	
+Note_Number-479: have	heard	member	mailed	reminder	letter	asking	member	contact	regarding	results	dayton	parts	know	number	
+Note_Number-480: hello	s	time	go	results	have	tried	reach	phone	number	email	mail	address	provided	have	talked	please	email	ext	email	kwells	doctorsdirecthealthcare	net	s	simple	fast	takes	minutes	am	looking	talking	karen	wells	rn	doctors	health	care	kwells	rn	
+Note_Number-481: attempted	reach	member	number	provided	questionnaire	person	answering	phone	stated	name	lives	
+Note_Number-482: emailed	member	address	provided	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	discuss	results	is	talk	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	lab	results	faxed	members	kwellsrn	
+Note_Number-483: member	returned	call	confirms	is	phone	number	bp	bs	a1c	tchol	tri	hdl	
+Note_Number-484: states	teen	was	told	was	did	realize	blood	sugar	was	mother	sister	are	does	recall	period	time	was	urinated	year	unexplained	pound	weight	loss	fatigue	call	md	am	appointment	agreed	call	sees	update	interventions	taken	discussed	effects	untreated	elevated	blood	sugars	kwellsrn	
+Note_Number-485: member	called	say	had	contacted	physicians	office	had	received	fax	labwork	refaxed	confirmation	received	kwellsrn	
+Note_Number-486: have	heard	member	called	left	message	return	call	kwells	rn	
+Note_Number-487: talked	member	is	seeing	physician	reviewed	results	started	metformin	goes	follow	visit	weeks	stated	is	noticing	is	tired	time	does	urinate	used	is	feeling	has	seen	nutritionist	has	helped	planning	member	call	upcoming	follow	visit	kwells	rn	
+Note_Number-488: called	member	left	message	return	call	re	kyn	results	kwells	rn	
+Note_Number-489: called	member	left	message	return	call	re	kyn	results	
+Note_Number-490: mailed	letter	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	am	attempting	reach	review	results	be	reached	monday	friday	please	call	doctors	healthcare	toll	extension	write	email	karen	kwells	doctorsdirecthealthcare	net	look	hearing	thank	kwells	

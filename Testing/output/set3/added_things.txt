@@ -1,0 +1,108 @@
+Analysis1 ====
+Added habits 
+chew, chews, chewing, 
+
+Added drug 
+shot, shots
+
+Added vitas
+pulse
+
+Preprocessing - trigly to triglycerides
+
+Anslysis 2 ====
+replace n?t with not
+replace "-" with " - "
+replace "." with " . "
+replace "/" with " / "
+
+Negation handled
+
+Analysis pass 3 ====
+Bigram analysis
+
+-------------------------
+Analysis 1
+-----------------------
+Chewing - TP 5, FP 1 Note-86
+chews - TP 1
+shots - TP 3
+shot - TP 1
+pulse - TP 1
+trigly - TP 17
+
+-----------
+Analysis 2
+---------------
+Note 22 -> triglycrerides [-] (xx - vital FN), chol [.] (xx - vital FN), --> FN > -2, TP > +2
+Note 24 -> cholesterol/bp 2(xx - vital FN) --> TP > +1, FN > -1
+Note 180 -> ldl [-] (xx - vital FN) --> TP > +1, FN > -1
+Note 182 -> omega [-] (XX - durg FN) --> TP > +1, FN > -1
+Note 264 -> synthyroid[-] (xx - drug FN) --> TP > +1, FN > -1
+Note 288 -> omega[-] 2 (xx - drug FN) --> TP > +2 (omega was not listed in the analysis doc.)
+Note 328 -> a1c [-] (xx - vital, FN) --> TP > +1, FN > -1
+Note 352 -> bs[-]( xx - vital FN) --> TP > +1, FN > -1
+Note 359 -> exercising [-](xx - habit FN) --> TP > +1, FN > -1
+Note 375 -> cholesterol[-](xx - vital FN), [/]cholesterol (xx - vital FN) --> TP > +2, FN > -2
+Note 387 -> ldl [-] (xx - vital FN) --> TP > +1, FN > -1
+Note 389 -> cholesterol[-] (xx - vital FN) --> TP > +1, FN > -1
+Note 416 -> a1c[-] (xx - vital FN) --> TP > +1, FN > -1
+Note 453 -> a1c[-] (xx - vital FN), omega [-] --> TP > +2, FN > -1 (omega was not listed in the analysis doc.)
+Note 463 -> [-]bs (xx -vital FN) --> TP > +1, FN > -1
+Note 459 -> omega[-] (xx - drug FN) --> TP > +1 (omega was not listed in the analysis doc.)
+
+----------------
+Analysis 2 
+----------------
+Note 7 -> Exercise (habit - xx) -> TN -> 1, FP -> -1
+Note 87 -> Treadmill (havit - xx) -> TN -> 1, TP -> -1
+Note 185 -> medication (drug - xx fp) -> TN -> 1, FP -> -1
+Note 289 -> alcohol (habit - xx FP ) -> TN -> 1, FP -> -1
+Note 290 -> medication (drug - xx negation FP) -> TN -> 1, FP -> -1
+Note 295 -> medication 2(drug - xx FP)-> TN -> 2, FP -> -2
+Note 328 -> diabetes (diagnosis - xx FP) -> TN -> 1, FP -> -1
+Note 334 -> exercise (habit - xx fp) -> TN -> 1, FP -> -1
+Note 400 -> exercise (habit - xx FP, negation), gym (habit - xx FP, negation) -> TN -> 2, fp -> -2
+Note 403 ->  medication 2 (drug - xx FP, negation), exercise (habit - xx FP, negation)-> TN -> 3, FP-> -3
+Note 445 -> medication (drug - xx FP, negation) -> TN -> 1, fp -> -1
+
+------------------
+Analysis 3rd pass
+------------------
+Note 9 -> eye exam (xx - procedure FN, bigram) -> TP -> +1, FN -> -1
+Note 24 -> eye exam (xx - procedure FN, bigram) -> TP -> +1, FN-> -1
+Note 47 -> blood sugar (xx - vital FN), heart diseases (xx - diagnosis FN) -> TP -> +2, FN -> -2
+Note 99 -> heart attack (xx - diagnosis FN) --> TP -> +1, FN -> -1
+Note 112 -> blood work (xx - procedure FN) --> TP -> +1
+Note 128 -> blood work (xx - procedure FN) --> TP -> +1
+Note 155 -> blood sugar (xx - vital FN) --> TP -> +1, FN -> -1
+Note 179 -> Blood Sugar (xx - vital FN), Blood Pressure (xx - vital FN) --> TP -> +2, FN -> -2
+Note 180 -> blood pressure ( xx -vital FN) --> TP -> +1, FN -> -1
+Note 208 -> blood work (xx - procedure FN) --> TP -> +1
+Note 210 -> blood work (xx - procedure FN) --> TP -> +1
+Note 288 -> Blood Sugar (xx - vital FN), Blood Pressure (xx - vital FN) --> TP -> +2, FN -> -2
+Note 297 -> eye exam (xx - procedure FN) --> TP -> +1, FN -> -1
+Note 311 -> blood pressure (xx - vital FN) --> TP -> +1. FN -> -1
+Note 365 -> heart disease (xx - diagnosis FN) --> TP -> +1, FN -> -1
+Note 438 -> blood sugars 2 (xx - vital FN) --> TP -> +2, FN -> -2
+Note 454 -> bloold pressure (xx - vital FN) --> TP -> +1, FN -> -1
+Note 484 -> blood sugar 2(xx - vital FN) --> TP -> +2, FN -> -2
+
+
+Analysis5_15000 corpus
+=============================
+Note 17 -> pancreatitis (xx - diagnosis FN) --> TP > +1, FN > -1
+Note 24 -> med - 2(xx - drug FN) --> TP > +2, FN > -2
+Note 228 -> flonase (xx - drug FN) --> TP > +1, FN > -1
+Note 253 -> Glucophage (xx - drug fn),pt (procedure - xx fp, patient) --> TP > +1, FN > -1, FP > +1, TN > -1
+Note 297 -> allergy (xx - diagnosis FN) --> TP > +1, FN > -1
+Note 453 -> add (diagnois - xx FP) --> FP > -1, TN > +1
+
+
+
+
+
+
+
+
+

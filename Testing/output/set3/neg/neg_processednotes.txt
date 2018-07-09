@@ -1,0 +1,8041 @@
+
+<< Note Number >>2
+Original Sentence4 >>> He says he wants to cut back, but not making much of an effort.
+Preprocessed Sentence:>>>:he says he wants to cut back, but not making much of an effort .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+says
+----
+he
+----
+wants
+----
+to
+----
+cut
+----
+back
+----
+,
+----
+but
+----
+not
+----
+making
+----
+much
+----
+of
+----
+an
+----
+effort
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('says', 'VBZ') ('he', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('cut', 'VB') ('back', 'RB') (',', ',') ('but', 'CC') ('not', 'RB') ('making', 'VBG') ('much', 'RB') ('of', 'IN') ('an', 'DT') ('effort', 'NN') ('.', '.') 
+
+<< Note Number >>6
+Original Sentence4 >>> Still does not have much of an appetite.
+Preprocessed Sentence:>>>:still does not have much of an appetite .  <<<
+
+Tokens of this sentence are as follows
+
+----
+still
+----
+does
+----
+not
+----
+have
+----
+much
+----
+of
+----
+an
+----
+appetite
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('still', 'RB') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('much', 'JJ') ('of', 'IN') ('an', 'DT') ('appetite', 'JJ') ('.', '.') 
+
+<< Note Number >>7
+Original Sentence3 >>> Did not get the exercise in she was hoping.
+Preprocessed Sentence:>>>:did not get the exercise in she was hoping .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+not
+----
+get
+----
+the
+----
+exercise
+----
+in
+----
+she
+----
+was
+----
+hoping
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('not', 'RB') ('get', 'VB') ('the', 'DT') ('exercise', 'NN') ('in', 'IN') ('she', 'PRP') ('was', 'VBD') ('hoping', 'VBG') ('.', '.') 
+
+<< Note Number >>17
+Original Sentence5 >>> I told him to tell them his A1c number and they should get him in soon but if not, once they saw his labs, they should work a little quicker at getting him in.
+Preprocessed Sentence:>>>:i told him to tell them his a1c number and they should get him in soon but if not, once they saw his labs, they should work a little quicker at getting him in .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+told
+----
+him
+----
+to
+----
+tell
+----
+them
+----
+his
+----
+a1c
+----
+number
+----
+and
+----
+they
+----
+should
+----
+get
+----
+him
+----
+in
+----
+soon
+----
+but
+----
+if
+----
+not
+----
+,
+----
+once
+----
+they
+----
+saw
+----
+his
+----
+labs
+----
+,
+----
+they
+----
+should
+----
+work
+----
+a
+----
+little
+----
+quicker
+----
+at
+----
+getting
+----
+him
+----
+in
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('told', 'VBD') ('him', 'PRP') ('to', 'TO') ('tell', 'VB') ('them', 'PRP') ('his', 'PRP$') ('a1c', 'NNP') ('number', 'NN') ('and', 'CC') ('they', 'PRP') ('should', 'MD') ('get', 'VB') ('him', 'PRP') ('in', 'IN') ('soon', 'RB') ('but', 'CC') ('if', 'IN') ('not', 'RB') (',', ',') ('once', 'RB') ('they', 'PRP') ('saw', 'VBD') ('his', 'PRP$') ('labs', 'NNS') (',', ',') ('they', 'PRP') ('should', 'MD') ('work', 'VB') ('a', 'DT') ('little', 'RB') ('quicker', 'NN') ('at', 'IN') ('getting', 'VBG') ('him', 'PRP') ('in', 'IN') ('.', '.') 
+
+<< Note Number >>26
+Original Sentence8 >>> Has been working a lot of hours and not getting very much sleep.
+Preprocessed Sentence:>>>:has been working a lot of hours and not getting very much sleep .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+been
+----
+working
+----
+a
+----
+lot
+----
+of
+----
+hours
+----
+and
+----
+not
+----
+getting
+----
+very
+----
+much
+----
+sleep
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('been', 'VBN') ('working', 'VBG') ('a', 'DT') ('lot', 'NN') ('of', 'IN') ('hours', 'NNS') ('and', 'CC') ('not', 'RB') ('getting', 'VBG') ('very', 'RB') ('much', 'JJ') ('sleep', 'NN') ('.', '.') 
+
+<< Note Number >>32
+Original Sentence4 >>> He has not been trying to cut back at all.
+Preprocessed Sentence:>>>:he has not been trying to cut back at all .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+been
+----
+trying
+----
+to
+----
+cut
+----
+back
+----
+at
+----
+all
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('trying', 'VBG') ('to', 'TO') ('cut', 'VB') ('back', 'RB') ('at', 'IN') ('all', 'DT') ('.', '.') 
+
+<< Note Number >>32
+Original Sentence5 >>> He said he does not really use anymore at home.
+Preprocessed Sentence:>>>:he said he does not really use anymore at home .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+does
+----
+not
+----
+really
+----
+use
+----
+anymore
+----
+at
+----
+home
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('really', 'RB') ('use', 'VB') ('anymore', 'NN') ('at', 'IN') ('home', 'NN') ('.', '.') 
+
+<< Note Number >>34
+Original Sentence4 >>> She does not have excessive thirst or urination, weight changes, unexplained fatigue, etc.
+Preprocessed Sentence:>>>:she does not have excessive thirst or urination, weight changes, unexplained fatigue, etc .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+have
+----
+excessive
+----
+thirst
+----
+or
+----
+urination
+----
+,
+----
+weight
+----
+changes
+----
+,
+----
+unexplained
+----
+fatigue
+----
+,
+----
+etc
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('excessive', 'JJ') ('thirst', 'NN') ('or', 'CC') ('urination', 'NN') (',', ',') ('weight', 'NN') ('changes', 'NNS') (',', ',') ('unexplained', 'VBD') ('fatigue', 'NN') (',', ',') ('etc', 'NN') ('.', '.') 
+
+<< Note Number >>41
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS 2013 KNOW YOUR NUMBER HELLO THERE!
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts 2013 know your number hello there! <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+----
+2013
+----
+know
+----
+your
+----
+number
+----
+hello
+----
+there
+----
+!
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') ('2013', 'CD') ('know', 'NN') ('your', 'PRP$') ('number', 'NN') ('hello', 'NN') ('there', 'EX') ('!', '.') 
+
+<< Note Number >>41
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>42
+Original Sentence3 >>> Though I'm not able to reach you between the hours of 8:30 and 4:30, it is my hope that we are able to reach an agreement on a time to go over my test results.
+Preprocessed Sentence:>>>:though i'm not able to reach you between the hours of 8:30 and 4:30, it is my hope that we are able to reach an agreement on a time to go over my test results .  <<<
+
+Tokens of this sentence are as follows
+
+----
+though
+----
+i
+----
+'m
+----
+not
+----
+able
+----
+to
+----
+reach
+----
+you
+----
+between
+----
+the
+----
+hours
+----
+of
+----
+8:30
+----
+and
+----
+4:30
+----
+,
+----
+it
+----
+is
+----
+my
+----
+hope
+----
+that
+----
+we
+----
+are
+----
+able
+----
+to
+----
+reach
+----
+an
+----
+agreement
+----
+on
+----
+a
+----
+time
+----
+to
+----
+go
+----
+over
+----
+my
+----
+test
+----
+results
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('though', 'IN') ('i', 'PRP') ("'m", 'VBP') ('not', 'RB') ('able', 'JJ') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('between', 'IN') ('the', 'DT') ('hours', 'NNS') ('of', 'IN') ('8:30', 'CD') ('and', 'CC') ('4:30', 'CD') (',', ',') ('it', 'PRP') ('is', 'VBZ') ('my', 'PRP$') ('hope', 'NN') ('that', 'IN') ('we', 'PRP') ('are', 'VBP') ('able', 'JJ') ('to', 'TO') ('reach', 'VB') ('an', 'DT') ('agreement', 'NN') ('on', 'IN') ('a', 'DT') ('time', 'NN') ('to', 'TO') ('go', 'VB') ('over', 'IN') ('my', 'PRP$') ('test', 'NN') ('results', 'NNS') ('.', '.') 
+
+<< Note Number >>43
+Original Sentence3 >>> I do not know when this will change.
+Preprocessed Sentence:>>>:i do not know when this will change .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+do
+----
+not
+----
+know
+----
+when
+----
+this
+----
+will
+----
+change
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('know', 'VB') ('when', 'WRB') ('this', 'DT') ('will', 'MD') ('change', 'VB') ('.', '.') 
+
+<< Note Number >>44
+Original Sentence3 >>> I completely understand, there aren't enough hours in the day it seems!
+Preprocessed Sentence:>>>:i completely understand, there are not enough hours in the day it seems! <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+completely
+----
+understand
+----
+,
+----
+there
+----
+are
+----
+not
+----
+enough
+----
+hours
+----
+in
+----
+the
+----
+day
+----
+it
+----
+seems
+----
+!
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('completely', 'RB') ('understand', 'VBP') (',', ',') ('there', 'EX') ('are', 'VBP') ('not', 'RB') ('enough', 'RB') ('hours', 'NNS') ('in', 'IN') ('the', 'DT') ('day', 'NN') ('it', 'PRP') ('seems', 'VBZ') ('!', '.') 
+
+<< Note Number >>44
+Original Sentence5 >>> Or I can email your results, which I certainly do not mind doing.
+Preprocessed Sentence:>>>:or i can email your results, which i certainly do not mind doing .  <<<
+
+Tokens of this sentence are as follows
+
+----
+or
+----
+i
+----
+can
+----
+email
+----
+your
+----
+results
+----
+,
+----
+which
+----
+i
+----
+certainly
+----
+do
+----
+not
+----
+mind
+----
+doing
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('or', 'CC') ('i', 'PRP') ('can', 'MD') ('email', 'VB') ('your', 'PRP$') ('results', 'NNS') (',', ',') ('which', 'WDT') ('i', 'PRP') ('certainly', 'RB') ('do', 'VBP') ('not', 'RB') ('mind', 'VB') ('doing', 'VBG') ('.', '.') 
+
+<< Note Number >>47
+Original Sentence5 >>> I have worked so hard to avoid my fathers lifestyle but got blind sided by the sugar, not in my family.
+Preprocessed Sentence:>>>:i have worked so hard to avoid my fathers lifestyle but got blind sided by the sugar, not in my family .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+worked
+----
+so
+----
+hard
+----
+to
+----
+avoid
+----
+my
+----
+fathers
+----
+lifestyle
+----
+but
+----
+got
+----
+blind
+----
+sided
+----
+by
+----
+the
+----
+sugar
+----
+,
+----
+not
+----
+in
+----
+my
+----
+family
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('worked', 'VBN') ('so', 'RB') ('hard', 'RB') ('to', 'TO') ('avoid', 'VB') ('my', 'PRP$') ('fathers', 'NNS') ('lifestyle', 'NN') ('but', 'CC') ('got', 'VBD') ('blind', 'JJ') ('sided', 'VBN') ('by', 'IN') ('the', 'DT') ('sugar', 'NN') (',', ',') ('not', 'RB') ('in', 'IN') ('my', 'PRP$') ('family', 'NN') ('.', '.') 
+
+<< Note Number >>49
+Original Sentence1 >>> I am going to call you now, if you aren?t there, I will leave a message.
+Preprocessed Sentence:>>>:i am going to call you now, if you are not there, i will leave a message .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+am
+----
+going
+----
+to
+----
+call
+----
+you
+----
+now
+----
+,
+----
+if
+----
+you
+----
+are
+----
+not
+----
+there
+----
+,
+----
+i
+----
+will
+----
+leave
+----
+a
+----
+message
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('am', 'VBP') ('going', 'VBG') ('to', 'TO') ('call', 'VB') ('you', 'PRP') ('now', 'RB') (',', ',') ('if', 'IN') ('you', 'PRP') ('are', 'VBP') ('not', 'RB') ('there', 'RB') (',', ',') ('i', 'PRP') ('will', 'MD') ('leave', 'VB') ('a', 'DT') ('message', 'NN') ('.', '.') 
+
+<< Note Number >>50
+Original Sentence4 >>> She does not want to put a time frame on when she would like to be tobacco free.
+Preprocessed Sentence:>>>:she does not want to put a time frame on when she would like to be tobacco free .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+does
+----
+not
+----
+want
+----
+to
+----
+put
+----
+a
+----
+time
+----
+frame
+----
+on
+----
+when
+----
+she
+----
+would
+----
+like
+----
+to
+----
+be
+----
+tobacco
+----
+free
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('put', 'VB') ('a', 'DT') ('time', 'NN') ('frame', 'NN') ('on', 'IN') ('when', 'WRB') ('she', 'PRP') ('would', 'MD') ('like', 'VB') ('to', 'TO') ('be', 'VB') ('tobacco', 'RB') ('free', 'JJ') ('.', '.') 
+
+<< Note Number >>50
+Original Sentence5 >>> She wants to do it at her own pace and not be pressured.
+Preprocessed Sentence:>>>:she wants to do it at her own pace and not be pressured .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+wants
+----
+to
+----
+do
+----
+it
+----
+at
+----
+her
+----
+own
+----
+pace
+----
+and
+----
+not
+----
+be
+----
+pressured
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('do', 'VB') ('it', 'PRP') ('at', 'IN') ('her', 'PRP$') ('own', 'JJ') ('pace', 'NN') ('and', 'CC') ('not', 'RB') ('be', 'VB') ('pressured', 'VBN') ('.', '.') 
+
+<< Note Number >>72
+Original Sentence1 >>> NOT A KNOW DIABETIC, BS 147, A1C 8.4.
+Preprocessed Sentence:>>>:not a know diabetic, bs 147, a1c 8 . 4 .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+a
+----
+know
+----
+diabetic
+----
+,
+----
+bs
+----
+147
+----
+,
+----
+a1c
+----
+8
+----
+.
+----
+4
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('a', 'DT') ('know', 'NN') ('diabetic', 'JJ') (',', ',') ('bs', 'NNS') ('147', 'CD') (',', ',') ('a1c', 'NNP') ('8', 'CD') ('.', '.') ('4', 'CD') ('.', '.') 
+
+<< Note Number >>78
+Original Sentence1 >>> NOT A KNOWN DIABETIC, BUT BS WAS 246, A1C 10.6 TCHOL 246, TRI 302.
+Preprocessed Sentence:>>>:not a known diabetic, but bs was 246, a1c 10 . 6 tchol 246, tri 302 .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+a
+----
+known
+----
+diabetic
+----
+,
+----
+but
+----
+bs
+----
+was
+----
+246
+----
+,
+----
+a1c
+----
+10
+----
+.
+----
+6
+----
+tchol
+----
+246
+----
+,
+----
+tri
+----
+302
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('a', 'DT') ('known', 'VBN') ('diabetic', 'JJ') (',', ',') ('but', 'CC') ('bs', 'NNS') ('was', 'VBD') ('246', 'CD') (',', ',') ('a1c', 'NNP') ('10', 'CD') ('.', '.') ('6', 'CD') ('tchol', 'NN') ('246', 'CD') (',', ',') ('tri', 'NN') ('302', 'CD') ('.', '.') 
+
+<< Note Number >>81
+Original Sentence9 >>> will continue to follow his psa levels, but he has chosen for quality of life, to not do lupron.
+Preprocessed Sentence:>>>:will continue to follow his psa levels, but he has chosen for quality of life, to not do lupron .  <<<
+
+Tokens of this sentence are as follows
+
+----
+will
+----
+continue
+----
+to
+----
+follow
+----
+his
+----
+psa
+----
+levels
+----
+,
+----
+but
+----
+he
+----
+has
+----
+chosen
+----
+for
+----
+quality
+----
+of
+----
+life
+----
+,
+----
+to
+----
+not
+----
+do
+----
+lupron
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('will', 'MD') ('continue', 'VB') ('to', 'TO') ('follow', 'VB') ('his', 'PRP$') ('psa', 'NN') ('levels', 'NNS') (',', ',') ('but', 'CC') ('he', 'PRP') ('has', 'VBZ') ('chosen', 'VBN') ('for', 'IN') ('quality', 'NN') ('of', 'IN') ('life', 'NN') (',', ',') ('to', 'TO') ('not', 'RB') ('do', 'VB') ('lupron', 'RB') ('.', '.') 
+
+<< Note Number >>82
+Original Sentence2 >>> member does have a doctor although one is not listed on chart.
+Preprocessed Sentence:>>>:member does have a doctor although one is not listed on chart .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+does
+----
+have
+----
+a
+----
+doctor
+----
+although
+----
+one
+----
+is
+----
+not
+----
+listed
+----
+on
+----
+chart
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('does', 'VBZ') ('have', 'VB') ('a', 'DT') ('doctor', 'NN') ('although', 'IN') ('one', 'CD') ('is', 'VBZ') ('not', 'RB') ('listed', 'VBN') ('on', 'IN') ('chart', 'NN') ('.', '.') 
+
+<< Note Number >>83
+Original Sentence9 >>> Do not do much activity.
+Preprocessed Sentence:>>>:do not do much activity .  <<<
+
+Tokens of this sentence are as follows
+
+----
+do
+----
+not
+----
+do
+----
+much
+----
+activity
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('do', 'VBP') ('not', 'RB') ('do', 'VB') ('much', 'RB') ('activity', 'NN') ('.', '.') 
+
+<< Note Number >>83
+Original Sentence11 >>> Lifestyle not being able to keep the weight off.
+Preprocessed Sentence:>>>:lifestyle not being able to keep the weight off .  <<<
+
+Tokens of this sentence are as follows
+
+----
+lifestyle
+----
+not
+----
+being
+----
+able
+----
+to
+----
+keep
+----
+the
+----
+weight
+----
+off
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('lifestyle', 'NN') ('not', 'RB') ('being', 'VBG') ('able', 'JJ') ('to', 'TO') ('keep', 'VB') ('the', 'DT') ('weight', 'NN') ('off', 'RP') ('.', '.') 
+
+<< Note Number >>86
+Original Sentence4 >>> Not going to push the issue
+Preprocessed Sentence:>>>:not going to push the issue <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+going
+----
+to
+----
+push
+----
+the
+----
+issue
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('going', 'VBG') ('to', 'TO') ('push', 'VB') ('the', 'DT') ('issue', 'NN') 
+
+<< Note Number >>87
+Original Sentence5 >>> Had not been able to do his 4 minute intervals on the treadmill with the holiday weekend.
+Preprocessed Sentence:>>>:had not been able to do his 4 minute intervals on the treadmill with the holiday weekend .  <<<
+
+Tokens of this sentence are as follows
+
+----
+had
+----
+not
+----
+been
+----
+able
+----
+to
+----
+do
+----
+his
+----
+4
+----
+minute
+----
+intervals
+----
+on
+----
+the
+----
+treadmill
+----
+with
+----
+the
+----
+holiday
+----
+weekend
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('had', 'VBD') ('not', 'RB') ('been', 'VBN') ('able', 'JJ') ('to', 'TO') ('do', 'VB') ('his', 'PRP$') ('4', 'CD') ('minute', 'NN') ('intervals', 'NNS') ('on', 'IN') ('the', 'DT') ('treadmill', 'NN') ('with', 'IN') ('the', 'DT') ('holiday', 'NN') ('weekend', 'NN') ('.', '.') 
+
+<< Note Number >>91
+Original Sentence8 >>> DO NOT LET IT FALL THROUGH THE CRACKS.
+Preprocessed Sentence:>>>:do not let it fall through the cracks .  <<<
+
+Tokens of this sentence are as follows
+
+----
+do
+----
+not
+----
+let
+----
+it
+----
+fall
+----
+through
+----
+the
+----
+cracks
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('do', 'VBP') ('not', 'RB') ('let', 'VB') ('it', 'PRP') ('fall', 'VBP') ('through', 'IN') ('the', 'DT') ('cracks', 'NNS') ('.', '.') 
+
+<< Note Number >>104
+Original Sentence2 >>> States she has not changed her diet, gained a large amt of weight or has not been on steroids in the last few months.
+Preprocessed Sentence:>>>:states she has not changed her diet, gained a large amt of weight or has not been on steroids in the last few months .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+she
+----
+has
+----
+not
+----
+changed
+----
+her
+----
+diet
+----
+,
+----
+gained
+----
+a
+----
+large
+----
+amt
+----
+of
+----
+weight
+----
+or
+----
+has
+----
+not
+----
+been
+----
+on
+----
+steroids
+----
+in
+----
+the
+----
+last
+----
+few
+----
+months
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('she', 'PRP') ('has', 'VBZ') ('not', 'RB') ('changed', 'VBN') ('her', 'PRP$') ('diet', 'NN') (',', ',') ('gained', 'VBD') ('a', 'DT') ('large', 'JJ') ('amt', 'NN') ('of', 'IN') ('weight', 'NN') ('or', 'CC') ('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('on', 'IN') ('steroids', 'NNS') ('in', 'IN') ('the', 'DT') ('last', 'JJ') ('few', 'JJ') ('months', 'NNS') ('.', '.') 
+
+<< Note Number >>115
+Original Sentence1 >>> 5/9/13 Called member not in office.
+Preprocessed Sentence:>>>:5 / 9 / 13 called member not in office .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+9
+----
+/
+----
+13
+----
+called
+----
+member
+----
+not
+----
+in
+----
+office
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('9', 'CD') ('/', 'CD') ('13', 'CD') ('called', 'VBN') ('member', 'NN') ('not', 'RB') ('in', 'IN') ('office', 'NN') ('.', '.') 
+
+<< Note Number >>118
+Original Sentence2 >>> If you haven?t rechecked your BP would you do so?
+Preprocessed Sentence:>>>:if you have not rechecked your bp would you do so? <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+you
+----
+have
+----
+not
+----
+rechecked
+----
+your
+----
+bp
+----
+would
+----
+you
+----
+do
+----
+so
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('rechecked', 'VBN') ('your', 'PRP$') ('bp', 'NN') ('would', 'MD') ('you', 'PRP') ('do', 'VB') ('so', 'RB') ('?', '.') 
+
+<< Note Number >>119
+Original Sentence4 >>> Member does not have a regular medical physician, goes to clinic in Douglas.
+Preprocessed Sentence:>>>:member does not have a regular medical physician, goes to clinic in douglas .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+does
+----
+not
+----
+have
+----
+a
+----
+regular
+----
+medical
+----
+physician
+----
+,
+----
+goes
+----
+to
+----
+clinic
+----
+in
+----
+douglas
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('regular', 'JJ') ('medical', 'JJ') ('physician', 'JJ') (',', ',') ('goes', 'VBZ') ('to', 'TO') ('clinic', 'JJ') ('in', 'IN') ('douglas', 'NNS') ('.', '.') 
+
+<< Note Number >>121
+Original Sentence2 >>> Not in office today.
+Preprocessed Sentence:>>>:not in office today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+in
+----
+office
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('in', 'IN') ('office', 'NN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>124
+Original Sentence4 >>> States he has to change doctors and is not sure who he wants to go to.
+Preprocessed Sentence:>>>:states he has to change doctors and is not sure who he wants to go to .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+he
+----
+has
+----
+to
+----
+change
+----
+doctors
+----
+and
+----
+is
+----
+not
+----
+sure
+----
+who
+----
+he
+----
+wants
+----
+to
+----
+go
+----
+to
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('he', 'PRP') ('has', 'VBZ') ('to', 'TO') ('change', 'VB') ('doctors', 'NNS') ('and', 'CC') ('is', 'VBZ') ('not', 'RB') ('sure', 'JJ') ('who', 'WP') ('he', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('go', 'VB') ('to', 'TO') ('.', '.') 
+
+<< Note Number >>124
+Original Sentence5 >>> Explained to member that if he ignored the results and did not get some medicine to bring sugar down then he would have complications of the disease.
+Preprocessed Sentence:>>>:explained to member that if he ignored the results and did not get some medicine to bring sugar down then he would have complications of the disease .  <<<
+
+Tokens of this sentence are as follows
+
+----
+explained
+----
+to
+----
+member
+----
+that
+----
+if
+----
+he
+----
+ignored
+----
+the
+----
+results
+----
+and
+----
+did
+----
+not
+----
+get
+----
+some
+----
+medicine
+----
+to
+----
+bring
+----
+sugar
+----
+down
+----
+then
+----
+he
+----
+would
+----
+have
+----
+complications
+----
+of
+----
+the
+----
+disease
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('explained', 'VBD') ('to', 'TO') ('member', 'NN') ('that', 'IN') ('if', 'IN') ('he', 'PRP') ('ignored', 'VBD') ('the', 'DT') ('results', 'NNS') ('and', 'CC') ('did', 'VBD') ('not', 'RB') ('get', 'VB') ('some', 'DT') ('medicine', 'NN') ('to', 'TO') ('bring', 'VB') ('sugar', 'NN') ('down', 'IN') ('then', 'RB') ('he', 'PRP') ('would', 'MD') ('have', 'VB') ('complications', 'NNS') ('of', 'IN') ('the', 'DT') ('disease', 'NN') ('.', '.') 
+
+<< Note Number >>124
+Original Sentence8 >>> He did not want to hear the news about his labs. "
+Preprocessed Sentence:>>>:he did not want to hear the news about his labs .  " <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+did
+----
+not
+----
+want
+----
+to
+----
+hear
+----
+the
+----
+news
+----
+about
+----
+his
+----
+labs
+----
+.
+----
+``
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('hear', 'VB') ('the', 'DT') ('news', 'NN') ('about', 'IN') ('his', 'PRP$') ('labs', 'NNS') ('.', '.') ('``', '``') 
+
+<< Note Number >>132
+Original Sentence1 >>> 5/14/13  Called member does not have VM."
+Preprocessed Sentence:>>>:5 / 14 / 13  called member does not have vm . " <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+14
+----
+/
+----
+13
+----
+called
+----
+member
+----
+does
+----
+not
+----
+have
+----
+vm
+----
+.
+----
+``
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('14', 'CD') ('/', 'CD') ('13', 'CD') ('called', 'VBN') ('member', 'NN') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('vm', 'NN') ('.', '.') ('``', '``') 
+
+<< Note Number >>133
+Original Sentence5 >>> If you haven?t rechecked your BP would you do so?
+Preprocessed Sentence:>>>:if you have not rechecked your bp would you do so? <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+you
+----
+have
+----
+not
+----
+rechecked
+----
+your
+----
+bp
+----
+would
+----
+you
+----
+do
+----
+so
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('rechecked', 'VBN') ('your', 'PRP$') ('bp', 'NN') ('would', 'MD') ('you', 'PRP') ('do', 'VB') ('so', 'RB') ('?', '.') 
+
+<< Note Number >>138
+Original Sentence3 >>> Does not have a primary care physician thinks he doesn?t need one cause of age.
+Preprocessed Sentence:>>>:does not have a primary care physician thinks he does not need one cause of age .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+have
+----
+a
+----
+primary
+----
+care
+----
+physician
+----
+thinks
+----
+he
+----
+does
+----
+not
+----
+need
+----
+one
+----
+cause
+----
+of
+----
+age
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('primary', 'JJ') ('care', 'NN') ('physician', 'NN') ('thinks', 'NNS') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('need', 'VBP') ('one', 'CD') ('cause', 'NN') ('of', 'IN') ('age', 'NN') ('.', '.') 
+
+<< Note Number >>155
+Original Sentence4 >>> Member does not have doctor.
+Preprocessed Sentence:>>>:member does not have doctor .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+does
+----
+not
+----
+have
+----
+doctor
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('doctor', 'NN') ('.', '.') 
+
+<< Note Number >>156
+Original Sentence2 >>> States member is not a patient of Dr. Smith?s.
+Preprocessed Sentence:>>>:states member is not a patient of dr .  smith?s .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+member
+----
+is
+----
+not
+----
+a
+----
+patient
+----
+of
+----
+dr
+----
+.
+----
+smith
+----
+?
+----
+s
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('member', 'VBP') ('is', 'VBZ') ('not', 'RB') ('a', 'DT') ('patient', 'NN') ('of', 'IN') ('dr', 'NN') ('.', '.') ('smith', 'NN') ('?', '.') ('s', 'NNS') ('.', '.') 
+
+<< Note Number >>158
+Original Sentence1 >>> 5/14/13  Member states he didn?t know his sugar was up.
+Preprocessed Sentence:>>>:5 / 14 / 13  member states he did not know his sugar was up .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+14
+----
+/
+----
+13
+----
+member
+----
+states
+----
+he
+----
+did
+----
+not
+----
+know
+----
+his
+----
+sugar
+----
+was
+----
+up
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('14', 'CD') ('/', 'CD') ('13', 'CD') ('member', 'NN') ('states', 'NNS') ('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('know', 'VB') ('his', 'PRP$') ('sugar', 'NN') ('was', 'VBD') ('up', 'IN') ('.', '.') 
+
+<< Note Number >>158
+Original Sentence3 >>> Member assured me he was NOT diabetic.
+Preprocessed Sentence:>>>:member assured me he was not diabetic .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+assured
+----
+me
+----
+he
+----
+was
+----
+not
+----
+diabetic
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('assured', 'VBD') ('me', 'PRP') ('he', 'PRP') ('was', 'VBD') ('not', 'RB') ('diabetic', 'JJ') ('.', '.') 
+
+<< Note Number >>158
+Original Sentence4 >>> Doesn?t have a primary doctor.
+Preprocessed Sentence:>>>:does not have a primary doctor .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+have
+----
+a
+----
+primary
+----
+doctor
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('primary', 'JJ') ('doctor', 'NN') ('.', '.') 
+
+<< Note Number >>158
+Original Sentence5 >>> Talked to member about BS but not receptive to information.
+Preprocessed Sentence:>>>:talked to member about bs but not receptive to information .  <<<
+
+Tokens of this sentence are as follows
+
+----
+talked
+----
+to
+----
+member
+----
+about
+----
+bs
+----
+but
+----
+not
+----
+receptive
+----
+to
+----
+information
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('talked', 'VBD') ('to', 'TO') ('member', 'NN') ('about', 'IN') ('bs', 'NNS') ('but', 'CC') ('not', 'RB') ('receptive', 'JJ') ('to', 'TO') ('information', 'NN') ('.', '.') 
+
+<< Note Number >>158
+Original Sentence6 >>> Encouraged to take care of self in order to stay healthy so that he could take care of wife who is not well.
+Preprocessed Sentence:>>>:encouraged to take care of self in order to stay healthy so that he could take care of wife who is not well .  <<<
+
+Tokens of this sentence are as follows
+
+----
+encouraged
+----
+to
+----
+take
+----
+care
+----
+of
+----
+self
+----
+in
+----
+order
+----
+to
+----
+stay
+----
+healthy
+----
+so
+----
+that
+----
+he
+----
+could
+----
+take
+----
+care
+----
+of
+----
+wife
+----
+who
+----
+is
+----
+not
+----
+well
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('encouraged', 'VBD') ('to', 'TO') ('take', 'VB') ('care', 'NN') ('of', 'IN') ('self', 'NN') ('in', 'IN') ('order', 'NN') ('to', 'TO') ('stay', 'VB') ('healthy', 'JJ') ('so', 'IN') ('that', 'IN') ('he', 'PRP') ('could', 'MD') ('take', 'VB') ('care', 'NN') ('of', 'IN') ('wife', 'NN') ('who', 'WP') ('is', 'VBZ') ('not', 'RB') ('well', 'RB') ('.', '.') 
+
+<< Note Number >>164
+Original Sentence4 >>> Asked if I could fax results to him bc he did not write down a number or name of PCP.
+Preprocessed Sentence:>>>:asked if i could fax results to him bc he did not write down a number or name of pcp .  <<<
+
+Tokens of this sentence are as follows
+
+----
+asked
+----
+if
+----
+i
+----
+could
+----
+fax
+----
+results
+----
+to
+----
+him
+----
+bc
+----
+he
+----
+did
+----
+not
+----
+write
+----
+down
+----
+a
+----
+number
+----
+or
+----
+name
+----
+of
+----
+pcp
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('asked', 'VBD') ('if', 'IN') ('i', 'PRP') ('could', 'MD') ('fax', 'VB') ('results', 'NNS') ('to', 'TO') ('him', 'PRP') ('bc', 'VB') ('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('write', 'VB') ('down', 'RP') ('a', 'DT') ('number', 'NN') ('or', 'CC') ('name', 'NN') ('of', 'IN') ('pcp', 'NN') ('.', '.') 
+
+<< Note Number >>166
+Original Sentence1 >>> 5/14/13  Called and spoke with wife who says he is not home yet and most of the time he is usually home by now.
+Preprocessed Sentence:>>>:5 / 14 / 13  called and spoke with wife who says he is not home yet and most of the time he is usually home by now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+14
+----
+/
+----
+13
+----
+called
+----
+and
+----
+spoke
+----
+with
+----
+wife
+----
+who
+----
+says
+----
+he
+----
+is
+----
+not
+----
+home
+----
+yet
+----
+and
+----
+most
+----
+of
+----
+the
+----
+time
+----
+he
+----
+is
+----
+usually
+----
+home
+----
+by
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('14', 'CD') ('/', 'CD') ('13', 'CD') ('called', 'VBN') ('and', 'CC') ('spoke', 'NN') ('with', 'IN') ('wife', 'NN') ('who', 'WP') ('says', 'VBZ') ('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('home', 'NN') ('yet', 'RB') ('and', 'CC') ('most', 'JJS') ('of', 'IN') ('the', 'DT') ('time', 'NN') ('he', 'PRP') ('is', 'VBZ') ('usually', 'RB') ('home', 'NN') ('by', 'IN') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>170
+Original Sentence3 >>> Would not take message.
+Preprocessed Sentence:>>>:would not take message .  <<<
+
+Tokens of this sentence are as follows
+
+----
+would
+----
+not
+----
+take
+----
+message
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('would', 'MD') ('not', 'RB') ('take', 'VB') ('message', 'NN') ('.', '.') 
+
+<< Note Number >>170
+Original Sentence4 >>> Would not let me know when he would be at home and I could call back.
+Preprocessed Sentence:>>>:would not let me know when he would be at home and i could call back .  <<<
+
+Tokens of this sentence are as follows
+
+----
+would
+----
+not
+----
+let
+----
+me
+----
+know
+----
+when
+----
+he
+----
+would
+----
+be
+----
+at
+----
+home
+----
+and
+----
+i
+----
+could
+----
+call
+----
+back
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('would', 'MD') ('not', 'RB') ('let', 'VB') ('me', 'PRP') ('know', 'VB') ('when', 'WRB') ('he', 'PRP') ('would', 'MD') ('be', 'VB') ('at', 'IN') ('home', 'NN') ('and', 'CC') ('i', 'PRP') ('could', 'MD') ('call', 'VB') ('back', 'RB') ('.', '.') 
+
+<< Note Number >>176
+Original Sentence2 >>> He claims he is not a diabetic.
+Preprocessed Sentence:>>>:he claims he is not a diabetic .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+claims
+----
+he
+----
+is
+----
+not
+----
+a
+----
+diabetic
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('claims', 'VBZ') ('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('a', 'DT') ('diabetic', 'JJ') ('.', '.') 
+
+<< Note Number >>176
+Original Sentence3 >>> Not on meds for GLU.
+Preprocessed Sentence:>>>:not on medication for glu .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+on
+----
+medication
+----
+for
+----
+glu
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('on', 'IN') ('medication', 'NN') ('for', 'IN') ('glu', 'NN') ('.', '.') 
+
+<< Note Number >>177
+Original Sentence2 >>> He said he is still not ready to quit.
+Preprocessed Sentence:>>>:he said he is still not ready to quit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+is
+----
+still
+----
+not
+----
+ready
+----
+to
+----
+quit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('still', 'RB') ('not', 'RB') ('ready', 'JJ') ('to', 'TO') ('quit', 'VB') ('.', '.') 
+
+<< Note Number >>181
+Original Sentence2 >>> If you haven?t already, change from white bread/white rice/white pasta  to whole grain products.
+Preprocessed Sentence:>>>:if you have not already, change from white bread / white rice / white pasta  to whole grain products .  <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+you
+----
+have
+----
+not
+----
+already
+----
+,
+----
+change
+----
+from
+----
+white
+----
+bread
+----
+/
+----
+white
+----
+rice
+----
+/
+----
+white
+----
+pasta
+----
+to
+----
+whole
+----
+grain
+----
+products
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('already', 'RB') (',', ',') ('change', 'NN') ('from', 'IN') ('white', 'JJ') ('bread', 'NN') ('/', ':') ('white', 'JJ') ('rice', 'NN') ('/', ':') ('white', 'JJ') ('pasta', 'NN') ('to', 'TO') ('whole', 'VB') ('grain', 'NN') ('products', 'NNS') ('.', '.') 
+
+<< Note Number >>181
+Original Sentence3 >>> Labels can be misleading- bread should say specifically that it is WHOLE GRAIN- NOT just MULTI grain.
+Preprocessed Sentence:>>>:labels can be misleading -  bread should say specifically that it is whole grain -  not just multi grain .  <<<
+
+Tokens of this sentence are as follows
+
+----
+labels
+----
+can
+----
+be
+----
+misleading
+----
+-
+----
+bread
+----
+should
+----
+say
+----
+specifically
+----
+that
+----
+it
+----
+is
+----
+whole
+----
+grain
+----
+-
+----
+not
+----
+just
+----
+multi
+----
+grain
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('labels', 'NNS') ('can', 'MD') ('be', 'VB') ('misleading', 'VBG') ('-', ':') ('bread', 'NN') ('should', 'MD') ('say', 'VB') ('specifically', 'RB') ('that', 'IN') ('it', 'PRP') ('is', 'VBZ') ('whole', 'JJ') ('grain', 'NN') ('-', ':') ('not', 'RB') ('just', 'RB') ('multi', 'VBP') ('grain', 'NN') ('.', '.') 
+
+<< Note Number >>185
+Original Sentence4 >>> Not on meds currently for CHOL.
+Preprocessed Sentence:>>>:not on medication currently for chol .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+on
+----
+medication
+----
+currently
+----
+for
+----
+chol
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('on', 'IN') ('medication', 'NN') ('currently', 'RB') ('for', 'IN') ('chol', 'NN') ('.', '.') 
+
+<< Note Number >>191
+Original Sentence4 >>> If you haven?t rechecked your BP would you do so?
+Preprocessed Sentence:>>>:if you have not rechecked your bp would you do so? <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+you
+----
+have
+----
+not
+----
+rechecked
+----
+your
+----
+bp
+----
+would
+----
+you
+----
+do
+----
+so
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('rechecked', 'VBN') ('your', 'PRP$') ('bp', 'NN') ('would', 'MD') ('you', 'PRP') ('do', 'VB') ('so', 'RB') ('?', '.') 
+
+<< Note Number >>201
+Original Sentence3 >>> Reviewed  labs with him and consequences of not taking care of himself and his diabetes.
+Preprocessed Sentence:>>>:reviewed  labs with him and consequences of not taking care of himself and his diabetes .  <<<
+
+Tokens of this sentence are as follows
+
+----
+reviewed
+----
+labs
+----
+with
+----
+him
+----
+and
+----
+consequences
+----
+of
+----
+not
+----
+taking
+----
+care
+----
+of
+----
+himself
+----
+and
+----
+his
+----
+diabetes
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('reviewed', 'VBD') ('labs', 'NNS') ('with', 'IN') ('him', 'PRP') ('and', 'CC') ('consequences', 'NNS') ('of', 'IN') ('not', 'RB') ('taking', 'VBG') ('care', 'NN') ('of', 'IN') ('himself', 'PRP') ('and', 'CC') ('his', 'PRP$') ('diabetes', 'NNS') ('.', '.') 
+
+<< Note Number >>205
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>206
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>208
+Original Sentence3 >>> Explained that something was not right bc his BS should not be so high.
+Preprocessed Sentence:>>>:explained that something was not right bc his bs should not be so high .  <<<
+
+Tokens of this sentence are as follows
+
+----
+explained
+----
+that
+----
+something
+----
+was
+----
+not
+----
+right
+----
+bc
+----
+his
+----
+bs
+----
+should
+----
+not
+----
+be
+----
+so
+----
+high
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('explained', 'VBD') ('that', 'IN') ('something', 'NN') ('was', 'VBD') ('not', 'RB') ('right', 'RB') ('bc', 'JJ') ('his', 'PRP$') ('bs', 'NNS') ('should', 'MD') ('not', 'RB') ('be', 'VB') ('so', 'RB') ('high', 'JJ') ('.', '.') 
+
+<< Note Number >>221
+Original Sentence2 >>> Did not speak with anyone.
+Preprocessed Sentence:>>>:did not speak with anyone .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+not
+----
+speak
+----
+with
+----
+anyone
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('not', 'RB') ('speak', 'VB') ('with', 'IN') ('anyone', 'NN') ('.', '.') 
+
+<< Note Number >>230
+Original Sentence4 >>> Has not rechecked BP.
+Preprocessed Sentence:>>>:has not rechecked bp .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+rechecked
+----
+bp
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('rechecked', 'VBN') ('bp', 'NN') ('.', '.') 
+
+<< Note Number >>233
+Original Sentence3 >>> She couldn?t remember exactly what her last A1c was, thinks it was 9 or 10- is working on reducing that by exercising and following her diet properly.
+Preprocessed Sentence:>>>:she could not remember exactly what her last a1c was, thinks it was 9 or 10 -  is working on reducing that by exercising and following her diet properly .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+could
+----
+not
+----
+remember
+----
+exactly
+----
+what
+----
+her
+----
+last
+----
+a1c
+----
+was
+----
+,
+----
+thinks
+----
+it
+----
+was
+----
+9
+----
+or
+----
+10
+----
+-
+----
+is
+----
+working
+----
+on
+----
+reducing
+----
+that
+----
+by
+----
+exercising
+----
+and
+----
+following
+----
+her
+----
+diet
+----
+properly
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('could', 'MD') ('not', 'RB') ('remember', 'VB') ('exactly', 'RB') ('what', 'WP') ('her', 'PRP$') ('last', 'JJ') ('a1c', 'NNP') ('was', 'VBD') (',', ',') ('thinks', 'NNS') ('it', 'PRP') ('was', 'VBD') ('9', 'CD') ('or', 'CC') ('10', 'CD') ('-', ':') ('is', 'VBZ') ('working', 'VBG') ('on', 'IN') ('reducing', 'VBG') ('that', 'IN') ('by', 'IN') ('exercising', 'NN') ('and', 'CC') ('following', 'VBG') ('her', 'PRP$') ('diet', 'NN') ('properly', 'RB') ('.', '.') 
+
+<< Note Number >>233
+Original Sentence4 >>> She knows what to do but doesn?t always do it?sometimes she ?cheats?
+Preprocessed Sentence:>>>:she knows what to do but does not always do it?sometimes she ?cheats? <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+knows
+----
+what
+----
+to
+----
+do
+----
+but
+----
+does
+----
+not
+----
+always
+----
+do
+----
+it
+----
+?
+----
+sometimes
+----
+she
+----
+?
+----
+cheats
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('knows', 'VBZ') ('what', 'WP') ('to', 'TO') ('do', 'VB') ('but', 'CC') ('does', 'VBZ') ('not', 'RB') ('always', 'RB') ('do', 'VBP') ('it', 'PRP') ('?', '.') ('sometimes', 'RB') ('she', 'PRP') ('?', '.') ('cheats', 'NNS') ('?', '.') 
+
+<< Note Number >>252
+Original Sentence1 >>> 4/15/2013  1400  Talked with member- she was at work, not much time-  States she is doing well, her thyroid medication and bp medication are working well for her.
+Preprocessed Sentence:>>>:4 / 15 / 2013  1400  talked with member -  she was at work, not much time -   states she is doing well, her thyroid medication and bp medication are working well for her .  <<<
+
+Tokens of this sentence are as follows
+
+----
+4
+----
+/
+----
+15
+----
+/
+----
+2013
+----
+1400
+----
+talked
+----
+with
+----
+member
+----
+-
+----
+she
+----
+was
+----
+at
+----
+work
+----
+,
+----
+not
+----
+much
+----
+time
+----
+-
+----
+states
+----
+she
+----
+is
+----
+doing
+----
+well
+----
+,
+----
+her
+----
+thyroid
+----
+medication
+----
+and
+----
+bp
+----
+medication
+----
+are
+----
+working
+----
+well
+----
+for
+----
+her
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('4', 'LS') ('/', '``') ('15', 'CD') ('/', 'CD') ('2013', 'CD') ('1400', 'CD') ('talked', 'VBN') ('with', 'IN') ('member', 'NN') ('-', ':') ('she', 'PRP') ('was', 'VBD') ('at', 'IN') ('work', 'NN') (',', ',') ('not', 'RB') ('much', 'JJ') ('time', 'NN') ('-', ':') ('states', 'NNS') ('she', 'PRP') ('is', 'VBZ') ('doing', 'VBG') ('well', 'RB') (',', ',') ('her', 'PRP$') ('thyroid', 'NN') ('medication', 'NN') ('and', 'CC') ('bp', 'VB') ('medication', 'NN') ('are', 'VBP') ('working', 'VBG') ('well', 'RB') ('for', 'IN') ('her', 'PRP$') ('.', '.') 
+
+<< Note Number >>264
+Original Sentence3 >>> She still has a thyroid gland, but ?it just doesn?t work?.
+Preprocessed Sentence:>>>:she still has a thyroid gland, but ?it just does not work? .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+still
+----
+has
+----
+a
+----
+thyroid
+----
+gland
+----
+,
+----
+but
+----
+?
+----
+it
+----
+just
+----
+does
+----
+not
+----
+work
+----
+?
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('still', 'RB') ('has', 'VBZ') ('a', 'DT') ('thyroid', 'JJ') ('gland', 'NN') (',', ',') ('but', 'CC') ('?', '.') ('it', 'PRP') ('just', 'RB') ('does', 'VBZ') ('not', 'RB') ('work', 'VB') ('?', '.') ('.', '.') 
+
+<< Note Number >>264
+Original Sentence6 >>> Does not see an endocrinologist.
+Preprocessed Sentence:>>>:does not see an endocrinologist .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+see
+----
+an
+----
+endocrinologist
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('see', 'VB') ('an', 'DT') ('endocrinologist', 'NN') ('.', '.') 
+
+<< Note Number >>264
+Original Sentence7 >>> Not sure what her t3,t4 , or TSH run.
+Preprocessed Sentence:>>>:not sure what her t3,t4 , or tsh run .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+sure
+----
+what
+----
+her
+----
+t3
+----
+,
+----
+t4
+----
+,
+----
+or
+----
+tsh
+----
+run
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('sure', 'JJ') ('what', 'WP') ('her', 'PRP') ('t3', 'NNP') (',', ',') ('t4', 'NNP') (',', ',') ('or', 'CC') ('tsh', 'JJ') ('run', 'NN') ('.', '.') 
+
+<< Note Number >>270
+Original Sentence3 >>> It doesn?t start until he gets to work- it doesn?t happen when at home.
+Preprocessed Sentence:>>>:it does not start until he gets to work -  it does not happen when at home .  <<<
+
+Tokens of this sentence are as follows
+
+----
+it
+----
+does
+----
+not
+----
+start
+----
+until
+----
+he
+----
+gets
+----
+to
+----
+work
+----
+-
+----
+it
+----
+does
+----
+not
+----
+happen
+----
+when
+----
+at
+----
+home
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('it', 'PRP') ('does', 'VBZ') ('not', 'RB') ('start', 'VB') ('until', 'IN') ('he', 'PRP') ('gets', 'VBZ') ('to', 'TO') ('work', 'VB') ('-', ':') ('it', 'PRP') ('does', 'VBZ') ('not', 'RB') ('happen', 'VB') ('when', 'WRB') ('at', 'IN') ('home', 'NN') ('.', '.') 
+
+<< Note Number >>270
+Original Sentence4 >>> He thinks it may possibly be from perfumes/cleaners/disinfectant at work, not sure what it is but he doesn?t cough like that at home.
+Preprocessed Sentence:>>>:he thinks it may possibly be from perfumes / cleaners / disinfectant at work, not sure what it is but he does not cough like that at home .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+thinks
+----
+it
+----
+may
+----
+possibly
+----
+be
+----
+from
+----
+perfumes
+----
+/
+----
+cleaners
+----
+/
+----
+disinfectant
+----
+at
+----
+work
+----
+,
+----
+not
+----
+sure
+----
+what
+----
+it
+----
+is
+----
+but
+----
+he
+----
+does
+----
+not
+----
+cough
+----
+like
+----
+that
+----
+at
+----
+home
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('thinks', 'VBZ') ('it', 'PRP') ('may', 'MD') ('possibly', 'RB') ('be', 'VB') ('from', 'IN') ('perfumes', 'NNS') ('/', ':') ('cleaners', 'NNS') ('/', 'VBP') ('disinfectant', 'JJ') ('at', 'IN') ('work', 'NN') (',', ',') ('not', 'RB') ('sure', 'JJ') ('what', 'WP') ('it', 'PRP') ('is', 'VBZ') ('but', 'CC') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('cough', 'IN') ('like', 'IN') ('that', 'DT') ('at', 'IN') ('home', 'NN') ('.', '.') 
+
+<< Note Number >>270
+Original Sentence7 >>> He does not have a peak flow meter- encouraged him to talk with his md about getting one.
+Preprocessed Sentence:>>>:he does not have a peak flow meter -  encouraged him to talk with his md about getting one .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+have
+----
+a
+----
+peak
+----
+flow
+----
+meter
+----
+-
+----
+encouraged
+----
+him
+----
+to
+----
+talk
+----
+with
+----
+his
+----
+md
+----
+about
+----
+getting
+----
+one
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('peak', 'NN') ('flow', 'NN') ('meter', 'NN') ('-', ':') ('encouraged', 'JJ') ('him', 'PRP') ('to', 'TO') ('talk', 'VB') ('with', 'IN') ('his', 'PRP$') ('md', 'NN') ('about', 'IN') ('getting', 'VBG') ('one', 'CD') ('.', '.') 
+
+<< Note Number >>270
+Original Sentence8 >>> He has noticed that he can sleep fine in the recliner all night but when lying flat he doesn?t rest as well.
+Preprocessed Sentence:>>>:he has noticed that he can sleep fine in the recliner all night but when lying flat he does not rest as well .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+noticed
+----
+that
+----
+he
+----
+can
+----
+sleep
+----
+fine
+----
+in
+----
+the
+----
+recliner
+----
+all
+----
+night
+----
+but
+----
+when
+----
+lying
+----
+flat
+----
+he
+----
+does
+----
+not
+----
+rest
+----
+as
+----
+well
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('noticed', 'VBN') ('that', 'IN') ('he', 'PRP') ('can', 'MD') ('sleep', 'VB') ('fine', 'NN') ('in', 'IN') ('the', 'DT') ('recliner', 'NN') ('all', 'DT') ('night', 'NN') ('but', 'CC') ('when', 'WRB') ('lying', 'VBG') ('flat', 'JJ') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('rest', 'VB') ('as', 'IN') ('well', 'RB') ('.', '.') 
+
+<< Note Number >>270
+Original Sentence11 >>> He hasn?t had allergy testing done in thirty years.
+Preprocessed Sentence:>>>:he has not had allergy testing done in thirty years .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+had
+----
+allergy
+----
+testing
+----
+done
+----
+in
+----
+thirty
+----
+years
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('had', 'VBD') ('allergy', 'NN') ('testing', 'NN') ('done', 'NN') ('in', 'IN') ('thirty', 'NN') ('years', 'NNS') ('.', '.') 
+
+<< Note Number >>278
+Original Sentence1 >>> "5/16/2013  Attempted to reach member by phone, the number is not in service.
+Preprocessed Sentence:>>>:"5 / 16 / 2013  attempted to reach member by phone, the number is not in service .  <<<
+
+Tokens of this sentence are as follows
+
+----
+``
+----
+5
+----
+/
+----
+16
+----
+/
+----
+2013
+----
+attempted
+----
+to
+----
+reach
+----
+member
+----
+by
+----
+phone
+----
+,
+----
+the
+----
+number
+----
+is
+----
+not
+----
+in
+----
+service
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('``', '``') ('5', 'CD') ('/', 'CD') ('16', 'CD') ('/', 'CD') ('2013', 'CD') ('attempted', 'VBN') ('to', 'TO') ('reach', 'VB') ('member', 'NN') ('by', 'IN') ('phone', 'NN') (',', ',') ('the', 'DT') ('number', 'NN') ('is', 'VBZ') ('not', 'RB') ('in', 'IN') ('service', 'NN') ('.', '.') 
+
+<< Note Number >>288
+Original Sentence9 >>> Fiber is not absorbed by the body- it actually absorbs cholesterol and fat and takes it away.
+Preprocessed Sentence:>>>:fiber is not absorbed by the body -  it actually absorbs cholesterol and fat and takes it away .  <<<
+
+Tokens of this sentence are as follows
+
+----
+fiber
+----
+is
+----
+not
+----
+absorbed
+----
+by
+----
+the
+----
+body
+----
+-
+----
+it
+----
+actually
+----
+absorbs
+----
+cholesterol
+----
+and
+----
+fat
+----
+and
+----
+takes
+----
+it
+----
+away
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('fiber', 'NN') ('is', 'VBZ') ('not', 'RB') ('absorbed', 'VBN') ('by', 'IN') ('the', 'DT') ('body', 'NN') ('-', ':') ('it', 'PRP') ('actually', 'RB') ('absorbs', 'VBZ') ('cholesterol', 'NN') ('and', 'CC') ('fat', 'JJ') ('and', 'CC') ('takes', 'VBZ') ('it', 'PRP') ('away', 'RB') ('.', '.') 
+
+<< Note Number >>289
+Original Sentence3 >>> I have not discussed these with my doctor, as I am trying to lower the LDL and total cholesterol on my own first, as I do not want to be put on a drug for the rest of my life.I currently exercise 7 days a week - from 1 hour or more.
+Preprocessed Sentence:>>>:i have not discussed these with my doctor, as i am trying to lower the ldl and total cholesterol on my own first, as i do not want to be put on a drug for the rest of my life . i currently exercise 7 days a week  -  from 1 hour or more .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+not
+----
+discussed
+----
+these
+----
+with
+----
+my
+----
+doctor
+----
+,
+----
+as
+----
+i
+----
+am
+----
+trying
+----
+to
+----
+lower
+----
+the
+----
+ldl
+----
+and
+----
+total
+----
+cholesterol
+----
+on
+----
+my
+----
+own
+----
+first
+----
+,
+----
+as
+----
+i
+----
+do
+----
+not
+----
+want
+----
+to
+----
+be
+----
+put
+----
+on
+----
+a
+----
+drug
+----
+for
+----
+the
+----
+rest
+----
+of
+----
+my
+----
+life
+----
+.
+----
+i
+----
+currently
+----
+exercise
+----
+7
+----
+days
+----
+a
+----
+week
+----
+-
+----
+from
+----
+1
+----
+hour
+----
+or
+----
+more
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('not', 'RB') ('discussed', 'VBN') ('these', 'DT') ('with', 'IN') ('my', 'PRP$') ('doctor', 'NN') (',', ',') ('as', 'IN') ('i', 'PRP') ('am', 'VBP') ('trying', 'VBG') ('to', 'TO') ('lower', 'JJR') ('the', 'DT') ('ldl', 'NN') ('and', 'CC') ('total', 'JJ') ('cholesterol', 'NN') ('on', 'IN') ('my', 'PRP$') ('own', 'JJ') ('first', 'JJ') (',', ',') ('as', 'IN') ('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('be', 'VB') ('put', 'VBN') ('on', 'IN') ('a', 'DT') ('drug', 'NN') ('for', 'IN') ('the', 'DT') ('rest', 'NN') ('of', 'IN') ('my', 'PRP$') ('life', 'NN') ('.', '.') ('i', 'PRP') ('currently', 'RB') ('exercise', 'VBP') ('7', 'CD') ('days', 'NNS') ('a', 'DT') ('week', 'NN') ('-', ':') ('from', 'IN') ('1', 'CD') ('hour', 'NN') ('or', 'CC') ('more', 'JJR') ('.', '.') 
+
+<< Note Number >>289
+Original Sentence7 >>> I do not eat white bread, rice or pasta - I eat brown rice, whole grain breads and pastas.
+Preprocessed Sentence:>>>:i do not eat white bread, rice or pasta  -  i eat brown rice, whole grain breads and pastas .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+do
+----
+not
+----
+eat
+----
+white
+----
+bread
+----
+,
+----
+rice
+----
+or
+----
+pasta
+----
+-
+----
+i
+----
+eat
+----
+brown
+----
+rice
+----
+,
+----
+whole
+----
+grain
+----
+breads
+----
+and
+----
+pastas
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('eat', 'VB') ('white', 'JJ') ('bread', 'NN') (',', ',') ('rice', 'NN') ('or', 'CC') ('pasta', 'NN') ('-', ':') ('i', 'PRP') ('eat', 'VBP') ('brown', 'RP') ('rice', 'NN') (',', ',') ('whole', 'JJ') ('grain', 'NN') ('breads', 'NNS') ('and', 'CC') ('pastas', 'NNS') ('.', '.') 
+
+<< Note Number >>289
+Original Sentence8 >>> I avoid sugar; I do not drink soda, iced tea, coffee, alcohol, or most fruit juices.
+Preprocessed Sentence:>>>:i avoid sugar; i do not drink soda, iced tea, coffee, alcohol, or most fruit juices .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+avoid
+----
+sugar
+----
+;
+----
+i
+----
+do
+----
+not
+----
+drink
+----
+soda
+----
+,
+----
+iced
+----
+tea
+----
+,
+----
+coffee
+----
+,
+----
+alcohol
+----
+,
+----
+or
+----
+most
+----
+fruit
+----
+juices
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('avoid', 'VBD') ('sugar', 'NN') (';', ':') ('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('drink', 'VB') ('soda', 'NN') (',', ',') ('iced', 'VBD') ('tea', 'NN') (',', ',') ('coffee', 'NN') (',', ',') ('alcohol', 'NN') (',', ',') ('or', 'CC') ('most', 'JJS') ('fruit', 'NN') ('juices', 'NNS') ('.', '.') 
+
+<< Note Number >>289
+Original Sentence11 >>> I do not eat fish - I eat a lot of chicken, making an effort to eat less red meat; eat more vegetables.
+Preprocessed Sentence:>>>:i do not eat fish  -  i eat a lot of chicken, making an effort to eat less red meat; eat more vegetables .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+do
+----
+not
+----
+eat
+----
+fish
+----
+-
+----
+i
+----
+eat
+----
+a
+----
+lot
+----
+of
+----
+chicken
+----
+,
+----
+making
+----
+an
+----
+effort
+----
+to
+----
+eat
+----
+less
+----
+red
+----
+meat
+----
+;
+----
+eat
+----
+more
+----
+vegetables
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('eat', 'VB') ('fish', 'JJ') ('-', ':') ('i', 'PRP') ('eat', 'VBP') ('a', 'DT') ('lot', 'NN') ('of', 'IN') ('chicken', 'NN') (',', ',') ('making', 'VBG') ('an', 'DT') ('effort', 'NN') ('to', 'TO') ('eat', 'VB') ('less', 'JJR') ('red', 'VBN') ('meat', 'NN') (';', ':') ('eat', 'NN') ('more', 'JJR') ('vegetables', 'NNS') ('.', '.') 
+
+<< Note Number >>289
+Original Sentence14 >>> I do not eat fast food.
+Preprocessed Sentence:>>>:i do not eat fast food .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+do
+----
+not
+----
+eat
+----
+fast
+----
+food
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('do', 'VBP') ('not', 'RB') ('eat', 'VB') ('fast', 'RB') ('food', 'NN') ('.', '.') 
+
+<< Note Number >>290
+Original Sentence4 >>> I am wondering if there is a family history of elevated cholesterol issues- if you are doing all these right things, but the cholesterol doesn?t come down, there may be a genetic component to your cholesterol elevation.
+Preprocessed Sentence:>>>:i am wondering if there is a family history of elevated cholesterol issues -  if you are doing all these right things, but the cholesterol does not come down, there may be a genetic component to your cholesterol elevation .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+am
+----
+wondering
+----
+if
+----
+there
+----
+is
+----
+a
+----
+family
+----
+history
+----
+of
+----
+elevated
+----
+cholesterol
+----
+issues
+----
+-
+----
+if
+----
+you
+----
+are
+----
+doing
+----
+all
+----
+these
+----
+right
+----
+things
+----
+,
+----
+but
+----
+the
+----
+cholesterol
+----
+does
+----
+not
+----
+come
+----
+down
+----
+,
+----
+there
+----
+may
+----
+be
+----
+a
+----
+genetic
+----
+component
+----
+to
+----
+your
+----
+cholesterol
+----
+elevation
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('am', 'VBP') ('wondering', 'VBG') ('if', 'IN') ('there', 'EX') ('is', 'VBZ') ('a', 'DT') ('family', 'NN') ('history', 'NN') ('of', 'IN') ('elevated', 'VBN') ('cholesterol', 'NN') ('issues', 'NNS') ('-', ':') ('if', 'IN') ('you', 'PRP') ('are', 'VBP') ('doing', 'VBG') ('all', 'DT') ('these', 'DT') ('right', 'NN') ('things', 'NNS') (',', ',') ('but', 'CC') ('the', 'DT') ('cholesterol', 'NN') ('does', 'VBZ') ('not', 'RB') ('come', 'VB') ('down', 'RB') (',', ',') ('there', 'EX') ('may', 'MD') ('be', 'VB') ('a', 'DT') ('genetic', 'JJ') ('component', 'NN') ('to', 'TO') ('your', 'PRP$') ('cholesterol', 'NN') ('elevation', 'NN') ('.', '.') 
+
+<< Note Number >>290
+Original Sentence6 >>> I completely understand not wanting to be on a cholesterol medication- and you are definitely doing everything right to keep from going that route.
+Preprocessed Sentence:>>>:i completely understand not wanting to be on a cholesterol medication -  and you are definitely doing everything right to keep from going that route .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+completely
+----
+understand
+----
+not
+----
+wanting
+----
+to
+----
+be
+----
+on
+----
+a
+----
+cholesterol
+----
+medication
+----
+-
+----
+and
+----
+you
+----
+are
+----
+definitely
+----
+doing
+----
+everything
+----
+right
+----
+to
+----
+keep
+----
+from
+----
+going
+----
+that
+----
+route
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('completely', 'RB') ('understand', 'VBP') ('not', 'RB') ('wanting', 'VBG') ('to', 'TO') ('be', 'VB') ('on', 'IN') ('a', 'DT') ('cholesterol', 'NN') ('medication', 'NN') ('-', ':') ('and', 'CC') ('you', 'PRP') ('are', 'VBP') ('definitely', 'RB') ('doing', 'VBG') ('everything', 'NN') ('right', 'RB') ('to', 'TO') ('keep', 'VB') ('from', 'IN') ('going', 'VBG') ('that', 'IN') ('route', 'NN') ('.', '.') 
+
+<< Note Number >>291
+Original Sentence10 >>> Goal: not using while driving
+Preprocessed Sentence:>>>:goal: not using while driving <<<
+
+Tokens of this sentence are as follows
+
+----
+goal
+----
+:
+----
+not
+----
+using
+----
+while
+----
+driving
+*****POS Tagging [using Penn Treebank tagging]****
+('goal', 'NN') (':', ':') ('not', 'RB') ('using', 'VBG') ('while', 'IN') ('driving', 'VBG') 
+
+<< Note Number >>293
+Original Sentence3 >>> strongly encouraged him to be sure the psa was discussed and not missed in the appointment.
+Preprocessed Sentence:>>>:strongly encouraged him to be sure the psa was discussed and not missed in the appointment .  <<<
+
+Tokens of this sentence are as follows
+
+----
+strongly
+----
+encouraged
+----
+him
+----
+to
+----
+be
+----
+sure
+----
+the
+----
+psa
+----
+was
+----
+discussed
+----
+and
+----
+not
+----
+missed
+----
+in
+----
+the
+----
+appointment
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('strongly', 'RB') ('encouraged', 'VBD') ('him', 'PRP') ('to', 'TO') ('be', 'VB') ('sure', 'JJ') ('the', 'DT') ('psa', 'NN') ('was', 'VBD') ('discussed', 'VBN') ('and', 'CC') ('not', 'RB') ('missed', 'VBN') ('in', 'IN') ('the', 'DT') ('appointment', 'NN') ('.', '.') 
+
+<< Note Number >>293
+Original Sentence5 >>> his a1c is 5.8. explained it means he is at risk for developing diabetes and encouraged him to talk about this as well and not to forget, he promises.
+Preprocessed Sentence:>>>:his a1c is 5 . 8 .  explained it means he is at risk for developing diabetes and encouraged him to talk about this as well and not to forget, he promises .  <<<
+
+Tokens of this sentence are as follows
+
+----
+his
+----
+a1c
+----
+is
+----
+5
+----
+.
+----
+8
+----
+.
+----
+explained
+----
+it
+----
+means
+----
+he
+----
+is
+----
+at
+----
+risk
+----
+for
+----
+developing
+----
+diabetes
+----
+and
+----
+encouraged
+----
+him
+----
+to
+----
+talk
+----
+about
+----
+this
+----
+as
+----
+well
+----
+and
+----
+not
+----
+to
+----
+forget
+----
+,
+----
+he
+----
+promises
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('his', 'PRP$') ('a1c', 'NNP') ('is', 'VBZ') ('5', 'CD') ('.', '.') ('8', 'CD') ('.', '.') ('explained', 'VBN') ('it', 'PRP') ('means', 'VBZ') ('he', 'PRP') ('is', 'VBZ') ('at', 'IN') ('risk', 'NN') ('for', 'IN') ('developing', 'VBG') ('diabetes', 'NNS') ('and', 'CC') ('encouraged', 'VBD') ('him', 'PRP') ('to', 'TO') ('talk', 'VB') ('about', 'IN') ('this', 'DT') ('as', 'IN') ('well', 'RB') ('and', 'CC') ('not', 'RB') ('to', 'TO') ('forget', 'VB') (',', ',') ('he', 'PRP') ('promises', 'VBZ') ('.', '.') 
+
+<< Note Number >>294
+Original Sentence1 >>> Member called to look for a lab to take specimen as not feeling well and let me know she had her Tetanus shot on Friday 7/16/2013 at her doctors office.
+Preprocessed Sentence:>>>:member called to look for a lab to take specimen as not feeling well and let me know she had her tetanus shot on friday 7 / 16 / 2013 at her doctors office .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+called
+----
+to
+----
+look
+----
+for
+----
+a
+----
+lab
+----
+to
+----
+take
+----
+specimen
+----
+as
+----
+not
+----
+feeling
+----
+well
+----
+and
+----
+let
+----
+me
+----
+know
+----
+she
+----
+had
+----
+her
+----
+tetanus
+----
+shot
+----
+on
+----
+friday
+----
+7
+----
+/
+----
+16
+----
+/
+----
+2013
+----
+at
+----
+her
+----
+doctors
+----
+office
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('called', 'VBD') ('to', 'TO') ('look', 'VB') ('for', 'IN') ('a', 'DT') ('lab', 'NN') ('to', 'TO') ('take', 'VB') ('specimen', 'NNS') ('as', 'IN') ('not', 'RB') ('feeling', 'VBG') ('well', 'RB') ('and', 'CC') ('let', 'VB') ('me', 'PRP') ('know', 'VB') ('she', 'PRP') ('had', 'VBD') ('her', 'PRP$') ('tetanus', 'NN') ('shot', 'NN') ('on', 'IN') ('friday', 'NN') ('7', 'CD') ('/', 'CD') ('16', 'CD') ('/', 'CD') ('2013', 'CD') ('at', 'IN') ('her', 'PRP$') ('doctors', 'NNS') ('office', 'NN') ('.', '.') 
+
+<< Note Number >>295
+Original Sentence4 >>> HE WAS NOT PUT ON MEDICATION, WAS TOLD IT WAS RELATED TO HIS ALCOHOL CONSUMPTION SO HE REDUCED HIS AMOUNT.
+Preprocessed Sentence:>>>:he was not put on medication, was told it was related to his alcohol consumption so he reduced his amount .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+was
+----
+not
+----
+put
+----
+on
+----
+medication
+----
+,
+----
+was
+----
+told
+----
+it
+----
+was
+----
+related
+----
+to
+----
+his
+----
+alcohol
+----
+consumption
+----
+so
+----
+he
+----
+reduced
+----
+his
+----
+amount
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('was', 'VBD') ('not', 'RB') ('put', 'VBN') ('on', 'IN') ('medication', 'NN') (',', ',') ('was', 'VBD') ('told', 'VBN') ('it', 'PRP') ('was', 'VBD') ('related', 'VBN') ('to', 'TO') ('his', 'PRP$') ('alcohol', 'NN') ('consumption', 'NN') ('so', 'RB') ('he', 'PRP') ('reduced', 'VBD') ('his', 'PRP$') ('amount', 'NN') ('.', '.') 
+
+<< Note Number >>295
+Original Sentence8 >>> I STRONGLY ENCOURAGED HIM TO GET ON MEDICATION, AS THIS IS NOT BEING CONTROLLED BY HIS CURRENT LIFESTYLE CHOICES AS SUCH.
+Preprocessed Sentence:>>>:i strongly encouraged him to get on medication, as this is not being controlled by his current lifestyle choices as such .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+strongly
+----
+encouraged
+----
+him
+----
+to
+----
+get
+----
+on
+----
+medication
+----
+,
+----
+as
+----
+this
+----
+is
+----
+not
+----
+being
+----
+controlled
+----
+by
+----
+his
+----
+current
+----
+lifestyle
+----
+choices
+----
+as
+----
+such
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('strongly', 'RB') ('encouraged', 'VBD') ('him', 'PRP') ('to', 'TO') ('get', 'VB') ('on', 'IN') ('medication', 'NN') (',', ',') ('as', 'IN') ('this', 'DT') ('is', 'VBZ') ('not', 'RB') ('being', 'VBG') ('controlled', 'VBN') ('by', 'IN') ('his', 'PRP$') ('current', 'JJ') ('lifestyle', 'NN') ('choices', 'NNS') ('as', 'IN') ('such', 'JJ') ('.', '.') 
+
+<< Note Number >>298
+Original Sentence7 >>> Not grazing all evening anymore.
+Preprocessed Sentence:>>>:not grazing all evening anymore .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+grazing
+----
+all
+----
+evening
+----
+anymore
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('grazing', 'VBG') ('all', 'DT') ('evening', 'VBG') ('anymore', 'NN') ('.', '.') 
+
+<< Note Number >>299
+Original Sentence3 >>> Not going to change any time soon.
+Preprocessed Sentence:>>>:not going to change any time soon .  <<<
+
+Tokens of this sentence are as follows
+
+----
+not
+----
+going
+----
+to
+----
+change
+----
+any
+----
+time
+----
+soon
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('not', 'RB') ('going', 'VBG') ('to', 'TO') ('change', 'VB') ('any', 'DT') ('time', 'NN') ('soon', 'RB') ('.', '.') 
+
+<< Note Number >>300
+Original Sentence2 >>> He said he is thinking down the road he does want to quit just not right now.
+Preprocessed Sentence:>>>:he said he is thinking down the road he does want to quit just not right now .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+he
+----
+is
+----
+thinking
+----
+down
+----
+the
+----
+road
+----
+he
+----
+does
+----
+want
+----
+to
+----
+quit
+----
+just
+----
+not
+----
+right
+----
+now
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('thinking', 'VBG') ('down', 'IN') ('the', 'DT') ('road', 'NN') ('he', 'PRP') ('does', 'VBZ') ('want', 'VB') ('to', 'TO') ('quit', 'VB') ('just', 'RB') ('not', 'RB') ('right', 'RB') ('now', 'RB') ('.', '.') 
+
+<< Note Number >>301
+Original Sentence1 >>> "5/16/2013 Member did not supply a phone number/email at screening.
+Preprocessed Sentence:>>>:"5 / 16 / 2013 member did not supply a phone number / email at screening .  <<<
+
+Tokens of this sentence are as follows
+
+----
+``
+----
+5
+----
+/
+----
+16
+----
+/
+----
+2013
+----
+member
+----
+did
+----
+not
+----
+supply
+----
+a
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+at
+----
+screening
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('``', '``') ('5', 'CD') ('/', 'CD') ('16', 'CD') ('/', 'CD') ('2013', 'CD') ('member', 'NN') ('did', 'VBD') ('not', 'RB') ('supply', 'RB') ('a', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('at', 'IN') ('screening', 'NN') ('.', '.') 
+
+<< Note Number >>314
+Original Sentence1 >>> 5/24/13  Dr. Anderson?s office called states they do not have a patient by the name of Kenneth Jackson.
+Preprocessed Sentence:>>>:5 / 24 / 13  dr .  anderson?s office called states they do not have a patient by the name of kenneth jackson .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+24
+----
+/
+----
+13
+----
+dr
+----
+.
+----
+anderson
+----
+?
+----
+s
+----
+office
+----
+called
+----
+states
+----
+they
+----
+do
+----
+not
+----
+have
+----
+a
+----
+patient
+----
+by
+----
+the
+----
+name
+----
+of
+----
+kenneth
+----
+jackson
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('24', 'CD') ('/', 'CD') ('13', 'CD') ('dr', 'NN') ('.', '.') ('anderson', 'NN') ('?', '.') ('s', 'NNS') ('office', 'NN') ('called', 'VBN') ('states', 'NNS') ('they', 'PRP') ('do', 'VBP') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('patient', 'NN') ('by', 'IN') ('the', 'DT') ('name', 'NN') ('of', 'IN') ('kenneth', 'NN') ('jackson', 'NN') ('.', '.') 
+
+<< Note Number >>327
+Original Sentence1 >>> Female answering the phone said he will not be home until after 6 this evening but I could call back Monday at 4:30 and reach him.
+Preprocessed Sentence:>>>:female answering the phone said he will not be home until after 6 this evening but i could call back monday at 4:30 and reach him .  <<<
+
+Tokens of this sentence are as follows
+
+----
+female
+----
+answering
+----
+the
+----
+phone
+----
+said
+----
+he
+----
+will
+----
+not
+----
+be
+----
+home
+----
+until
+----
+after
+----
+6
+----
+this
+----
+evening
+----
+but
+----
+i
+----
+could
+----
+call
+----
+back
+----
+monday
+----
+at
+----
+4:30
+----
+and
+----
+reach
+----
+him
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('female', 'JJ') ('answering', 'NN') ('the', 'DT') ('phone', 'NN') ('said', 'VBD') ('he', 'PRP') ('will', 'MD') ('not', 'RB') ('be', 'VB') ('home', 'RB') ('until', 'IN') ('after', 'IN') ('6', 'CD') ('this', 'DT') ('evening', 'NN') ('but', 'CC') ('i', 'PRP') ('could', 'MD') ('call', 'VB') ('back', 'RB') ('monday', 'NN') ('at', 'IN') ('4:30', 'CD') ('and', 'CC') ('reach', 'NN') ('him', 'PRP') ('.', '.') 
+
+<< Note Number >>328
+Original Sentence2 >>> He doesn?t know of any familial history of diabetes.
+Preprocessed Sentence:>>>:he does not know of any familial history of diabetes .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+know
+----
+of
+----
+any
+----
+familial
+----
+history
+----
+of
+----
+diabetes
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('know', 'VB') ('of', 'IN') ('any', 'DT') ('familial', 'JJ') ('history', 'NN') ('of', 'IN') ('diabetes', 'NNS') ('.', '.') 
+
+<< Note Number >>328
+Original Sentence4 >>> He doesn?t drink sodas, but he does drink sweet tea.
+Preprocessed Sentence:>>>:he does not drink sodas, but he does drink sweet tea .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+drink
+----
+sodas
+----
+,
+----
+but
+----
+he
+----
+does
+----
+drink
+----
+sweet
+----
+tea
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('drink', 'VB') ('sodas', 'RB') (',', ',') ('but', 'CC') ('he', 'PRP') ('does', 'VBZ') ('drink', 'VB') ('sweet', 'JJ') ('tea', 'NN') ('.', '.') 
+
+<< Note Number >>333
+Original Sentence6 >>> He isn?t experiencing any symtoms of elevated bs.
+Preprocessed Sentence:>>>:he is not experiencing any symtoms of elevated bs .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+not
+----
+experiencing
+----
+any
+----
+symtoms
+----
+of
+----
+elevated
+----
+bs
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('experiencing', 'VBG') ('any', 'DT') ('symtoms', 'NNS') ('of', 'IN') ('elevated', 'VBN') ('bs', 'NNS') ('.', '.') 
+
+<< Note Number >>334
+Original Sentence1 >>> He doesn?t exercise very often besides what he does at work- although he is very active doing yardwork during the warm months.
+Preprocessed Sentence:>>>:he does not exercise very often besides what he does at work -  although he is very active doing yardwork during the warm months .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+exercise
+----
+very
+----
+often
+----
+besides
+----
+what
+----
+he
+----
+does
+----
+at
+----
+work
+----
+-
+----
+although
+----
+he
+----
+is
+----
+very
+----
+active
+----
+doing
+----
+yardwork
+----
+during
+----
+the
+----
+warm
+----
+months
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('exercise', 'VB') ('very', 'RB') ('often', 'RB') ('besides', 'VBZ') ('what', 'WP') ('he', 'PRP') ('does', 'VBZ') ('at', 'IN') ('work', 'NN') ('-', ':') ('although', 'IN') ('he', 'PRP') ('is', 'VBZ') ('very', 'RB') ('active', 'JJ') ('doing', 'NN') ('yardwork', 'NN') ('during', 'IN') ('the', 'DT') ('warm', 'NN') ('months', 'NNS') ('.', '.') 
+
+<< Note Number >>335
+Original Sentence1 >>> He was concerned about a sheet that he brought home with him from his recent md appt, it listed as a diagnosis for him chronic kidney disease, stage 3 moderate?- but he didn?t know anything about it?stated he wasn?t told anything about that at the md office.
+Preprocessed Sentence:>>>:he was concerned about a sheet that he brought home with him from his recent md appointment, it listed as a diagnosis for him chronic kidney disease, stage 3 moderate? -  but he did not know anything about it?stated he was not told anything about that at the md office .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+was
+----
+concerned
+----
+about
+----
+a
+----
+sheet
+----
+that
+----
+he
+----
+brought
+----
+home
+----
+with
+----
+him
+----
+from
+----
+his
+----
+recent
+----
+md
+----
+appointment
+----
+,
+----
+it
+----
+listed
+----
+as
+----
+a
+----
+diagnosis
+----
+for
+----
+him
+----
+chronic
+----
+kidney
+----
+disease
+----
+,
+----
+stage
+----
+3
+----
+moderate
+----
+?
+----
+-
+----
+but
+----
+he
+----
+did
+----
+not
+----
+know
+----
+anything
+----
+about
+----
+it
+----
+?
+----
+stated
+----
+he
+----
+was
+----
+not
+----
+told
+----
+anything
+----
+about
+----
+that
+----
+at
+----
+the
+----
+md
+----
+office
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('was', 'VBD') ('concerned', 'VBN') ('about', 'IN') ('a', 'DT') ('sheet', 'NN') ('that', 'WDT') ('he', 'PRP') ('brought', 'VBD') ('home', 'NN') ('with', 'IN') ('him', 'PRP') ('from', 'IN') ('his', 'PRP$') ('recent', 'JJ') ('md', 'NN') ('appointment', 'NN') (',', ',') ('it', 'PRP') ('listed', 'VBD') ('as', 'IN') ('a', 'DT') ('diagnosis', 'NN') ('for', 'IN') ('him', 'PRP') ('chronic', 'JJ') ('kidney', 'NN') ('disease', 'NN') (',', ',') ('stage', 'NN') ('3', 'LS') ('moderate', 'JJ') ('?', '.') ('-', ':') ('but', 'CC') ('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('know', 'VB') ('anything', 'NN') ('about', 'IN') ('it', 'PRP') ('?', '.') ('stated', 'VBD') ('he', 'PRP') ('was', 'VBD') ('not', 'RB') ('told', 'VBN') ('anything', 'NN') ('about', 'IN') ('that', 'DT') ('at', 'IN') ('the', 'DT') ('md', 'NN') ('office', 'NN') ('.', '.') 
+
+<< Note Number >>336
+Original Sentence2 >>> You Don?t Have To Knock Yourself Out to Prevent Diabete; Diabetes Alert:  Are You At Risk?
+Preprocessed Sentence:>>>:you do not have to knock yourself out to prevent diabete; diabetes alert:  are you at risk? <<<
+
+Tokens of this sentence are as follows
+
+----
+you
+----
+do
+----
+not
+----
+have
+----
+to
+----
+knock
+----
+yourself
+----
+out
+----
+to
+----
+prevent
+----
+diabete
+----
+;
+----
+diabetes
+----
+alert
+----
+:
+----
+are
+----
+you
+----
+at
+----
+risk
+----
+?
+*****POS Tagging [using Penn Treebank tagging]****
+('you', 'PRP') ('do', 'VBP') ('not', 'RB') ('have', 'VB') ('to', 'TO') ('knock', 'VB') ('yourself', 'PRP') ('out', 'RP') ('to', 'TO') ('prevent', 'VB') ('diabete', 'JJ') (';', ':') ('diabetes', 'NNS') ('alert', 'VBP') (':', ':') ('are', 'VBP') ('you', 'PRP') ('at', 'IN') ('risk', 'NN') ('?', '.') 
+
+<< Note Number >>340
+Original Sentence2 >>> Member did not list a physician on questionnaire.
+Preprocessed Sentence:>>>:member did not list a physician on questionnaire .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+did
+----
+not
+----
+list
+----
+a
+----
+physician
+----
+on
+----
+questionnaire
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('did', 'VBD') ('not', 'RB') ('list', 'NN') ('a', 'DT') ('physician', 'JJ') ('on', 'IN') ('questionnaire', 'NN') ('.', '.') 
+
+<< Note Number >>342
+Original Sentence2 >>> Called member at 717-525-9808, message states that the person at this number is not accepting calls at this time.
+Preprocessed Sentence:>>>:called member at 717 - 525 - 9808, message states that the person at this number is not accepting calls at this time .  <<<
+
+Tokens of this sentence are as follows
+
+----
+called
+----
+member
+----
+at
+----
+717
+----
+-
+----
+525
+----
+-
+----
+9808
+----
+,
+----
+message
+----
+states
+----
+that
+----
+the
+----
+person
+----
+at
+----
+this
+----
+number
+----
+is
+----
+not
+----
+accepting
+----
+calls
+----
+at
+----
+this
+----
+time
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('called', 'VBN') ('member', 'NN') ('at', 'IN') ('717', 'CD') ('-', ':') ('525', 'CD') ('-', ':') ('9808', 'CD') (',', ',') ('message', 'NN') ('states', 'NNS') ('that', 'WDT') ('the', 'DT') ('person', 'NN') ('at', 'IN') ('this', 'DT') ('number', 'NN') ('is', 'VBZ') ('not', 'RB') ('accepting', 'VBG') ('calls', 'NNS') ('at', 'IN') ('this', 'DT') ('time', 'NN') ('.', '.') 
+
+<< Note Number >>343
+Original Sentence4 >>> I am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible.
+Preprocessed Sentence:>>>:i am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+am
+----
+concerned
+----
+about
+----
+your
+----
+health
+----
+and
+----
+want
+----
+to
+----
+encourage
+----
+you
+----
+,
+----
+if
+----
+you
+----
+have
+----
+not
+----
+already
+----
+done
+----
+so
+----
+,
+----
+to
+----
+see
+----
+your
+----
+physician
+----
+as
+----
+soon
+----
+as
+----
+possible
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('am', 'VBP') ('concerned', 'VBN') ('about', 'IN') ('your', 'PRP$') ('health', 'NN') ('and', 'CC') ('want', 'VB') ('to', 'TO') ('encourage', 'VB') ('you', 'PRP') (',', ',') ('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('already', 'RB') ('done', 'VBN') ('so', 'RB') (',', ',') ('to', 'TO') ('see', 'VB') ('your', 'PRP$') ('physician', 'NN') ('as', 'IN') ('soon', 'RB') ('as', 'IN') ('possible', 'JJ') ('.', '.') 
+
+<< Note Number >>347
+Original Sentence1 >>> 5/21/2013  Have not received any response from member as of today.
+Preprocessed Sentence:>>>:5 / 21 / 2013  have not received any response from member as of today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+received
+----
+any
+----
+response
+----
+from
+----
+member
+----
+as
+----
+of
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('received', 'VBN') ('any', 'DT') ('response', 'NN') ('from', 'IN') ('member', 'NN') ('as', 'IN') ('of', 'IN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>349
+Original Sentence1 >>> He doesn?t eat fast food, doesn?t drink regular sodas, only diet.
+Preprocessed Sentence:>>>:he does not eat fast food, does not drink regular sodas, only diet .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+eat
+----
+fast
+----
+food
+----
+,
+----
+does
+----
+not
+----
+drink
+----
+regular
+----
+sodas
+----
+,
+----
+only
+----
+diet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('eat', 'VB') ('fast', 'RB') ('food', 'NN') (',', ',') ('does', 'VBZ') ('not', 'RB') ('drink', 'VB') ('regular', 'JJ') ('sodas', 'NNS') (',', ',') ('only', 'RB') ('diet', 'JJ') ('.', '.') 
+
+<< Note Number >>353
+Original Sentence5 >>> He said that when he first discovered his cholesterol was elevated, years ago, he made the suggested changes in his diet- he doesn?t eat fried or fast food, avoids red meat, eats a heart healthy diet- but his levels didn?t change.
+Preprocessed Sentence:>>>:he said that when he first discovered his cholesterol was elevated, years ago, he made the suggested changes in his diet -  he does not eat fried or fast food, avoids red meat, eats a heart healthy diet -  but his levels did not change .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+said
+----
+that
+----
+when
+----
+he
+----
+first
+----
+discovered
+----
+his
+----
+cholesterol
+----
+was
+----
+elevated
+----
+,
+----
+years
+----
+ago
+----
+,
+----
+he
+----
+made
+----
+the
+----
+suggested
+----
+changes
+----
+in
+----
+his
+----
+diet
+----
+-
+----
+he
+----
+does
+----
+not
+----
+eat
+----
+fried
+----
+or
+----
+fast
+----
+food
+----
+,
+----
+avoids
+----
+red
+----
+meat
+----
+,
+----
+eats
+----
+a
+----
+heart
+----
+healthy
+----
+diet
+----
+-
+----
+but
+----
+his
+----
+levels
+----
+did
+----
+not
+----
+change
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('said', 'VBD') ('that', 'IN') ('when', 'WRB') ('he', 'PRP') ('first', 'RB') ('discovered', 'VBD') ('his', 'PRP$') ('cholesterol', 'NN') ('was', 'VBD') ('elevated', 'VBN') (',', ',') ('years', 'NNS') ('ago', 'RB') (',', ',') ('he', 'PRP') ('made', 'VBD') ('the', 'DT') ('suggested', 'VBN') ('changes', 'NNS') ('in', 'IN') ('his', 'PRP$') ('diet', 'NN') ('-', ':') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('eat', 'VB') ('fried', 'VBN') ('or', 'CC') ('fast', 'RB') ('food', 'NN') (',', ',') ('avoids', 'NNS') ('red', 'VBD') ('meat', 'NN') (',', ',') ('eats', 'NNS') ('a', 'DT') ('heart', 'NN') ('healthy', 'JJ') ('diet', 'NN') ('-', ':') ('but', 'CC') ('his', 'PRP$') ('levels', 'NNS') ('did', 'VBD') ('not', 'RB') ('change', 'VB') ('.', '.') 
+
+<< Note Number >>357
+Original Sentence1 >>> Still does not have a meter.
+Preprocessed Sentence:>>>:still does not have a meter .  <<<
+
+Tokens of this sentence are as follows
+
+----
+still
+----
+does
+----
+not
+----
+have
+----
+a
+----
+meter
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('still', 'RB') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('meter', 'NN') ('.', '.') 
+
+<< Note Number >>357
+Original Sentence9 >>> Does not eat fruit.
+Preprocessed Sentence:>>>:does not eat fruit .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+eat
+----
+fruit
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('eat', 'VB') ('fruit', 'NN') ('.', '.') 
+
+<< Note Number >>360
+Original Sentence1 >>> Recently, while having her kitchen renovated, she got off track, because she wasn?t able to cook at home- and was eating out a lot;  she gained back 15 pounds.
+Preprocessed Sentence:>>>:recently, while having her kitchen renovated, she got off track, because she was not able to cook at home -  and was eating out a lot;  she gained back 15 pounds .  <<<
+
+Tokens of this sentence are as follows
+
+----
+recently
+----
+,
+----
+while
+----
+having
+----
+her
+----
+kitchen
+----
+renovated
+----
+,
+----
+she
+----
+got
+----
+off
+----
+track
+----
+,
+----
+because
+----
+she
+----
+was
+----
+not
+----
+able
+----
+to
+----
+cook
+----
+at
+----
+home
+----
+-
+----
+and
+----
+was
+----
+eating
+----
+out
+----
+a
+----
+lot
+----
+;
+----
+she
+----
+gained
+----
+back
+----
+15
+----
+pounds
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('recently', 'RB') (',', ',') ('while', 'IN') ('having', 'VBG') ('her', 'PRP$') ('kitchen', 'NN') ('renovated', 'VBN') (',', ',') ('she', 'PRP') ('got', 'VBD') ('off', 'RP') ('track', 'NN') (',', ',') ('because', 'IN') ('she', 'PRP') ('was', 'VBD') ('not', 'RB') ('able', 'JJ') ('to', 'TO') ('cook', 'VB') ('at', 'IN') ('home', 'NN') ('-', ':') ('and', 'CC') ('was', 'VBD') ('eating', 'VBG') ('out', 'RP') ('a', 'DT') ('lot', 'NN') (';', ':') ('she', 'PRP') ('gained', 'VBD') ('back', 'RB') ('15', 'CD') ('pounds', 'NNS') ('.', '.') 
+
+<< Note Number >>370
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') 
+
+<< Note Number >>372
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>375
+Original Sentence9 >>> Has not seen his MD yet.
+Preprocessed Sentence:>>>:has not seen his md yet .  <<<
+
+Tokens of this sentence are as follows
+
+----
+has
+----
+not
+----
+seen
+----
+his
+----
+md
+----
+yet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('has', 'VBZ') ('not', 'RB') ('seen', 'VBN') ('his', 'PRP$') ('md', 'NN') ('yet', 'RB') ('.', '.') 
+
+<< Note Number >>379
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') 
+
+<< Note Number >>380
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>387
+Original Sentence2 >>> He has not seen his MD yet with the KYN packet?saw him just prior to the screening.
+Preprocessed Sentence:>>>:he has not seen his md yet with the kyn packet?saw him just prior to the screening .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+not
+----
+seen
+----
+his
+----
+md
+----
+yet
+----
+with
+----
+the
+----
+kyn
+----
+packet
+----
+?
+----
+saw
+----
+him
+----
+just
+----
+prior
+----
+to
+----
+the
+----
+screening
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('not', 'RB') ('seen', 'VBN') ('his', 'PRP$') ('md', 'NN') ('yet', 'RB') ('with', 'IN') ('the', 'DT') ('kyn', 'NN') ('packet', 'NN') ('?', '.') ('saw', 'NN') ('him', 'PRP') ('just', 'RB') ('prior', 'RB') ('to', 'TO') ('the', 'DT') ('screening', 'NN') ('.', '.') 
+
+<< Note Number >>389
+Original Sentence5 >>> He thinks his mother may have had some high BP, but he and his brother do not.
+Preprocessed Sentence:>>>:he thinks his mother may have had some high bp, but he and his brother do not .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+thinks
+----
+his
+----
+mother
+----
+may
+----
+have
+----
+had
+----
+some
+----
+high
+----
+bp
+----
+,
+----
+but
+----
+he
+----
+and
+----
+his
+----
+brother
+----
+do
+----
+not
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('thinks', 'VBZ') ('his', 'PRP$') ('mother', 'NN') ('may', 'MD') ('have', 'VB') ('had', 'VBN') ('some', 'DT') ('high', 'JJ') ('bp', 'NN') (',', ',') ('but', 'CC') ('he', 'PRP') ('and', 'CC') ('his', 'PRP$') ('brother', 'NN') ('do', 'VBP') ('not', 'RB') ('.', '.') 
+
+<< Note Number >>395
+Original Sentence1 >>> 5/21/2013  Have not received any response from member as of today.
+Preprocessed Sentence:>>>:5 / 21 / 2013  have not received any response from member as of today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+received
+----
+any
+----
+response
+----
+from
+----
+member
+----
+as
+----
+of
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('received', 'VBN') ('any', 'DT') ('response', 'NN') ('from', 'IN') ('member', 'NN') ('as', 'IN') ('of', 'IN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>397
+Original Sentence3 >>> He doesn?t eat out very often.
+Preprocessed Sentence:>>>:he does not eat out very often .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+eat
+----
+out
+----
+very
+----
+often
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('eat', 'VB') ('out', 'RP') ('very', 'RB') ('often', 'RB') ('.', '.') 
+
+<< Note Number >>400
+Original Sentence4 >>> He is always active, but doesn?t have time to do a regular exercise program, such as with a gym, etc.
+Preprocessed Sentence:>>>:he is always active, but does not have time to do a regular exercise program, such as with a gym, etc .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+always
+----
+active
+----
+,
+----
+but
+----
+does
+----
+not
+----
+have
+----
+time
+----
+to
+----
+do
+----
+a
+----
+regular
+----
+exercise
+----
+program
+----
+,
+----
+such
+----
+as
+----
+with
+----
+a
+----
+gym
+----
+,
+----
+etc
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('always', 'RB') ('active', 'JJ') (',', ',') ('but', 'CC') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('time', 'NN') ('to', 'TO') ('do', 'VB') ('a', 'DT') ('regular', 'JJ') ('exercise', 'NN') ('program', 'NN') (',', ',') ('such', 'JJ') ('as', 'IN') ('with', 'IN') ('a', 'DT') ('gym', 'NN') (',', ',') ('etc', 'NN') ('.', '.') 
+
+<< Note Number >>400
+Original Sentence7 >>> He doesn?t have a bp monitor at home.
+Preprocessed Sentence:>>>:he does not have a bp monitor at home .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+have
+----
+a
+----
+bp
+----
+monitor
+----
+at
+----
+home
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('bp', 'NN') ('monitor', 'NN') ('at', 'IN') ('home', 'NN') ('.', '.') 
+
+<< Note Number >>401
+Original Sentence1 >>> He has some issues with sleep- he doesn?t  reach the deep sleep stage  according to his sleep study.
+Preprocessed Sentence:>>>:he has some issues with sleep -  he does not  reach the deep sleep stage  according to his sleep study .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+some
+----
+issues
+----
+with
+----
+sleep
+----
+-
+----
+he
+----
+does
+----
+not
+----
+reach
+----
+the
+----
+deep
+----
+sleep
+----
+stage
+----
+according
+----
+to
+----
+his
+----
+sleep
+----
+study
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('some', 'DT') ('issues', 'NNS') ('with', 'IN') ('sleep', 'NN') ('-', ':') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('reach', 'VB') ('the', 'DT') ('deep', 'NN') ('sleep', 'NN') ('stage', 'NN') ('according', 'VBG') ('to', 'TO') ('his', 'PRP$') ('sleep', 'NN') ('study', 'NN') ('.', '.') 
+
+<< Note Number >>403
+Original Sentence2 >>> He eats lots of fruits and vegetables, not as much meat (no red meat), whole grains, some nuts.
+Preprocessed Sentence:>>>:he eats lots of fruits and vegetables, not as much meat (no red meat), whole grains, some nuts .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+eats
+----
+lots
+----
+of
+----
+fruits
+----
+and
+----
+vegetables
+----
+,
+----
+not
+----
+as
+----
+much
+----
+meat
+----
+(
+----
+no
+----
+red
+----
+meat
+----
+)
+----
+,
+----
+whole
+----
+grains
+----
+,
+----
+some
+----
+nuts
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('eats', 'VBZ') ('lots', 'NNS') ('of', 'IN') ('fruits', 'NNS') ('and', 'CC') ('vegetables', 'NNS') (',', ',') ('not', 'RB') ('as', 'IN') ('much', 'JJ') ('meat', 'NN') ('(', ':') ('no', 'DT') ('red', 'NN') ('meat', 'NN') (')', ':') (',', ',') ('whole', 'JJ') ('grains', 'NNS') (',', ',') ('some', 'DT') ('nuts', 'NNS') ('.', '.') 
+
+<< Note Number >>403
+Original Sentence3 >>> He had seen his MD last year and was going to be put on medicine for both cholesterol AND high blood pressure, and he did not want to be put on medications, so he lost weight and has been able to stay off the meds.
+Preprocessed Sentence:>>>:he had seen his md last year and was going to be put on medicine for both cholesterol and high blood pressure, and he did not want to be put on medications, so he lost weight and has been able to stay off the medication .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+had
+----
+seen
+----
+his
+----
+md
+----
+last
+----
+year
+----
+and
+----
+was
+----
+going
+----
+to
+----
+be
+----
+put
+----
+on
+----
+medicine
+----
+for
+----
+both
+----
+cholesterol
+----
+and
+----
+high
+----
+blood
+----
+pressure
+----
+,
+----
+and
+----
+he
+----
+did
+----
+not
+----
+want
+----
+to
+----
+be
+----
+put
+----
+on
+----
+medications
+----
+,
+----
+so
+----
+he
+----
+lost
+----
+weight
+----
+and
+----
+has
+----
+been
+----
+able
+----
+to
+----
+stay
+----
+off
+----
+the
+----
+medication
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('had', 'VBD') ('seen', 'VBN') ('his', 'PRP$') ('md', 'NN') ('last', 'JJ') ('year', 'NN') ('and', 'CC') ('was', 'VBD') ('going', 'VBG') ('to', 'TO') ('be', 'VB') ('put', 'VBN') ('on', 'IN') ('medicine', 'NN') ('for', 'IN') ('both', 'DT') ('cholesterol', 'NN') ('and', 'CC') ('high', 'JJ') ('blood', 'NN') ('pressure', 'NN') (',', ',') ('and', 'CC') ('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('be', 'VB') ('put', 'VBN') ('on', 'IN') ('medications', 'NNS') (',', ',') ('so', 'RB') ('he', 'PRP') ('lost', 'VBD') ('weight', 'VBN') ('and', 'CC') ('has', 'VBZ') ('been', 'VBN') ('able', 'JJ') ('to', 'TO') ('stay', 'VB') ('off', 'RP') ('the', 'DT') ('medication', 'NN') ('.', '.') 
+
+<< Note Number >>403
+Original Sentence4 >>> He doesn?t have a regular exercise program , lack of time is the problem.
+Preprocessed Sentence:>>>:he does not have a regular exercise program , lack of time is the problem .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+have
+----
+a
+----
+regular
+----
+exercise
+----
+program
+----
+,
+----
+lack
+----
+of
+----
+time
+----
+is
+----
+the
+----
+problem
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('regular', 'JJ') ('exercise', 'NN') ('program', 'NN') (',', ',') ('lack', 'VBP') ('of', 'IN') ('time', 'NN') ('is', 'VBZ') ('the', 'DT') ('problem', 'NN') ('.', '.') 
+
+<< Note Number >>404
+Original Sentence1 >>> 5/20/2013  Member did not provide a phone number or email address on her questionnaire at screening.
+Preprocessed Sentence:>>>:5 / 20 / 2013  member did not provide a phone number or email address on her questionnaire at screening .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+20
+----
+/
+----
+2013
+----
+member
+----
+did
+----
+not
+----
+provide
+----
+a
+----
+phone
+----
+number
+----
+or
+----
+email
+----
+address
+----
+on
+----
+her
+----
+questionnaire
+----
+at
+----
+screening
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('20', 'CD') ('/', 'CD') ('2013', 'CD') ('member', 'NN') ('did', 'VBD') ('not', 'RB') ('provide', 'VB') ('a', 'DT') ('phone', 'NN') ('number', 'NN') ('or', 'CC') ('email', 'NN') ('address', 'NN') ('on', 'IN') ('her', 'PRP$') ('questionnaire', 'NN') ('at', 'IN') ('screening', 'NN') ('.', '.') 
+
+<< Note Number >>404
+Original Sentence2 >>> She indicated she did not wish to communicate with a health coach at any time.
+Preprocessed Sentence:>>>:she indicated she did not wish to communicate with a health coach at any time .  <<<
+
+Tokens of this sentence are as follows
+
+----
+she
+----
+indicated
+----
+she
+----
+did
+----
+not
+----
+wish
+----
+to
+----
+communicate
+----
+with
+----
+a
+----
+health
+----
+coach
+----
+at
+----
+any
+----
+time
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('she', 'PRP') ('indicated', 'VBD') ('she', 'PRP') ('did', 'VBD') ('not', 'RB') ('wish', 'NN') ('to', 'TO') ('communicate', 'VB') ('with', 'IN') ('a', 'DT') ('health', 'NN') ('coach', 'NN') ('at', 'IN') ('any', 'DT') ('time', 'NN') ('.', '.') 
+
+<< Note Number >>406
+Original Sentence2 >>> Does not check his bs at home, but does have a monitor.
+Preprocessed Sentence:>>>:does not check his bs at home, but does have a monitor .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+check
+----
+his
+----
+bs
+----
+at
+----
+home
+----
+,
+----
+but
+----
+does
+----
+have
+----
+a
+----
+monitor
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('check', 'VB') ('his', 'PRP$') ('bs', 'NNS') ('at', 'IN') ('home', 'NN') (',', ',') ('but', 'CC') ('does', 'VBZ') ('have', 'VBP') ('a', 'DT') ('monitor', 'NN') ('.', '.') 
+
+<< Note Number >>406
+Original Sentence3 >>> Reports his last bs check at md was in December, his A1c was 7 at that time, doesn?t remember what his fbs was.
+Preprocessed Sentence:>>>:reports his last bs check at md was in december, his a1c was 7 at that time, does not remember what his fbs was .  <<<
+
+Tokens of this sentence are as follows
+
+----
+reports
+----
+his
+----
+last
+----
+bs
+----
+check
+----
+at
+----
+md
+----
+was
+----
+in
+----
+december
+----
+,
+----
+his
+----
+a1c
+----
+was
+----
+7
+----
+at
+----
+that
+----
+time
+----
+,
+----
+does
+----
+not
+----
+remember
+----
+what
+----
+his
+----
+fbs
+----
+was
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('reports', 'NNS') ('his', 'PRP$') ('last', 'JJ') ('bs', 'NNS') ('check', 'VBP') ('at', 'IN') ('md', 'NN') ('was', 'VBD') ('in', 'IN') ('december', 'NN') (',', ',') ('his', 'PRP$') ('a1c', 'NNP') ('was', 'VBD') ('7', 'CD') ('at', 'IN') ('that', 'DT') ('time', 'NN') (',', ',') ('does', 'VBZ') ('not', 'RB') ('remember', 'VB') ('what', 'WP') ('his', 'PRP$') ('fbs', 'NNS') ('was', 'VBD') ('.', '.') 
+
+<< Note Number >>406
+Original Sentence7 >>> Doesn?t monitor his bp at home- encouraged to do so, and take readings with him to md.
+Preprocessed Sentence:>>>:does not monitor his bp at home -  encouraged to do so, and take readings with him to md .  <<<
+
+Tokens of this sentence are as follows
+
+----
+does
+----
+not
+----
+monitor
+----
+his
+----
+bp
+----
+at
+----
+home
+----
+-
+----
+encouraged
+----
+to
+----
+do
+----
+so
+----
+,
+----
+and
+----
+take
+----
+readings
+----
+with
+----
+him
+----
+to
+----
+md
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('does', 'VBZ') ('not', 'RB') ('monitor', 'NN') ('his', 'PRP$') ('bp', 'NN') ('at', 'IN') ('home', 'NN') ('-', ':') ('encouraged', 'JJ') ('to', 'TO') ('do', 'VB') ('so', 'RB') (',', ',') ('and', 'CC') ('take', 'VB') ('readings', 'NNS') ('with', 'IN') ('him', 'PRP') ('to', 'TO') ('md', 'VB') ('.', '.') 
+
+<< Note Number >>406
+Original Sentence8 >>> His next md visit isn?t scheduled until June- encouraged to see his md sooner than that to review KYN results.
+Preprocessed Sentence:>>>:his next md visit is not scheduled until june -  encouraged to see his md sooner than that to review kyn results .  <<<
+
+Tokens of this sentence are as follows
+
+----
+his
+----
+next
+----
+md
+----
+visit
+----
+is
+----
+not
+----
+scheduled
+----
+until
+----
+june
+----
+-
+----
+encouraged
+----
+to
+----
+see
+----
+his
+----
+md
+----
+sooner
+----
+than
+----
+that
+----
+to
+----
+review
+----
+kyn
+----
+results
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('his', 'PRP$') ('next', 'JJ') ('md', 'NN') ('visit', 'NN') ('is', 'VBZ') ('not', 'RB') ('scheduled', 'VBN') ('until', 'IN') ('june', 'NN') ('-', ':') ('encouraged', 'JJ') ('to', 'TO') ('see', 'VB') ('his', 'PRP$') ('md', 'NN') ('sooner', 'NN') ('than', 'IN') ('that', 'DT') ('to', 'TO') ('review', 'VB') ('kyn', 'NN') ('results', 'NNS') ('.', '.') 
+
+<< Note Number >>407
+Original Sentence1 >>> 4/4/2013  Fax didn?t go through, verified correct number with physician office and refaxed labs.
+Preprocessed Sentence:>>>:4 / 4 / 2013  fax did not go through, verified correct number with physician office and refaxed labs .  <<<
+
+Tokens of this sentence are as follows
+
+----
+4
+----
+/
+----
+4
+----
+/
+----
+2013
+----
+fax
+----
+did
+----
+not
+----
+go
+----
+through
+----
+,
+----
+verified
+----
+correct
+----
+number
+----
+with
+----
+physician
+----
+office
+----
+and
+----
+refaxed
+----
+labs
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('4', 'LS') ('/', '``') ('4', 'CD') ('/', 'CD') ('2013', 'CD') ('fax', 'NN') ('did', 'VBD') ('not', 'RB') ('go', 'VB') ('through', 'IN') (',', ',') ('verified', 'VBN') ('correct', 'NN') ('number', 'NN') ('with', 'IN') ('physician', 'JJ') ('office', 'NN') ('and', 'CC') ('refaxed', 'VBD') ('labs', 'NNS') ('.', '.') 
+
+<< Note Number >>409
+Original Sentence3 >>> I am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible.
+Preprocessed Sentence:>>>:i am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+am
+----
+concerned
+----
+about
+----
+your
+----
+health
+----
+and
+----
+want
+----
+to
+----
+encourage
+----
+you
+----
+,
+----
+if
+----
+you
+----
+have
+----
+not
+----
+already
+----
+done
+----
+so
+----
+,
+----
+to
+----
+see
+----
+your
+----
+physician
+----
+as
+----
+soon
+----
+as
+----
+possible
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('am', 'VBP') ('concerned', 'VBN') ('about', 'IN') ('your', 'PRP$') ('health', 'NN') ('and', 'CC') ('want', 'VB') ('to', 'TO') ('encourage', 'VB') ('you', 'PRP') (',', ',') ('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('already', 'RB') ('done', 'VBN') ('so', 'RB') (',', ',') ('to', 'TO') ('see', 'VB') ('your', 'PRP$') ('physician', 'NN') ('as', 'IN') ('soon', 'RB') ('as', 'IN') ('possible', 'JJ') ('.', '.') 
+
+<< Note Number >>410
+Original Sentence2 >>> Did not get results yet.
+Preprocessed Sentence:>>>:did not get results yet .  <<<
+
+Tokens of this sentence are as follows
+
+----
+did
+----
+not
+----
+get
+----
+results
+----
+yet
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('did', 'VBD') ('not', 'RB') ('get', 'VB') ('results', 'NNS') ('yet', 'RB') ('.', '.') 
+
+<< Note Number >>415
+Original Sentence1 >>> 5/21/2013  Have not received any response from member as of today.
+Preprocessed Sentence:>>>:5 / 21 / 2013  have not received any response from member as of today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+received
+----
+any
+----
+response
+----
+from
+----
+member
+----
+as
+----
+of
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('received', 'VBN') ('any', 'DT') ('response', 'NN') ('from', 'IN') ('member', 'NN') ('as', 'IN') ('of', 'IN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>417
+Original Sentence6 >>> Member does not want to end up like her family member.
+Preprocessed Sentence:>>>:member does not want to end up like her family member .  <<<
+
+Tokens of this sentence are as follows
+
+----
+member
+----
+does
+----
+not
+----
+want
+----
+to
+----
+end
+----
+up
+----
+like
+----
+her
+----
+family
+----
+member
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('member', 'NN') ('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('end', 'VB') ('up', 'RP') ('like', 'IN') ('her', 'PRP$') ('family', 'NN') ('member', 'NN') ('.', '.') 
+
+<< Note Number >>421
+Original Sentence1 >>> 5/21/2013  Have not received any response from member as of today.
+Preprocessed Sentence:>>>:5 / 21 / 2013  have not received any response from member as of today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+received
+----
+any
+----
+response
+----
+from
+----
+member
+----
+as
+----
+of
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('received', 'VBN') ('any', 'DT') ('response', 'NN') ('from', 'IN') ('member', 'NN') ('as', 'IN') ('of', 'IN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>422
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') 
+
+<< Note Number >>423
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>426
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') 
+
+<< Note Number >>427
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>428
+Original Sentence3 >>> At screening he said he  is not on bp med, was at md recently and  bp at that time was 130/70 there.
+Preprocessed Sentence:>>>:at screening he said he  is not on bp med, was at md recently and  bp at that time was 130 / 70 there .  <<<
+
+Tokens of this sentence are as follows
+
+----
+at
+----
+screening
+----
+he
+----
+said
+----
+he
+----
+is
+----
+not
+----
+on
+----
+bp
+----
+med
+----
+,
+----
+was
+----
+at
+----
+md
+----
+recently
+----
+and
+----
+bp
+----
+at
+----
+that
+----
+time
+----
+was
+----
+130
+----
+/
+----
+70
+----
+there
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('at', 'IN') ('screening', 'NN') ('he', 'PRP') ('said', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('on', 'IN') ('bp', 'NN') ('med', 'VBN') (',', ',') ('was', 'VBD') ('at', 'IN') ('md', 'NN') ('recently', 'RB') ('and', 'CC') ('bp', 'VB') ('at', 'IN') ('that', 'DT') ('time', 'NN') ('was', 'VBD') ('130', 'CD') ('/', 'CD') ('70', 'CD') ('there', 'EX') ('.', '.') 
+
+<< Note Number >>432
+Original Sentence3 >>> I am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible.
+Preprocessed Sentence:>>>:i am concerned about your health and want to encourage you, if you have not already done so, to see your physician as soon as possible .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+am
+----
+concerned
+----
+about
+----
+your
+----
+health
+----
+and
+----
+want
+----
+to
+----
+encourage
+----
+you
+----
+,
+----
+if
+----
+you
+----
+have
+----
+not
+----
+already
+----
+done
+----
+so
+----
+,
+----
+to
+----
+see
+----
+your
+----
+physician
+----
+as
+----
+soon
+----
+as
+----
+possible
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('am', 'VBP') ('concerned', 'VBN') ('about', 'IN') ('your', 'PRP$') ('health', 'NN') ('and', 'CC') ('want', 'VB') ('to', 'TO') ('encourage', 'VB') ('you', 'PRP') (',', ',') ('if', 'IN') ('you', 'PRP') ('have', 'VBP') ('not', 'RB') ('already', 'RB') ('done', 'VBN') ('so', 'RB') (',', ',') ('to', 'TO') ('see', 'VB') ('your', 'PRP$') ('physician', 'NN') ('as', 'IN') ('soon', 'RB') ('as', 'IN') ('possible', 'JJ') ('.', '.') 
+
+<< Note Number >>434
+Original Sentence2 >>> At the screening, member refused to provide his phone number to screener, stated he did not want anyone calling his house for any reason.
+Preprocessed Sentence:>>>:at the screening, member refused to provide his phone number to screener, stated he did not want anyone calling his house for any reason .  <<<
+
+Tokens of this sentence are as follows
+
+----
+at
+----
+the
+----
+screening
+----
+,
+----
+member
+----
+refused
+----
+to
+----
+provide
+----
+his
+----
+phone
+----
+number
+----
+to
+----
+screener
+----
+,
+----
+stated
+----
+he
+----
+did
+----
+not
+----
+want
+----
+anyone
+----
+calling
+----
+his
+----
+house
+----
+for
+----
+any
+----
+reason
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('at', 'IN') ('the', 'DT') ('screening', 'NN') (',', ',') ('member', 'NN') ('refused', 'VBD') ('to', 'TO') ('provide', 'VB') ('his', 'PRP$') ('phone', 'NN') ('number', 'NN') ('to', 'TO') ('screener', 'VB') (',', ',') ('stated', 'VBN') ('he', 'PRP') ('did', 'VBD') ('not', 'RB') ('want', 'VB') ('anyone', 'NN') ('calling', 'VBG') ('his', 'PRP$') ('house', 'NN') ('for', 'IN') ('any', 'DT') ('reason', 'NN') ('.', '.') 
+
+<< Note Number >>435
+Original Sentence1 >>> KYN lab results do not contain any severe alert values, but we do need to follow up on members bp.
+Preprocessed Sentence:>>>:kyn lab results do not contain any severe alert values, but we do need to follow up on members bp .  <<<
+
+Tokens of this sentence are as follows
+
+----
+kyn
+----
+lab
+----
+results
+----
+do
+----
+not
+----
+contain
+----
+any
+----
+severe
+----
+alert
+----
+values
+----
+,
+----
+but
+----
+we
+----
+do
+----
+need
+----
+to
+----
+follow
+----
+up
+----
+on
+----
+members
+----
+bp
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('kyn', 'NN') ('lab', 'NN') ('results', 'NNS') ('do', 'VBP') ('not', 'RB') ('contain', 'VB') ('any', 'DT') ('severe', 'JJ') ('alert', 'NN') ('values', 'NNS') (',', ',') ('but', 'CC') ('we', 'PRP') ('do', 'VBP') ('need', 'VBP') ('to', 'TO') ('follow', 'VB') ('up', 'RP') ('on', 'IN') ('members', 'NNS') ('bp', 'VBP') ('.', '.') 
+
+<< Note Number >>439
+Original Sentence1 >>> 5/22/2013  Have not heard from member- called, left message for him to return my call.
+Preprocessed Sentence:>>>:5 / 22 / 2013  have not heard from member -  called, left message for him to return my call .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+22
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+-
+----
+called
+----
+,
+----
+left
+----
+message
+----
+for
+----
+him
+----
+to
+----
+return
+----
+my
+----
+call
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('22', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') ('-', ':') ('called', 'VBN') (',', ',') ('left', 'VBN') ('message', 'NN') ('for', 'IN') ('him', 'PRP') ('to', 'TO') ('return', 'VB') ('my', 'PRP$') ('call', 'NN') ('.', '.') 
+
+<< Note Number >>444
+Original Sentence3 >>> His diet doesn?t include many sweets or concentrated forms of sugar, simple carbohydrates.
+Preprocessed Sentence:>>>:his diet does not include many sweets or concentrated forms of sugar, simple carbohydrates .  <<<
+
+Tokens of this sentence are as follows
+
+----
+his
+----
+diet
+----
+does
+----
+not
+----
+include
+----
+many
+----
+sweets
+----
+or
+----
+concentrated
+----
+forms
+----
+of
+----
+sugar
+----
+,
+----
+simple
+----
+carbohydrates
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('his', 'PRP$') ('diet', 'NN') ('does', 'VBZ') ('not', 'RB') ('include', 'VB') ('many', 'JJ') ('sweets', 'NNS') ('or', 'CC') ('concentrated', 'VBN') ('forms', 'NNS') ('of', 'IN') ('sugar', 'NN') (',', ',') ('simple', 'JJ') ('carbohydrates', 'NNS') ('.', '.') 
+
+<< Note Number >>444
+Original Sentence12 >>> You Don?t Have to Knock Yourself Out To Prevent Diabetes!
+Preprocessed Sentence:>>>:you do not have to knock yourself out to prevent diabetes! <<<
+
+Tokens of this sentence are as follows
+
+----
+you
+----
+do
+----
+not
+----
+have
+----
+to
+----
+knock
+----
+yourself
+----
+out
+----
+to
+----
+prevent
+----
+diabetes
+----
+!
+*****POS Tagging [using Penn Treebank tagging]****
+('you', 'PRP') ('do', 'VBP') ('not', 'RB') ('have', 'VB') ('to', 'TO') ('knock', 'VB') ('yourself', 'PRP') ('out', 'RP') ('to', 'TO') ('prevent', 'VB') ('diabetes', 'NNS') ('!', '.') 
+
+<< Note Number >>445
+Original Sentence6 >>> He is not on bp medication at this time.
+Preprocessed Sentence:>>>:he is not on bp medication at this time .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+is
+----
+not
+----
+on
+----
+bp
+----
+medication
+----
+at
+----
+this
+----
+time
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('on', 'IN') ('bp', 'NN') ('medication', 'NN') ('at', 'IN') ('this', 'DT') ('time', 'NN') ('.', '.') 
+
+<< Note Number >>449
+Original Sentence3 >>> Female answering the phone states that he is asleep and he does not want any calls, and that he had indicated such on his screening form;  also that he sees his physician and doesn?t want to talk with anyone else.
+Preprocessed Sentence:>>>:female answering the phone states that he is asleep and he does not want any calls, and that he had indicated such on his screening form;  also that he sees his physician and does not want to talk with anyone else .  <<<
+
+Tokens of this sentence are as follows
+
+----
+female
+----
+answering
+----
+the
+----
+phone
+----
+states
+----
+that
+----
+he
+----
+is
+----
+asleep
+----
+and
+----
+he
+----
+does
+----
+not
+----
+want
+----
+any
+----
+calls
+----
+,
+----
+and
+----
+that
+----
+he
+----
+had
+----
+indicated
+----
+such
+----
+on
+----
+his
+----
+screening
+----
+form
+----
+;
+----
+also
+----
+that
+----
+he
+----
+sees
+----
+his
+----
+physician
+----
+and
+----
+does
+----
+not
+----
+want
+----
+to
+----
+talk
+----
+with
+----
+anyone
+----
+else
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('female', 'JJ') ('answering', 'NN') ('the', 'DT') ('phone', 'NN') ('states', 'VBZ') ('that', 'IN') ('he', 'PRP') ('is', 'VBZ') ('asleep', 'VB') ('and', 'CC') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('any', 'DT') ('calls', 'NNS') (',', ',') ('and', 'CC') ('that', 'IN') ('he', 'PRP') ('had', 'VBD') ('indicated', 'VBN') ('such', 'JJ') ('on', 'IN') ('his', 'PRP$') ('screening', 'NN') ('form', 'NN') (';', ':') ('also', 'RB') ('that', 'IN') ('he', 'PRP') ('sees', 'VBZ') ('his', 'PRP$') ('physician', 'JJ') ('and', 'CC') ('does', 'VBZ') ('not', 'RB') ('want', 'VB') ('to', 'TO') ('talk', 'VB') ('with', 'IN') ('anyone', 'NN') ('else', 'RB') ('.', '.') 
+
+<< Note Number >>450
+Original Sentence4 >>> If these times are not good for you, we can set up a better time, just let me know.
+Preprocessed Sentence:>>>:if these times are not good for you, we can set up a better time, just let me know .  <<<
+
+Tokens of this sentence are as follows
+
+----
+if
+----
+these
+----
+times
+----
+are
+----
+not
+----
+good
+----
+for
+----
+you
+----
+,
+----
+we
+----
+can
+----
+set
+----
+up
+----
+a
+----
+better
+----
+time
+----
+,
+----
+just
+----
+let
+----
+me
+----
+know
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('if', 'IN') ('these', 'DT') ('times', 'NNS') ('are', 'VBP') ('not', 'RB') ('good', 'JJ') ('for', 'IN') ('you', 'PRP') (',', ',') ('we', 'PRP') ('can', 'MD') ('set', 'VB') ('up', 'RP') ('a', 'DT') ('better', 'JJR') ('time', 'NN') (',', ',') ('just', 'RB') ('let', 'VB') ('me', 'PRP') ('know', 'VB') ('.', '.') 
+
+<< Note Number >>454
+Original Sentence1 >>> He doesn?t have a blood pressure monitor at home but has it checked at the pharmacy pretty often.
+Preprocessed Sentence:>>>:he does not have a blood pressure monitor at home but has it checked at the pharmacy pretty often .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+have
+----
+a
+----
+blood
+----
+pressure
+----
+monitor
+----
+at
+----
+home
+----
+but
+----
+has
+----
+it
+----
+checked
+----
+at
+----
+the
+----
+pharmacy
+----
+pretty
+----
+often
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('blood', 'NN') ('pressure', 'NN') ('monitor', 'NN') ('at', 'IN') ('home', 'NN') ('but', 'CC') ('has', 'VBZ') ('it', 'PRP') ('checked', 'VBD') ('at', 'IN') ('the', 'DT') ('pharmacy', 'NN') ('pretty', 'RB') ('often', 'RB') ('.', '.') 
+
+<< Note Number >>455
+Original Sentence3 >>> You Don?t Have to Knock Yourself Out to Prevent Diabetes!
+Preprocessed Sentence:>>>:you do not have to knock yourself out to prevent diabetes! <<<
+
+Tokens of this sentence are as follows
+
+----
+you
+----
+do
+----
+not
+----
+have
+----
+to
+----
+knock
+----
+yourself
+----
+out
+----
+to
+----
+prevent
+----
+diabetes
+----
+!
+*****POS Tagging [using Penn Treebank tagging]****
+('you', 'PRP') ('do', 'VBP') ('not', 'RB') ('have', 'VB') ('to', 'TO') ('knock', 'VB') ('yourself', 'PRP') ('out', 'RP') ('to', 'TO') ('prevent', 'VB') ('diabetes', 'NNS') ('!', '.') 
+
+<< Note Number >>459
+Original Sentence3 >>> 3-4 months ago, hasn?t been back the dr. yet for a recheck of his cholesterol.
+Preprocessed Sentence:>>>:3 - 4 months ago, has not been back the dr .  yet for a recheck of his cholesterol .  <<<
+
+Tokens of this sentence are as follows
+
+----
+3
+----
+-
+----
+4
+----
+months
+----
+ago
+----
+,
+----
+has
+----
+not
+----
+been
+----
+back
+----
+the
+----
+dr
+----
+.
+----
+yet
+----
+for
+----
+a
+----
+recheck
+----
+of
+----
+his
+----
+cholesterol
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('3', 'LS') ('-', ':') ('4', 'CD') ('months', 'NNS') ('ago', 'RB') (',', ',') ('has', 'VBZ') ('not', 'RB') ('been', 'VBN') ('back', 'RB') ('the', 'DT') ('dr', 'NN') ('.', '.') ('yet', 'RB') ('for', 'IN') ('a', 'DT') ('recheck', 'NN') ('of', 'IN') ('his', 'PRP$') ('cholesterol', 'NN') ('.', '.') 
+
+<< Note Number >>460
+Original Sentence1 >>> He doesn?t have a bp monitor at home-and hasn?t rechecked his bp since the screening.
+Preprocessed Sentence:>>>:he does not have a bp monitor at home - and has not rechecked his bp since the screening .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+have
+----
+a
+----
+bp
+----
+monitor
+----
+at
+----
+home
+----
+-
+----
+and
+----
+has
+----
+not
+----
+rechecked
+----
+his
+----
+bp
+----
+since
+----
+the
+----
+screening
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('have', 'VB') ('a', 'DT') ('bp', 'NN') ('monitor', 'NN') ('at', 'IN') ('home', 'NN') ('-', ':') ('and', 'CC') ('has', 'VBZ') ('not', 'RB') ('rechecked', 'VBN') ('his', 'PRP$') ('bp', 'NN') ('since', 'IN') ('the', 'DT') ('screening', 'NN') ('.', '.') 
+
+<< Note Number >>467
+Original Sentence1 >>> 5/21/2013  Have not received any response from member as of today.
+Preprocessed Sentence:>>>:5 / 21 / 2013  have not received any response from member as of today .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+received
+----
+any
+----
+response
+----
+from
+----
+member
+----
+as
+----
+of
+----
+today
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('received', 'VBN') ('any', 'DT') ('response', 'NN') ('from', 'IN') ('member', 'NN') ('as', 'IN') ('of', 'IN') ('today', 'NN') ('.', '.') 
+
+<< Note Number >>469
+Original Sentence6 >>> He eats pretzels every night, is not exercising as much with the colder weather.
+Preprocessed Sentence:>>>:he eats pretzels every night, is not exercising as much with the colder weather .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+eats
+----
+pretzels
+----
+every
+----
+night
+----
+,
+----
+is
+----
+not
+----
+exercising
+----
+as
+----
+much
+----
+with
+----
+the
+----
+colder
+----
+weather
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('eats', 'VBZ') ('pretzels', 'NNS') ('every', 'DT') ('night', 'NN') (',', ',') ('is', 'VBZ') ('not', 'RB') ('exercising', 'VBG') ('as', 'IN') ('much', 'JJ') ('with', 'IN') ('the', 'DT') ('colder', 'JJR') ('weather', 'NN') ('.', '.') 
+
+<< Note Number >>471
+Original Sentence4 >>> He doesn?t notice that he feels any different.
+Preprocessed Sentence:>>>:he does not notice that he feels any different .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+does
+----
+not
+----
+notice
+----
+that
+----
+he
+----
+feels
+----
+any
+----
+different
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('notice', 'VB') ('that', 'IN') ('he', 'PRP') ('feels', 'VBZ') ('any', 'DT') ('different', 'JJ') ('.', '.') 
+
+<< Note Number >>474
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS 2013 KNOW YOUR NUMBER
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts 2013 know your number <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+----
+2013
+----
+know
+----
+your
+----
+number
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') ('2013', 'CD') ('know', 'NN') ('your', 'PRP$') ('number', 'NN') 
+
+<< Note Number >>475
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>476
+Original Sentence1 >>> 5/21/2013  Attempted to call member at above number, recording indicates this number is not in service.
+Preprocessed Sentence:>>>:5 / 21 / 2013  attempted to call member at above number, recording indicates this number is not in service .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+21
+----
+/
+----
+2013
+----
+attempted
+----
+to
+----
+call
+----
+member
+----
+at
+----
+above
+----
+number
+----
+,
+----
+recording
+----
+indicates
+----
+this
+----
+number
+----
+is
+----
+not
+----
+in
+----
+service
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('21', 'CD') ('/', 'CD') ('2013', 'CD') ('attempted', 'VBN') ('to', 'TO') ('call', 'VB') ('member', 'NN') ('at', 'IN') ('above', 'IN') ('number', 'NN') (',', ',') ('recording', 'VBG') ('indicates', 'NNS') ('this', 'DT') ('number', 'NN') ('is', 'VBZ') ('not', 'RB') ('in', 'IN') ('service', 'NN') ('.', '.') 
+
+<< Note Number >>478
+Original Sentence1 >>> 6/3/13  Called member Number not in service.
+Preprocessed Sentence:>>>:6 / 3 / 13  called member number not in service .  <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+3
+----
+/
+----
+13
+----
+called
+----
+member
+----
+number
+----
+not
+----
+in
+----
+service
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('3', 'CD') ('/', 'CD') ('13', 'CD') ('called', 'VBN') ('member', 'NN') ('number', 'NN') ('not', 'RB') ('in', 'IN') ('service', 'NN') ('.', '.') 
+
+<< Note Number >>479
+Original Sentence1 >>> 6/25/2013 Have not heard from member, mailed a reminder letter asking that member contact me regarding results: DAYTON PARTS 2013 KNOW YOUR NUMBER
+Preprocessed Sentence:>>>:6 / 25 / 2013 have not heard from member, mailed a reminder letter asking that member contact me regarding results: dayton parts 2013 know your number <<<
+
+Tokens of this sentence are as follows
+
+----
+6
+----
+/
+----
+25
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+,
+----
+mailed
+----
+a
+----
+reminder
+----
+letter
+----
+asking
+----
+that
+----
+member
+----
+contact
+----
+me
+----
+regarding
+----
+results
+----
+:
+----
+dayton
+----
+parts
+----
+2013
+----
+know
+----
+your
+----
+number
+*****POS Tagging [using Penn Treebank tagging]****
+('6', 'CD') ('/', '``') ('25', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') (',', ',') ('mailed', 'VBD') ('a', 'DT') ('reminder', 'NN') ('letter', 'NN') ('asking', 'VBG') ('that', 'IN') ('member', 'NN') ('contact', 'NN') ('me', 'PRP') ('regarding', 'VBG') ('results', 'NNS') (':', ':') ('dayton', 'NN') ('parts', 'NNS') ('2013', 'CD') ('know', 'NN') ('your', 'PRP$') ('number', 'NN') 
+
+<< Note Number >>480
+Original Sentence3 >>> I HAVE TRIED TO REACH YOU AT THE PHONE NUMBER/EMAIL/MAIL ADDRESS YOU PROVIDED, BUT HAVEN?T TALKED WITH YOU YET, SO PLEASE CALL OR EMAIL ME.
+Preprocessed Sentence:>>>:i have tried to reach you at the phone number / email / mail address you provided, but have not talked with you yet, so please call or email me .  <<<
+
+Tokens of this sentence are as follows
+
+----
+i
+----
+have
+----
+tried
+----
+to
+----
+reach
+----
+you
+----
+at
+----
+the
+----
+phone
+----
+number
+----
+/
+----
+email
+----
+/
+----
+mail
+----
+address
+----
+you
+----
+provided
+----
+,
+----
+but
+----
+have
+----
+not
+----
+talked
+----
+with
+----
+you
+----
+yet
+----
+,
+----
+so
+----
+please
+----
+call
+----
+or
+----
+email
+----
+me
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('i', 'PRP') ('have', 'VBP') ('tried', 'VBN') ('to', 'TO') ('reach', 'VB') ('you', 'PRP') ('at', 'IN') ('the', 'DT') ('phone', 'NN') ('number', 'NN') ('/', ':') ('email', 'NN') ('/', ':') ('mail', 'NN') ('address', 'NN') ('you', 'PRP') ('provided', 'VBD') (',', ',') ('but', 'CC') ('have', 'VBP') ('not', 'RB') ('talked', 'VBN') ('with', 'IN') ('you', 'PRP') ('yet', 'RB') (',', ',') ('so', 'RB') ('please', 'VB') ('call', 'JJ') ('or', 'CC') ('email', 'NN') ('me', 'PRP') ('.', '.') 
+
+<< Note Number >>484
+Original Sentence1 >>> States as a teen he was told that he was hypoglycemic, but didn?t realize his blood sugar was now high.
+Preprocessed Sentence:>>>:states as a teen he was told that he was hypoglycemic, but did not realize his blood sugar was now high .  <<<
+
+Tokens of this sentence are as follows
+
+----
+states
+----
+as
+----
+a
+----
+teen
+----
+he
+----
+was
+----
+told
+----
+that
+----
+he
+----
+was
+----
+hypoglycemic
+----
+,
+----
+but
+----
+did
+----
+not
+----
+realize
+----
+his
+----
+blood
+----
+sugar
+----
+was
+----
+now
+----
+high
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('states', 'NNS') ('as', 'IN') ('a', 'DT') ('teen', 'NN') ('he', 'PRP') ('was', 'VBD') ('told', 'VBN') ('that', 'IN') ('he', 'PRP') ('was', 'VBD') ('hypoglycemic', 'JJ') (',', ',') ('but', 'CC') ('did', 'VBD') ('not', 'RB') ('realize', 'VB') ('his', 'PRP$') ('blood', 'NN') ('sugar', 'NN') ('was', 'VBD') ('now', 'RB') ('high', 'JJ') ('.', '.') 
+
+<< Note Number >>485
+Original Sentence1 >>> 4/3/2013  Member called back to say he had contacted his physicians office and they had not yet received the fax with his labwork.
+Preprocessed Sentence:>>>:4 / 3 / 2013  member called back to say he had contacted his physicians office and they had not yet received the fax with his labwork .  <<<
+
+Tokens of this sentence are as follows
+
+----
+4
+----
+/
+----
+3
+----
+/
+----
+2013
+----
+member
+----
+called
+----
+back
+----
+to
+----
+say
+----
+he
+----
+had
+----
+contacted
+----
+his
+----
+physicians
+----
+office
+----
+and
+----
+they
+----
+had
+----
+not
+----
+yet
+----
+received
+----
+the
+----
+fax
+----
+with
+----
+his
+----
+labwork
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('4', 'LS') ('/', '``') ('3', 'CD') ('/', 'CD') ('2013', 'CD') ('member', 'NN') ('called', 'VBN') ('back', 'RP') ('to', 'TO') ('say', 'VB') ('he', 'PRP') ('had', 'VBD') ('contacted', 'VBN') ('his', 'PRP$') ('physicians', 'NNS') ('office', 'NN') ('and', 'CC') ('they', 'PRP') ('had', 'VBD') ('not', 'RB') ('yet', 'RB') ('received', 'VBN') ('the', 'DT') ('fax', 'NN') ('with', 'IN') ('his', 'PRP$') ('labwork', 'NN') ('.', '.') 
+
+<< Note Number >>486
+Original Sentence1 >>> 5/22/2013  Have not heard from member.
+Preprocessed Sentence:>>>:5 / 22 / 2013  have not heard from member .  <<<
+
+Tokens of this sentence are as follows
+
+----
+5
+----
+/
+----
+22
+----
+/
+----
+2013
+----
+have
+----
+not
+----
+heard
+----
+from
+----
+member
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('5', 'LS') ('/', '``') ('22', 'CD') ('/', 'CD') ('2013', 'CD') ('have', 'VBP') ('not', 'RB') ('heard', 'VBN') ('from', 'IN') ('member', 'NN') ('.', '.') 
+
+<< Note Number >>487
+Original Sentence3 >>> He stated he is noticing that he isn?t so tired all the time now, and he doesn?t urinate frequently like he used to.
+Preprocessed Sentence:>>>:he stated he is noticing that he is not so tired all the time now, and he does not urinate frequently like he used to .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+stated
+----
+he
+----
+is
+----
+noticing
+----
+that
+----
+he
+----
+is
+----
+not
+----
+so
+----
+tired
+----
+all
+----
+the
+----
+time
+----
+now
+----
+,
+----
+and
+----
+he
+----
+does
+----
+not
+----
+urinate
+----
+frequently
+----
+like
+----
+he
+----
+used
+----
+to
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('stated', 'VBD') ('he', 'PRP') ('is', 'VBZ') ('noticing', 'VBG') ('that', 'IN') ('he', 'PRP') ('is', 'VBZ') ('not', 'RB') ('so', 'RB') ('tired', 'VBN') ('all', 'DT') ('the', 'DT') ('time', 'NN') ('now', 'RB') (',', ',') ('and', 'CC') ('he', 'PRP') ('does', 'VBZ') ('not', 'RB') ('urinate', 'VB') ('frequently', 'RB') ('like', 'IN') ('he', 'PRP') ('used', 'VBD') ('to', 'TO') ('.', '.') 

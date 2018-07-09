@@ -1,0 +1,149 @@
+
+<< Note Number >>1
+Original Sentence1 >>> Met over the phone to go over TOB #1.
+Preprocessed Sentence:>>>:met over the phone to go over tob #1 .  <<<
+
+Tokens of this sentence are as follows
+
+----
+met
+----
+over
+----
+the
+----
+phone
+----
+to
+----
+go
+----
+over
+----
+tob
+----
+#
+----
+1
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('met', 'NN') ('over', 'IN') ('the', 'DT') ('phone', 'NN') ('to', 'TO') ('go', 'VB') ('over', 'IN') ('tob', 'NN') ('#', '#') ('1', 'CD') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence3 >>> Going to try it again in June.
+Preprocessed Sentence:>>>:going to try it again in june .  <<<
+
+Tokens of this sentence are as follows
+
+----
+going
+----
+to
+----
+try
+----
+it
+----
+again
+----
+in
+----
+june
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('going', 'VBG') ('to', 'TO') ('try', 'NN') ('it', 'PRP') ('again', 'RB') ('in', 'IN') ('june', 'NN') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence4 >>> He wants to quit and knows he can do it in June.
+Preprocessed Sentence:>>>:he wants to quit and knows he can do it in june .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+wants
+----
+to
+----
+quit
+----
+and
+----
+knows
+----
+he
+----
+can
+----
+do
+----
+it
+----
+in
+----
+june
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('wants', 'VBZ') ('to', 'TO') ('quit', 'VB') ('and', 'CC') ('knows', 'VBZ') ('he', 'PRP') ('can', 'MD') ('do', 'VB') ('it', 'PRP') ('in', 'IN') ('june', 'NN') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence5 >>> Doing it with his wife.
+Preprocessed Sentence:>>>:doing it with his wife .  <<<
+
+Tokens of this sentence are as follows
+
+----
+doing
+----
+it
+----
+with
+----
+his
+----
+wife
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('doing', 'VBG') ('it', 'PRP') ('with', 'IN') ('his', 'PRP$') ('wife', 'NN') ('.', '.') 
+
+<< Note Number >>1
+Original Sentence6 >>> He has quit before so he has confidence he can do it again.
+Preprocessed Sentence:>>>:he has quit before so he has confidence he can do it again .  <<<
+
+Tokens of this sentence are as follows
+
+----
+he
+----
+has
+----
+quit
+----
+before
+----
+so
+----
+he
+----
+has
+----
+confidence
+----
+he
+----
+can
+----
+do
+----
+it
+----
+again
+----
+.
+*****POS Tagging [using Penn Treebank tagging]****
+('he', 'PRP') ('has', 'VBZ') ('quit', 'VBN') ('before', 'IN') ('so', 'RB') ('he', 'PRP') ('has', 'VBZ') ('confidence', 'NN') ('he', 'PRP') ('can', 'MD') ('do', 'VB') ('it', 'PRP') ('again', 'RB') ('.', '.') 

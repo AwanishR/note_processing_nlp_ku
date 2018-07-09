@@ -1,0 +1,35 @@
+Note 124: pt (procedure - xx, FP) ??
+Note 83: pap smears (xx- procedure, FN) --> TP > +1, FN > -1 ??
+
+Analysis 3 _ 15000 corups
+===============================
+Note 48: neuropathy (xx- diagnosis, FN) --> TP > +1, FN > -1
+Note 76: neuropathy 2 (xx - diagnosis, FN) --> TP > +2, FN > -2
+Note 85: GLUCOPHAGE (xx- drug, FN), HCTZ (xx - drug, FN),  --> TP > +2, FN > -2
+Note 138: gfr (xx - vital, FN) --> TP > +1, FN > -1
+Note 154: GFR 2 (xx-vital, FN) --> TP > +2, FN > -2
+Note 164: ckd 2 (xx- diagnosis, FN) --> TP > +2, FN >-2
+Note 187: GFR (xx-vital, FN) --> TP > +1, FN > -1
+Note 214: metabolic syndrome(xx-diagnosis, FN) --> TP > +1, FN > -1
+Note 215:  HCTZ (xx-drug, FN) --> TP > +1, FN > -1
+Note 247: CKD (xx-diagnosis, FN), GFR (xx-vital, FN) --> TP > +2, FN > -2
+Note 317: GFR (XX-VITAL, fn), transplant (XX-procedure, fn), dialysis (xx-procedure, fn) --> TP > +3, FN > -3
+Note 334: neuropathy (xx-diagnosis, fn) --> TP > +1, FN > -1
+Note 368: glucophage (xx-drug, fn) --> TP > +1, FN > -1
+Note 393: Vasotec (xx-drug, fn) --> TP > +1, FN > -1
+Note 397: txp (xx- procedure, fn, "transplannt") --> TP > +1, FN > -1
+Note 408: GFR (xx-vital, fn) --> TP > +1, FN > -1
+Note 410: GFR (xx-vital, fn) --> TP > +1, FN > -1 
+Note 427: CT scan (xx-procedure, fn) --> TP > +1, FN > -1 
+Note 435: GFR (xx-vital, fn), CKD (xx-diagnosis, FN) --> TP > +2, FN > -2
+Note 454: PANCREATITIS (xx-diagnosis, fn) --> TP > +1, FN > -1 
+Note 466: CT scan (xx-procedure, fn) --> TP > +1, FN > -1 
+Note 556: renal failure (xx-diagnosis, fn) --> TP > +1, FN > -1 
+Note 556: renal disease (xx-diagnosis, fn) --> TP > +1, FN > -1
+Note 581: HCTZ (xx-drug, fn) --> TP > +1, FN > -1
+
+
+
+
+
+

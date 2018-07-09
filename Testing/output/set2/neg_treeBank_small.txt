@@ -1,0 +1,4 @@
+('did', 'VBD')('chantix', 'VBN')('last', 'JJ')('year', 'NN')('and', 'CC')('it', 'PRP')('helped', 'VBD')('but', 'CC')('did', 'VBD')('not', 'RB')('have', 'VB')('the', 'DT')('right', 'NN')('mindset', 'NN')('going', 'VBG')('into', 'IN')('it', 'PRP')('.', '.')(NoteID:1)(SentID:2)
+('tobacco', 'NN')('free', 'JJ')('.', '.')(NoteID:1)(SentID:7)
+('smoke', 'NN')('free', 'JJ')('.', '.')(NoteID:1)(SentID:8)
+('no', 'DT')('diabetes', 'NNS')('.', '.')(NoteID:1)(SentID:9)

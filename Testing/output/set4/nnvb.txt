@@ -1,0 +1,2787 @@
+Note_Number-1: Sent_Number-1: talked	member	reviewed	kyn	results	
+Note_Number-1: Sent_Number-2: bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-1: Sent_Number-3: saw	md	past	tuesday	
+Note_Number-1: Sent_Number-4: bp	was	md	office	
+Note_Number-1: Sent_Number-5: md	told	cut	was	consuming	amount	decrease	a1c	goes	weeks	follow	dr	change	grain	breads	crackers	pasta	increase	non	starchy	vegetables	
+Note_Number-1: Sent_Number-6: mailed	member	following	diabetes	
+Note_Number-2: Sent_Number-1: called	member	review	kyn	results	member	is	asleep	herself	wife	states	take	information	
+Note_Number-2: Sent_Number-2: explained	members	authorization	disclose	health	information	
+Note_Number-2: Sent_Number-3: insisted	has	authorization	talk	providers	
+Note_Number-2: Sent_Number-7: heard	yelling	someone	stated	is	people	was	work	give	authorization	talk	heard	voice	background	state	yes	
+Note_Number-2: Sent_Number-11: hung	phone	
+Note_Number-3: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-3: Sent_Number-2: left	message	member	please	return	call	
+Note_Number-3: Sent_Number-3: emailed	member	follows	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-3: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-3: Sent_Number-5: is	talk	
+Note_Number-3: Sent_Number-6: be	reached	monday	friday	
+Note_Number-3: Sent_Number-8: look	hearing	
+Note_Number-3: Sent_Number-9: kwells	rn	
+Note_Number-4: Sent_Number-1: left	message	member	return	call	re	kyn	results	
+Note_Number-4: Sent_Number-2: bs	a1c	tchol	tri	hdl	ldl	bp	
+Note_Number-4: Sent_Number-3: lab	results	faxed	members	md	
+Note_Number-4: Sent_Number-4: kwellsrn	
+Note_Number-5: Sent_Number-1: received	class	quiz	kyn	overview	blood	pressure	class	class	habits	lifestyle	
+Note_Number-6: Sent_Number-1: called	member	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-6: Sent_Number-2: left	message	member	please	return	call	
+Note_Number-6: Sent_Number-3: emailed	member	following	member	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-6: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-6: Sent_Number-5: is	talk	
+Note_Number-6: Sent_Number-6: be	reached	monday	friday	
+Note_Number-6: Sent_Number-8: look	hearing	
+Note_Number-6: Sent_Number-9: kwells	rn	
+Note_Number-7: Sent_Number-1: member	called	
+Note_Number-7: Sent_Number-2: saw	md	week	
+Note_Number-7: Sent_Number-3: states	md	talked	cutting	sugar	diet	losing	weight	help	reduce	a1c	blood	pressure	
+Note_Number-7: Sent_Number-4: discussed	ways	cut	carbohydrates	has	been	drinking	orange	juice	is	going	change	tropicana	half	sugar	oj	
+Note_Number-7: Sent_Number-7: discussed	exercise	is	reducing	a1c	/	bp	
+Note_Number-7: Sent_Number-8: is	going	work	increasing	exercise	goal	losing	pounds	coming	year	
+Note_Number-7: Sent_Number-9: has	talked	wife	is	efforts	is	board	help	preparing	dishes	
+Note_Number-7: Sent_Number-10: follow	member	weeks	cheer	check	progress	
+Note_Number-7: Sent_Number-11: emailed	member	following	information	tips	get	
+Note_Number-8: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-8: Sent_Number-2: left	message	member	please	return	call	regarding	kyn	results	
+Note_Number-9: Sent_Number-1: member	called	reviewed	kyn	results	
+Note_Number-9: Sent_Number-2: has	md	june	
+Note_Number-9: Sent_Number-4: states	was	bit	screening	blood	draw	s	bp	was	elevated	time	
+Note_Number-9: Sent_Number-5: encouraged	take	bps	home	keep	record	take	information	dr	appointment	
+Note_Number-9: Sent_Number-6: is	family	history	diabetes	
+Note_Number-9: Sent_Number-7: discussed	ada	guidelines	place	risk	category	develop	diabetes	
+Note_Number-9: Sent_Number-8: discussed	ways	reduce	a1c	reducing	sugar	carbohydrate	intake	increase	exercise	increase	fiber	diet	lean	protein	meal	
+Note_Number-9: Sent_Number-10: drinks	water	flavored	water	sweetened	sweetener	
+Note_Number-9: Sent_Number-11: discussed	ways	increase	fiber	change	bread	rice	pasta	whole	grain	
+Note_Number-9: Sent_Number-12: member	check	md	follwup	appointment	
+Note_Number-9: Sent_Number-13: mailed	member	following	diabetes	carb	counting	
+Note_Number-9: Sent_Number-14: kwells	rn	
+Note_Number-10: Sent_Number-1: left	message	member	return	call	review	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-10: Sent_Number-2: kwellsrn	
+Note_Number-11: Sent_Number-1: called	left	message	member	return	call	re	kyn	results	
+Note_Number-11: Sent_Number-2: kwells	rn	
+Note_Number-12: Sent_Number-1: left	message	member	please	return	call	re	kyn	results	
+Note_Number-12: Sent_Number-2: results	bs	a1c	bp	tchol	hdl	ldl	
+Note_Number-12: Sent_Number-3: kwells	rn	
+Note_Number-13: Sent_Number-1: member	return	call	
+Note_Number-13: Sent_Number-4: remembers	bp	being	
+Note_Number-13: Sent_Number-5: follows	heart	diet	eats	grains	tries	eat	
+Note_Number-13: Sent_Number-7: worked	fitness	industry	has	understanding	importance	exercise	maintaining	good	health	
+Note_Number-13: Sent_Number-8: said	work	is	worn	imagine	trying	do	has	done	
+Note_Number-13: Sent_Number-9: does	park	parking	lot	goes	store	has	walk	
+Note_Number-13: Sent_Number-10: work	requires	lot	lifting	
+Note_Number-13: Sent_Number-12: is	family	history	elevated	cholesterol	
+Note_Number-13: Sent_Number-13: check	father	share	information	
+Note_Number-14: Sent_Number-1: discussed	increasing	intake	get	benefit	omega	fatty	acids	
+Note_Number-14: Sent_Number-2: be	locating	md	going	follwup	
+Note_Number-14: Sent_Number-3: kwells	rn	
+Note_Number-15: Sent_Number-1: called	member	left	message	please	return	call	regarding	kyn	results	
+Note_Number-15: Sent_Number-2: (		bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-16: Sent_Number-1: attempted	contact	member	review	kyn	results	
+Note_Number-16: Sent_Number-2: got	recording	stating	person	am	trying	call	be	reached	time	
+Note_Number-16: Sent_Number-3: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-16: Sent_Number-4: try	
+Note_Number-16: Sent_Number-5: kwellsrn	
+Note_Number-17: Sent_Number-1: talked	member	kyn	results	
+Note_Number-17: Sent_Number-2: has	been	bp	med	approx	
+Note_Number-17: Sent_Number-3: years	
+Note_Number-17: Sent_Number-5: encouraged	check	keep	record	readings	take	information	checkup	md	
+Note_Number-18: Sent_Number-1: eats	food	day	week	mcdonalds	
+Note_Number-18: Sent_Number-2: discussed	salt	content	foods	affects	blood	pressure	triglycerides	
+Note_Number-18: Sent_Number-3: encouraged	take	time	plan	bring	sandwich	home	grain	bread	meat	lettuce	vegetables	snack	burgers	fries	
+Note_Number-18: Sent_Number-5: is	start	making	changes	diet	
+Note_Number-18: Sent_Number-6: discussed	help	reduce	triglycerides	bp	has	help	lose	
+Note_Number-18: Sent_Number-7: encouraged	exercise	
+Note_Number-18: Sent_Number-8: had	been	working	y	had	gotten	
+Note_Number-18: Sent_Number-9: is	going	start	going	
+Note_Number-18: Sent_Number-10: call	follow	month	see	progress	is	coming	
+Note_Number-18: Sent_Number-11: is	excited	motivated	improve	health	
+Note_Number-19: Sent_Number-1: mailed	following	information	member	ways	sodium	super	snacks	do	follow	diet	
+Note_Number-19: Sent_Number-2: kwells	rn	
+Note_Number-20: Sent_Number-1: called	member	is	work	
+Note_Number-20: Sent_Number-2: left	message	please	return	call	regarding	kyn	results	
+Note_Number-20: Sent_Number-3: bs	a1c	bp	tchol	hdl	tri	
+Note_Number-20: Sent_Number-4: kwells	rn	
+Note_Number-21: Sent_Number-1: talked	member	phone	is	please	kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-21: Sent_Number-2: had	been	weight	watchers	years	lost	pounds	said	has	gotten	lazy	year	gained	
+Note_Number-21: Sent_Number-3: father	has	triglycerides	is	medication	
+Note_Number-21: Sent_Number-5: boyfriend	are	going	cruise	weekend	get	have	set	goal	begin	working	weight	watchers	exercising	
+Note_Number-21: Sent_Number-6: commended	past	success	encouraged	do	knows	do	
+Note_Number-21: Sent_Number-7: follow	weeks	cheer	check	progress	
+Note_Number-22: Sent_Number-1: called	member	follow	bp	screening	was	
+Note_Number-22: Sent_Number-2: was	have	rechecked	
+Note_Number-22: Sent_Number-3: left	message	please	return	call	review	kyn	results	
+Note_Number-22: Sent_Number-4: bs	a1c	tchol	tri	hdl	ldl	
+Note_Number-22: Sent_Number-5: kwellsrn	
+Note_Number-23: Sent_Number-2: company	payed	afford	things	
+Note_Number-23: Sent_Number-3: anyway	had	checked	bp	times	week	was	
+Note_Number-23: Sent_Number-4: was	time	was	
+Note_Number-23: Sent_Number-6: craig	
+Note_Number-24: Sent_Number-1: reply	hello	thank	update	
+Note_Number-24: Sent_Number-2: is	know	pressure	is	
+Note_Number-25: Sent_Number-1: be	receiving	results	packet	mail	weeks	copy	be	sent	physician	
+Note_Number-25: Sent_Number-3: hope	have	weekend	
+Note_Number-25: Sent_Number-4: kwellsrn	
+Note_Number-26: Sent_Number-1: called	follow	member	conversation	
+Note_Number-26: Sent_Number-2: left	message	return	call	
+Note_Number-27: Sent_Number-1: left	message	member	call	regarding	kyn	screening	results	
+Note_Number-28: Sent_Number-1: bs	a1c	tchol	tri	hdl	ldl	
+Note_Number-28: Sent_Number-2: lab	result	sheet	faxed	pts	md	
+Note_Number-28: Sent_Number-3: kwellsrn	
+Note_Number-29: Sent_Number-1: member	returned	call	
+Note_Number-29: Sent_Number-2: states	has	been	eating	lot	candy	weeks	
+Note_Number-29: Sent_Number-3: is	walks	lot	work	
+Note_Number-29: Sent_Number-4: family	history	diabetes	
+Note_Number-29: Sent_Number-6: reviewed	kyn	lab	values	
+Note_Number-29: Sent_Number-7: call	md	get	phone	set	appointment	follwup	
+Note_Number-29: Sent_Number-8: discussed	effects	diabetes	including	kidney	eye	damage	
+Note_Number-29: Sent_Number-9: verbalized	is	committed	taking	good	care	
+Note_Number-29: Sent_Number-10: encouraged	call	appointment	
+Note_Number-29: Sent_Number-11: member	agrees	do	
+Note_Number-29: Sent_Number-12: kwellsrn	
+Note_Number-30: Sent_Number-2: called	left	message	return	call	
+Note_Number-30: Sent_Number-3: kwells	rn	
+Note_Number-31: Sent_Number-3: plans	make	appointment	week	
+Note_Number-31: Sent_Number-4: stressed	importance	getting	bs	control	
+Note_Number-31: Sent_Number-5: mailed	following	information	counting	getting	care	diabetes	
+Note_Number-31: Sent_Number-6: follow	weeks	
+Note_Number-31: Sent_Number-7: kwells	rn	
+Note_Number-32: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-32: Sent_Number-2: kwells	rn	
+Note_Number-33: Sent_Number-2: left	message	today	
+Note_Number-33: Sent_Number-3: letter	sent	mail	asking	contact	asap	regarding	kyn	results	
+Note_Number-34: Sent_Number-1: kyn	results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-34: Sent_Number-2: called	member	left	message	please	return	call	
+Note_Number-34: Sent_Number-3: emailed	member	follows	doctors	direct	performs	disease	management	follow	know	number	screening	
+Note_Number-34: Sent_Number-4: am	attempting	reach	discuss	results	
+Note_Number-34: Sent_Number-5: is	talk	
+Note_Number-34: Sent_Number-6: be	reached	monday	friday	
+Note_Number-34: Sent_Number-8: look	hearing	
+Note_Number-34: Sent_Number-9: kwells	rn	
+Note_Number-35: Sent_Number-1: called	member	review	kyn	results	
+Note_Number-35: Sent_Number-2: lost	husband	cancer	weeks	
+Note_Number-35: Sent_Number-3: was	diagnosed	months	
+Note_Number-35: Sent_Number-4: is	doing	trying	sift	paperwork	details	changes	
+Note_Number-35: Sent_Number-5: has	dog	lives	lacy	
+Note_Number-35: Sent_Number-6: (		labrador	keeps	company	
+Note_Number-35: Sent_Number-7: talked	time	adjustment	period	encouraged	call	needs	talk	is	feeling	overwhelmed	
+Note_Number-35: Sent_Number-8: offered	talk	time	kyn	results	was	talk	
+Note_Number-35: Sent_Number-9: discussed	ada	guidelines	a1c	classification	
+Note_Number-35: Sent_Number-10: is	risk	category	
+Note_Number-35: Sent_Number-11: husband	was	states	is	watch	sugar	intake	
+Note_Number-36: Sent_Number-1: had	mammogram	
+Note_Number-36: Sent_Number-2: has	gotten	exercising	
+Note_Number-36: Sent_Number-3: be	getting	walking	help	reduce	a1c	
+Note_Number-36: Sent_Number-4: see	md	have	bp	rechecked	
+Note_Number-36: Sent_Number-5: encouraged	take	day	time	call	be	assistance	
+Note_Number-36: Sent_Number-6: emailed	member	following	pre	diabetes	information	get	
+Note_Number-37: Sent_Number-1: results	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-38: Sent_Number-1: member	returned	call	was	md	review	kyn	results	
+Note_Number-38: Sent_Number-2: doubled	lisinopril	milligrams	ten	milligrams	
+Note_Number-38: Sent_Number-4: has	appointment	md	month	
+Note_Number-38: Sent_Number-6: encouraged	get	bp	monitor	home	check	bp	
+Note_Number-38: Sent_Number-7: kwells	rn	
+Note_Number-39: Sent_Number-1: called	left	vm	
+Note_Number-39: Sent_Number-2: emailed	member	call	
+Note_Number-39: Sent_Number-3: hill	rn	
+Note_Number-40: Sent_Number-1: member	called	reviewed	kyn	results	
+Note_Number-40: Sent_Number-2: bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-40: Sent_Number-3: takes	bp	chol	medications	
+Note_Number-40: Sent_Number-4: chol	was	s	md	put	simvastatin	dose	tolerates	
+Note_Number-40: Sent_Number-5: was	cycling	jogging	
+Note_Number-40: Sent_Number-6: screening	decided	get	shape	has	started	talking	brisk	walk	times	week	has	begun	jogging	
+Note_Number-40: Sent_Number-7: has	made	changes	decreasing	portion	sizes	stopped	drinking	soda	coffee	
+Note_Number-40: Sent_Number-8: had	spell	months	heart	fluttering	x	days	went	had	workup	results	were	
+Note_Number-41: Sent_Number-1: has	lost	pounds	efforts	
+Note_Number-41: Sent_Number-2: like	get	pounds	screening	
+Note_Number-41: Sent_Number-3: congratulated	taking	steps	improve	health	encouraged	continue	keep	work	
+Note_Number-41: Sent_Number-4: follow	months	
+Note_Number-41: Sent_Number-5: emailed	member	following	information	cholesterol	tlc	do	cook	do	eat	diet	read	food	labels	
+Note_Number-41: Sent_Number-6: kwells	rn	
+Note_Number-42: Sent_Number-1: rn	calls	speaks	charles	vincent	states	diagnosis	is	htn	unsure	need	program	
+Note_Number-42: Sent_Number-2: rn	teaches	re	effect	htn	kidneys	benefit	learning	re	htn	care	lifestyle	danger	s	s	care	reducing	health	care	costs	improving	health	being	
+Note_Number-42: Sent_Number-3: given	rn	number	instructed	watch	letter	return	consent	call	questions	
+Note_Number-43: Sent_Number-1: rn	calls	speaks	charles	asbury	group	mara	claims	pd	
+Note_Number-43: Sent_Number-3: verbalizes	goal	be	decrease	number	medication	is	wants	participate	program	
+Note_Number-43: Sent_Number-4: sign	return	consent	
+Note_Number-43: Sent_Number-5: is	yo	male	patient	dr	w	shrader	tazewel	diagnosis	cad	dmii	had	labs	states	a1c	was	
+Note_Number-43: Sent_Number-6: again	mont	
+Note_Number-44: Sent_Number-2: husband	died	yr	agho	concern	is	medigap	insurance	
+Note_Number-44: Sent_Number-3: discuss	heart	diet	medication	danger	s	s	states	taking	medication	checks	bp	following	
+Note_Number-45: Sent_Number-1: mr	berry	teaching	agrees	participate	
+Note_Number-45: Sent_Number-2: sign	return	consent	
+Note_Number-45: Sent_Number-3: was	re	'letter	re	kidneys	's	nothing	kidneys	
+Note_Number-45: Sent_Number-6: takes	altace	crestor	
+Note_Number-45: Sent_Number-7: teaching	re	htn	hyperlipidemia	health	benefits	program	
+Note_Number-46: Sent_Number-1: claims	review	group	mara	med	claims	
+Note_Number-46: Sent_Number-2: prolapse	uterus	bronchitis	voicemail	re	program	left	number	encouraged	sign	return	consent	form	
+Note_Number-47: Sent_Number-1: member	returned	call	
+Note_Number-47: Sent_Number-2: works	nurse	rehab	facility	hour	shifts	eight	years	
+Note_Number-47: Sent_Number-3: stated	loves	job	is	demanding	
+Note_Number-47: Sent_Number-4: has	children	enjoys	spending	time	
+Note_Number-47: Sent_Number-5: enjoys	reading	
+Note_Number-48: Sent_Number-1: is	cancer	survivor	lymphoma	
+Note_Number-48: Sent_Number-2: has	legs	chemotherapy	has	deal	lot	pain	
+Note_Number-48: Sent_Number-3: stated	fears	cancer	come	was	hodgkins	
+Note_Number-48: Sent_Number-4: had	neck	surgery	june	
+Note_Number-48: Sent_Number-5: smokes	is	trying	cut	help	patch	
+Note_Number-48: Sent_Number-7: congratulated	days	cigarettes	encouraged	resume	efforts	stop	
+Note_Number-48: Sent_Number-8: member	states	has	lost	pounds	follows	diet	
+Note_Number-48: Sent_Number-9: congratulated	encouraged	continue	make	diet	choices	
+Note_Number-48: Sent_Number-10: stated	health	issue	time	is	pain	legs	feels	leg	muscles	are	drawing	needs	instruction	stretches	help	ease	
+Note_Number-50: Sent_Number-1: like	call	friday	week	wants	stay	touch	care	manager	
+Note_Number-50: Sent_Number-2: call	friday	
+Note_Number-50: Sent_Number-3: kwellsrn	
+Note_Number-51: Sent_Number-1: called	member	is	hour	call	gets	son	school	
+Note_Number-51: Sent_Number-2: called	talked	
+Note_Number-51: Sent_Number-3: did	talk	therapist	yesterday	concerns	has	leg	muscles	patient	gave	instructions	/	exercises	do	help	stretch	muscles	involved	
+Note_Number-51: Sent_Number-4: said	lives	pain	day	legs	hit	floor	morning	feels	shooting	stabbing	pain	stated	work	makes	is	feet	hour	shifts	worked	hours	yesterday	
+Note_Number-51: Sent_Number-6: does	report	has	support	system	fianc	children	are	make	life	
+Note_Number-51: Sent_Number-7: said	has	talked	doctor	leg	pain	suggested	lyrica	is	taking	take	has	work	
+Note_Number-51: Sent_Number-9: gets	started	relapsed	
+Note_Number-51: Sent_Number-10: did	say	was	thinking	yesterday	wondering	lungs	heal	changes	take	place	quit	
+Note_Number-51: Sent_Number-12: reviewed	changes	occur	minutes	quitting	changes	are	taking	place	years	quitting	
+Note_Number-51: Sent_Number-13: talked	
+Note_Number-51: Sent_Number-14: are	reasons	quitting	
+Note_Number-51: Sent_Number-16: call	week	has	received	reviewed	packet	mail	
+Note_Number-51: Sent_Number-17: kwellsrn	
+Note_Number-52: Sent_Number-1: member	called	check	
+Note_Number-52: Sent_Number-2: 
+Note_Number-52: Sent_Number-4: states	has	had	week	got	shoes	work	seem	be	helping	leg	pain	
+Note_Number-52: Sent_Number-6: encouraged	look	materials	sent	describes	changes	body	undergoes	quitting	smoking	
+Note_Number-52: Sent_Number-7: goal	week	is	increase	water	consumption	glasses	day	decrease	soda	coffee	
+Note_Number-52: Sent_Number-8: encouraged	do	something	fun	get	book	see	movie	call	friend	
+Note_Number-52: Sent_Number-9: stated	has	had	girlfriend	staying	couple	nights	was	thing	
+Note_Number-52: Sent_Number-10: said	needs	scrubs	is	do	
+Note_Number-52: Sent_Number-11: check	week	
+Note_Number-52: Sent_Number-12: kwellsrn	
+Note_Number-53: Sent_Number-2: kwellsrn	
+Note_Number-54: Sent_Number-1: member	called	states	is	doing	
+Note_Number-54: Sent_Number-2: is	has	meeting	goal	drinking	bottles	water	day	
+Note_Number-54: Sent_Number-4: states	is	helping	plan	shower	wedding	is	enjoying	
+Note_Number-54: Sent_Number-5: be	traveling	month	arkansas	fianc	work	conference	
+Note_Number-54: Sent_Number-6: is	excited	trip	
+Note_Number-54: Sent_Number-7: be	making	appointment	checkup	pap	today	
+Note_Number-54: Sent_Number-8: commended	member	sticking	water	intake	goal	
+Note_Number-54: Sent_Number-9: stated	begin	taking	multivitamin	
+Note_Number-54: Sent_Number-10: encouraged	set	stop	
+Note_Number-54: Sent_Number-11: date	friend	move	getting	patches	stop	smoking	
+Note_Number-54: Sent_Number-12: said	is	getting	lectures	kids	smoking	figures	is	time	quit	
+Note_Number-54: Sent_Number-13: call	couple	weeks	update	
+Note_Number-54: Sent_Number-14: kwellsrn	
+Note_Number-55: Sent_Number-1: called	member	was	running	errands	asked	call	
+Note_Number-55: Sent_Number-2: kwells	
+Note_Number-56: Sent_Number-2: had	time	month	wedding	had	time	work	allowed	rest	
+Note_Number-56: Sent_Number-3: states	has	been	running	grade	temp	year	half	has	noticed	happens	becomes	fatigued	
+Note_Number-56: Sent_Number-4: is	experiencing	pain	left	area	is	place	pain	was	diagnosis	non	hodgkins	lymphoma	
+Note_Number-56: Sent_Number-5: did	see	ob	gyn	month	pap	saw	pain	management	md	recommended	make	appointment	oncologist	dr	greco	
+Note_Number-56: Sent_Number-6: is	trusts	judgment	
+Note_Number-57: Sent_Number-1: states	boyfriend	is	understands	needs	rest	
+Note_Number-57: Sent_Number-2: encouraged	rest	keep	fluid	intake	prevent	dehydration	elevated	temperatures	
+Note_Number-58: Sent_Number-1: was	bit	tearful	afraid	finding	cancer	has	returned	
+Note_Number-58: Sent_Number-3: stressed	call	today	
+Note_Number-58: Sent_Number-4: check	end	week	
+Note_Number-58: Sent_Number-5: kwells	rn	
+Note_Number-59: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-59: Sent_Number-2: kwells	rn	
+Note_Number-60: Sent_Number-1: called	member	left	message	return	call	
+Note_Number-61: Sent_Number-1: called	member	left	message	member	please	call	
+Note_Number-61: Sent_Number-2: kwellsrn	
+Note_Number-62: Sent_Number-1: member	returned	call	
+Note_Number-62: Sent_Number-2: states	is	concerned	cholesterol	labs	june	were	chol	tri	
+Note_Number-62: Sent_Number-3: had	labs	drawn	end	chol	is	tri	
+Note_Number-62: Sent_Number-6: fbs	jan	was	
+Note_Number-62: Sent_Number-7: had	been	lipitor	june	labs	was	tolerate	side	effects	
+Note_Number-62: Sent_Number-8: has	been	taking	krill	oil	stopping	lipitor	
+Note_Number-62: Sent_Number-9: follows	heart	diet	uses	rice	milk	eats	red	meat	
+Note_Number-62: Sent_Number-10: states	weight	has	been		years	
+Note_Number-62: Sent_Number-11: states	feels	is	concerned	labs	
+Note_Number-62: Sent_Number-12: be	seeing	dr	month	review	labs	
+Note_Number-62: Sent_Number-14: takes	atenolol	lisinopril	htn	paxil	help	disorder	symptoms	
+Note_Number-62: Sent_Number-15: bp	
+Note_Number-62: Sent_Number-16: discussed	changes	consistent	lowering	cholesterol	
+Note_Number-62: Sent_Number-18: congratulated	member	diet	habits	encouraged	add	fruits	vegetables	grains	rice	whole	grain	bread	
+Note_Number-62: Sent_Number-19: encouraged	add	exercise	walking	laps	yard	start	
+Note_Number-62: Sent_Number-22: member	call	let	know	dr	says	
+Note_Number-62: Sent_Number-23: mailed	member	guide	lowering	cholesterol	tlc	
+Note_Number-62: Sent_Number-24: kwellsrn	
+Note_Number-63: Sent_Number-1: called	member	see	had	scheduled	md	appointment	follwup	labs	
+Note_Number-63: Sent_Number-2: left	message	please	return	call	
+Note_Number-63: Sent_Number-3: kwellsrn	
+Note_Number-64: Sent_Number-1: called	member	left	message	please	return	call	
+Note_Number-64: Sent_Number-2: kwellsrn	
+Note_Number-65: Sent_Number-2: husband	had	hip	replacement	has	been	taking	care	
+Note_Number-65: Sent_Number-3: stressed	needs	be	seen	said	be	go	week	let	know	goes	
+Note_Number-65: Sent_Number-4: is	doing	feels	fine	
+Note_Number-65: Sent_Number-5: having	snow	storm	today	cautioned	keep	steps	salted	prevent	falls	
+Note_Number-65: Sent_Number-6: kwellsrn	
+Note_Number-66: Sent_Number-1: called	member	see	has	been	md	regarding	elevated	triglycerides	
+Note_Number-66: Sent_Number-2: left	message	please	return	call	
+Note_Number-66: Sent_Number-3: kwellsrn	
+Note_Number-67: Sent_Number-1: received	message	member	had	called	stated	told	watch	diet	exercise	a1c	was	elevated	
+Note_Number-67: Sent_Number-2: called	member	left	message	please	return	call	
+Note_Number-67: Sent_Number-3: kwellsrn	
+Note_Number-68: Sent_Number-1: member	called	states	did	see	md	march	was	told	was	risk	develop	diabetes	watch	diet	exercise	
+Note_Number-68: Sent_Number-4: mother	was	
+Note_Number-69: Sent_Number-2: has	concerns	side	effects	was	tolerate	simvastatin	caused	ache	joints	
+Note_Number-69: Sent_Number-3: discussed	mechanism	causes	muscle	ache	pain	
+Note_Number-69: Sent_Number-5: be	try	medication	tolerate	be	lowering	triglycerides	was	check	
+Note_Number-70: Sent_Number-1: discussed	things	do	help	decrease	a1c	triglycerides	cut	cut	prepared	foods	eating	processed	food	
+Note_Number-70: Sent_Number-2: drink	water	soda	drink	diet	soda	
+Note_Number-70: Sent_Number-3: increase	fruits	vegetables	diet	fiber	use	whole	grain	bread	is	doing	
+Note_Number-70: Sent_Number-4: make	is	getting	protein	meal	
+Note_Number-70: Sent_Number-5: eat	baked	broiled	/	chicken	
+Note_Number-70: Sent_Number-6: exercise	has	yard	feels	walk	laps	day	exercise	
+Note_Number-71: Sent_Number-2: follow	month	check	progress	cheer	
+Note_Number-71: Sent_Number-3: kwellsrn	
+Note_Number-72: Sent_Number-1: member	called	has	made	changes	drinks	sodas	has	made	changes	products	whole	grain	is	walking	dog	
+Note_Number-72: Sent_Number-2: started	taking	tricor	weeks	is	tolerating	
+Note_Number-72: Sent_Number-3: is	efforts	excited	see	difference	makes	labs	
+Note_Number-72: Sent_Number-4: congratulated	efforts	is	making	improving	health	
+Note_Number-72: Sent_Number-5: goes	dr	june	repeat	labs	follow	july	check	results	
+Note_Number-72: Sent_Number-6: kwells	rn	
+Note_Number-73: Sent_Number-1: member	returned	call	states	is	doing	has	been	working	reducing	
+Note_Number-73: Sent_Number-2: started	is	
+Note_Number-73: Sent_Number-3: target	goal	is	lbs	
+Note_Number-73: Sent_Number-4: states	is	cutting	carbohydrade	increasing	protein	drinking	water	exercising	
+Note_Number-73: Sent_Number-5: exercise	regimen	includes	walking	situps	crunches	
+Note_Number-73: Sent_Number-6: is	excited	progress	
+Note_Number-73: Sent_Number-7: congratulated	member	efforts	encouraged	keep	work	
+Note_Number-73: Sent_Number-8: offered	send	education	member	stated	has	wealth	information	let	know	changes	mind	
+Note_Number-73: Sent_Number-9: kwellsrn	
+Note_Number-74: Sent_Number-3: encouraged	member	continue	taking	care	
+Note_Number-74: Sent_Number-4: kwellsrn	
+Note_Number-75: Sent_Number-1: called	member	states	is	doing	time	
+Note_Number-75: Sent_Number-2: had	cardiac	cath	month	was	having	chest	pain	svt	
+Note_Number-75: Sent_Number-3: stent	was	patent	
+Note_Number-75: Sent_Number-4: cath	results	were	
+Note_Number-75: Sent_Number-5: continues	have	issues	arthritis	
+Note_Number-75: Sent_Number-6: has	had	facet	injection	have	soon	
+Note_Number-75: Sent_Number-7: exercise	is	issue	back	
+Note_Number-75: Sent_Number-8: h	reports	eating	heart	diet	
+Note_Number-75: Sent_Number-9: warmer	weather	get	canoe	kayak	work	garden	
+Note_Number-75: Sent_Number-10: encouraged	continue	stay	tolerate	
+Note_Number-75: Sent_Number-11: kwells	rn	
+Note_Number-76: Sent_Number-1: member	returned	call	
+Note_Number-76: Sent_Number-2: states	has	been	years	was	person	go	dr	something	was	
+Note_Number-76: Sent_Number-3: has	legs	
+Note_Number-76: Sent_Number-4: takes	medications	diabetes	including	lantus	night	
+Note_Number-76: Sent_Number-5: checks	bs	twice	ranges	
+Note_Number-76: Sent_Number-6: has	appointment	have	labs	checked	week	
+Note_Number-76: Sent_Number-7: states	knows	is	going	yell	
+Note_Number-76: Sent_Number-8: labs	
+Note_Number-76: Sent_Number-10: does	walk	dogs	night	walks	lot	work	
+Note_Number-76: Sent_Number-11: dr	does	monitor	kidney	function	has	encouraged	see	ophthalmologist	eye	exam	colonoscopy	
+Note_Number-76: Sent_Number-14: discussed	term	effects	elevated	bs	a1c	blindness	kidney	damage	etc	
+Note_Number-76: Sent_Number-16: are	eye	kidney	damage	
+Note_Number-76: Sent_Number-18: encouraged	see	eye	dr	dilated	eye	exam	explained	reason	
+Note_Number-76: Sent_Number-19: discussed	diet	is	eating	cheerios	banana	breakfast	%	milk	adds	muffin	
+Note_Number-76: Sent_Number-21: encouraged	try	changing	things	time	adding	protein	meal	cutting	carbohydrates	
+Note_Number-76: Sent_Number-22: does	boiled	eggs	start	eating	egg	
+Note_Number-76: Sent_Number-23: prepares	meals	home	
+Note_Number-76: Sent_Number-24: takes	sandwich	lunch	chips	
+Note_Number-76: Sent_Number-26: discussed	changing	bread	whole	grain	brown	rice	
+Note_Number-76: Sent_Number-28: kwellsrn	
+Note_Number-77: Sent_Number-1: had	lost	weight	is	time	
+Note_Number-77: Sent_Number-2: congratulated	losing	weight	encouraged	work	taking	
+Note_Number-77: Sent_Number-3: weather	warms	be	states	weight	come	
+Note_Number-77: Sent_Number-4: kwellsrn	
+Note_Number-78: Sent_Number-1: check	weeks	see	md	visit	went	
+Note_Number-78: Sent_Number-2: encouraged	visit	ddhc	website	
+Note_Number-78: Sent_Number-3: mailed	materials	counting	learning	change	habits	protect	heart	make	wise	food	choices	getting	care	diabetes	
+Note_Number-78: Sent_Number-4: kwellsrn	
+Note_Number-79: Sent_Number-1: member	returned	call	states	is	doing	time	reports	diabetes	is	managed	exercises	
+Note_Number-79: Sent_Number-2: md	are	bp	
+Note_Number-79: Sent_Number-3: kwellsrn	
+Note_Number-80: Sent_Number-1: have	received	members	screening	collection	form	missing	bp	pulse	
+Note_Number-80: Sent_Number-2: called	member	left	message	return	call	
+Note_Number-80: Sent_Number-3: kwells	rn	
+Note_Number-81: Sent_Number-1: called	member	stated	was	getting	working	hour	shift	was	going	bed	
+Note_Number-81: Sent_Number-2: like	call	back	thursday	morning	
+Note_Number-81: Sent_Number-3: kwellsrn	
+Note_Number-82: Sent_Number-1: member	returned	call	states	got	work	
+Note_Number-82: Sent_Number-2: works	floor	states	has	issues	leg	hip	pain	working	day	
+Note_Number-82: Sent_Number-3: states	is	wearing	quality	shoes	cushion	inserts	
+Note_Number-82: Sent_Number-4: states	pain	keeps	exercising	knows	needs	
+Note_Number-82: Sent_Number-5: suggested	maybe	consider	water	aerobics	member	said	like	find	place	do	
+Note_Number-82: Sent_Number-6: walks	spring	fall	months	winter	summer	months	
+Note_Number-82: Sent_Number-7: states	bp	is	doing	saw	dr	
+Note_Number-82: Sent_Number-8: checks	blood	sugar	mornings	runs	
+Note_Number-82: Sent_Number-9: states	had	flu	bs	got	bit	high	time	was	leveling	
+Note_Number-82: Sent_Number-10: had	couple	migraines	had	had	had	flu	
+Note_Number-82: Sent_Number-12: is	feeling	days	looks	talking	
+Note_Number-82: Sent_Number-13: kwellsrn	
+Note_Number-83: Sent_Number-1: spoke	member	states	hypertension	is	controlled	medications	
+Note_Number-83: Sent_Number-2: md	keeps	watch	
+Note_Number-83: Sent_Number-3: states	does	dr	tells	has	pap	smears	is	mammogram	have	done	
+Note_Number-83: Sent_Number-4: states	has	decreased	smoking	day	cigarettes	day	
+Note_Number-83: Sent_Number-5: congratulated	encouraged	keep	decreasing	
+Note_Number-83: Sent_Number-6: states	months	year	went	smoking	
+Note_Number-83: Sent_Number-7: continue	decrease	smoking	
+Note_Number-83: Sent_Number-8: is	working	taking	weight	walks	lot	works	
+Note_Number-83: Sent_Number-9: encouraged	continue	making	changes	improve	health	
+Note_Number-83: Sent_Number-10: kwellsrn	
+Note_Number-84: Sent_Number-1: member	diagnosis	dm	
+Note_Number-84: Sent_Number-2: hx	htn	medication	
+Note_Number-84: Sent_Number-3: bp	
+Note_Number-84: Sent_Number-4: bs	tchol	hdl62	ldl	tri	a1c	
+Note_Number-85: Sent_Number-1: went	member	results	
+Note_Number-85: Sent_Number-2: finished	ems	school	end	september	
+Note_Number-85: Sent_Number-3: taking	glucophage	zetia	lisinopril	hctz	
+Note_Number-85: Sent_Number-4: accuchek	times	week	
+Note_Number-85: Sent_Number-5: smokes	half	pack	day	
+Note_Number-85: Sent_Number-6: intends	quit	smoking	
+Note_Number-86: Sent_Number-2: knows	is	supposed	do	has	make	priority	
+Note_Number-87: Sent_Number-1: am	faxing	labs	fnp	szoka	call	make	appointment	work	plan	get	bs	
+Note_Number-87: Sent_Number-2: dphillips	rn	
+Note_Number-88: Sent_Number-1: sent	email	larry	vickki	wanted	send	email	let	know	did	find	confirmation	kyle	completing	health	risk	assessment	
+Note_Number-88: Sent_Number-2: kyle	has	coaching	call	tomorrow	everything	is	family	be	gold	plan	
+Note_Number-88: Sent_Number-3: thank	
+Note_Number-89: Sent_Number-1: tep	
+Note_Number-89: Sent_Number-2: told	coworkers	friends	help	keep	
+Note_Number-89: Sent_Number-4: put	note	pack	cigarettes	takes	note	smoked	
+Note_Number-89: Sent_Number-5: met	goal	hrs	cigarettes	
+Note_Number-89: Sent_Number-6: plans	increase	tomorrow	tues	hrs	
+Note_Number-89: Sent_Number-8: spoke	mayor	taking	stairs	wants	smoke	
+Note_Number-89: Sent_Number-9: (		idea	moves	hours	smokes	
+Note_Number-90: Sent_Number-1: side	note	gave	tips	reduce	carbohydrates	diet	
+Note_Number-90: Sent_Number-2: pairing	protein	carb	snack	
+Note_Number-90: Sent_Number-3: cut	portion	size	eating	
+Note_Number-90: Sent_Number-4: provided	diabetes	plate	method	
+Note_Number-90: Sent_Number-5: provided	carb	counting	information	
+Note_Number-90: Sent_Number-6: gave	email	send	list	restaurants	help	suggestions	meals	order	
+Note_Number-91: Sent_Number-1: nurse	returned	call	
+Note_Number-91: Sent_Number-2: member	left	message	requesting	kyn	results	review	
+Note_Number-91: Sent_Number-3: report	grandfather	is	
+Note_Number-91: Sent_Number-4: a1c	discussed	
+Note_Number-91: Sent_Number-5: instructed	concerning	cutting	sugar	sweetened	drinks	diet	choosing	grains	carbohydrates	prevent	diabetes	discussed	appropriate	portion	sizes	choosing	snacks	
+Note_Number-92: Sent_Number-1: working	school	
+Note_Number-92: Sent_Number-2: discussed	bp	
+Note_Number-92: Sent_Number-3: reports	check	blood	pressure	record	weeks	
+Note_Number-92: Sent_Number-4: instructed	follow	concerning	a1c	blood	pressure	agrees	do	
+Note_Number-92: Sent_Number-5: informed	use	sparkpeople	com	website	find	recipes	lifestyle	information	
+Note_Number-92: Sent_Number-6: asked	follow	sees	doctor	agrees	do	
+Note_Number-93: Sent_Number-1: tep	
+Note_Number-93: Sent_Number-2: smoked	college	
+Note_Number-93: Sent_Number-3: smoking	couple	months	started	
+Note_Number-93: Sent_Number-4: quit	has	smoking	cigarettes	
+Note_Number-93: Sent_Number-7: smokes	hookah	
+Note_Number-93: Sent_Number-10: thinking	getting	hookah	chooses	take	smoking	
+Note_Number-94: Sent_Number-1: bob	had	questions	back	mri	
+Note_Number-94: Sent_Number-2: pain	is	worst	awakening	
+Note_Number-94: Sent_Number-3: admits	carbohydrate	breakfast	lunch	is	dinner	is	balanced	
+Note_Number-94: Sent_Number-4: 
+Note_Number-94: Sent_Number-5: cookies	evenings	swims	walks	dog	
+Note_Number-94: Sent_Number-6: weight	increase	body	fat	%	decrease	%	waist	
+Note_Number-94: Sent_Number-7: hdl	dl	
+Note_Number-95: Sent_Number-1: bob	agree	look	purchasing	mattress	is	years	
+Note_Number-95: Sent_Number-2: place	pillow	knees	sleeping	back	
+Note_Number-95: Sent_Number-3: egg	chicken	breakfast	switch	cheerios	decrease	portion	sugared	raisins	decrease	fruit	fruit	juice	portions	
+Note_Number-95: Sent_Number-4: lunch	
+Note_Number-95: Sent_Number-5: goal	waist	
+Note_Number-96: Sent_Number-1: pain	hdl	
+Note_Number-97: Sent_Number-1: tina	continues	be	motivated	control	portions	food	groups	smbg	control	
+Note_Number-97: Sent_Number-2: denies	having	hypoglycemia	
+Note_Number-97: Sent_Number-3: covers	blood	glucose	amounts	insulin	lantus	humalog	
+Note_Number-97: Sent_Number-4: hga1c	close	done	endocrinologist	dr	antunes	
+Note_Number-97: Sent_Number-6: weight	body	fat	
+Note_Number-97: Sent_Number-7: has	added	pumpkin	sunflower	seeds	food	intake	benefit	
+Note_Number-97: Sent_Number-8: purchases	oil	jugs	
+Note_Number-97: Sent_Number-10: has	had	dilated	eye	exam	checks	feet	gets	exam	twice	year	
+Note_Number-97: Sent_Number-11: tina	agrees	start	walking	program	minutes	days	week	
+Note_Number-97: Sent_Number-12: use	exercise	video	
+Note_Number-97: Sent_Number-13: has	lb	hand	weights	work	starting	week	
+Note_Number-97: Sent_Number-14: obtain	vit	d	level	
+Note_Number-97: Sent_Number-15: switch	buying	olive	oil	glass	bottle	
+Note_Number-97: Sent_Number-16: obtain	b12	mouth	
+Note_Number-97: Sent_Number-17: qd	
+Note_Number-97: Sent_Number-18: acknowledged	tina	job	does	controlling	type	dm	
+Note_Number-98: Sent_Number-1: type	dm	
+Note_Number-99: Sent_Number-1: tep	
+Note_Number-99: Sent_Number-2: use	chew	tobacco	
+Note_Number-99: Sent_Number-4: 
+Note_Number-99: Sent_Number-6: goal	is	be	tob	
+Note_Number-100: Sent_Number-1: order	get	gold	plan	need	following	documentation	complete	tobacco	phone	sessions	end	week	
+Note_Number-100: Sent_Number-2: please	let	know	have	questions	date	tetanus	shot	has	be	years	health	risk	assessmentsee	reset	username	password	link	
+Note_Number-100: Sent_Number-3: copy	paste	link	browser	
+Note_Number-100: Sent_Number-4: use	username	password	provided	
+Note_Number-100: Sent_Number-5: are	logged	place	mouse	assessments	click	health	risk	manager	\\	get	started	
+Note_Number-100: Sent_Number-6: receive	health	risk	score	indicate	have	finished	assessment	
+Note_Number-100: Sent_Number-7: thanks	
+Note_Number-101: Sent_Number-1: change	status	non	(		gfr	wnl	member	days	agreement	
+Note_Number-102: Sent_Number-1: printed	scanned	members	benefit	election	form	
+Note_Number-102: Sent_Number-2: sen	email	sign	send	margo	
+Note_Number-103: Sent_Number-1: left	message	cell	phone	adding	son	jaxon	ryder	insurance	
+Note_Number-103: Sent_Number-2: dob	
+Note_Number-103: Sent_Number-3: born	has	be	added	days	
+Note_Number-104: Sent_Number-1: spoke	member	length	days	regarding	purpose	cm	claims	
+Note_Number-104: Sent_Number-2: cm	contacted	paragon	member	has	met	pocket	expenses	
+Note_Number-104: Sent_Number-3: giovanni	paragon	contacted	member	
+Note_Number-104: Sent_Number-4: see	following	email	giovanni	
+Note_Number-104: Sent_Number-5: hello	lori	
+Note_Number-105: Sent_Number-1: was	speak	mrs	______	clarify	confusion	
+Note_Number-105: Sent_Number-2: pocket	have	been	met	calendar	year	
+Note_Number-106: Sent_Number-1: member	called	left	message	phone	vm	ddhc	nurse	was	line	member	
+Note_Number-107: Sent_Number-1: spoke	member	phone	
+Note_Number-107: Sent_Number-2: member	concerned	receiving	letter	labs	
+Note_Number-107: Sent_Number-3: member	had	elevated	fbs	a1c	
+Note_Number-107: Sent_Number-5: encouraged	member	decrease	intake	sodas	foods	
+Note_Number-107: Sent_Number-6: states	exercises	
+Note_Number-107: Sent_Number-7: encouraged	find	doctor	
+Note_Number-107: Sent_Number-8: has	moved	virginia	was	being	seen	va	hospital	
+Note_Number-107: Sent_Number-9: concerned	elevated	bs	states	find	doctor	
+Note_Number-108: Sent_Number-1: spoke	member	phone	
+Note_Number-108: Sent_Number-2: fbs	was	elevated	a1c	
+Note_Number-108: Sent_Number-4: encouraged	change	intake	sugar	foods	
+Note_Number-108: Sent_Number-5: member	says	talk	doctor	labs	goes	see	
+Note_Number-108: Sent_Number-6: has	rec	packet	mail	
+Note_Number-108: Sent_Number-7: bp	was	elevated	day	screening	member	says	is	take	
+Note_Number-108: Sent_Number-8: states	has	coat	syndrome\\	
+Note_Number-108: Sent_Number-9: doctors	office	was	
+Note_Number-108: Sent_Number-10: takes	bp	medication	directed	pcp	
+Note_Number-109: Sent_Number-1: left	message	member	call	labs	
+Note_Number-110: Sent_Number-1: reviewed	a1c	screenings	member	
+Note_Number-110: Sent_Number-2: noted	psa	has	jumped	point	years	past	
+Note_Number-111: Sent_Number-1: sent	email	qualify	activities	needed	be	completed	
+Note_Number-112: Sent_Number-1: attempted	call	voice	mail	was	
+Note_Number-112: Sent_Number-2: have	listed	items	family	need	complete	order	make	gold	plan	
+Note_Number-112: Sent_Number-3: documentation	be	faxed	
+Note_Number-112: Sent_Number-4: please	let	know	have	questions	
+Note_Number-113: Sent_Number-1: david	biometrics	(		blood	work	documentation	follow	phone	call	pending	blood	work	health	risk	assessment	online	tetanus	date	
+Note_Number-114: Sent_Number-1: michelle	foot	exam	documentation	eye	exam	documentation	coaching	calls	diabetes	program	health	risk	assessment	online	tetanus	date	
+Note_Number-115: Sent_Number-1: bethany	biometrics	(		blood	work	documentation	follow	call	pending	blood	work	results	
+Note_Number-116: Sent_Number-1: devon	biometrics	(		blood	work	documentation	follow	call	pending	blood	work	results	health	risk	assessment	exam	documentation	tetanus	date	
+Note_Number-117: Sent_Number-1: skyler	need	documentation	exam	
+Note_Number-118: Sent_Number-1: examination	documentation	immunization	documentation	
+Note_Number-119: Sent_Number-1: tep	
+Note_Number-119: Sent_Number-2: had	chew	today	
+Note_Number-119: Sent_Number-3: felt	stay	chew	day	
+Note_Number-119: Sent_Number-4: like	month	help	keep	track	
+Note_Number-119: Sent_Number-5: feels	confident	stay	chew	day	
+Note_Number-120: Sent_Number-1: tep	
+Note_Number-120: Sent_Number-2: has	smoked	years	
+Note_Number-120: Sent_Number-3: smokes	cigarettes	day	depends	kids	
+Note_Number-120: Sent_Number-5: tiggers	stress	something	do	
+Note_Number-120: Sent_Number-6: hates	smoking	
+Note_Number-120: Sent_Number-9: made	coverage	days	insurance	script	
+Note_Number-120: Sent_Number-10: side	note	ask	blood	work	tetanus	date	
+Note_Number-121: Sent_Number-1: member	participated	dak	americas	wellness	program	completing	know	number	screening	doctors	healthcare	
+Note_Number-121: Sent_Number-2: have	received	know	number	packet	mail	
+Note_Number-121: Sent_Number-3: provided	name	care	physician	have	received	information	
+Note_Number-121: Sent_Number-4: order	be	considered	complaint	wellness	program	communicate	nurse	doctors	healthcare	health	goal	progress	health	coaching	
+Note_Number-121: Sent_Number-5: please	call	ext	respond	email	progress	
+Note_Number-121: Sent_Number-6: take	minutes	time	
+Note_Number-121: Sent_Number-7: look	hearing	
+Note_Number-121: Sent_Number-8: pb	
+Note_Number-122: Sent_Number-1: tep	
+Note_Number-122: Sent_Number-2: has	stomach	virus	is	staying	home	
+Note_Number-122: Sent_Number-3: has	stuck	goal	hrs	cigarettes	
+Note_Number-122: Sent_Number-4: feels	minute	increment	increase	is	working	
+Note_Number-122: Sent_Number-5: mood	has	stayed	
+Note_Number-122: Sent_Number-7: goal	hrs	cigarettes	
+Note_Number-123: Sent_Number-1: nutrition	spoke	wife	nutrition	conversation	had	
+Note_Number-123: Sent_Number-2: like	work	making	changes	
+Note_Number-123: Sent_Number-3: like	tips	holiday	season	
+Note_Number-123: Sent_Number-4: weaknesses	meat	potatoes	processed	foods	
+Note_Number-123: Sent_Number-5: wife	weaknesses	sweets	
+Note_Number-124: Sent_Number-1: spoke	member	
+Note_Number-124: Sent_Number-2: have	pnf	
+Note_Number-124: Sent_Number-3: bp	
+Note_Number-124: Sent_Number-5: discussed	hga1c	sugars	whites	
+Note_Number-124: Sent_Number-6: discussed	goals	
+Note_Number-124: Sent_Number-9: \\work	aware	follow	debbie	quarter	pb	
+Note_Number-125: Sent_Number-1: member	rechecked	bp	
+Note_Number-126: Sent_Number-1: tep	
+Note_Number-126: Sent_Number-3: college	learned	like	menthol	
+Note_Number-126: Sent_Number-4: learned	like	cigarettes	
+Note_Number-126: Sent_Number-5: smoked	cigarettes	day	beginning	
+Note_Number-126: Sent_Number-6: limited	money	
+Note_Number-126: Sent_Number-8: triggers	smoking	drives	eats	
+Note_Number-126: Sent_Number-10: likes	smoke	
+Note_Number-126: Sent_Number-11: tried	e	cigarette	smoked	b	c	was	money	
+Note_Number-126: Sent_Number-12: like	try	hooka	get	nicotine	cost	e	cigarette	have	use	
+Note_Number-126: Sent_Number-13: emailed	link	cdc	effects	smoking	hooka	health	
+Note_Number-126: Sent_Number-14: like	information	smoking	effects	bg	
+Note_Number-127: Sent_Number-1: is	link	found	cdc	
+Note_Number-127: Sent_Number-2: please	let	know	like	information	provide	
+Note_Number-127: Sent_Number-3: cdc	fact	sheet	hookahs	smoking	tobacco	use	http	www	cdc	gov	tobacco	data_statistics	fact_sheets	tobacco_industry	hookahs	/	thank	
+Note_Number-128: Sent_Number-1: call	rene	wanting	know	coverage	bypass	
+Note_Number-128: Sent_Number-2: states	has	tried	mult	diff	diets	etc	
+Note_Number-128: Sent_Number-3: ht	
+Note_Number-128: Sent_Number-4: has	standing	history	heart	prob	
+Note_Number-128: Sent_Number-5: phys	has	told	do	something	
+Note_Number-128: Sent_Number-6: discussed	be	work	think	box	
+Note_Number-128: Sent_Number-7: has	been	told	heart	is	has	work	
+Note_Number-128: Sent_Number-10: voiced	understanding	
+Note_Number-129: Sent_Number-1: email	sent	michelle	spoke	husband	today	qualifying	health	activities	had	left	get	gold	plan	
+Note_Number-129: Sent_Number-2: requested	send	email	list	items	needed	be	completed	asap	
+Note_Number-129: Sent_Number-3: please	call	ext	
+Note_Number-129: Sent_Number-4: sometime	today	explain	needs	be	completed	get	gold	plan	
+Note_Number-129: Sent_Number-5: foot	exam	documentation	eye	exam	documentation	coaching	calls	diabetes	program	health	risk	assessment	online	tetanus	date	thank	
+Note_Number-130: Sent_Number-1: met	donna	october	
+Note_Number-130: Sent_Number-2: received	education	diet	
+Note_Number-130: Sent_Number-3: finds	follow	set	meal	plan	try	\\do	own\\	
+Note_Number-130: Sent_Number-4: continue	follow	donna	
+Note_Number-131: Sent_Number-1: diet	instruction	
+Note_Number-132: Sent_Number-3: is	going	ask	adding	reg	insulin	meals	
+Note_Number-132: Sent_Number-4: worked	rd	mos	call	rd	review	see	changes	be	recommended	
+Note_Number-132: Sent_Number-5: insulin	pump	discuss	md	
+Note_Number-132: Sent_Number-6: called	md	office	requested	records	
+Note_Number-133: Sent_Number-1: left	message	work	phone	
+Note_Number-133: Sent_Number-2: let	know	talked	maritain	had	information	share	regarding	adding	son	policy	
+Note_Number-134: Sent_Number-1: spoke	hdl	elevated	hdl	chol	ratio	
+Note_Number-134: Sent_Number-2: was	issue	
+Note_Number-134: Sent_Number-3: provided	information	increase	hdl	exercise	
+Note_Number-135: Sent_Number-1: went	psm	results	
+Note_Number-136: Sent_Number-1: christie	is	cook	mgh	
+Note_Number-136: Sent_Number-2: met	
+Note_Number-136: Sent_Number-3: reports	has	eliminated	mountain	dews	beverage	choice	diet	
+Note_Number-136: Sent_Number-4: received	change	
+Note_Number-136: Sent_Number-5: reviewed	eating	everyone	limiting	food	choices	per	day	
+Note_Number-136: Sent_Number-6: states	work	shrinking	portion	sizes	being	
+Note_Number-136: Sent_Number-7: schedule	follwup	appointment	
+Note_Number-137: Sent_Number-1: pre	diabetes	diet	
+Note_Number-138: Sent_Number-1: connie	came	follwup	visit	
+Note_Number-138: Sent_Number-2: is	ms	
+Note_Number-138: Sent_Number-3: is	shop	prepare	foods	
+Note_Number-138: Sent_Number-4: husband	assists	activities	
+Note_Number-138: Sent_Number-5: be	getting	training	league	week	
+Note_Number-138: Sent_Number-6: is	hoping	provide	assistance	cooking	
+Note_Number-138: Sent_Number-7: instruction	given	eating	help	lipids	
+Note_Number-138: Sent_Number-8: downfall	is	eating	choose	foods	chips	depending	home	
+Note_Number-138: Sent_Number-9: discussed	alternatives	place	chips	
+Note_Number-138: Sent_Number-10: goal	is	drink	water	liters	day	eat	
+Note_Number-138: Sent_Number-11: weight	
+Note_Number-139: Sent_Number-1: hyperlipidemia	
+Note_Number-140: Sent_Number-1: msg	left	husband	
+Note_Number-141: Sent_Number-1: tep	
+Note_Number-141: Sent_Number-2: feels	attempt	quit	right	help	
+Note_Number-141: Sent_Number-4: feels	quitting	time	help	
+Note_Number-142: Sent_Number-1: tep	
+Note_Number-142: Sent_Number-2: feeling	confident	cigarettes	
+Note_Number-142: Sent_Number-3: goes	
+Note_Number-142: Sent_Number-5: discussed	be	keep	mind	set	going	
+Note_Number-142: Sent_Number-6: like	continue	meeting	week	speak	tob	nutrition	
+Note_Number-142: Sent_Number-7: set	appointment	wed	
+Note_Number-143: Sent_Number-1: received	md	records	reviewed	entered	data	update	status	pend	gfr	msg	member	c	b	call	wife	have	questions	
+Note_Number-143: Sent_Number-2: fax	letter	md	uploads	pcp	letter	office	visit	summary	
+Note_Number-144: Sent_Number-2: dx	include	sleep	apnea	cpap	o2	use	htn	cholesterolemia	djd	lumbar	labs	lipids	creatinine	cbc	k++	cbc	
+Note_Number-144: Sent_Number-3: uploaded	letter	
+Note_Number-144: Sent_Number-4: ms	hill	
+Note_Number-145: Sent_Number-1: is	information	requested	date	is	mammogram	was	date	pap	smear	was	name	doctor	is	tina	is	shermanoaks	
+Note_Number-145: Sent_Number-2: azita	massoud	
+Note_Number-146: Sent_Number-1: le	member	entered	program	nr	is	disconnected	
+Note_Number-147: Sent_Number-1: nr	disconnected	
+Note_Number-147: Sent_Number-2: claims	review	indicates	is	yo	male	member	group	status	mara	claims	
+Note_Number-147: Sent_Number-3: dx	include	cad	dm	hyperlipids	htn	data	avail	
+Note_Number-148: Sent_Number-1: member	called	asked	dates	needed	be	compliance	
+Note_Number-148: Sent_Number-2: answer	was	pap	mammo	
+Note_Number-148: Sent_Number-4: explained	needed	get	deadline	was	
+Note_Number-148: Sent_Number-5: states	email	date	dr	name	city	state	doctor	office	
+Note_Number-149: Sent_Number-1: call	received	
+Note_Number-149: Sent_Number-2: informed	maritain	requires	born	be	added	days	
+Note_Number-149: Sent_Number-3: informed	point	have	wait	year	add	child	plan	
+Note_Number-149: Sent_Number-4: provided	maritain	customer	service	phone	number	obtain	information	
+Note_Number-149: Sent_Number-5: informed	assist	way	please	let	know	
+Note_Number-150: Sent_Number-2: triggers	were	chewing	meals	
+Note_Number-151: Sent_Number-1: intake	claims	review	is	yo	male	patient	dr	ramona	boyd	grp	status	mara	claims	
+Note_Number-151: Sent_Number-2: dx	include	black	lung	disease	o2	cad	dm	hyperlipidemia	htn	depression	lt	use	steroids	
+Note_Number-151: Sent_Number-3: labs	chol	creat	a1c	lft	
+Note_Number-151: Sent_Number-4: pharyngitis	ab	rx	
+Note_Number-151: Sent_Number-6: did	call	md	requested	fax	notes	labs	
+Note_Number-151: Sent_Number-7: upload	letters	follwup	letter	mail	teaching	material	
+Note_Number-152: Sent_Number-1: tep	
+Note_Number-152: Sent_Number-2: provided	information	smoking	effect	bg	
+Note_Number-152: Sent_Number-3: explained	insulin	worked	nicotine	interfered	insulin	causing	insulin	resistance	
+Note_Number-152: Sent_Number-4: turn	causes	increase	bg	
+Note_Number-152: Sent_Number-5: let	know	a1c	glucose	were	ranges	
+Note_Number-153: Sent_Number-1: deadline	plans	was	monday	nov	have	been	working	people	finish	week	
+Note_Number-153: Sent_Number-4: please	let	know	is	something	feel	be	do	
+Note_Number-153: Sent_Number-5: need	speak	today	tomorrow	start	coaching	sessions	
+Note_Number-154: Sent_Number-1: reviewed	labs	gfr	pos	proteinuria	
+Note_Number-154: Sent_Number-3: risk	progression	reviewed	poc	goals	cessation	smoking	following	heart	diet	med	compliance	doing	stress	management	
+Note_Number-154: Sent_Number-4: reminded	re	poss	benefit	patient	strengthening	
+Note_Number-154: Sent_Number-5: remains	intake	activity	teaching	re	support	hep	build	strength	
+Note_Number-154: Sent_Number-6: is	using	health	diary	reviewed	labs	track	
+Note_Number-154: Sent_Number-7: sees	md	month	states	is	labs	
+Note_Number-154: Sent_Number-8: request	fax	copy	
+Note_Number-155: Sent_Number-1: hi	kim	hope	are	doing	
+Note_Number-155: Sent_Number-2: got	results	health	screening	days	thought	's	time	set	goals	
+Note_Number-155: Sent_Number-3: am	going	try	loose	pounds	
+Note_Number-155: Sent_Number-4: am	going	watch	eat	holidays	coming	
+Note_Number-155: Sent_Number-5: noticed	cholesterol	level	was	was	year	
+Note_Number-155: Sent_Number-7: am	doing	sit	ups	day	times	week	
+Note_Number-155: Sent_Number-8: am	going	cut	beer	's	been	beer	
+Note_Number-155: Sent_Number-10: 'm	waiting	hear	gynecologist	sonohystergram	
+Note_Number-155: Sent_Number-11: biopsy	came	results	
+Note_Number-155: Sent_Number-12: did	say	was	put	hormone	medicine	take	morning	something	take	night	
+Note_Number-155: Sent_Number-13: have	inside	uterine	lining	
+Note_Number-155: Sent_Number-14: waiting	hear	test	see	says	options	are	
+Note_Number-155: Sent_Number-15: am	counting	calories	is	helping	lot	
+Note_Number-155: Sent_Number-16: take	results	time	time	see	physician	go	
+Note_Number-155: Sent_Number-17: need	info	goals	please	know	
+Note_Number-155: Sent_Number-18: thank	kim	
+Note_Number-156: Sent_Number-1: glucose	chol	hdl	ldl	hbga1c	bp	
+Note_Number-157: Sent_Number-1: spoke	member	regards	triglyceride	level	
+Note_Number-157: Sent_Number-3: states	seen	md	summer	labs	states	were	
+Note_Number-157: Sent_Number-4: member	was	encouraged	see	level	lead	pancreatits	
+Note_Number-157: Sent_Number-5: states	make	appointment	
+Note_Number-157: Sent_Number-6: reinforced	importance	seeing	md	offered	fax	results	md	
+Note_Number-157: Sent_Number-8: didnt	seem	inclined	offer	fax	md	
+Note_Number-158: Sent_Number-1: tep	spoke	types	nrt	
+Note_Number-158: Sent_Number-2: patch	vs	gum	
+Note_Number-158: Sent_Number-4: has	appointment	speak	tomorrow	afternoon	
+Note_Number-158: Sent_Number-5: has	decided	type	nrt	move	goal	plan	quite	smoking	
+Note_Number-159: Sent_Number-1: is	doing	is	attending	grief	support	group	help	loss	brother	
+Note_Number-159: Sent_Number-2: had	mammogram	august	showed	something	right	breast	go	repeat	jan	
+Note_Number-159: Sent_Number-4: is	feeling	stays	date	routine	screenings	md	feels	is	taking	care	
+Note_Number-160: Sent_Number-1: agrees	goal	is	obtain	pcp	checking	md	network	calling	md	office	see	taking	pts	make	appointment	let	nurse	know	
+Note_Number-161: Sent_Number-1: stated	bp	has	been	times	was	broke	bone	had	car	accident	bp	be	
+Note_Number-161: Sent_Number-2: bp	was	kyn	
+Note_Number-161: Sent_Number-3: agrees	reduce	food	fried	foods	cut	beers	week	
+Note_Number-161: Sent_Number-4: agrees	walking	min	/	day	start	increase	intensity	time	
+Note_Number-161: Sent_Number-5: has	worked	lost	yr	is	goals	get	reduce	bp	chol	wnl	
+Note_Number-162: Sent_Number-1: had	lap	band	done	
+Note_Number-162: Sent_Number-2: lost	pounds	
+Note_Number-162: Sent_Number-3: watching	reducing	sweets	eating	grains	
+Note_Number-162: Sent_Number-5: eating	vegetables	
+Note_Number-162: Sent_Number-8: issues	are	healing	
+Note_Number-162: Sent_Number-9: doing	exercise	
+Note_Number-162: Sent_Number-10: have	blood	work	doctor	
+Note_Number-163: Sent_Number-1: sent	attachments	wise	fats	tips	thanks	taking	time	speak	today	
+Note_Number-163: Sent_Number-2: was	pleasure	
+Note_Number-163: Sent_Number-3: hope	conversation	attachments	are	
+Note_Number-163: Sent_Number-4: is	review	reminder	discussed	goals	action	plans	
+Note_Number-163: Sent_Number-5: goals	are	want	achieve	
+Note_Number-163: Sent_Number-6: action	plans	are	plan	do	reach	goals	
+Note_Number-163: Sent_Number-8: are	repeats	
+Note_Number-163: Sent_Number-9: point	take	is	exercise	diet	effects	changes	everything	
+Note_Number-163: Sent_Number-10: goals	pcp	see	action	plans	
+Note_Number-163: Sent_Number-11: check	see	md	is	network	benefit	plan	
+Note_Number-163: Sent_Number-12: call	md	office	see	are	taking	patients	
+Note_Number-163: Sent_Number-13: make	appointment	md	pe	exam	patient	appointment	
+Note_Number-163: Sent_Number-14: 
+Note_Number-163: Sent_Number-15: call	email	rn	health	coach	md	appointment	date	goal	reduce	bp	wnl	limits	is	action	plans	
+Note_Number-163: Sent_Number-16: start	exercising	min	day	
+Note_Number-163: Sent_Number-17: reduce	salt	shaker	use	
+Note_Number-163: Sent_Number-18: reduce	fast	foods	goal	reduce	cholesterol	wnl	is	action	plans	
+Note_Number-163: Sent_Number-19: start	exercising	min	day	
+Note_Number-163: Sent_Number-20: reduce	fast	foods	
+Note_Number-163: Sent_Number-21: reduce	fried	foods	goal	reduce	bmi	reducing	weight	end	benefit	plan	yr	action	plans	
+Note_Number-163: Sent_Number-22: start	exercising	min	day	
+Note_Number-163: Sent_Number-23: reduce	fast	foods	
+Note_Number-163: Sent_Number-24: reduce	fried	foods	
+Note_Number-163: Sent_Number-25: reduce	beer	week	week	warm	regards	
+Note_Number-164: Sent_Number-1: poor	follow	thru	teaching	
+Note_Number-164: Sent_Number-3: reviewed	lab	results	gfr	have	ckd	is	risk	
+Note_Number-164: Sent_Number-4: teaching	re	stages	ckd	interventions	reducing	risk	
+Note_Number-164: Sent_Number-5: states	bp	have	been	/	is	checking	~	x	wk	
+Note_Number-164: Sent_Number-6: agrees	begin	checking	bg	ac	recording	meals	
+Note_Number-164: Sent_Number-7: use	tools	rn	sent	
+Note_Number-164: Sent_Number-8: is	using	health	diary	
+Note_Number-164: Sent_Number-9: teaching	re	labs	record	
+Note_Number-164: Sent_Number-10: have	md	fax	labs	
+Note_Number-165: Sent_Number-1: psa	bs	a1c	
+Note_Number-165: Sent_Number-3: member	drinks	water	day	
+Note_Number-165: Sent_Number-4: is	truck	driver	
+Note_Number-165: Sent_Number-5: doesnt	remember	increase	thirst	does	get	twice	night	urination	
+Note_Number-165: Sent_Number-6: knows	is	
+Note_Number-165: Sent_Number-8: wants	go	go	results	get	
+Note_Number-165: Sent_Number-9: discussed	psa	bs	a1c	
+Note_Number-165: Sent_Number-11: be	town	week	week	half	have	wife	call	bma	clinic	make	appointment	
+Note_Number-165: Sent_Number-12: call	give	date	fax	labs	be	is	
+Note_Number-165: Sent_Number-13: encouraged	follow	
+Note_Number-166: Sent_Number-1: went	results	
+Note_Number-166: Sent_Number-2: goes	endocrine	diabetes	center	having	doctors	come	go	have	made	difficult	
+Note_Number-166: Sent_Number-3: has	appointment	doctor	weeks	
+Note_Number-166: Sent_Number-4: regimen	is	units	q	hs	novolog	sliding	scale	carb	counting	
+Note_Number-166: Sent_Number-5: struggles	desire	check	bs	struggles	motivation	get	moving	be	exercise	
+Note_Number-166: Sent_Number-6: struggles	depression	
+Note_Number-166: Sent_Number-7: feeling	frustration	diabetes	
+Note_Number-166: Sent_Number-9: feels	defeated	times	
+Note_Number-166: Sent_Number-10: is	commit	step	today	is	going	call	friend	arrange	meet	hope	mills	park	walk	evenings	monday	tuesday	week	is	
+Note_Number-166: Sent_Number-11: member	works	track	schedule	works	weekend	twelve	days	
+Note_Number-166: Sent_Number-12: does	was	exercising	felt	
+Note_Number-166: Sent_Number-13: is	step	getting	reconnected	taking	control	diabetes	
+Note_Number-166: Sent_Number-14: continue	look	food	choices	carb	fat	choices	
+Note_Number-166: Sent_Number-15: night	was	baked	chicken	beans	
+Note_Number-166: Sent_Number-16: bs	am	was	is	times	
+Note_Number-166: Sent_Number-17: call	monday	tell	has	done	
+Note_Number-166: Sent_Number-18: encouraged	call	needs	support	encouragement	encouraged	ignore	self	talk	
+Note_Number-167: Sent_Number-1: bp	screening	
+Note_Number-167: Sent_Number-2: note	chart	had	kidney	stone	
+Note_Number-167: Sent_Number-3: member	psa	
+Note_Number-167: Sent_Number-5: call	member	
+Note_Number-167: Sent_Number-6: has	seen	doctor	bp	started	lisinopril	mg	q	day	
+Note_Number-167: Sent_Number-7: took	bp	am	was	
+Note_Number-167: Sent_Number-8: started	lisinopril	today	is	supposed	keep	log	present	doctor	apt	is	dec	
+Note_Number-167: Sent_Number-9: discussed	psa	
+Note_Number-167: Sent_Number-10: had	kidney	stone	surgery	day	screening	was	morning	
+Note_Number-167: Sent_Number-11: had	had	morning	had	pieced	removed	stent	removed	
+Note_Number-167: Sent_Number-13: agrees	do	
+Note_Number-168: Sent_Number-1: member	called	
+Note_Number-168: Sent_Number-2: requested	labs	faxed	dr	nolan	had	appointment	
+Note_Number-168: Sent_Number-3: labs	faxed	
+Note_Number-169: Sent_Number-1: bp	bs	tchol	hdl	tri	a1c	
+Note_Number-169: Sent_Number-2: psa	
+Note_Number-170: Sent_Number-1: call	member	states	doctor	sent	see	dr	appel	was	put	medication	inflamation	brought	numbers	
+Note_Number-170: Sent_Number-2: is	inching	
+Note_Number-170: Sent_Number-3: be	seeing	dr	patel	follow	get	results	dr	appel	follow	
+Note_Number-171: Sent_Number-1: glucose	hdl	ldl	a1c	psa	
+Note_Number-172: Sent_Number-1: chol	hdl	ldl	a1c	psa	
+Note_Number-173: Sent_Number-1: tep	
+Note_Number-173: Sent_Number-2: feels	staying	hrs	cigarettes	
+Note_Number-173: Sent_Number-3: goal	stay	hrs	tues	
+Note_Number-173: Sent_Number-4: increase	hrs	
+Note_Number-173: Sent_Number-5: 
+Note_Number-174: Sent_Number-1: glucose	chol	hdl	ldl	a1c	psa	
+Note_Number-175: Sent_Number-1: nutrition	eats	times	week	
+Note_Number-175: Sent_Number-2: explained	smart	goals	
+Note_Number-175: Sent_Number-3: feels	ability	count	carbohydrade	
+Note_Number-175: Sent_Number-4: goal	limiting	carbohydrates	carbohydrates	day	
+Note_Number-175: Sent_Number-5: follwup	portion	control	food	log	carb	counting	dinners	weight	loss	tips	sheet	
+Note_Number-176: Sent_Number-2: wanted	start	taking	stairs	
+Note_Number-176: Sent_Number-3: feels	taking	stairs	elevator	is	goal	
+Note_Number-176: Sent_Number-4: has	gym	membership	incredaplex	
+Note_Number-176: Sent_Number-5: goal	take	stairs	elevator	
+Note_Number-176: Sent_Number-6: follwup	decide	plan	reach	term	walking	mile	day	
+Note_Number-177: Sent_Number-1: known	
+Note_Number-177: Sent_Number-2: a1c	bs	
+Note_Number-177: Sent_Number-3: tchol	hdl	ldl	tri	
+Note_Number-177: Sent_Number-4: call	home	member	work	
+Note_Number-177: Sent_Number-5: left	message	
+Note_Number-177: Sent_Number-6: dphilllips	rn	
+Note_Number-178: Sent_Number-1: known	labs	bs	tchol	hdl	ldld	tri	
+Note_Number-178: Sent_Number-2: a1c	
+Note_Number-178: Sent_Number-3: left	message	
+Note_Number-178: Sent_Number-4: dphillips	rn	
+Note_Number-179: Sent_Number-1: bp	labs	tchol	hdl	ldl	tri	a1c	left	message	
+Note_Number-179: Sent_Number-2: dphillips	rn	
+Note_Number-180: Sent_Number-1: went	results	
+Note_Number-180: Sent_Number-2: member	is	going	call	mr	crawley	office	get	appointment	asap	
+Note_Number-180: Sent_Number-3: fax	labs	
+Note_Number-180: Sent_Number-4: member	is	novolog	ss	metformin	
+Note_Number-180: Sent_Number-5: has	seen	endocrinology	doctor	left	had	been	referred	provider	was	focused	weight	
+Note_Number-180: Sent_Number-6: member	has	lost	pounds	
+Note_Number-180: Sent_Number-7: call	appointment	ask	go	endo	have	provider	
+Note_Number-181: Sent_Number-1: labs	
+Note_Number-182: Sent_Number-1: bs	chol	hdl	ldl	a1c	
+Note_Number-182: Sent_Number-2: left	message	abullard	rn	
+Note_Number-183: Sent_Number-1: call	received	member	kyn	review	
+Note_Number-183: Sent_Number-2: report	has	diabetes	
+Note_Number-184: Sent_Number-1: a1c	
+Note_Number-184: Sent_Number-2: understands	aic	is	picture	blood	sugar	months	
+Note_Number-184: Sent_Number-3: reports	chooses	chicken	red	meat	chooses	lean	red	meat	eats	
+Note_Number-184: Sent_Number-5: exercises	times	week	
+Note_Number-184: Sent_Number-6: instructed	take	know	number	results	agrees	do	
+Note_Number-184: Sent_Number-7: agrees	call	sees	
+Note_Number-185: Sent_Number-1: called	member	review	screening	results	
+Note_Number-185: Sent_Number-2: stated	screening	went	hospital	surgery	bypass	thinks	
+Note_Number-185: Sent_Number-3: is	home	recovering	
+Note_Number-185: Sent_Number-4: is	taking	bp	medication	
+Note_Number-185: Sent_Number-5: follow	months	
+Note_Number-185: Sent_Number-6: wished	
+Note_Number-185: Sent_Number-7: kwells	rn	
+Note_Number-186: Sent_Number-1: mailed	hypertension	cholesterol	information	
+Note_Number-187: Sent_Number-1: follwup	call	review	labs	bg	have	been	teens	(		rare	's	checking	day	
+Note_Number-187: Sent_Number-2: did	bg	tracker	idaho	plate	material	states	has	made	continues	hep	stair	stepper	
+Note_Number-187: Sent_Number-3: pos	
+Note_Number-187: Sent_Number-4: reinforcement	given	
+Note_Number-187: Sent_Number-6: teaching	focus	factors	has	control	bg	agrees	ck	bkfst	dinner	hs	ck	bp	does	monitor	attacks	does	verbalize	understanding	re	need	ck	bp	bg	symptoms	be	
+Note_Number-187: Sent_Number-7: is	looking	pcp	closer	home	
+Note_Number-187: Sent_Number-8: teaching	re	transferring	homes	maintain	continuity	care	prevent	duplication	tests	
+Note_Number-187: Sent_Number-9: decide	pcp	sched	appointment	wk	allow	time	transfer	records	
+Note_Number-188: Sent_Number-1: call	barbara	re	clms	question	had	
+Note_Number-188: Sent_Number-2: states	labwork	performed	was	done	d	t	city	aurora	reward	plans	
+Note_Number-188: Sent_Number-4: wanted	express	appreciation	care	etc	years	
+Note_Number-189: Sent_Number-1: spoke	member	call	
+Note_Number-189: Sent_Number-2: have	pnf	
+Note_Number-189: Sent_Number-3: hga1c	pb	
+Note_Number-190: Sent_Number-1: hhga1c	have	pnf	goal	increase	exercise	
+Note_Number-190: Sent_Number-2: pb	
+Note_Number-191: Sent_Number-1: hga1c	bp	have	pnf	goal	lose	wgt	
+Note_Number-191: Sent_Number-2: pb	
+Note_Number-192: Sent_Number-1: hga1c	have	pnf	goal	maintain	health	celiacs	osteoporesis	
+Note_Number-192: Sent_Number-2: pb	
+Note_Number-193: Sent_Number-2: have	pnf	
+Note_Number-193: Sent_Number-3: goal	lose	wgt	pb	
+Note_Number-194: Sent_Number-1: call	brian	reminder	documents	needed	send	qualify	gold	plan	were	today	
+Note_Number-194: Sent_Number-2: said	try	
+Note_Number-194: Sent_Number-3: reminded	view	email	reminder	list	items	needed	
+Note_Number-195: Sent_Number-1: return	call	member	
+Note_Number-195: Sent_Number-2: gave	results	
+Note_Number-195: Sent_Number-3: states	is	seeing	urologist	is	number	
+Note_Number-195: Sent_Number-5: dphillips	rn	
+Note_Number-196: Sent_Number-1: called	david	review	needed	be	turned	end	today	order	family	be	gold	plan	
+Note_Number-196: Sent_Number-2: reminded	review	reminder	email	
+Note_Number-196: Sent_Number-3: said	try	get	end	day	
+Note_Number-197: Sent_Number-1: tep	
+Note_Number-197: Sent_Number-2: has	been	smoking	was	years	
+Note_Number-197: Sent_Number-3: smokes	pack	day	
+Note_Number-197: Sent_Number-4: triggers	are	smoking	car	eats	is	bored	
+Note_Number-197: Sent_Number-5: is	bored	smoke	hour	half	
+Note_Number-198: Sent_Number-1: called	member	regarding	kyn	results	
+Note_Number-198: Sent_Number-2: a1c	was	diagnosis	diabetes	bp	was	were	weight	was	bmi	
+Note_Number-199: Sent_Number-1: pe	past	(		was	
+Note_Number-199: Sent_Number-2: eye	exam	jan	(		was	action	plan	increase	exercise	eat	healthier	lose	weight	a1c	bp	weight	bmi	
+Note_Number-199: Sent_Number-3: 
+Note_Number-200: Sent_Number-1: received	call	member	
+Note_Number-200: Sent_Number-2: states	md	spoke	a1c	
+Note_Number-200: Sent_Number-3: discussed	diet	exercise	
+Note_Number-200: Sent_Number-5: md	re	check	a1c	visit	
+Note_Number-200: Sent_Number-6: goal	was	increase	exercise	
+Note_Number-200: Sent_Number-7: states	has	been	walking	track	son	has	football	practice	time	
+Note_Number-201: Sent_Number-1: called	member	regarding	kyn	results	a1c	bs	being	weight	loss	kyn	yr	
+Note_Number-201: Sent_Number-2: are	bp	
+Note_Number-202: Sent_Number-1: tep	
+Note_Number-202: Sent_Number-2: agreed	complete	sessions	
+Note_Number-202: Sent_Number-3: has	chewing	tob	month	
+Note_Number-202: Sent_Number-4: is	feeling	confident	be	term	change	
+Note_Number-203: Sent_Number-1: left	message	stated	wanted	see	like	complete	tep	phone	calls	move	silver	gold	plan	
+Note_Number-203: Sent_Number-2: left	number	call	was	
+Note_Number-204: Sent_Number-1: call	member	
+Note_Number-204: Sent_Number-3: has	lost	lbs	bmi	working	wife	wgt	
+Note_Number-204: Sent_Number-4: pb	
+Note_Number-205: Sent_Number-1: bp	has	come	
+Note_Number-205: Sent_Number-2: pb	
+Note_Number-206: Sent_Number-1: letter	mailed	asking	member	contact	up	
+Note_Number-207: Sent_Number-1: left	message	dphillips	rn	
+Note_Number-208: Sent_Number-1: chol	
+Note_Number-208: Sent_Number-2: goal	routine	wellness	
+Note_Number-208: Sent_Number-3: aa	
+Note_Number-209: Sent_Number-1: bp	
+Note_Number-209: Sent_Number-2: dx	htn	medication	
+Note_Number-209: Sent_Number-3: diagnosis	cholesterol	medication	
+Note_Number-209: Sent_Number-4: labs	bs	tchol	hdl	ldl	a1c	psa	
+Note_Number-210: Sent_Number-1: a1c	
+Note_Number-210: Sent_Number-2: goal	stop	tobacco	
+Note_Number-210: Sent_Number-3: aa	
+Note_Number-211: Sent_Number-1: a1c	
+Note_Number-211: Sent_Number-2: chol	medication	
+Note_Number-211: Sent_Number-3: goal	weight	loss	
+Note_Number-211: Sent_Number-4: aa	
+Note_Number-212: Sent_Number-1: dx	dm	htn	cholesterol	medication	
+Note_Number-212: Sent_Number-2: labs	tchol	hdl	ldl	tri	a1c	
+Note_Number-214: Sent_Number-1: member	is	syndrome	
+Note_Number-215: Sent_Number-1: claims	member	is	filling	rx	hctz	
+Note_Number-215: Sent_Number-2: had	md	appointment	april	htn	urgent	care	appointment	claims	foot	injury	vacation\\	member	phone	conversation	
+Note_Number-215: Sent_Number-3: had	colonoscopy	years	is	
+Note_Number-216: Sent_Number-1: went	results	member	sees	specialist	months	
+Note_Number-216: Sent_Number-2: insulin	levimir	gets	novolog	units	tid	
+Note_Number-216: Sent_Number-3: does	accuchek	qid	
+Note_Number-216: Sent_Number-5: woke	calling	
+Note_Number-216: Sent_Number-6: was	phone	call	
+Note_Number-216: Sent_Number-7: eats	meal	day	chicken	cooks	picks	restaurant	
+Note_Number-216: Sent_Number-8: encouraged	make	simple	changes	lifestyle	change	rice	brown	rice	start	half	needing	adjust	flavor	texture	
+Note_Number-216: Sent_Number-9: increase	exercise	ten	minutes	day	
+Note_Number-216: Sent_Number-11: encouraged	decrease	fruits	increase	vegetables	
+Note_Number-217: Sent_Number-1: eye	exam	march	kidney	checks	done	examines	feet	
+Note_Number-218: Sent_Number-2: feels	is	right	track	lose	weight	
+Note_Number-218: Sent_Number-3: encouraged	keep	effort	
+Note_Number-219: Sent_Number-1: rd	talked	patient	health	coaching	
+Note_Number-219: Sent_Number-2: pt	has	diagnosis	anorexia	nervosa	anxiety	depression	ocd	oa	prolapse	tobacco	use	issues	sleeping	
+Note_Number-219: Sent_Number-3: medication	depression	anxiety	sleep	oa	
+Note_Number-219: Sent_Number-4: discussed	tx	patient	has	counselor	md	
+Note_Number-219: Sent_Number-5: md	recommended	inpatient	treatment	center	
+Note_Number-219: Sent_Number-6: discussed	depth	pt	
+Note_Number-219: Sent_Number-7: pt	barriers	has	custody	yo	grandchild	feels	is	go	center	
+Note_Number-219: Sent_Number-8: discussed	health	being	care	
+Note_Number-219: Sent_Number-9: discussed	need	resolve	issues	be	move	
+Note_Number-219: Sent_Number-10: pt	c	o	diarrhea	constipation	alternating	
+Note_Number-219: Sent_Number-11: encouraged	checking	(		md	wants	complete	testing	increasing	fluid	consumption	amounts	fiber	
+Note_Number-219: Sent_Number-12: pt	chantix	assist	tobacco	cessation	
+Note_Number-219: Sent_Number-13: goal	get	treatment	center	asap	eating	disorder	
+Note_Number-219: Sent_Number-14: reassured	patient	assist	eating	education	md	plan	treatment	eating	disorder	
+Note_Number-219: Sent_Number-15: rec	eap	needed	number	provided	
+Note_Number-220: Sent_Number-1: wanted	verify	received	email	sent	october	containing	screening	results	see	have	questions	
+Note_Number-220: Sent_Number-2: look	reply	
+Note_Number-220: Sent_Number-3: have	weekend	
+Note_Number-221: Sent_Number-1: attempted	reach	member	phone	voice	mail	box	is	
+Note_Number-221: Sent_Number-2: mailed	letter	asking	member	contact	up	
+Note_Number-222: Sent_Number-1: dx	htn	bp	taking	bp	medication	
+Note_Number-222: Sent_Number-2: dx	diabetes	bs	chol	hdl	ldl	a1c	psa	
+Note_Number-223: Sent_Number-1: yes	did	
+Note_Number-223: Sent_Number-2: nurse	went	everything	physicians	office	
+Note_Number-223: Sent_Number-3: am	changes	diet	need	be	made	
+Note_Number-223: Sent_Number-4: is	wife	
+Note_Number-223: Sent_Number-5: keep	line	
+Note_Number-223: Sent_Number-6: thanks	
+Note_Number-224: Sent_Number-1: left	message	bullard	rn	
+Note_Number-225: Sent_Number-1: called	follow	
+Note_Number-225: Sent_Number-3: dad	is	gives	patient	relief	care	father	
+Note_Number-225: Sent_Number-4: pt	saw	cde	md	am	rec	weight	loss	cde	instructed	meal	plan	
+Note_Number-225: Sent_Number-5: encouraged	patient	take	time	self	care	start	moving	weekend	
+Note_Number-225: Sent_Number-6: check	patient	week	exton	
+Note_Number-226: Sent_Number-2: glucose	chol	hdl	ldl	a1c	abullard	rn	
+Note_Number-227: Sent_Number-1: left	message	bullard	rn	
+Note_Number-228: Sent_Number-1: hope	are	doing	wanted	follow	see	things	are	going	
+Note_Number-228: Sent_Number-2: have	moment	call	email	be	
+Note_Number-228: Sent_Number-3: am	monday	friday	be	reached	ext	
+Note_Number-228: Sent_Number-4: be	office	tuesday	afternoon	screening	
+Note_Number-228: Sent_Number-5: looking	hearing	
+Note_Number-229: Sent_Number-1: dx	diabetes	bs	a1c	chol	hdl	ldl150	psa	
+Note_Number-229: Sent_Number-2: bullard	rn	
+Note_Number-230: Sent_Number-1: dx	htn	bp	chol	hdl	ldl	a1c	psa	
+Note_Number-230: Sent_Number-2: bullard	rn	
+Note_Number-231: Sent_Number-1: called	member	regarding	kyn	results	waist	hdl	weight	bmi	syndrome	
+Note_Number-232: Sent_Number-1: talked	member	had	md	was	
+Note_Number-232: Sent_Number-2: is	having	elevation	triglycerides	times	md	is	has	been	thing	years	
+Note_Number-232: Sent_Number-3: continues	exercise	watch	diet	efforts	reduce	weight	
+Note_Number-232: Sent_Number-4: encouraged	keep	efforts	
+Note_Number-233: Sent_Number-1: bs	a1c	chol	hdl	ldl	
+Note_Number-233: Sent_Number-2: left	message	
+Note_Number-234: Sent_Number-2: bp	
+Note_Number-234: Sent_Number-3: glucose	chol	hdl	ldl	a1c	
+Note_Number-235: Sent_Number-1: talked	spouse	states	member	had	labs	repeated	oct	a1c	was	has	lost	total	pounds	
+Note_Number-235: Sent_Number-2: is	walking	night	hunting	is	feeling	
+Note_Number-235: Sent_Number-3: encouraged	congratulate	have	keep	work	
+Note_Number-236: Sent_Number-1: spoke	member	rechecked	bp	states	has	bp	monitor	home	checks	
+Note_Number-236: Sent_Number-2: has	fibromyalgia	arthritis	member	states	was	raining	day	was	lot	pain	
+Note_Number-236: Sent_Number-4: states	elevates	is	pain	
+Note_Number-236: Sent_Number-5: reviewed	rest	lab	results	member	
+Note_Number-236: Sent_Number-6: bullard	rn	
+Note_Number-237: Sent_Number-2: bp	bs	hdl	ldl	a1c	psa	
+Note_Number-237: Sent_Number-3: left	message	
+Note_Number-237: Sent_Number-4: abullard	rn	
+Note_Number-238: Sent_Number-1: mailed	letter	asking	member	contact	up	
+Note_Number-238: Sent_Number-2: thanks	taking	time	speak	regarding	kyn	results	friday	afternoon	
+Note_Number-238: Sent_Number-3: o	review	reminder	is	discussed	goals	action	plans	do	reach	goals	recommendations	
+Note_Number-238: Sent_Number-4: goal	is	obtain	appointment	pe	
+Note_Number-238: Sent_Number-5: 
+Note_Number-238: Sent_Number-6: call	md	office	week	
+Note_Number-238: Sent_Number-7: make	appointment	pe	exam	follow	kyn	months	take	kyn	packet	md	appointment	
+Note_Number-238: Sent_Number-8: call	email	kim	let	know	appointment	is	
+Note_Number-238: Sent_Number-9: keep	appointment	set	reminders	goal	is	lose	weight	reduce	wnl	limits	kyn	
+Note_Number-238: Sent_Number-10: action	plans	has	been	increasing	veg	reduced	
+Note_Number-238: Sent_Number-11: yay	
+Note_Number-238: Sent_Number-12: eliminate	juice	reduce	increase	water	bottles	water	equivalent	attempt	eat	reduce	fried	foods	lunch	time	exercise	training	marathon	train	cardio	exercise	week	running	distance	interval	training	start	weight	training	week	ymca	week	condition	obtaining	membership	hr	sig	please	call	review	kyn	results	set	health	goals	year	
+Note_Number-238: Sent_Number-13: thanks	
+Note_Number-239: Sent_Number-1: return	call	member	
+Note_Number-239: Sent_Number-2: is	taking	medication	was	having	deal	difficulty	walker	day	way	walk	walker	
+Note_Number-239: Sent_Number-3: hasnt	rechecked	
+Note_Number-239: Sent_Number-4: see	doctor	monday	check	
+Note_Number-239: Sent_Number-5: agrees	call	appointment	tell	went	
+Note_Number-239: Sent_Number-6: doesnt	eat	does	canned	foods	
+Note_Number-239: Sent_Number-7: discussed	sodium	choices	freezermeals	soups	canned	vegetables	
+Note_Number-239: Sent_Number-8: encouraged	label	reading	looking	sodium	options	
+Note_Number-240: Sent_Number-2: left	message	spouse	
+Note_Number-240: Sent_Number-3: bullard	rn	
+Note_Number-241: Sent_Number-1: dx	htn	bp	chol	hdl	ldl	a1c	
+Note_Number-241: Sent_Number-2: spoke	member	has	been	see	pcp	placed	bp	med	diovan	hctz	
+Note_Number-241: Sent_Number-3: states	bp	md	office	was	
+Note_Number-241: Sent_Number-4: bullard	rn	
+Note_Number-242: Sent_Number-1: member	called	states	was	released	
+Note_Number-242: Sent_Number-2: was	admitted	days	diagnosis	headaches	
+Note_Number-242: Sent_Number-3: member	states	works	night	shift	trying	sleep	day	awakes	headache	causes	bp	elevate	
+Note_Number-242: Sent_Number-4: states	recheck	bp	was	was	hospital	experienced	episode	headaches	
+Note_Number-242: Sent_Number-5: md	added	hydralazine	regimen	member	take	going	sleep	
+Note_Number-242: Sent_Number-6: results	reviewed	member	
+Note_Number-242: Sent_Number-7: encouraged	member	excerise	chol	
+Note_Number-242: Sent_Number-8: bullard	rn	
+Note_Number-243: Sent_Number-1: member	called	states	was	released	
+Note_Number-243: Sent_Number-2: was	admitted	days	diagnosis	headaches	
+Note_Number-243: Sent_Number-3: member	states	works	night	shift	trying	sleep	day	awakes	headache	causes	bp	elevate	
+Note_Number-243: Sent_Number-4: states	recheck	bp	was	was	hospital	experienced	episode	headaches	
+Note_Number-243: Sent_Number-5: md	added	hydralazine	regimen	member	take	going	sleep	
+Note_Number-243: Sent_Number-6: results	reviewed	member	
+Note_Number-243: Sent_Number-7: encouraged	member	excerise	chol	
+Note_Number-243: Sent_Number-8: bullard	rn	
+Note_Number-244: Sent_Number-1: fall	follwup	completed	pt	
+Note_Number-244: Sent_Number-2: pt	dm	drinking	tea	
+Note_Number-244: Sent_Number-3: diet	recall	brk	toast	yogurt	
+Note_Number-244: Sent_Number-4: lunch	food	dinner	meal	pt	hs	chips	popcorn	
+Note_Number-244: Sent_Number-5: discussed	principles	dm	care	
+Note_Number-244: Sent_Number-6: reviewed	plate	planner	discussed	scheduling	meals	
+Note_Number-244: Sent_Number-7: rec	balanced	meals	day	choosing	sf	beverages	
+Note_Number-244: Sent_Number-8: sent	written	materials	dm	tips	plate	planner	lifemap	brochure	sleep	
+Note_Number-244: Sent_Number-9: discussed	lifemap	
+Note_Number-244: Sent_Number-12: phone	number	provided	patient	like	reschedule	
+Note_Number-245: Sent_Number-1: rd	called	patient	follow	education	
+Note_Number-245: Sent_Number-3: pt	call	needed	number	provided	
+Note_Number-246: Sent_Number-1: msg	re	pend	status	pse	call	hrs	has	
+Note_Number-246: Sent_Number-2: 's	concerns	
+Note_Number-247: Sent_Number-1: fu	call	did	review	labs	notes	
+Note_Number-247: Sent_Number-3: charles	complaint	today	is	disc	pain	
+Note_Number-247: Sent_Number-4: is	taking	alleve	using	ice	
+Note_Number-247: Sent_Number-5: teaching	re	safety	medication	nephrotoxicity	safe	use	ice	
+Note_Number-247: Sent_Number-6: teaching	re	want	talk	md	re	pain	medication	needs	
+Note_Number-247: Sent_Number-7: agrees	see	re	md	
+Note_Number-247: Sent_Number-8: verbalizes	understanding	teaching	re	pathophys	pain	affects	bp	bg	
+Note_Number-247: Sent_Number-9: bg	have	been	am	lunch	somethimes	
+Note_Number-247: Sent_Number-10: 
+Note_Number-247: Sent_Number-11: pos	reinforcement	
+Note_Number-247: Sent_Number-12: review	heart	diet	teaching	bacon	
+Note_Number-247: Sent_Number-13: is	see	month	
+Note_Number-247: Sent_Number-14: wanted	calls	agrees	call	december	ck	labs	has	seen	md	
+Note_Number-248: Sent_Number-1: hello	aileen	apologies	was	understanding	year	dr	health	had	access	insurance	claims	degree	see	were	
+Note_Number-248: Sent_Number-3: well	women	checkup	included	pap	was	performed	dr	rizzo	utmb	located	webster	tx	
+Note_Number-249: Sent_Number-1: had	been	care	pcp	visits	months	dr	ginn	utmb	league	city	tx	
+Note_Number-249: Sent_Number-2: relocated	california	september	was	be	locate	pcp	physician	had	opening	notice	patient	review	numbers	document	
+Note_Number-249: Sent_Number-3: appointment	was	october	dr	strickline	utmb	city	tx	
+Note_Number-249: Sent_Number-4: mammogram	was	october	dr	rizzo	left	orders	file	utbm	specialty	center	league	city	tx	have	schedule	date	coming	november	
+Note_Number-249: Sent_Number-5: please	advise	need	information	thank	
+Note_Number-250: Sent_Number-1: excellent	retention	teaching	
+Note_Number-250: Sent_Number-2: continues	walk	(		mi	
+Note_Number-250: Sent_Number-3: stress	remains	
+Note_Number-250: Sent_Number-4: coping	missing	spend	holiday	gdtr	
+Note_Number-250: Sent_Number-5: bg	avg	is	
+Note_Number-250: Sent_Number-6: call	md	labs	planned	
+Note_Number-250: Sent_Number-7: is	receipt	shirlee	attached	is	shirlee	pap	
+Note_Number-250: Sent_Number-8: thanks	shannon	derouen	
+Note_Number-251: Sent_Number-1: member	called	discussed	kyn	results	
+Note_Number-251: Sent_Number-2: reviewed	bp	
+Note_Number-251: Sent_Number-4: states	screening	began	taking	bp	med	amlodipine	
+Note_Number-251: Sent_Number-6: reviewed	elevated	cholesterol	member	
+Note_Number-251: Sent_Number-7: bullard	rn	
+Note_Number-252: Sent_Number-1: called	member	review	kyn	results	discuss	goals	
+Note_Number-253: Sent_Number-3: \\i	feel	time\\	bg	right	
+Note_Number-253: Sent_Number-5: d	c	metformin	started	victoza	states	is	injections	
+Note_Number-253: Sent_Number-6: forgot	ask	patient	msw	
+Note_Number-253: Sent_Number-7: agrees	allow	rn	discuss	
+Note_Number-253: Sent_Number-8: md	called	re	
+Note_Number-253: Sent_Number-9: requested	copy	labs	
+Note_Number-254: Sent_Number-1: bs	hga1c	bp	medication	
+Note_Number-254: Sent_Number-2: have	pnf	goals	bp	exercise	pb	
+Note_Number-255: Sent_Number-1: bs	hga1c	trig	have	pnf	
+Note_Number-255: Sent_Number-2: goals	improve	bp	lose	wgt	increase	exercise	pb	
+Note_Number-256: Sent_Number-1: left	message	member	return	call	review	screening	results	
+Note_Number-256: Sent_Number-2: mailed	letter	asking	
+Note_Number-257: Sent_Number-1: janet	has	made	amount	lifestyle	changes	meeting	
+Note_Number-257: Sent_Number-2: is	walking	twice	day	am	miles	hand	weights	evening	husband	walks	beach	weekends	bicycles	hours	twice	week	wearing	helmet	
+Note_Number-257: Sent_Number-4: weight	decrease	body	fat	decrease	%	waist	
+Note_Number-257: Sent_Number-5: janet	agrees	goal	servings	veggies	fruits	
+Note_Number-257: Sent_Number-6: include	carb	breakfast	increase	turkey	portion	lunch	oz	try	almond	soy	milk	increase	hand	weights	lbs	
+Note_Number-257: Sent_Number-7: reviewed	moves	safety	precautions	
+Note_Number-257: Sent_Number-8: weight	
+Note_Number-257: Sent_Number-9: goals	range	waist	goal	
+Note_Number-257: Sent_Number-11: appointment	biometrics	
+Note_Number-257: Sent_Number-12: (		triglyceride	alt	elevation	cold	medicine	was	taking	
+Note_Number-258: Sent_Number-1: obesity	
+Note_Number-259: Sent_Number-1: left	message	member	return	call	review	screening	results	
+Note_Number-259: Sent_Number-2: mailed	letter	asking	
+Note_Number-260: Sent_Number-1: phone	contact	made	member	
+Note_Number-260: Sent_Number-2: member	informed	elevated	bs	results	a1c	
+Note_Number-260: Sent_Number-3: member	expressed	has	concerns	blood	sugar	
+Note_Number-260: Sent_Number-4: has	noticed	increase	levels	checks	home	
+Note_Number-260: Sent_Number-5: has	appointment	dr	norem	
+Note_Number-260: Sent_Number-6: lab	results	faxed	dr	norem	office	requested	member	
+Note_Number-260: Sent_Number-7: request	made	member	call	let	know	results	appointment	agrees	do	
+Note_Number-261: Sent_Number-2: left	message	
+Note_Number-262: Sent_Number-1: attempt	complete	tep	
+Note_Number-263: Sent_Number-1: called	concerning	elevated	a1c	blood	sugar	day	kyn	screening	
+Note_Number-263: Sent_Number-2: bp	
+Note_Number-264: Sent_Number-1: member	called	reviewed	labs	member	
+Note_Number-264: Sent_Number-2: a1c	
+Note_Number-264: Sent_Number-3: member	states	is	has	spoken	dr	araghi	
+Note_Number-264: Sent_Number-5: is	lowering	carbohydrade	dieting	member	joined	living	program	started	sept	has	been	having	issues	storms	member	states	is	adopted	is	family	members	are	
+Note_Number-264: Sent_Number-6: reviewed	cholesterol	is	
+Note_Number-264: Sent_Number-8: bullard	rn	
+Note_Number-265: Sent_Number-1: member	called	reviewed	labs	member	
+Note_Number-265: Sent_Number-2: a1c	
+Note_Number-265: Sent_Number-3: member	states	is	has	spoken	dr	araghi	
+Note_Number-265: Sent_Number-5: is	lowering	carbohydrade	dieting	member	joined	living	program	started	sept	has	been	having	issues	storms	member	states	is	adopted	is	family	members	are	
+Note_Number-265: Sent_Number-6: reviewed	cholesterol	is	
+Note_Number-265: Sent_Number-8: bullard	rn	
+Note_Number-266: Sent_Number-1: glucose	chol	hdl	ldl163	a1c	psa	
+Note_Number-266: Sent_Number-2: left	message	spouse	
+Note_Number-267: Sent_Number-1: member	delivered	child	boy	month	
+Note_Number-267: Sent_Number-2: baby	are	doing	
+Note_Number-267: Sent_Number-3: reviewed	screening	results	
+Note_Number-268: Sent_Number-1: received	call	member	
+Note_Number-268: Sent_Number-2: states	bp	was	elevated	time	md	visit	
+Note_Number-268: Sent_Number-3: is	benicar	
+Note_Number-268: Sent_Number-4: is	looking	purchasing	bp	monitor	
+Note_Number-268: Sent_Number-5: is	follow	md	months	
+Note_Number-268: Sent_Number-6: goal	set	bp	control	
+Note_Number-269: Sent_Number-1: talked	member	did	talk	md	screening	results	
+Note_Number-269: Sent_Number-3: eats	avoiding	processed	foods	uses	whole	grain	foods	exercises	jogging	riding	horses	
+Note_Number-269: Sent_Number-4: health	goal	is	maintain	health	keep	pap	mammogram	screenings	flu	shot	health	exam	
+Note_Number-269: Sent_Number-5: congratulated	habits	encouraged	keep	work	
+Note_Number-270: Sent_Number-2: member	request	fax	results	md	agrees	call	make	appointment	today	
+Note_Number-270: Sent_Number-3: spoke	member	regards	chol	member	has	been	excising	has	been	watching	chol	
+Note_Number-270: Sent_Number-4: bullard	rn	
+Note_Number-271: Sent_Number-1: howard	had	week	related	bloating	
+Note_Number-271: Sent_Number-2: eats	buffet	panera	s	
+Note_Number-271: Sent_Number-3: states	portions	are	e	
+Note_Number-271: Sent_Number-4: french	fries	
+Note_Number-271: Sent_Number-5: using	oil	vinegar	place	ranch	dressing	
+Note_Number-271: Sent_Number-6: wife	buys	white	bread	cooks	white	rice	
+Note_Number-271: Sent_Number-7: logging	states	is	eating	calories	
+Note_Number-271: Sent_Number-8: snack	is	package	nuts	has	cut	sugared	day	
+Note_Number-271: Sent_Number-9: walking	minutes	days	week	
+Note_Number-271: Sent_Number-10: weight	
+Note_Number-271: Sent_Number-11: =	increase	lbs	body	fat	increase	%	waist	
+Note_Number-271: Sent_Number-12: howard	agrees	let	know	results	lactobacillus	capsules	intake	sugary	soda	options	discussed	increase	veggies	fruit	day	ask	wife	buy	wheat	bread	brown	rice	
+Note_Number-271: Sent_Number-13: continue	walking	program	consider	joining	youfit	work	resistance	
+Note_Number-271: Sent_Number-14: follow	appointment	
+Note_Number-271: Sent_Number-15: december	am	
+Note_Number-272: Sent_Number-1: prediabetes	obesity	
+Note_Number-273: Sent_Number-1: member	returned	call	
+Note_Number-273: Sent_Number-2: discussed	kyn	results	goals	
+Note_Number-273: Sent_Number-3: has	md	appointment	
+Note_Number-273: Sent_Number-4: has	limitations	exercise	bulging	disks	neck	arthritis	knees	
+Note_Number-273: Sent_Number-5: goals	reduce	a1c	wnl	reduce	chol	maintain	bp	wnl	
+Note_Number-273: Sent_Number-6: action	plans	continue	take	bp	chol	medication	
+Note_Number-273: Sent_Number-8: obtain	use	sweetener	coffee	etc	
+Note_Number-273: Sent_Number-9: exercise	continue	walk	breaks	work	day	learn	squat	lunge	
+Note_Number-274: Sent_Number-1: called	member	
+Note_Number-274: Sent_Number-3: reports	sees	dr	hannan	months	agrees	make	appointment	
+Note_Number-274: Sent_Number-4: dr	hannan	follow	results	
+Note_Number-274: Sent_Number-5: agrees	nurse	fax	lab	results	dr	hannan	
+Note_Number-274: Sent_Number-6: nurse	requested	member	call	visit	dr	hannan	agrees	do	
+Note_Number-275: Sent_Number-1: faxed	labs	pnf	form	village	medicine	dr	viswanath	
+Note_Number-276: Sent_Number-1: none	chol	hdl	ha1c	ps	
+Note_Number-276: Sent_Number-2: left	message	
+Note_Number-276: Sent_Number-3: bullard	rn	
+Note_Number-277: Sent_Number-1: charles	s	coaching	season	ended	back	working	schedule	
+Note_Number-277: Sent_Number-2: include	going	youfit	days	week	do	weights	biking	days	week	miles	day	running	walking	bridge	week	
+Note_Number-277: Sent_Number-3: juice	fasts	days	month	
+Note_Number-277: Sent_Number-4: recall	shows	lots	carb	veggies	beets	carrots	potato	pineapple	apple	
+Note_Number-277: Sent_Number-5: charles	skips	eats	lunch	
+Note_Number-277: Sent_Number-6: dinner	is	balanced	
+Note_Number-277: Sent_Number-7: weight	
+Note_Number-277: Sent_Number-8: =	decrease	body	fat	%	waist	
+Note_Number-277: Sent_Number-9: (		decrease	
+Note_Number-277: Sent_Number-10: charles	agrees	commit	workouts	written	try	eat	lunch	days	week	
+Note_Number-277: Sent_Number-11: increase	fresh	veggies	fruits	servings	day	
+Note_Number-278: Sent_Number-1: known	chol	hdl	ldl	ha1c	psa	
+Note_Number-278: Sent_Number-2: left	message	
+Note_Number-279: Sent_Number-1: prediabetes	
+Note_Number-280: Sent_Number-1: member	sees	md	twice	year	
+Note_Number-280: Sent_Number-2: takes	losartan	elevated	bp	omeprazole	reflux	works	
+Note_Number-280: Sent_Number-3: travels	finds	is	challenge	eat	travelling	
+Note_Number-280: Sent_Number-4: reviewed	results	screening	bs	a1c	bp	tchol	hdl	ldl	triglycerides	
+Note_Number-280: Sent_Number-5: discussed	interventions	help	reduce	a1c	including	reducing	intake	carbohydrates	products	change	bread	pasta	rice	whole	grain	products	
+Note_Number-280: Sent_Number-6: encouraged	eat	are	omega	fatty	acids	mackerel	lake	herring	sardines	albacore	tuna	salmon	
+Note_Number-280: Sent_Number-7: takes	omega	supplement	
+Note_Number-280: Sent_Number-8: does	gym	was	going	times	week	travelling	be	challenge	get	
+Note_Number-280: Sent_Number-9: encouraged	do	
+Note_Number-280: Sent_Number-10: suggested	travelling	going	eat	restaurant	visit	grocery	store	pick	something	instead	eating	
+Note_Number-280: Sent_Number-11: does	cut	portions	eating	
+Note_Number-280: Sent_Number-12: goal	year	is	reduce	weight	below	pounds	
+Note_Number-280: Sent_Number-13: is	running	lbs	
+Note_Number-280: Sent_Number-14: congratulated	efforts	lose	weight	
+Note_Number-280: Sent_Number-15: send	information	dining	
+Note_Number-280: Sent_Number-16: follow	months	see	is	doing	has	been	meet	goal	
+Note_Number-281: Sent_Number-1: spoke	member	telephone	
+Note_Number-281: Sent_Number-2: discussed	elevated	blood	pressure	results	day	kyn	screening	
+Note_Number-281: Sent_Number-3: reports	is	care	dr	george	pantelokas	adjusted	blood	pressure	medication	reports	retook	blood	pressure	was	
+Note_Number-281: Sent_Number-4: reports	feels	blood	pressure	is	stress	related	
+Note_Number-281: Sent_Number-5: informed	stress	blood	pressure	is	staying	cause	damage	
+Note_Number-281: Sent_Number-6: discussed	member	taking	blood	pressure	times	week	keep	log	
+Note_Number-281: Sent_Number-7: instructed	blood	pressure	is	needs	see	scheduled	appointment	
+Note_Number-281: Sent_Number-8: agrees	keep	log	see	bp	stays	
+Note_Number-282: Sent_Number-2: bp	chol	hdl	ldl	ha1c	psa	
+Note_Number-282: Sent_Number-3: spoke	michael	bp	
+Note_Number-282: Sent_Number-5: is	taking	exforge	
+Note_Number-282: Sent_Number-8: states	is	exercising	times	week	approx	min	time	
+Note_Number-282: Sent_Number-9: eats	servings	week	red	meat	
+Note_Number-282: Sent_Number-10: encouraged	eat	chick	help	chol	
+Note_Number-282: Sent_Number-11: bullard	rn	
+Note_Number-283: Sent_Number-1: office	note	lab	results	pcp	visit	report	set	appointment	email	note	coaching	
+Note_Number-283: Sent_Number-2: reports	overall	doing	
+Note_Number-283: Sent_Number-3: visit	dr	rosebrock	
+Note_Number-283: Sent_Number-4: information	sheet	reviewed	
+Note_Number-283: Sent_Number-5: goals	are	continue	work	weight	loss	reduce	bmi	
+Note_Number-283: Sent_Number-6: increase	understanding	foods	affect	control	/	sugars	medication	reviewed	med	compliance	
+Note_Number-283: Sent_Number-7: exercises	times	week	watches	diet	
+Note_Number-283: Sent_Number-8: lab	goals	met	draw	
+Note_Number-283: Sent_Number-9: bp	goal	
+Note_Number-283: Sent_Number-10: continues	work	bmi	
+Note_Number-283: Sent_Number-11: ms	dempsy	call	questions	concerns	
+Note_Number-284: Sent_Number-1: dilated	eye	exam	microalbumin	foot	exam	labs	completed	
+Note_Number-285: Sent_Number-1: continue	do	diabetes	education	meadow	is	bringing	hga1c	%	%	
+Note_Number-286: Sent_Number-1: reviewed	dm	qualifying	form	
+Note_Number-286: Sent_Number-2: everything	completed	excellent	values	achieved	parameters	
+Note_Number-287: Sent_Number-1: member	returned	call	
+Note_Number-287: Sent_Number-2: reviewed	results	screening	bs	a1c	bp	tchol	hdl	ldl	tri	
+Note_Number-287: Sent_Number-4: explained	diabetes	a1c	places	risk	category	develop	diabetes	future	
+Note_Number-287: Sent_Number-6: does	drink	regular	sodas	occasion	
+Note_Number-287: Sent_Number-7: encouraged	drink	water	soda	
+Note_Number-287: Sent_Number-8: discussed	diet	changes	help	reduce	a1c	changing	whole	grains	bread	rice	pasta	
+Note_Number-287: Sent_Number-9: encouraged	exercise	help	reduce	a1c	
+Note_Number-287: Sent_Number-10: goal	is	begin	walking	times	week	minutes	time	
+Note_Number-287: Sent_Number-11: encouraged	eat	vegetables	plenty	fiber	decrease	processed	foods	foods	
+Note_Number-287: Sent_Number-13: encouraged	have	rechecked	see	md	results	discuss	
+Note_Number-288: Sent_Number-1: sorry	was	getting	
+Note_Number-288: Sent_Number-2: had	go	meeting	
+Note_Number-288: Sent_Number-3: thanks	taking	time	speak	today	
+Note_Number-288: Sent_Number-4: know	are	woman	
+Note_Number-288: Sent_Number-5: sig	is	blessed	have	
+Note_Number-288: Sent_Number-6: is	review	reminder	discussed	have	md	appointment	
+Note_Number-288: Sent_Number-7: 
+Note_Number-288: Sent_Number-8: remember	ask	look	chart	tell	had	colonoscopy	
+Note_Number-288: Sent_Number-10: shoot	email	md	appointment	let	know	went	goals	
+Note_Number-288: Sent_Number-11: reduce	a1c	wnl	limits	
+Note_Number-288: Sent_Number-12: reduce	chol	wnl	
+Note_Number-288: Sent_Number-13: maintain	bp	wnl	action	plans	do	reach	goals	
+Note_Number-288: Sent_Number-14: continue	take	bp	chol	medication	
+Note_Number-288: Sent_Number-15: 
+Note_Number-288: Sent_Number-17: reduce	intake	foods	donuts	blueberry	muffins	candy	candy	bars	poptarts	baking	cookies	
+Note_Number-288: Sent_Number-18: 
+Note_Number-288: Sent_Number-19: obtain	use	sweetener	coffee	etc	
+Note_Number-288: Sent_Number-20: exercise	
+Note_Number-288: Sent_Number-21: continue	walk	breaks	work	day	
+Note_Number-288: Sent_Number-22: learn	squat	lunge	www	sparkpeople	com	trainer	ymca	couple	things	thought	are	taking	supplement	medication	arthritis	
+Note_Number-289: Sent_Number-1: carb	counting	is	sided	sheet	giving	ideas	reduce	carbohydrade	diet	
+Note_Number-289: Sent_Number-2: remember	anything	white	turns	sugar	blood	stream	sugar	anything	made	foods	breads	cereals	potatoes	rice	pasta	etc	
+Note_Number-289: Sent_Number-3: reduce	
+Note_Number-290: Sent_Number-1: answer	question	carbohydrade	have	day	depends	weight	activity	level	body	responds	
+Note_Number-290: Sent_Number-2: sparkpeople	help	deciding	start	
+Note_Number-290: Sent_Number-3: started	health	journey	sparkpeople	is	started	recommendations	were	
+Note_Number-290: Sent_Number-4: suggest	folks	is	go	recommendations	are	are	doing	
+Note_Number-290: Sent_Number-5: reduce	body	bs	a1c	responds	
+Note_Number-290: Sent_Number-8: eat	grain	
+Note_Number-290: Sent_Number-9: bread	enriched	refined	types	bread	
+Note_Number-290: Sent_Number-10: eat	whole	grain	pasta	eliminate	diet	did	
+Note_Number-290: Sent_Number-11: veg	
+Note_Number-290: Sent_Number-12: food	servings	are	
+Note_Number-290: Sent_Number-13: cup	
+Note_Number-291: Sent_Number-1: kind	change	takes	mind	change	
+Note_Number-291: Sent_Number-2: try	look	food	source	fuel	body	have	option	putting	toxins	stuff	
+Note_Number-291: Sent_Number-3: ?	worth	healthy	stuff	
+Note_Number-291: Sent_Number-4: avoid	mindset	deserve	
+Note_Number-291: Sent_Number-5: work	
+Note_Number-291: Sent_Number-6: s	kind	saying	deserve	feed	toxins	worked	calories	
+Note_Number-291: Sent_Number-7: think	way	eat	time	have	tasty	dessert	planning	substituting	while	
+Note_Number-292: Sent_Number-1: bk	ideas	is	suggestions	regarding	bk	
+Note_Number-292: Sent_Number-2: remember	bananas	
+Note_Number-292: Sent_Number-3: is	serving	have	index	alternate	eating	
+Note_Number-292: Sent_Number-4: eggbeaters	are	choice	
+Note_Number-293: Sent_Number-1: want	have	guys	lot	are	show	squat	
+Note_Number-293: Sent_Number-2: get	have	lunge	
+Note_Number-293: Sent_Number-4: remember	allow	knee	move	toes	
+Note_Number-294: Sent_Number-1: dx	chol	chol	hdl	ldl	a1c	psa	
+Note_Number-294: Sent_Number-2: pt	is	end	stage	lung	lymph	nodes	brain	
+Note_Number-294: Sent_Number-3: spoke	patient	spouse	
+Note_Number-294: Sent_Number-4: md	stopped	chemo	weeks	
+Note_Number-294: Sent_Number-5: is	hospice	
+Note_Number-294: Sent_Number-6: bullard	rn	
+Note_Number-295: Sent_Number-1: bs	hga1c	bmi	have	pnf	loose	wgt	increase	exercise	pb	
+Note_Number-296: Sent_Number-1: hga1c	trig	have	pnf	goal	loose	wgt	
+Note_Number-297: Sent_Number-1: dx	htn	bp	chol	hdl	ldl	ha1c	
+Note_Number-297: Sent_Number-3: member	is	state	time	requested	check	bp	call	numbers	
+Note_Number-297: Sent_Number-4: bullard	rn	
+Note_Number-298: Sent_Number-1: bp	medication	have	pnf	goal	loose	wgt	
+Note_Number-298: Sent_Number-2: pb	
+Note_Number-299: Sent_Number-1: chol	trig	hdl	ldl	have	pnf	
+Note_Number-299: Sent_Number-2: goal	increase	exercise	
+Note_Number-299: Sent_Number-3: pb	
+Note_Number-300: Sent_Number-1: pt	has	seen	md	was	started	bp	medication	
+Note_Number-300: Sent_Number-2: pt	increasing	exercising	
+Note_Number-300: Sent_Number-3: email	monitoring	bp	thing	morning	fu	debbie	p	feb	pb	
+Note_Number-301: Sent_Number-3: bullard	rn	
+Note_Number-302: Sent_Number-1: member	called	response	message	
+Note_Number-302: Sent_Number-2: reviewed	screening	results	bs	a1c	bp	tchol	hdl	gti	ht	lbs	
+Note_Number-302: Sent_Number-3: screening	has	changed	diet	cut	carbohydrates	sugar	sweets	snacks	breads	sodas	is	eating	protein	fruits	salads	grilled	chicken	has	lost	seventeen	pounds	weeks	
+Note_Number-302: Sent_Number-4: sees	dr	week	discuss	treatment	diabetes	
+Note_Number-302: Sent_Number-5: has	family	history	diabetes	
+Note_Number-302: Sent_Number-6: is	motivated	take	care	
+Note_Number-302: Sent_Number-7: had	exercised	got	couple	years	
+Note_Number-302: Sent_Number-8: wife	are	planning	re	join	gym	get	routine	
+Note_Number-302: Sent_Number-9: discussed	diet	changes	exercise	ways	help	manage	blood	sugars	
+Note_Number-302: Sent_Number-10: call	let	know	labs	are	dr	visit	week	
+Note_Number-302: Sent_Number-11: congratulated	changes	progress	has	made	keep	appointments	md	
+Note_Number-302: Sent_Number-12: mailed	booklet	do	begin	
+Note_Number-302: Sent_Number-13: living	type	diabetes\\	diabetes	association	
+Note_Number-303: Sent_Number-1: known	glucose	chol	hdl	ldl	ha1c	
+Note_Number-303: Sent_Number-2: left	message	bullard	rn	
+Note_Number-304: Sent_Number-1: member	called	give	bp	reading	
+Note_Number-304: Sent_Number-2: 
+Note_Number-304: Sent_Number-3: bullard	rn	
+Note_Number-305: Sent_Number-1: went	
+Note_Number-305: Sent_Number-2: tested	blood	sugar	
+Note_Number-305: Sent_Number-4: test	months	sorry	
+Note_Number-306: Sent_Number-1: left	message	husband	member	return	call	concerning	know	number	screening	a1c	
+Note_Number-306: Sent_Number-2: blood	sugar	
+Note_Number-307: Sent_Number-1: teresa	states	joined	gym	crunch	days	
+Note_Number-307: Sent_Number-2: plans	start	machine	resistance	machines	
+Note_Number-307: Sent_Number-3: does	do	plank	exercise	home	
+Note_Number-307: Sent_Number-5: drinks	lots	detox	water	cukes	mint	
+Note_Number-307: Sent_Number-7: snacks	raw	almonds	fruit	
+Note_Number-307: Sent_Number-8: weight	
+Note_Number-307: Sent_Number-9: =	lbs	decrease	lbs	body	fat	%	decrease	%	waist	
+Note_Number-307: Sent_Number-10: (		increase	
+Note_Number-307: Sent_Number-11: teresa	agrees	gym	times	week	alternating	bicycle	doing	resistance	machines	
+Note_Number-307: Sent_Number-12: plans	have	sports	trainer	work	
+Note_Number-307: Sent_Number-13: decrease	egg	day	decrease	portion	
+Note_Number-307: Sent_Number-14: make	meals	balanced	
+Note_Number-307: Sent_Number-15: teresa	is	motivated	achieve	goal	weighing	months	
+Note_Number-307: Sent_Number-16: follow	appointment	
+Note_Number-307: Sent_Number-17: @	pm	
+Note_Number-308: Sent_Number-1: prediabetes	obesity	
+Note_Number-309: Sent_Number-1: member	returned	call	
+Note_Number-309: Sent_Number-2: has	had	diagnosis	diabetes	years	
+Note_Number-309: Sent_Number-3: discussed	glucose	a1c	
+Note_Number-309: Sent_Number-4: aware	results	are	
+Note_Number-309: Sent_Number-5: states	\\i	have	teenage	children	am	going	nursing	school	husband	has	condition	have	take	care	
+Note_Number-309: Sent_Number-7: permission	received	fax	results	lorie	szoka	p	
+Note_Number-309: Sent_Number-8: dr	norem	office	done	
+Note_Number-309: Sent_Number-9: agrees	make	appointment	see	lorie	szoka	
+Note_Number-310: Sent_Number-1: received	screening	results	dated	tchol	hdl	ldl	tri	bp	pulse	ht	lbs	waist	circ	
+Note_Number-310: Sent_Number-2: 
+Note_Number-311: Sent_Number-1: karen	worked	times	week	august	proceeded	regain	lbs	
+Note_Number-311: Sent_Number-2: has	purchased	used	townee	
+Note_Number-311: Sent_Number-5: has	calorie	smoothie	mornings	week	lunch	is	controlled	portions	is	dinner	has	granola	bars	evening	
+Note_Number-311: Sent_Number-6: weight	lbs	increase	body	ft	%	increase	%	
+Note_Number-311: Sent_Number-7: karen	agrees	start	riding	townee	bike	times	week	minutes	building	minutes	
+Note_Number-311: Sent_Number-9: cheese	cottage	cheese	greek	yogurt	
+Note_Number-311: Sent_Number-10: have	fruits	nuts	air	popped	popcorn	evening	snack	
+Note_Number-311: Sent_Number-11: weight	goal	months	
+Note_Number-311: Sent_Number-12: follow	appointment	jan	pm	
+Note_Number-312: Sent_Number-1: hyperlipidemia	obesity	class	iii	htn	
+Note_Number-313: Sent_Number-2: does	yard	work	exercise	
+Note_Number-313: Sent_Number-3: lunch	is	granola	bar	
+Note_Number-313: Sent_Number-4: breakfast	dinner	are	
+Note_Number-313: Sent_Number-5: snacks	are	fruit	almonds	
+Note_Number-313: Sent_Number-6: weight	increase	lbs	body	fat	%	increase	%	
+Note_Number-313: Sent_Number-7: hga1c	%	takes	statin	med	
+Note_Number-313: Sent_Number-8: agrees	keep	carb	intake	
+Note_Number-313: Sent_Number-9: servings	foods	day	
+Note_Number-313: Sent_Number-10: set	bicycle	start	using	times	week	
+Note_Number-313: Sent_Number-11: switch	granola	bar	almonds	fruit	
+Note_Number-313: Sent_Number-12: goal	weight	
+Note_Number-313: Sent_Number-13: =	lbs	
+Note_Number-314: Sent_Number-1: prediabetes	obesity	oa	sjorgrens	
+Note_Number-315: Sent_Number-1: member	replied	email	yesterday	morning	ashley	am	returning	work	got	e	mail	
+Note_Number-315: Sent_Number-2: be	reached	extension	
+Note_Number-315: Sent_Number-4: passed	hour	time	frame	
+Note_Number-315: Sent_Number-5: please	contact	asap	
+Note_Number-315: Sent_Number-6: thanks	quinell	stedman	acess	cordinator	gi	lab	ext	
+Note_Number-315: Sent_Number-7: 
+Note_Number-316: Sent_Number-1: spoke	member	regards	a1c	explained	is	considered	pre	passes	state	
+Note_Number-316: Sent_Number-4: explained	a1c	bs	have	been	averaging	
+Note_Number-316: Sent_Number-5: member	states	has	been	addicted	dessert	has	been	making	fruit	cake	mix	sugar	butter	
+Note_Number-316: Sent_Number-6: has	been	eating	over	summer	months	
+Note_Number-316: Sent_Number-7: encourage	cut	watch	carb	intake	exercise	
+Note_Number-316: Sent_Number-8: states	make	appointment	pcp	discuss	results	
+Note_Number-316: Sent_Number-9: bullard	rn	
+Note_Number-317: Sent_Number-2: follwup	call	today	avis	reads	labs	gfr	was	
+Note_Number-317: Sent_Number-3: sees	nephrologist	
+Note_Number-317: Sent_Number-4: goes	labs	
+Note_Number-317: Sent_Number-5: bp	
+Note_Number-317: Sent_Number-6: teaching	re	goal	get	
+Note_Number-317: Sent_Number-8: did	packet	teaching	material	discussed	options	dialysis	diet	danger	s	s	
+Note_Number-317: Sent_Number-9: main	symptom	is	puffiness	eyes	weight	pain	elbows	knees	cramps	night	walking	
+Note_Number-317: Sent_Number-10: teaching	re	main	goal	is	watch	bp	agrees	ck	
+Note_Number-317: Sent_Number-11: verbalizes	foods	sodium	avoid	
+Note_Number-317: Sent_Number-12: hernia	bothering	teaching	re	hernia	belt	support	
+Note_Number-317: Sent_Number-13: coping	
+Note_Number-317: Sent_Number-14: \\i	get	sees	counselor	
+Note_Number-317: Sent_Number-15: called	find	dr	kyi	phone	number	
+Note_Number-317: Sent_Number-16: requested	med	records	
+Note_Number-318: Sent_Number-1: dx	htn	bp	glucose	chol	hdl	ldl	hgba1c	psa	
+Note_Number-318: Sent_Number-2: spoke	member	regards	bp	
+Note_Number-318: Sent_Number-4: states	had	taken	bp	med	morning	
+Note_Number-318: Sent_Number-5: states	had	morning	
+Note_Number-318: Sent_Number-6: requested	member	recheck	bp	call	results	
+Note_Number-318: Sent_Number-7: discussed	lab	results	member	
+Note_Number-318: Sent_Number-8: states	call	rechecks	bp	
+Note_Number-318: Sent_Number-9: bullard	rn	talked	member	phone	
+Note_Number-318: Sent_Number-10: discussed	a1c	fasting	
+Note_Number-319: Sent_Number-1: glucose	
+Note_Number-320: Sent_Number-1: conversation	reported	has	been	diagnosed	diabetes	
+Note_Number-321: Sent_Number-1: reports	results	is	
+Note_Number-321: Sent_Number-4: reports	walks	times	week	minutes	time	tries	work	walking	day	
+Note_Number-321: Sent_Number-5: gave	nurse	permission	fax	lab	results	dr	lawrence	done	
+Note_Number-322: Sent_Number-1: agrees	make	appointment	up	weeks	
+Note_Number-323: Sent_Number-1: known	chol	hdl	ldl	hgba1c	psa	
+Note_Number-323: Sent_Number-2: left	message	bullard	rn	
+Note_Number-324: Sent_Number-3: is	watching	sugar	intake	carbohydrade	
+Note_Number-324: Sent_Number-4: is	exercising	times	week	min	time	
+Note_Number-324: Sent_Number-5: mother	father	were	
+Note_Number-324: Sent_Number-6: discussed	chol	is	taking	chol	med	
+Note_Number-324: Sent_Number-7: states	eats	red	meat	encouraged	switch	chicken	chol	
+Note_Number-324: Sent_Number-8: is	follwup	pcp	jan	
+Note_Number-325: Sent_Number-1: left	message	member	return	call	re	kyn	results	
+Note_Number-325: Sent_Number-2: results	follows	fbs	a1c	tchol	tri	ldl	hdl	bp	ht	pulse	
+Note_Number-326: Sent_Number-1: known	glucose	chol	hdl	hgba1c	left	message	bullard	rn	
+Note_Number-327: Sent_Number-1: member	had	called	left	message	nurse	office	
+Note_Number-327: Sent_Number-2: nurse	returned	call	
+Note_Number-327: Sent_Number-3: discussed	blood	sugar	result	day	kyn	screening	
+Note_Number-327: Sent_Number-4: has	diagnosis	diabetes	is	medications	diabetes	
+Note_Number-327: Sent_Number-5: member	aware	results	are	
+Note_Number-327: Sent_Number-6: instructed	concerning	showing	blood	sugar	is	averaging	months	
+Note_Number-327: Sent_Number-7: reports	has	appointment	tomorrow	
+Note_Number-327: Sent_Number-8: agrees	nurse	fax	lab	results	
+Note_Number-327: Sent_Number-9: discussed	staying	sugar	sweetened	drinks	changing	whole	grains	eating	carbohydrates	
+Note_Number-327: Sent_Number-10: discussed	incorporating	exercise	lifestyle	e	
+Note_Number-327: Sent_Number-11: taking	stairs	elevator	parking	destinations	increase	walking	distance	
+Note_Number-327: Sent_Number-12: discussed	eating	leafy	vegetables	meals	
+Note_Number-328: Sent_Number-1: eaty	starchy	vegetables	corn	lima	beans	
+Note_Number-328: Sent_Number-2: verbalizes	is	going	change	diet	
+Note_Number-328: Sent_Number-3: asked	member	call	weeks	let	know	diet	changes	are	working	
+Note_Number-329: Sent_Number-2: spoke	spouse	son	informed	call	
+Note_Number-329: Sent_Number-3: bullard	rn	
+Note_Number-330: Sent_Number-1: tep	
+Note_Number-330: Sent_Number-2: smokes	cigarettes	day	
+Note_Number-330: Sent_Number-4: smokes	is	board	
+Note_Number-330: Sent_Number-6: feels	content	is	today	
+Note_Number-331: Sent_Number-1: jeffrey	called	left	message	
+Note_Number-331: Sent_Number-2: discussed	blood	sugar	
+Note_Number-331: Sent_Number-3: is	taking	victoza	qday	metformin	bid	
+Note_Number-331: Sent_Number-4: is	performing	accu	checks	bid	
+Note_Number-331: Sent_Number-6: states	does	watch	carb	intake	drinks	diet	drinks	approx	day	
+Note_Number-331: Sent_Number-7: states	sips	water	day	encouraged	drink	water	
+Note_Number-331: Sent_Number-8: states	is	detoxing	pain	medication	does	twice	year	ordered	md	build	tolerance	
+Note_Number-331: Sent_Number-9: states	going	process	raises	glucose	
+Note_Number-331: Sent_Number-10: discussed	lab	results	member	encouraged	raise	hdl	diet	almonds	walnuts	lowering	red	meat	intake	
+Note_Number-331: Sent_Number-11: has	appointment	pcp	nov	
+Note_Number-331: Sent_Number-12: bullard	rn	
+Note_Number-332: Sent_Number-1: known	glucose	chol	hdl	ldl	hgba1c	psa	spoke	member	states	sugar	is	morning	was	
+Note_Number-332: Sent_Number-2: takes	novolog	sliding	scale	day	morning	lantus	morning	states	does	accu	checks	day	
+Note_Number-332: Sent_Number-3: encouraged	check	twice	day	
+Note_Number-332: Sent_Number-4: states	watches	carb	intake	
+Note_Number-332: Sent_Number-5: exercising	couple	times	week	
+Note_Number-332: Sent_Number-6: has	appointment	pcp	month	
+Note_Number-332: Sent_Number-7: bullard	rn	
+Note_Number-334: Sent_Number-1: discussed	glucose	hgba1c	
+Note_Number-334: Sent_Number-3: explained	importance	insulin	body	blood	sugars	are	doing	kidneys	eyes	member	states	has	legs	
+Note_Number-334: Sent_Number-4: states	tries	exercise	legs	hurt	
+Note_Number-334: Sent_Number-5: states	cut	carbohydrade	diet	eats	baked	chicken	
+Note_Number-334: Sent_Number-8: informed	fax	results	office	call	today	see	be	seen	sooner	
+Note_Number-334: Sent_Number-9: bullard	rn	
+Note_Number-335: Sent_Number-1: left	message	member	return	call	review	screening	results	
+Note_Number-335: Sent_Number-2: results	follows	fbs	(		none	bp	tchol	hdl	ldl	tri	ht	lbs	
+Note_Number-337: Sent_Number-1: member	states	bp	was	elevated	day	screening	was	stressed	
+Note_Number-337: Sent_Number-2: had	rechecked	is	
+Note_Number-337: Sent_Number-3: reviewed	screening	results	
+Note_Number-337: Sent_Number-4: does	have	md	sees	
+Note_Number-337: Sent_Number-6: goal	is	lose	weight	goal	weight	is	pounds	
+Note_Number-337: Sent_Number-7: is	approx	
+Note_Number-337: Sent_Number-8: has	lost	pounds	month	drinking	water	cutting	sugar	salt	
+Note_Number-337: Sent_Number-9: does	dance	exercise	times	week	
+Note_Number-337: Sent_Number-10: uses	grain	products	eats	chicken	(		skinless	lunch	dinner	meals	
+Note_Number-337: Sent_Number-11: commended	losing	pounds	encouraged	continue	efforts	
+Note_Number-337: Sent_Number-12: encouraged	excercise	
+Note_Number-337: Sent_Number-14: is	motivated	lose	weight	
+Note_Number-337: Sent_Number-15: sent	information	email	
+Note_Number-338: Sent_Number-1: known	glucose	chol	hdl	hgba1c	
+Note_Number-338: Sent_Number-2: left	message	son	bullard	rn	
+Note_Number-339: Sent_Number-1: known	glucose	chol	hdl	ldl	hgba1c	psa	
+Note_Number-339: Sent_Number-2: left	message	bullard	rn	
+Note_Number-340: Sent_Number-1: spoke	member	length	kyn	results	
+Note_Number-340: Sent_Number-2: hgba1c	has	increased	
+Note_Number-340: Sent_Number-3: bp	elevated	
+Note_Number-340: Sent_Number-4: cholesterol	decreased	hdl	ldl	decreased	maintains	
+Note_Number-340: Sent_Number-5: discussed	decreased	carbohydrade	increased	water	fruits	vegetables	
+Note_Number-340: Sent_Number-6: investigating	swimming	ymca	knees	cause	pain	walking	
+Note_Number-340: Sent_Number-7: mailed	guide\\	member	discusses	portion	control	carb	counting	lists	types	carbohydrade	
+Note_Number-341: Sent_Number-1: known	htn	
+Note_Number-341: Sent_Number-2: glucose	chol	hdl	ldl	hgba1c	psa	left	message	
+Note_Number-342: Sent_Number-1: hi	thought	grocery	guide	be	
+Note_Number-342: Sent_Number-2: please	see	pages	lists	carbohydrates	amount	carbohydrates	eat	meal	
+Note_Number-342: Sent_Number-3: carbohydrates	are	starches	breads	crackers	eat	increase	blood	sugar	
+Note_Number-342: Sent_Number-4: see	pages	
+Note_Number-342: Sent_Number-5: please	pay	attention	portion	sizes	page	
+Note_Number-342: Sent_Number-6: hope	helps	please	call	questions	
+Note_Number-342: Sent_Number-7: have	day	
+Note_Number-342: Sent_Number-8: lori	
+Note_Number-343: Sent_Number-1: known	htn	
+Note_Number-343: Sent_Number-2: glucose	chol	hdl	ldl	
+Note_Number-343: Sent_Number-3: hgba1c	
+Note_Number-343: Sent_Number-4: psa	
+Note_Number-343: Sent_Number-5: left	message	bullard	rn	
+Note_Number-344: Sent_Number-1: dx	htn	bp	med	listed	questionnaire	
+Note_Number-344: Sent_Number-4: reviewed	cholesterol	member	
+Note_Number-344: Sent_Number-5: states	has	had	chol	
+Note_Number-344: Sent_Number-6: states	eats	red	meat	states	eats	alot	chicken	
+Note_Number-344: Sent_Number-7: does	have	family	history	
+Note_Number-344: Sent_Number-9: bullard	rn	
+Note_Number-345: Sent_Number-1: was	talking	afternoon	
+Note_Number-345: Sent_Number-2: ?	m	excited	success	losing	pounds	is	start	
+Note_Number-345: Sent_Number-3: are	doing	right	way	exercise	
+Note_Number-345: Sent_Number-4: keep	work	
+Note_Number-345: Sent_Number-5: have	attached	information	discussed	find	
+Note_Number-345: Sent_Number-6: ?	m	looking	talking	share	excitement	success	
+Note_Number-345: Sent_Number-7: have	afternoon	
+Note_Number-346: Sent_Number-1: discussed	kyn	results	member	
+Note_Number-346: Sent_Number-2: has	diagnosis	diabetes	
+Note_Number-346: Sent_Number-3: 
+Note_Number-346: Sent_Number-4: blood	pressure165	/	
+Note_Number-346: Sent_Number-5: reports	taking	medications	diabetes	blood	pressure	ordered	
+Note_Number-346: Sent_Number-8: reports	have	wife	check	blood	pressure	call	results	tomorrow	
+Note_Number-346: Sent_Number-9: reports	has	appointment	see	december	sees	every	months	
+Note_Number-347: Sent_Number-1: discussed	kyn	results	member	
+Note_Number-347: Sent_Number-2: has	diagnosis	diabetes	
+Note_Number-347: Sent_Number-3: 
+Note_Number-347: Sent_Number-4: blood	pressure165	/	
+Note_Number-347: Sent_Number-5: reports	taking	medications	diabetes	blood	pressure	ordered	
+Note_Number-347: Sent_Number-7: reports	have	wife	check	blood	pressure	call	results	tomorrow	
+Note_Number-347: Sent_Number-8: reports	has	appointment	see	december	sees	every	months	
+Note_Number-348: Sent_Number-1: bp	doctor	appointment	
+Note_Number-348: Sent_Number-2: 
+Note_Number-349: Sent_Number-1: discussed	kyn	results	member	
+Note_Number-349: Sent_Number-2: a1c	
+Note_Number-349: Sent_Number-4: instructed	level	is	
+Note_Number-349: Sent_Number-5: informed	association	puts	level	category	diabeties	
+Note_Number-349: Sent_Number-6: instructed	say	has	diabetes	nurse	needs	make	appointment	be	checked	
+Note_Number-349: Sent_Number-7: instructed	concerning	glucose	tolerance	testing	test	be	ordered	
+Note_Number-349: Sent_Number-8: agrees	nurse	fax	lab	results	dr	okon	
+Note_Number-349: Sent_Number-10: instructed	concerning	staying	drinks	sugar	deserts	help	bring	a1c	level	
+Note_Number-349: Sent_Number-11: instructed	bread	rice	pasta	go	blood	stream	sugar	
+Note_Number-349: Sent_Number-12: agrees	change	whole	grains	
+Note_Number-350: Sent_Number-1: dx	htn	chol	diabetes	
+Note_Number-350: Sent_Number-2: bp	chol	hdl	ldl	hgba1c	
+Note_Number-350: Sent_Number-3: spoke	member	bp	states	has	coat	syndrome	checks	bp	twice	day	readings126	/	
+Note_Number-350: Sent_Number-4: is	taken	losartan	states	has	been	med	bp	
+Note_Number-350: Sent_Number-5: states	hates	getting	blood	drawn	
+Note_Number-350: Sent_Number-7: encouraged	cut	red	meat	eat	whole	grains	fiber	
+Note_Number-350: Sent_Number-8: has	appointment	pcp	nov	
+Note_Number-350: Sent_Number-9: faxing	labs	office	patient	request	
+Note_Number-350: Sent_Number-10: bullard	rn	
+Note_Number-351: Sent_Number-1: shannon	was	reach	kim	fannin	myself	
+Note_Number-351: Sent_Number-2: have	sent	email	contact	information	information	are	needing	are	needing	information	
+Note_Number-351: Sent_Number-3: forward	information	receive	receive	contact	
+Note_Number-351: Sent_Number-5: keep	updated	
+Note_Number-351: Sent_Number-6: thank	
+Note_Number-352: Sent_Number-1: hx	chole	
+Note_Number-352: Sent_Number-2: glucose	hdl	ldl	hgba1c	psa	
+Note_Number-352: Sent_Number-3: spoke	wife	member	has	received	kyn	results	mail	
+Note_Number-352: Sent_Number-4: wife	said	was	trig	were	informed	thats	was	calling	re	enforce	seeing	doctor	levels	lead	pancreatitis	
+Note_Number-352: Sent_Number-5: was	chol	was	elevated	
+Note_Number-352: Sent_Number-6: states	returned	beach	plans	call	dr	patel	tomorrow	schedule	appointment	
+Note_Number-352: Sent_Number-7: bullard	rn	
+Note_Number-353: Sent_Number-1: tep	
+Note_Number-353: Sent_Number-3: sees	term	change	
+Note_Number-354: Sent_Number-2: glucose	hdl	ldl	trig170	hgba1c	psa	
+Note_Number-354: Sent_Number-3: left	message	
+Note_Number-354: Sent_Number-4: bullard	rn	
+Note_Number-355: Sent_Number-1: dx	ht	bp	
+Note_Number-355: Sent_Number-2: glucose	hdl	ldl	hgba1c	
+Note_Number-355: Sent_Number-3: left	message	
+Note_Number-355: Sent_Number-4: bullard	rn	
+Note_Number-356: Sent_Number-1: am	wellness	coordinator	city	lawrence	
+Note_Number-356: Sent_Number-2: andrew	let	know	had	contacted	children	documantation	
+Note_Number-356: Sent_Number-3: checked	choice	did	documentation	today	
+Note_Number-356: Sent_Number-4: thank	
+Note_Number-357: Sent_Number-1: known	glucose	hdl	ldl	
+Note_Number-357: Sent_Number-2: hgba1c	
+Note_Number-357: Sent_Number-3: member	left	work	number	questionnaire	
+Note_Number-357: Sent_Number-4: email	member	
+Note_Number-357: Sent_Number-5: bullard	rn	
+Note_Number-358: Sent_Number-2: had	doctors	appointment	was	office	
+Note_Number-358: Sent_Number-3: call	tomorrow	speak	qha	needed	be	completed	coming	year	
+Note_Number-358: Sent_Number-4: thought	send	email	list	need	
+Note_Number-358: Sent_Number-5: biometrics	health	risk	assessment	follow	call	depending	results	
+Note_Number-358: Sent_Number-6: colonoscopy	mammogram	noticed	year	doctor	waived	colonoscopy	mammogram	
+Note_Number-358: Sent_Number-7: is	something	recommends	need	documentation	
+Note_Number-358: Sent_Number-8: please	let	know	have	questions	
+Note_Number-358: Sent_Number-9: thank	
+Note_Number-359: Sent_Number-1: spoke	member	regarding	glucose	a1c	
+Note_Number-359: Sent_Number-3: member	states	was	fasting	time	screening	
+Note_Number-359: Sent_Number-4: member	has	family	history	diabetes	mother	
+Note_Number-359: Sent_Number-5: explained	member	a1c	level	shows	bs	months	
+Note_Number-359: Sent_Number-6: explained	is	lab	used	testing	
+Note_Number-359: Sent_Number-9: encouraged	member	set	appointment	pcp	discuss	results	decide	kind	measures	want	take	be	exercise	medication	
+Note_Number-359: Sent_Number-12: informed	member	fax	results	pcp	go	make	appointment	
+Note_Number-359: Sent_Number-13: bullard	rn	
+Note_Number-360: Sent_Number-1: member	called	has	received	kyn	results	mail	
+Note_Number-360: Sent_Number-2: discussed	bp	
+Note_Number-360: Sent_Number-3: states	wife	has	been	checking	home	remains	
+Note_Number-360: Sent_Number-4: states	is	going	make	appointment	md	states	mother	was	bp	med	remember	dad	dies	hepatitis	
+Note_Number-360: Sent_Number-6: encouraged	exercise	times	week	min	time	
+Note_Number-360: Sent_Number-9: does	eat	alot	red	meat	steak	hamburger	
+Note_Number-360: Sent_Number-10: encouraged	cut	needs	red	meat	choose	leaner	meat	pork	loin	sirloin	
+Note_Number-360: Sent_Number-11: member	states	is	going	start	exercising	dieting	is	going	see	bp	
+Note_Number-360: Sent_Number-12: bullard	rn	
+Note_Number-361: Sent_Number-1: member	called	nurse	
+Note_Number-361: Sent_Number-2: discussed	elevated	blood	pressure	day	screening	
+Note_Number-361: Sent_Number-3: said	had	blood	pressure	retaken	day	screening	went	work	
+Note_Number-361: Sent_Number-6: agrees	get	blood	pressure	taken	call	results	today	
+Note_Number-362: Sent_Number-1: member	called	speak	nurse	
+Note_Number-362: Sent_Number-2: discussed	elevated	a1c	explained	diagnosis	diabetes	number	is	shows	blood	sugar	has	been	averaging	months	
+Note_Number-362: Sent_Number-3: reports	is	concerned	elevated	blood	sugar	has	appointment	dr	perez	week	agrees	nurse	fax	lab	results	dr	shauna	perez	
+Note_Number-362: Sent_Number-4: reports	is	staying	sweets	has	started	eating	grain	carbohydrates	carbohydrates	
+Note_Number-363: Sent_Number-1: member	called	response	letter	
+Note_Number-363: Sent_Number-2: has	been	wife	had	knee	replacement	
+Note_Number-363: Sent_Number-3: continues	follow	heart	healthy	diet	drinking	eating	vegetables	meats	
+Note_Number-363: Sent_Number-4: blood	sugars	are	running	bp	averages	being	
+Note_Number-363: Sent_Number-5: stated	md	is	thrilled	progress	
+Note_Number-363: Sent_Number-6: has	reached	plateau	losing	pounds	
+Note_Number-363: Sent_Number-7: md	did	stress	test	gave	ok	begin	exercising	
+Note_Number-363: Sent_Number-8: plan	is	join	gym	do	cardio	resistance	exercise	
+Note_Number-363: Sent_Number-9: commended	weight	loss	improving	numbers	encouraged	keep	work	
+Note_Number-364: Sent_Number-1: called	clarify	email	explain	insurance	covers	care	exam	calendar	year	december	
+Note_Number-365: Sent_Number-1: dep	follwup	
+Note_Number-365: Sent_Number-2: keeping	bg	's	basis	
+Note_Number-365: Sent_Number-3: has	been	working	meal	planning	food	log	fitness	pal	
+Note_Number-365: Sent_Number-4: doctor	likes	keep	weight	bmi	bmi	
+Note_Number-365: Sent_Number-6: drinks	water	exercises	decrease	bg	
+Note_Number-365: Sent_Number-7: curves	week	
+Note_Number-365: Sent_Number-8: goal	curves	week	weight	loss	goal	weight	home	scale	walking	week	
+Note_Number-365: Sent_Number-9: plan	provide	carb	cookie	candy	fudge	recipes	holidays	holiday	eating	tips	
+Note_Number-366: Sent_Number-1: member	sees	md	
+Note_Number-366: Sent_Number-2: md	is	working	medication	help	bp	
+Note_Number-366: Sent_Number-3: working	regulate	medication	feels	cholesterol	being	elevated	is	related	thyroid	function	being	
+Note_Number-366: Sent_Number-4: sees	md	tomorrow	
+Note_Number-366: Sent_Number-6: eats	heart	is	drinking	water	sodas	
+Note_Number-366: Sent_Number-7: encouraged	stay	touch	md	keep	log	bp	thyroid	symptoms	help	regulating	medication	
+Note_Number-366: Sent_Number-8: discussed	tips	taking	medication	taking	empty	stomach	wait	minutes	hour	eating	taking	anything	taking	med	night	help	absorption	
+Note_Number-366: Sent_Number-9: follow	member	
+Note_Number-367: Sent_Number-1: known	chol	hdl	ldl	hgba1c	
+Note_Number-367: Sent_Number-2: left	message	bullard	rn	
+Note_Number-368: Sent_Number-1: spoke	member	regards	glucose	hgba1c	
+Note_Number-368: Sent_Number-2: member	states	takes	glucophage	bid	novolog	units	bid	
+Note_Number-368: Sent_Number-3: states	started	exercising	week	times	week	approx	min	time	walking	weight	training	
+Note_Number-368: Sent_Number-4: states	was	eating	alot	bread	has	cut	
+Note_Number-368: Sent_Number-5: encouraged	try	wheat	needs	kind	bread	drinks	drinks	
+Note_Number-368: Sent_Number-6: is	drinking	apple	juice	cranberry	juice	
+Note_Number-368: Sent_Number-7: informed	member	are	sugar	cut	
+Note_Number-368: Sent_Number-8: went	cholesterol	level	states	eats	red	meat	approx	times	week	
+Note_Number-368: Sent_Number-9: encouraged	eat	chicken	choose	leaner	meats	
+Note_Number-368: Sent_Number-10: has	appointment	pcp	week	
+Note_Number-368: Sent_Number-11: fax	results	
+Note_Number-369: Sent_Number-1: member	is	being	treated	md	elevated	cholesterol	started	taking	medication	cholesterol	month	
+Note_Number-369: Sent_Number-4: issues	run	family	
+Note_Number-369: Sent_Number-6: stated	eats	lot	pasta	
+Note_Number-369: Sent_Number-7: encouraged	use	grain	pasta	watch	portion	sizes	cup	
+Note_Number-369: Sent_Number-9: goal	is	lose	weight	
+Note_Number-369: Sent_Number-10: encouraged	exercise	whenever	walking	is	start	
+Note_Number-369: Sent_Number-11: sees	md	week	repeat	cholesterol	level	
+Note_Number-370: Sent_Number-1: known	chol	hdl	ldl	hgba1c	
+Note_Number-370: Sent_Number-2: left	message	mother	
+Note_Number-370: Sent_Number-3: bullard	rn	
+Note_Number-371: Sent_Number-1: vm	message	left	member	return	call	concerning	kyn	results	lab	values	
+Note_Number-372: Sent_Number-1: asked	oe	is	
+Note_Number-372: Sent_Number-2: is	retired	
+Note_Number-372: Sent_Number-3: gave	kim	fannin	number	receive	information	
+Note_Number-373: Sent_Number-2: left	message	
+Note_Number-374: Sent_Number-1: received	call	member	
+Note_Number-374: Sent_Number-3: discussed	a1c	discuss	changes	gi	md	hx	celiac	disease	
+Note_Number-374: Sent_Number-5: states	celiac	disease	is	
+Note_Number-374: Sent_Number-6: continues	work	goal	wellness	
+Note_Number-375: Sent_Number-1: tep	
+Note_Number-375: Sent_Number-2: correction	has	been	smoking	years	
+Note_Number-375: Sent_Number-3: has	attempt	cut	
+Note_Number-375: Sent_Number-4: use	smoke	backs	day	
+Note_Number-375: Sent_Number-5: cut	reasons	
+Note_Number-375: Sent_Number-6: quitting	has	crossed	mind	enjoys	smoking	is	stress	relief	
+Note_Number-375: Sent_Number-7: has	thought	date	time	like	quite	
+Note_Number-376: Sent_Number-1: member	states	bp	was	elevated	screening	drank	energy	drink	appointment	went	md	office	set	appointment	have	screening	done	were	see	had	drank	energy	drink	
+Note_Number-376: Sent_Number-2: states	bp	runs	
+Note_Number-376: Sent_Number-3: eats	heart	exercises	doing	zumba	twice	
+Note_Number-376: Sent_Number-4: reviewed	screening	results	
+Note_Number-376: Sent_Number-5: encouraged	keep	health	habits	goal	is	maintenance	health	
+Note_Number-377: Sent_Number-1: spoke	member	regards	blood	sugar	level	hgba1c	
+Note_Number-377: Sent_Number-3: informed	member	according	ada	level	is	considered	is	end	
+Note_Number-377: Sent_Number-4: informed	be	regulate	exercise	
+Note_Number-377: Sent_Number-5: informed	needs	speak	pcp	go	results	
+Note_Number-377: Sent_Number-6: member	states	drinks	drinks	day	encourage	cut	drink	water	switch	diet	drinks	
+Note_Number-377: Sent_Number-7: encouraged	cut	sweets	eats	cakes	
+Note_Number-377: Sent_Number-8: encouraged	cut	starches	
+Note_Number-377: Sent_Number-9: encouraged	exercise	times	week	min	time	
+Note_Number-377: Sent_Number-10: member	call	pcp	make	appointment	
+Note_Number-377: Sent_Number-11: lab	results	faxed	
+Note_Number-377: Sent_Number-12: bullard	rn	
+Note_Number-378: Sent_Number-1: called	member	review	screening	results	left	message	return	call	
+Note_Number-378: Sent_Number-2: results	follows	fbs	bp	tchol	hdl	ldl	tri	ht	
+Note_Number-379: Sent_Number-1: member	returned	call	
+Note_Number-379: Sent_Number-2: saw	md	reviewed	results	md	determined	triglycerides	are	elevated	nasal	steroid	spray	has	been	using	
+Note_Number-379: Sent_Number-3: md	be	repeating	labs	
+Note_Number-379: Sent_Number-4: member	is	taking	fenofibrate	statin	medication	help	reduce	lipids	is	tolerating	medications	
+Note_Number-379: Sent_Number-5: is	doing	yoga	exercising	has	been	bronchitis	shoulder	injury	months	
+Note_Number-379: Sent_Number-6: has	had	flu	shot	fall	
+Note_Number-379: Sent_Number-7: follow	member	months	see	lipids	are	coming	
+Note_Number-379: Sent_Number-8: encouraged	keep	appointments	
+Note_Number-380: Sent_Number-2: left	message	bullard	rn	
+Note_Number-381: Sent_Number-1: diabetes	weight	loss	counseling	
+Note_Number-382: Sent_Number-1: heidi	reports	doctor	appointment	week	weight	was	
+Note_Number-382: Sent_Number-2: has	lost	since	
+Note_Number-382: Sent_Number-3: praise	received	weight	loss	
+Note_Number-382: Sent_Number-4: is	concerned	a1c	be	elevated	
+Note_Number-382: Sent_Number-5: fbg	are	blood	glucoses	are	mg	dl	
+Note_Number-382: Sent_Number-6: has	cravings	snack	bedtime	
+Note_Number-382: Sent_Number-8: wrote	week	worth	dinner	menus	
+Note_Number-382: Sent_Number-9: are	prepare	varied	satisfying	
+Note_Number-382: Sent_Number-10: emphasized	meals	be	balance	protein	fiber	carb	heart	fats	
+Note_Number-382: Sent_Number-11: comprehension	
+Note_Number-382: Sent_Number-12: inform	lab	results	discuss	phone	email	
+Note_Number-383: Sent_Number-2: left	message	
+Note_Number-383: Sent_Number-3: bullard	rn	
+Note_Number-384: Sent_Number-1: email	sent	schedule	diabetes	education	
+Note_Number-385: Sent_Number-1: member	called	verify	receipt	screening	form	
+Note_Number-385: Sent_Number-2: reviewed	results	member	fbs	bp	tchol	hdl	ldl	triglycerides	
+Note_Number-385: Sent_Number-3: member	states	does	try	watch	diet	eat	heart	
+Note_Number-385: Sent_Number-4: does	use	half	cereal	
+Note_Number-385: Sent_Number-5: encouraged	use	skim	%	%	milk	
+Note_Number-385: Sent_Number-6: discussed	diet	changes	help	reduce	ldl	
+Note_Number-385: Sent_Number-7: walks	exercise	
+Note_Number-385: Sent_Number-8: had	pap	mammogram	past	april	
+Note_Number-385: Sent_Number-9: like	stop	smoking	has	gotten	e	cigarette	help	goal	
+Note_Number-385: Sent_Number-10: had	been	taking	medication	oseoporosis	stopped	taking	cost	is	using	something	counter	
+Note_Number-385: Sent_Number-11: encouraged	talk	pharmacist	md	see	is	medication	benefit	
+Note_Number-386: Sent_Number-1: known	htn	chole	
+Note_Number-386: Sent_Number-2: taking	bp	medication	chol	medication	
+Note_Number-386: Sent_Number-3: glucose	hgba1c	hdl	ldl	
+Note_Number-386: Sent_Number-4: psa	
+Note_Number-386: Sent_Number-5: takes	metformin	novolog	lantus	
+Note_Number-386: Sent_Number-7: informed	cut	items	eat	grain	
+Note_Number-386: Sent_Number-9: encouraged	do	
+Note_Number-386: Sent_Number-10: has	doc	appointment	see	sooner	
+Note_Number-386: Sent_Number-11: checks	bs	once	while\\	encouraged	check	sugar	day	see	running	is	managed	
+Note_Number-386: Sent_Number-12: bullard	rn	
+Note_Number-387: Sent_Number-1: email	sent	schedule	appointment	
+Note_Number-388: Sent_Number-1: ms	deas	called	inform	is	doing	
+Note_Number-388: Sent_Number-2: stated	made	is	waiting	nutritionist	return	phone	call	
+Note_Number-388: Sent_Number-3: saw	eye	md	today	
+Note_Number-388: Sent_Number-4: is	checking	sugars	using	book	
+Note_Number-388: Sent_Number-5: is	pleased	everything	
+Note_Number-388: Sent_Number-6: did	answer	questions	had	program	book	gds	
+Note_Number-389: Sent_Number-2: known	htn	chole	
+Note_Number-389: Sent_Number-3: taking	bp	med	chole	med	
+Note_Number-389: Sent_Number-4: glucose	hdl	ldl	hgba1c	
+Note_Number-389: Sent_Number-6: mother	father	are	
+Note_Number-389: Sent_Number-7: eats	alot	bread	pastas	
+Note_Number-389: Sent_Number-8: encouraged	cut	turns	sugar	
+Note_Number-389: Sent_Number-9: states	has	lost	sept	
+Note_Number-389: Sent_Number-10: informed	member	speak	pcp	discuss	options	be	control	exercise	
+Note_Number-389: Sent_Number-11: discussed	member	
+Note_Number-389: Sent_Number-12: states	is	taking	chole	med	doesnt	take	is	supposed	takes	remembers	
+Note_Number-389: Sent_Number-13: encourage	take	prescribed	eats	red	meat	approo7	times	week	
+Note_Number-389: Sent_Number-14: encouraged	cut	down	eat	chicken	wants	red	meat	eat	leaner	choices	pork	loin	sirloin	
+Note_Number-389: Sent_Number-16: mentioned	living	program	had	questions	
+Note_Number-389: Sent_Number-17: informed	letha	was	contact	program	
+Note_Number-389: Sent_Number-18: transferred	member	letha	informed	member	follow	pcp	receives	packet	
+Note_Number-390: Sent_Number-2: glucose	hdl	
+Note_Number-391: Sent_Number-1: ldl	hgb1c	psa	
+Note_Number-391: Sent_Number-2: left	message	bullard	rn	
+Note_Number-392: Sent_Number-1: talked	member	concerning	kyn	results	
+Note_Number-392: Sent_Number-2: a1c	
+Note_Number-392: Sent_Number-3: report	has	appointment	set	december	
+Note_Number-392: Sent_Number-4: ask	nurse	fax	lab	results	doctor	
+Note_Number-392: Sent_Number-5: discussed	diet	exercise	control	blood	sugar	
+Note_Number-393: Sent_Number-1: member	called	nurse	
+Note_Number-393: Sent_Number-2: discussed	elevated	blood	pressure	day	screening	
+Note_Number-393: Sent_Number-3: reports	was	concerned	blood	pressure	
+Note_Number-393: Sent_Number-5: made	appointment	went	doctor	
+Note_Number-393: Sent_Number-6: has	been	started	vasotec	
+Note_Number-393: Sent_Number-7: has	recheck	scheduled	friday	
+Note_Number-393: Sent_Number-8: discussed	staying	salt	reducing	sodium	intake	reduce	blood	pressure	
+Note_Number-394: Sent_Number-1: is	getting	exam	looks	s	
+Note_Number-394: Sent_Number-2: services	be	submitted	has	received	service	year	m	thinking	s	going	be	denied	
+Note_Number-394: Sent_Number-3: wont	be	covered	s	preventive	s	used	service	year	
+Note_Number-394: Sent_Number-4: check	doctor	see	are	going	charge	is	be	
+Note_Number-395: Sent_Number-1: dep	breakfast	slices	toast	home	fries	eggs	sausage	
+Note_Number-395: Sent_Number-2: bg	hours	
+Note_Number-395: Sent_Number-3: encouraged	fasting	blood	glucose	
+Note_Number-395: Sent_Number-4: started	medication	waiting	see	effect	bg	
+Note_Number-395: Sent_Number-5: spoke	trying	get	bg	hrs	meal	
+Note_Number-396: Sent_Number-1: member	called	see	had	received	screening	form	
+Note_Number-396: Sent_Number-3: continues	exercise	is	following	diet	has	lost	pounds	
+Note_Number-396: Sent_Number-4: weight	is	pounds	is	working	reaching	pounds	
+Note_Number-396: Sent_Number-5: is	bit	frustrated	plateau	states	knows	has	stop	cheating	make	weight	come	
+Note_Number-396: Sent_Number-6: encouraged	keep	toward	goal	
+Note_Number-397: Sent_Number-1: call	dimitri	re	caremark	rejection	
+Note_Number-397: Sent_Number-2: review	noted	was	d	t	edit	was	
+Note_Number-397: Sent_Number-3: states	wife	kidney	txp	years	
+Note_Number-397: Sent_Number-4: has	done	
+Note_Number-397: Sent_Number-5: phys	has	changed	med	zotress	are	wanting	start	family	
+Note_Number-397: Sent_Number-6: discussed	cap	program	asked	resend	information	
+Note_Number-398: Sent_Number-1: member	called	reviewed	results	
+Note_Number-398: Sent_Number-2: saw	md	results	md	adjusted	bp	medication	prescribed	pravastatin	elevated	cholesterol	
+Note_Number-398: Sent_Number-3: is	tolerating	pravastatin	
+Note_Number-398: Sent_Number-4: bp	night	work	was	
+Note_Number-398: Sent_Number-5: was	feeling	washed	is	going	notify	md	readings	is	getting	is	feeling	do	asap	
+Note_Number-398: Sent_Number-6: had	colonoscopy	was	
+Note_Number-398: Sent_Number-7: had	stress	test	echocardiogram	were	
+Note_Number-398: Sent_Number-8: has	changed	diet	reduce	intake	food	processed	food	red	meat	junk	food	has	lost	pounds	
+Note_Number-398: Sent_Number-10: encouraged	do	
+Note_Number-398: Sent_Number-11: is	motivated	do	improve	health	
+Note_Number-398: Sent_Number-12: commended	measure	has	taken	weight	loss	
+Note_Number-399: Sent_Number-1: member	returned	call	stated	takes	sugar	thru	drinks	sodas	tea	juice	gatorade	
+Note_Number-399: Sent_Number-2: drinks	glasses	water	day	
+Note_Number-399: Sent_Number-3: weekends	eats	desserts	
+Note_Number-399: Sent_Number-6: says	start	cutting	drinks	tomorrow	try	drink	water	have	husband	cut	cup	rice	meal	cups	
+Note_Number-399: Sent_Number-7: father	was	dm	died	mi	age	
+Note_Number-400: Sent_Number-1: forwarded	email	member	was	have	begun	work	oct	mobilization	start	is	hold	found	recurrence	disease	
+Note_Number-400: Sent_Number-2: receive	cycles	rvd	revimmune	velcade	decadron	
+Note_Number-400: Sent_Number-3: follow	
+Note_Number-401: Sent_Number-1: tep	
+Note_Number-401: Sent_Number-2: told	wife	accountability	
+Note_Number-401: Sent_Number-3: suggested	telling	coworkers	hold	be	
+Note_Number-401: Sent_Number-4: like	try	reach	term	goal	delaying	reducing	triggers	
+Note_Number-401: Sent_Number-6: smokes	pack	day	
+Note_Number-401: Sent_Number-8: suggested	putting	note	cigarettes	need	right	thought	do	log	time	cigarettes	
+Note_Number-401: Sent_Number-9: goal	hr	min	cigarette	twice	week	tues	hours	
+Note_Number-402: Sent_Number-1: member	returned	call	stated	sees	endocrinologist	dr	dennis	becker	
+Note_Number-402: Sent_Number-2: eats	amount	rice	wife	confirmed	eats	cups	rice	meal	
+Note_Number-402: Sent_Number-3: stated	bs	came	year	year	kyn	results	
+Note_Number-402: Sent_Number-4: has	cut	soda	switched	rice	brown	rice	
+Note_Number-402: Sent_Number-5: eats	pieces	bread	bk	weekends	
+Note_Number-402: Sent_Number-7: made	excuses	is	country	body	is	used	eating	lots	carbohydrade	
+Note_Number-403: Sent_Number-1: aileen	
+Note_Number-403: Sent_Number-2: name	is	harriett	flynn	
+Note_Number-403: Sent_Number-3: husband	les	is	employee	cape	management	inc	
+Note_Number-403: Sent_Number-4: have	received	health	screening	lab	results	information	accompanying	
+Note_Number-403: Sent_Number-5: have	question	regarding	compliance	grid	
+Note_Number-403: Sent_Number-6: mid	had	exam	gynecologist	office	
+Note_Number-403: Sent_Number-7: does	satisfy	requirement	
+Note_Number-403: Sent_Number-8: checked	weight	bp	had	exam	including	pap	smear	
+Note_Number-403: Sent_Number-10: cholesterol	results	were	range	
+Note_Number-403: Sent_Number-11: do	need	have	medicine	doctor	check	gyn	suffice	
+Note_Number-403: Sent_Number-12: do	need	document	somehow	be	
+Note_Number-403: Sent_Number-13: thank	
+Note_Number-404: Sent_Number-1: kim	was	office	working	week	sorry	delay	getting	
+Note_Number-404: Sent_Number-2: have	labs	hand	
+Note_Number-404: Sent_Number-3: is	need	take	dr	review	
+Note_Number-404: Sent_Number-4: l	be	glad	fax	
+Note_Number-404: Sent_Number-6: email	fax	number	fax	see	doctor	
+Note_Number-405: Sent_Number-1: remember	email	receipt	date	had	appointment	doctors	name	
+Note_Number-405: Sent_Number-2: please	send	date	pap	mammo	
+Note_Number-405: Sent_Number-3: happy	monday	
+Note_Number-406: Sent_Number-1: kim	went	look	compliance	status	noticed	had	appointment	nov	year	
+Note_Number-406: Sent_Number-3: have	wait	year	day	
+Note_Number-407: Sent_Number-1: talked	member	did	review	results	md	
+Note_Number-407: Sent_Number-2: bp	runs	gets	is	having	blood	drawn	goes	doctor	
+Note_Number-407: Sent_Number-3: said	have	take	times	is	
+Note_Number-407: Sent_Number-4: does	take	dose	tab	lipitor	help	manage	cholesterol	
+Note_Number-407: Sent_Number-5: walks	miles	morning	
+Note_Number-407: Sent_Number-6: years	cut	sugar	diet	decreased	intake	increased	water	intake	has	lost	pounds	result	
+Note_Number-407: Sent_Number-7: goal	is	maintain	health	
+Note_Number-408: Sent_Number-1: call	md	upload	faxes	letter	md	msg	member	update	poc	status	
+Note_Number-408: Sent_Number-2: member	gfr	phonecon	indicated	retention	teaching	
+Note_Number-408: Sent_Number-3: msg	re	moving	watch	pend	status	
+Note_Number-409: Sent_Number-1: follwup	call	has	stopped	hep	walking	foot	pain	quot	m	allergic	ladybugs	quot	
+Note_Number-409: Sent_Number-2: states	quot	bg	s	were	time	quot	rn	teaches	re	elevated	a1c	indicate	elevated	period	time	
+Note_Number-409: Sent_Number-4: has	retention	teaching	
+Note_Number-409: Sent_Number-5: rn	encourages	assists	explore	ways	hep	take	pressure	feet	recombent	biking	
+Note_Number-409: Sent_Number-6: reviewed	diet	ensuring	protein	q	meal	avoid	drop	bg	
+Note_Number-409: Sent_Number-7: requested	labs	
+Note_Number-410: Sent_Number-1: follwup	call	retention	teaching	self	care	bg	s	staying	s	s	
+Note_Number-410: Sent_Number-2: requested	md	records	gfr	wnl	be	moved	pend	watch	status	gt	days	verbalizes	understandig	agreement	
+Note_Number-411: Sent_Number-1: voice	mail	endocrinology	nurse	mother	update	
+Note_Number-411: Sent_Number-4: l	rn	
+Note_Number-412: Sent_Number-1: nurse	had	received	vm	employee	call	today	discuss	kyn	results	done	
+Note_Number-412: Sent_Number-2: discussed	elevated	a1c	
+Note_Number-412: Sent_Number-3: reports	has	diabetes	family	is	is	indicator	having	diabetes	future	
+Note_Number-412: Sent_Number-4: verbalizes	making	lifestyle	changes	
+Note_Number-412: Sent_Number-5: reports	has	incorporated	walking	fitness	
+Note_Number-412: Sent_Number-6: reports	drinks	sugar	sweetened	sodas	
+Note_Number-412: Sent_Number-7: discussed	changing	water	ways	flavor	water	using	sugar	
+Note_Number-412: Sent_Number-8: discussed	replacing	carbohydrates	grains	
+Note_Number-412: Sent_Number-9: discussed	cholesterol	
+Note_Number-413: Sent_Number-1: discussed	choosing	cuts	meat	cutting	meat	cooking	
+Note_Number-413: Sent_Number-2: member	encouraged	follow	health	care	provider	agrees	do	
+Note_Number-414: Sent_Number-2: cm	contacted	member	phone	
+Note_Number-414: Sent_Number-3: reports	was	diagnosed	cancer	biopsy	had	lumpectomy	mastectomy	
+Note_Number-414: Sent_Number-4: had	inserted	
+Note_Number-414: Sent_Number-5: has	completed	is	completed	taxol	treatments	treatments	
+Note_Number-414: Sent_Number-6: have	radiation	therapy	
+Note_Number-414: Sent_Number-7: tolerating	
+Note_Number-414: Sent_Number-8: discussed	exercise	nutrition	rest	blood	counts	chemo	
+Note_Number-414: Sent_Number-9: cm	left	voice	mail	oncology	center	nurse	update	
+Note_Number-414: Sent_Number-10: l	
+Note_Number-415: Sent_Number-1: tep	
+Note_Number-415: Sent_Number-2: feels	plan	quitting	turkey	end	year	
+Note_Number-416: Sent_Number-2: pb	
+Note_Number-417: Sent_Number-1: a1c	bp	bp	medication	
+Note_Number-417: Sent_Number-4: continues	take	bp	medication	
+Note_Number-417: Sent_Number-6: discussed	diet	exercise	
+Note_Number-418: Sent_Number-1: dep	
+Note_Number-418: Sent_Number-2: had	meal	yesterday	is	breakfast	bowl	cereal	
+Note_Number-418: Sent_Number-3: bg	hrs	eating	was	
+Note_Number-418: Sent_Number-4: spoke	amount	carbohydrates	breakfast	was	g	suggested	cutting	meal	cutting	slice	toast	home	fries	
+Note_Number-418: Sent_Number-5: said	like	see	medication	works	
+Note_Number-418: Sent_Number-6: spoke	doctor	a1c	was	elevated	
+Note_Number-418: Sent_Number-8: larry	goal	is	cut	pop	
+Note_Number-419: Sent_Number-1: a1c	bp	medication	
+Note_Number-419: Sent_Number-3: left	vm	
+Note_Number-420: Sent_Number-1: hi	vickki	is	wellness	coordinator	city	lawrence	
+Note_Number-420: Sent_Number-2: deadline	mychoice	plan	is	monday	november	
+Note_Number-420: Sent_Number-3: wanted	send	email	documents	need	
+Note_Number-420: Sent_Number-4: spoke	husband	documents	morning	wanted	send	email	make	get	gold	plan	
+Note_Number-420: Sent_Number-5: immunizations	documentation	larry	vickki	documentation	larry	eye	exam	documentation	kyle	health	risk	assessment	needs	completed	
+Note_Number-421: Sent_Number-1: member	home	reports	is	having	arthritis	pain	is	care	
+Note_Number-421: Sent_Number-2: discussed	kyn	results	
+Note_Number-421: Sent_Number-3: reports	has	members	diabetes	
+Note_Number-421: Sent_Number-4: instructed	concerning	significance	c	results	
+Note_Number-421: Sent_Number-5: discussed	cutting	sugar	sweetened	sodas	using	whole	carbohyudrates	reduce	a1c	level	
+Note_Number-421: Sent_Number-6: agrees	do	
+Note_Number-421: Sent_Number-7: discussed	incorporating	exercise	
+Note_Number-421: Sent_Number-8: parking	goes	add	walking	day	taking	stairs	
+Note_Number-421: Sent_Number-9: discussed	staying	salt	blood	pressure	
+Note_Number-421: Sent_Number-10: bp	day	screening	reports	pressure	stays	
+Note_Number-421: Sent_Number-11: instructed	eating	salt	causes	retention	fluids	heart	has	work	pump	volume	blood	damages	arteries	veins	leading	organs	time	
+Note_Number-421: Sent_Number-12: discussed	using	herbs	
+Note_Number-422: Sent_Number-1: flavor	foods	
+Note_Number-422: Sent_Number-2: reports	used	mrs	
+Note_Number-422: Sent_Number-3: dash	cook	start	cooking	
+Note_Number-422: Sent_Number-4: reports	has	been	trying	see	care	physician	be	be	see	
+Note_Number-422: Sent_Number-5: agrees	call	let	know	has	seen	care	physician	
+Note_Number-423: Sent_Number-1: tep	
+Note_Number-423: Sent_Number-2: had	chew	yesterday	friend	
+Note_Number-423: Sent_Number-4: is	eating	snacks	replace	tob	snacks	
+Note_Number-423: Sent_Number-6: mood	is	staying	reducing	day	
+Note_Number-423: Sent_Number-7: goal	staying	day	
+Note_Number-424: Sent_Number-1: member	called	cover	kyn	resutls	
+Note_Number-424: Sent_Number-2: reports	took	results	doctor	
+Note_Number-424: Sent_Number-3: discussed	significance	level	
+Note_Number-424: Sent_Number-4: reports	has	taken	sugar	sweetened	sodas	drinks	diet	
+Note_Number-424: Sent_Number-5: discussed	replacing	carbohydrates	grain	carbohydrates	
+Note_Number-424: Sent_Number-6: discussed	exercising	times	week	minutes	control	blood	pressure	weight	
+Note_Number-424: Sent_Number-8: instructed	concerning	incorporating	walking	activities	parking	mall	taking	stairs	elevated	
+Note_Number-424: Sent_Number-9: encouraged	find	safe	place	walk	mall	walk	friend	
+Note_Number-425: Sent_Number-1: agrees	do	
+Note_Number-425: Sent_Number-2: asked	member	call	let	know	a1c	blood	pressure	are	doing	time	sees	
+Note_Number-425: Sent_Number-3: agrees	do	
+Note_Number-426: Sent_Number-1: coaching	session	reports	has	fu	visit	w	pcp	today	review	lab	results	
+Note_Number-426: Sent_Number-2: unknown	diabetes	control	
+Note_Number-426: Sent_Number-4: ask	pneumoviax	ace	arb	
+Note_Number-426: Sent_Number-5: discussed	goals	barriers	success	
+Note_Number-426: Sent_Number-6: answered	questions	
+Note_Number-427: Sent_Number-1: member	ct	head	ws	approved	cigna	has	scheduled	
+Note_Number-427: Sent_Number-2: l	rn	
+Note_Number-428: Sent_Number-1: member	called	make	had	form	
+Note_Number-428: Sent_Number-2: did	
+Note_Number-428: Sent_Number-3: asked	md	concerned	results	
+Note_Number-428: Sent_Number-4: discussed	hga1c	chol	
+Note_Number-428: Sent_Number-5: told	patient	needs	loose	wgt	
+Note_Number-428: Sent_Number-6: talked	sugar	creamer	coffee	
+Note_Number-428: Sent_Number-7: pb	
+Note_Number-429: Sent_Number-1: member	called	nurse	cover	kyn	results	
+Note_Number-429: Sent_Number-2: a1c	bp151	/	
+Note_Number-429: Sent_Number-3: discussed	eating	exercise	prevent	diabetes	reduce	blood	pressure	reports	is	walking	exercise	plans	start	riding	bicycle	agrees	eat	fruits	vegetables	meat	
+Note_Number-429: Sent_Number-4: agrees	eat	grains	carbohydrates	
+Note_Number-429: Sent_Number-5: encouraged	take	kyn	results	reports	plans	see	week	
+Note_Number-430: Sent_Number-1: pt	seen	dm	
+Note_Number-430: Sent_Number-2: pt	has	insulin	pump	x2	years	basal	dosage	boluses	novalog	meals	metformin	suppressant	diuretics	bp	medication	vitorin	cholesterol	
+Note_Number-430: Sent_Number-3: bp	adjusted	dosage	bp	medication	a1c	>	
+Note_Number-430: Sent_Number-4: pt	lives	has	friends	son	talks	estranged	daughter	
+Note_Number-430: Sent_Number-5: diet	recall	reveals	biscuit	m	m	cafe	sausage	coffee	creamer	sugar	substitute	grapes	coke	
+Note_Number-430: Sent_Number-6: lunch	meat	sandwich	home	coke	
+Note_Number-430: Sent_Number-7: snack	pb	crackers	water	
+Note_Number-430: Sent_Number-8: dinner	talapia	rice	cup	dressing	drinks	
+Note_Number-430: Sent_Number-9: hs	graham	crackers	%	milk	
+Note_Number-431: Sent_Number-1: discussed	tips	dm	management	reviewed	plate	planner	patient	have	cho	per	meal	reviewed	snack	list	include	cho	protein	
+Note_Number-431: Sent_Number-2: discussed	portion	sizes	depth	scheduling	meals	
+Note_Number-431: Sent_Number-3: discussed	checking	bg	fasting	hours	meal	gauge	control	discussed	numbers	
+Note_Number-431: Sent_Number-4: provided	menus	meal	plan	
+Note_Number-431: Sent_Number-5: rec	lifemap	year	
+Note_Number-432: Sent_Number-1: member	called	nurse	review	kyn	results	
+Note_Number-432: Sent_Number-2: started	conversation	telling	is	concerned	being	has	been	working	get	lowered	
+Note_Number-432: Sent_Number-3: reports	has	lost	pounds	screening	
+Note_Number-432: Sent_Number-6: is	exercising	
+Note_Number-432: Sent_Number-7: motivated	member	
+Note_Number-432: Sent_Number-8: plans	see	november	follow	
+Note_Number-433: Sent_Number-1: called	left	message	patient	check	
+Note_Number-433: Sent_Number-2: number	provided	patient	wants	call	
+Note_Number-433: Sent_Number-3: follow	weeks	
+Note_Number-434: Sent_Number-1: reviewed	poc	task	status	levels	moved	pend	status	days	program	agreement	member	lack	desire	participate	
+Note_Number-435: Sent_Number-1: reviewed	labs	obtained	gfr	risk	ckd	progression	declining	kidney	function	
+Note_Number-435: Sent_Number-3: teaching	re	is	ck	bp	prn	avoid	overlooking	danger	s	s	passing	migraine	
+Note_Number-435: Sent_Number-4: admits	salt	diet	
+Note_Number-435: Sent_Number-5: rn	assists	explore	non	sodium	alternatives	flavoring	food	read	labels	
+Note_Number-435: Sent_Number-6: teaching	re	danger	s	s	use	cuff	
+Note_Number-435: Sent_Number-7: frank	discussion	re	impact	neglecting	self	care	kidneys	heart	independence	
+Note_Number-435: Sent_Number-8: agrees	obtain	cuff	ck	q	day	
+Note_Number-435: Sent_Number-9: is	verbalize	spices	try	place	salt	communicate	md	experience	s	s	elevated	bp	need	communication	visits	scheduled	
+Note_Number-435: Sent_Number-11: continues	follow	hep	using	treadmill	walking	qd	
+Note_Number-436: Sent_Number-2: lost	weight	leave	is	awesome	
+Note_Number-436: Sent_Number-3: did	continue	nutrasystem	
+Note_Number-436: Sent_Number-4: am	
+Note_Number-436: Sent_Number-5: is	weight	
+Note_Number-436: Sent_Number-6: had	lost	total	lbs	
+Note_Number-436: Sent_Number-7: do	have	goal	weight	mind	
+Note_Number-436: Sent_Number-8: helps	set	goal	way	know	have	arrived	celebrate	
+Note_Number-436: Sent_Number-9: remember	were	looking	being	exercise	shoulder	surgery	
+Note_Number-436: Sent_Number-10: back	issues	check	starting	anything	(		know	know	
+Note_Number-436: Sent_Number-11: recommend	impact	activities	water	aerobics	are	
+Note_Number-436: Sent_Number-12: hope	get	resolution	back	problems	
+Note_Number-436: Sent_Number-13: do	
+Note_Number-436: Sent_Number-14: changes	medications	
+Note_Number-436: Sent_Number-17: yes	m	wondering	md	be	repeating	panel	
+Note_Number-436: Sent_Number-18: loss	increased	exercise	medication	changes	see	cholesterol	numbers	improve	
+Note_Number-436: Sent_Number-19: see	december	
+Note_Number-436: Sent_Number-20: s	feeling	see	results	work	
+Note_Number-436: Sent_Number-21: have	evening	look	hearing	
+Note_Number-437: Sent_Number-1: tep	
+Note_Number-437: Sent_Number-2: remains	quitting	end	year	doing	turkey	
+Note_Number-438: Sent_Number-1: dep	
+Note_Number-438: Sent_Number-2: bg	
+Note_Number-438: Sent_Number-3: bg	hours	meal	
+Note_Number-438: Sent_Number-4: has	follwup	doctor	months	do	blood	draw	make	medication	is	working	
+Note_Number-438: Sent_Number-5: has	been	cutting	pop	diet	is	focusing	eating	grains	
+Note_Number-439: Sent_Number-1: tep	
+Note_Number-439: Sent_Number-2: smokes	times	week	varies	
+Note_Number-439: Sent_Number-3: plans	calling	
+Note_Number-439: Sent_Number-4: is	tob	user	
+Note_Number-440: Sent_Number-1: member	has	been	approx	years	
+Note_Number-440: Sent_Number-2: takes	metformin	lisinopril	
+Note_Number-440: Sent_Number-3: checks	blood	sugar	
+Note_Number-440: Sent_Number-4: encouraged	have	eye	exam	done	foot	exam	
+Note_Number-440: Sent_Number-5: md	was	pleased	a1c	cholesterol	results	
+Note_Number-440: Sent_Number-6: month	was	taking	cholesterol	medication	
+Note_Number-440: Sent_Number-7: has	changed	diet	eats	red	meat	
+Note_Number-440: Sent_Number-9: like	work	improving	diet	regard	managing	diabetes	
+Note_Number-440: Sent_Number-10: mailed	booklet	\\living	
+Note_Number-441: Sent_Number-1: follwup	call	reviewed	labs	retention	teaching	
+Note_Number-441: Sent_Number-2: continues	ck	bg	ac	has	obtained	bp	cuff	is	cking	needed	cuing	re	bp	danger	s	s	
+Note_Number-442: Sent_Number-2: labs	bs	tchol	hdl	ldl	tri	
+Note_Number-443: Sent_Number-1: bea	exercises	times	week	ab	lounger	walking	driveway	approx	
+Note_Number-443: Sent_Number-2: minutes	
+Note_Number-443: Sent_Number-3: has	gotten	nutribullet	making	smoothie	fruit	almonds	walnuts	handful	greens	morning	
+Note_Number-443: Sent_Number-4: grilled	chix	vegies	lunch	cereal	dinner	turkey	hs	
+Note_Number-443: Sent_Number-5: fbs	=	hga1c	=	%	
+Note_Number-443: Sent_Number-6: had	yeast	infection	
+Note_Number-443: Sent_Number-7: checks	feet	
+Note_Number-443: Sent_Number-8: had	dilated	eye	exam	
+Note_Number-443: Sent_Number-9: upper	dentures	
+Note_Number-443: Sent_Number-10: smoking	cigarettes	
+Note_Number-443: Sent_Number-11: oz	sugar	soda	week	
+Note_Number-443: Sent_Number-12: weight	lbs	decrease	lbs	body	fat	%	decrease	%	
+Note_Number-443: Sent_Number-13: waist	
+Note_Number-443: Sent_Number-14: (		decrease	
+Note_Number-443: Sent_Number-15: praise	given	bea	accomplishments	
+Note_Number-443: Sent_Number-16: bea	agrees	goal	waist	
+Note_Number-443: Sent_Number-17: goal	hga1c	%	explained	achieve	altering	carb	intake	
+Note_Number-443: Sent_Number-18: e	
+Note_Number-443: Sent_Number-19: getting	rid	sugared	raisins	raisin	bran	eliminating	sugar	soda	switching	ice	flavoring	sparkling	water	
+Note_Number-443: Sent_Number-20: increase	protein	morning	bullet	drink	yogurt	protein	powder	add	oil	supplement	increase	exercise	go	mall	saturday	sundays	walk	non	stop	minutes	
+Note_Number-443: Sent_Number-21: counsel	smoking	cessation	
+Note_Number-443: Sent_Number-22: follow	appointment	
+Note_Number-443: Sent_Number-23: @	am	
+Note_Number-444: Sent_Number-1: type	dm	htn	hyperlipidemia	obesity	
+Note_Number-445: Sent_Number-1: bp	note	chart	states	was	bp	medication	stopped	taking	
+Note_Number-445: Sent_Number-2: labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-446: Sent_Number-1: pt	diagnosis	dm	cholesterol	
+Note_Number-446: Sent_Number-2: labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-447: Sent_Number-2: bp	labs	bs	tchol	hdl	ldl	tri	
+Note_Number-447: Sent_Number-3: a1c	
+Note_Number-447: Sent_Number-4: psa	
+Note_Number-448: Sent_Number-1: dee	dee	has	increased	exercise	days	week	walking	mid	size	dog	minutes	evening	
+Note_Number-448: Sent_Number-3: breakfast	is	packet	
+Note_Number-448: Sent_Number-5: lunch	is	sandwich	rye	tomato	slice	cup	soup	
+Note_Number-448: Sent_Number-6: dinner	is	salad	shrimp	ritz	crackers	
+Note_Number-448: Sent_Number-7: snack	is	fruit	shrimp	
+Note_Number-448: Sent_Number-8: weight	decrease	lbs	waist	
+Note_Number-448: Sent_Number-9: (		decrease	
+Note_Number-448: Sent_Number-10: praise	given	weight	loss	increase	walking	
+Note_Number-448: Sent_Number-11: dee	dee	agrees	add	plank	exercise	building	seconds	
+Note_Number-448: Sent_Number-12: protein	breakfast	
+Note_Number-448: Sent_Number-13: agrees	handful	almonds	
+Note_Number-448: Sent_Number-14: switch	regular	rye	bread	whole	grain	rye	bread	ritz	crackers	grain	cracker	
+Note_Number-448: Sent_Number-15: carrots	/	celery	lunch	goals	waist	weight	lbs	
+Note_Number-448: Sent_Number-16: dee	dee	understands	explanation	effect	carbohydrade	blood	sugar	reverse	prediabetes	
+Note_Number-449: Sent_Number-1: went	labs	
+Note_Number-449: Sent_Number-2: went	history	
+Note_Number-449: Sent_Number-3: has	diagnosis	elevated	cholesterol	tricor	stopped	taking	
+Note_Number-449: Sent_Number-4: reports	exercising	twice	week	weights	
+Note_Number-449: Sent_Number-5: eats	red	meat	days	eats	dairy	meals	
+Note_Number-449: Sent_Number-6: suggestions	lifestyle	modifications	suggestions	increase	exercise	either	frequency	intensity	whole	grains	
+Note_Number-449: Sent_Number-7: encouraged	snack	things	almonds	eat	fruits	veggies	
+Note_Number-449: Sent_Number-8: member	is	call	provider	va	hospital	get	appointment	call	fax	number	fax	labs	
+Note_Number-449: Sent_Number-9: agrees	do	
+Note_Number-450: Sent_Number-1: return	call	member	
+Note_Number-450: Sent_Number-2: went	labs	had	eaten	candy	morning	
+Note_Number-450: Sent_Number-3: is	stopping	simple	carbohydrates	candy	screening	
+Note_Number-450: Sent_Number-4: went	results	
+Note_Number-450: Sent_Number-5: is	cholesterol	medication	
+Note_Number-450: Sent_Number-7: doing	
+Note_Number-451: Sent_Number-2: bp	family	history	diabetes	labs	bs	tchol	hdl	ldl	tri	
+Note_Number-451: Sent_Number-3: a1c	
+Note_Number-452: Sent_Number-1: went	results	
+Note_Number-452: Sent_Number-2: discussed	a1c	equals	bs	
+Note_Number-452: Sent_Number-4: 
+Note_Number-452: Sent_Number-5: encouraged	find	ways	move	is	start	
+Note_Number-452: Sent_Number-6: encouraged	make	appointment	provider	receives	results	be	go	results	
+Note_Number-452: Sent_Number-7: discussed	body	becomes	insulin	getting	help	become	
+Note_Number-452: Sent_Number-8: verbalizes	willingness	move	
+Note_Number-453: Sent_Number-1: dx	htn	medication	
+Note_Number-453: Sent_Number-2: bp	
+Note_Number-453: Sent_Number-3: labs	bs	tchol	hdl	ldl	tri	
+Note_Number-453: Sent_Number-4: a1c	
+Note_Number-454: Sent_Number-1: call	member	went	results	discussed	triglycerides	risk	pancreatitis	encouraged	get	exercise	eat	whole	grains	limit	reduce	alcohol	use	call	doctor	office	make	appointment	go	results	
+Note_Number-454: Sent_Number-2: sees	cardiologist	
+Note_Number-454: Sent_Number-3: dr	ejah	
+Note_Number-454: Sent_Number-4: provided	number	call	get	fax	number	send	labs	
+Note_Number-455: Sent_Number-1: says	did	meet	month	goal	lbs	got	put	steroids	rash	hit	barbeque	joint	nashville	put	weight	
+Note_Number-455: Sent_Number-2: chemo	is	appetite	has	diminished	
+Note_Number-455: Sent_Number-3: breakfast	is	banana	oj	lunch	is	ensure	boost	oz	
+Note_Number-455: Sent_Number-4: v8	
+Note_Number-455: Sent_Number-7: walks	cat	evening	minutes	exercise	
+Note_Number-455: Sent_Number-8: weight	decrease	lbs	body	fat	decrease	%	
+Note_Number-455: Sent_Number-9: agrees	add	protein	breakfast	egg	slice	turkey	
+Note_Number-455: Sent_Number-10: vegies	lunch	dinner	goal	servings	day	fruit	vegetables	
+Note_Number-455: Sent_Number-11: discuss	options	get	exercise	e	
+Note_Number-455: Sent_Number-12: desktop	bicycle	upper	body	
+Note_Number-456: Sent_Number-1: member	states	has	been	followed	md	year	triglycerides	
+Note_Number-456: Sent_Number-2: has	had	stress	test	was	
+Note_Number-456: Sent_Number-4: walks	miles	
+Note_Number-456: Sent_Number-5: cut	eating	red	meat	
+Note_Number-456: Sent_Number-6: has	uncles	triglycerides	
+Note_Number-456: Sent_Number-7: is	going	try	vegan	diet	has	triglyceride	level	recheck	
+Note_Number-456: Sent_Number-8: reports	is	diet	changes	help	reduce	triglycerides	increase	fish	omega	decrease	alcohol	decrease	red	meat	saturated	
+Note_Number-457: Sent_Number-1: hx	htn	cholesterol	dm	
+Note_Number-457: Sent_Number-2: bp	screening	labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-457: Sent_Number-3: note	system	lab	reach	pt	
+Note_Number-457: Sent_Number-4: bs	\\bogus\\	result	
+Note_Number-458: Sent_Number-1: prediabetes	obesity	melanoma	
+Note_Number-459: Sent_Number-1: tep	
+Note_Number-459: Sent_Number-2: had	chew	noon	
+Note_Number-459: Sent_Number-3: likes	try	delay	end	day	
+Note_Number-460: Sent_Number-1: dx	htn	medication	
+Note_Number-460: Sent_Number-2: bp	
+Note_Number-460: Sent_Number-3: labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-461: Sent_Number-1: discussing	kyn	results	
+Note_Number-461: Sent_Number-2: states	\\i	have	discussed	results	doctor	\\	nurse	talked	member	concerning	elevated	
+Note_Number-461: Sent_Number-3: reports	has	family	member	diabetes	
+Note_Number-461: Sent_Number-4: instructed	shows	pre	diabetes	discussed	staying	carbohydrates	changing	whole	grain	foods	
+Note_Number-461: Sent_Number-5: instructed	concerning	effects	exercise	lowering	glucose	
+Note_Number-461: Sent_Number-6: member	reports	hate	discussed	member	people	exercise	feel	
+Note_Number-461: Sent_Number-7: acknowledges	walking	makes	feel	better	reports	dreads	getting	
+Note_Number-461: Sent_Number-8: discussed	member	life	style	changes	prevent	diabetes	future	
+Note_Number-461: Sent_Number-9: discussion	
+Note_Number-461: Sent_Number-10: agrees	follow	concerning	
+Note_Number-462: Sent_Number-1: member	had	bone	marrow	biopsy	was	report	
+Note_Number-462: Sent_Number-2: is	taking	week	course	antibiotics	treat	elevated	strep	titer	
+Note_Number-462: Sent_Number-3: encouraged	rest	drink	plenty	water	eat	
+Note_Number-462: Sent_Number-4: follow	completes	antibiotics	
+Note_Number-463: Sent_Number-1: member	participated	kyn	screening	yr	results	bmi	waist	bp	blood	glucose	pulse	rate	cholesterol	hdl	cholesterol	ldl	cholesterol	triglycerides	hba1c	
+Note_Number-464: Sent_Number-1: member	stated	is	starting	exercise	walking	
+Note_Number-464: Sent_Number-2: is	concerned	weather	coming	
+Note_Number-464: Sent_Number-3: discussed	places	exercise	home	ways	exercise	home	
+Note_Number-464: Sent_Number-5: 
+Note_Number-465: Sent_Number-1: mailed	letter	asking	member	contact	up	
+Note_Number-466: Sent_Number-1: voice	maill	cell	phone	office	phone	ensure	precert	problem	cigna	ct	scan	
+Note_Number-466: Sent_Number-3: l	rn	
+Note_Number-467: Sent_Number-1: member	called	discuss	kyn	results	
+Note_Number-467: Sent_Number-2: cholesterol	
+Note_Number-467: Sent_Number-3: member	unaware	elevated	cholesterol	results	mean	
+Note_Number-467: Sent_Number-4: instructed	
+Note_Number-468: Sent_Number-1: concerning	heart	attack	stroke	risk	
+Note_Number-468: Sent_Number-2: instructed	re	lifestyle	changes	make	reduce	cholesterol	
+Note_Number-468: Sent_Number-3: significance	elevated	discussed	lifestyle	changes	prevent	diabetes	covered	
+Note_Number-468: Sent_Number-4: instructed	follow	concerning	cholesterol	results	agrees	do	
+Note_Number-468: Sent_Number-5: reports	sjhe	has	lost	poiunds	is	exercising	children	is	working	
+Note_Number-469: Sent_Number-1: spoke	mrs	re	husbands	ip	adm	treatment	plans	
+Note_Number-469: Sent_Number-2: states	counts	are	improving	
+Note_Number-469: Sent_Number-3: was	mo	thinks	platelets	were	
+Note_Number-469: Sent_Number-4: has	return	appointment	cont	show	improvement	phys	has	said	begin	wean	prednisone	
+Note_Number-469: Sent_Number-7: know	look	
+Note_Number-469: Sent_Number-9: call	
+Note_Number-470: Sent_Number-2: lost	weight	leave	is	awesome	
+Note_Number-470: Sent_Number-3: did	continue	nutrasystem	
+Note_Number-470: Sent_Number-4: is	weight	
+Note_Number-470: Sent_Number-5: do	have	goal	weight	mind	
+Note_Number-470: Sent_Number-6: helps	set	goal	way	know	have	arrived	celebrate	
+Note_Number-470: Sent_Number-7: remember	were	looking	being	exercise	shoulder	surgery	
+Note_Number-470: Sent_Number-8: back	issues	check	starting	anything	(		know	know	
+Note_Number-470: Sent_Number-9: recommend	impact	activities	water	aerobics	are	
+Note_Number-470: Sent_Number-10: hope	get	resolution	back	problems	
+Note_Number-470: Sent_Number-11: changes	medications	
+Note_Number-470: Sent_Number-12: blood	pressure	medicine	
+Note_Number-470: Sent_Number-13: are	tolerating	lipitor	started	taking	tablet	
+Note_Number-470: Sent_Number-14: ?	m	wondering	md	be	repeating	panel	
+Note_Number-470: Sent_Number-15: loss	increased	exercise	medication	changes	see	cholesterol	numbers	improve	
+Note_Number-470: Sent_Number-16: s	feeling	see	results	work	have	evening	look	hearing	
+Note_Number-471: Sent_Number-1: member	participated	kyn	screening	cfvhs	on10	/	
+Note_Number-471: Sent_Number-3: bp	screenings	was	w	pulse	
+Note_Number-471: Sent_Number-4: stated	bp	ws	running	call	appointment	pcp	
+Note_Number-472: Sent_Number-1: chol	was	hdl	ldl	a1c	bs	
+Note_Number-473: Sent_Number-1: called	member	discuss	bp	
+Note_Number-473: Sent_Number-2: talked	md	office	get	copay	go	week	
+Note_Number-473: Sent_Number-3: bp	monitor	home	
+Note_Number-473: Sent_Number-4: agrees	check	bp	qd	md	appointment	take	s	
+Note_Number-474: Sent_Number-1: kim	
+Note_Number-474: Sent_Number-2: sorry	forgot	send	lab	results	
+Note_Number-474: Sent_Number-3: do	afternoon	
+Note_Number-474: Sent_Number-4: see	answers	
+Note_Number-474: Sent_Number-5: anita	hope	finds	enjoying	cooler	temps	colors	trees	
+Note_Number-474: Sent_Number-6: checking	see	are	doing	following	
+Note_Number-474: Sent_Number-7: were	lab	values	oct	md	appointment	
+Note_Number-474: Sent_Number-8: (		triglycerides	a1c	trigylcerides	were	
+Note_Number-474: Sent_Number-9: doctor	had	try	lovasa	set	lipidologist	
+Note_Number-474: Sent_Number-10: news	a1c	was	
+Note_Number-474: Sent_Number-11: 
+Note_Number-474: Sent_Number-12: did	see	nutritionist	
+Note_Number-474: Sent_Number-15: are	doing	counting	carbohydrade	
+Note_Number-474: Sent_Number-16: part	is	going	
+Note_Number-474: Sent_Number-17: 
+Note_Number-474: Sent_Number-18: are	doing	eating	fat	
+Note_Number-474: Sent_Number-19: 
+Note_Number-474: Sent_Number-20: suggestion	raw	peppers	snack	
+Note_Number-474: Sent_Number-21: 
+Note_Number-474: Sent_Number-22: 've	been	having	afternoons	hummus	
+Note_Number-474: Sent_Number-23: 
+Note_Number-474: Sent_Number-24: are	fax	labs	
+Note_Number-474: Sent_Number-25: do	
+Note_Number-474: Sent_Number-26: 
+Note_Number-474: Sent_Number-27: is	pancreas	doing	
+Note_Number-474: Sent_Number-28: fine	guess	
+Note_Number-475: Sent_Number-1: are	labs	
+Note_Number-476: Sent_Number-1: continue	conversation	eating	exercise	
+Note_Number-476: Sent_Number-2: treshay	continues	running	program	
+Note_Number-477: Sent_Number-1: case	management	
+Note_Number-477: Sent_Number-2: inpatient	admission	shands	
+Note_Number-477: Sent_Number-3: hx	known	epidermoid	tumor	mri	showing	progression	tumor	
+Note_Number-477: Sent_Number-4: pt	underwent	craniotomy	tumor	resection	inpatient	
+Note_Number-477: Sent_Number-5: path	consistent	carcinosarcoma	cell	carcinoma	osteosarcoma	elements	
+Note_Number-477: Sent_Number-6: plan	chemotherapy	radiation	
+Note_Number-477: Sent_Number-7: oncology	follow	ups	are	scheduled	
+Note_Number-477: Sent_Number-8: follow	
+Note_Number-478: Sent_Number-1: member	called	rec	letter	mail	concerning	lab	results	
+Note_Number-478: Sent_Number-2: reviewed	labs	phone	
+Note_Number-478: Sent_Number-3: concern	is	elevated	cholesterol	member	is	taking	chol	medication	
+Note_Number-478: Sent_Number-4: member	states	is	see	doctor	friday	nov	
+Note_Number-478: Sent_Number-5: asked	ddhc	fax	lab	results	pnf	form	
+Note_Number-479: Sent_Number-1: mr	lott	followed	receiving	results	
+Note_Number-479: Sent_Number-2: medication	diabetes	were	increased	day	
+Note_Number-479: Sent_Number-3: bp	medication	were	increased	plus	
+Note_Number-480: Sent_Number-1: treshay	is	continuing	do	
+Note_Number-480: Sent_Number-2: weight	has	lost	lbs	
+Note_Number-480: Sent_Number-3: run	ringling	bridge	stopping	
+Note_Number-480: Sent_Number-4: runs	bridge	days	week	
+Note_Number-480: Sent_Number-5: today	discussed	pitfalls	dining	
+Note_Number-480: Sent_Number-6: looked	calorie	content	restaurant	choices	bean	crispers	applebee	
+Note_Number-480: Sent_Number-7: was	advised	use	calorie	king	fitness	pal	help	keep	track	food	intake	learn	content	foods	
+Note_Number-480: Sent_Number-8: goals	lbs	appointment	
+Note_Number-480: Sent_Number-9: increase	intake	fruits	vegetables	
+Note_Number-481: Sent_Number-1: pre	diabetes	exercise	weight	loss	
+Note_Number-482: Sent_Number-1: looks	saw	care	physician	feb	diagnosis	listed	know	did	
+Note_Number-483: Sent_Number-1: mean	is	
+Note_Number-483: Sent_Number-2: march	
+Note_Number-483: Sent_Number-3: sees	doctor	end	march	email	let	know	extend	compliance	date	
+Note_Number-483: Sent_Number-4: cape	guidelines	are	need	have	care	physician	have	see	year	mos	has	completed	part	
+Note_Number-484: Sent_Number-1: cape	guidelines	asked	females	have	pap	exam	year	mammo	2years	
+Note_Number-484: Sent_Number-3: needs	get	be	
+Note_Number-484: Sent_Number-4: date	have	is	pap	mammo	
+Note_Number-484: Sent_Number-5: claims	show	system	wks	has	had	test	done	email	date	doctors	name	city	state	doctors	office	is	
+Note_Number-485: Sent_Number-1: have	date	colonoscopy	
+Note_Number-485: Sent_Number-2: is	
+Note_Number-485: Sent_Number-3: claims	
+Note_Number-485: Sent_Number-4: record	
+Note_Number-486: Sent_Number-1: wife	has	non	compliant	points	put	paying	premium	
+Note_Number-487: Sent_Number-1: send	info	requested	be	glad	make	changes	compliance	
+Note_Number-488: Sent_Number-1: weight	today	lb	
+Note_Number-488: Sent_Number-2: ate	sunday	
+Note_Number-488: Sent_Number-3: started	eating	had	piece	carrot	cake	
+Note_Number-488: Sent_Number-4: enjoyed	had	slice	added	crab	cake	sliders	assortment	foods	
+Note_Number-488: Sent_Number-5: discussed	pitfalls	eating	buffet	restaurants	e	
+Note_Number-488: Sent_Number-6: eat	mindset	eating	get	money	worth	
+Note_Number-488: Sent_Number-7: discussed	refined	sugar	triggers	pleasure	centers	brain	promote	behaviors	
+Note_Number-488: Sent_Number-8: discussed	becoming	food	choices	be	foods	affect	mood	thought	processes	
+Note_Number-488: Sent_Number-9: advised	use	calorie	king	fitness	pal	keep	tract	food	intake	
+Note_Number-489: Sent_Number-1: dep	follwup	
+Note_Number-489: Sent_Number-2: bg	~100	weekends	relaxing	's	
+Note_Number-489: Sent_Number-3: attending	curves	meetings	
+Note_Number-489: Sent_Number-4: like	get	planning	meals	week	
+Note_Number-489: Sent_Number-5: eats	does	
+Note_Number-489: Sent_Number-6: like	lose	lbs	
+Note_Number-489: Sent_Number-7: falls	wagon	eats	weekends	friends	
+Note_Number-489: Sent_Number-8: goals	lbs	plan	meals	week	
+Note_Number-490: Sent_Number-1: tep	
+Note_Number-490: Sent_Number-2: lasts	days	
+Note_Number-490: Sent_Number-3: like	stop	save	teeth	
+Note_Number-490: Sent_Number-5: used	nrt	
+Note_Number-490: Sent_Number-7: talked	ways	reduce	tob	use	delaying	gum	
+Note_Number-490: Sent_Number-8: uses	eats	morning	
+Note_Number-490: Sent_Number-9: goal	limiting	chew	day	
+Note_Number-491: Sent_Number-1: hi	kim	work	capitol	broadcasting	participated	health	fair	
+Note_Number-491: Sent_Number-3: are	contacting	people	
+Note_Number-491: Sent_Number-4: let	know	need	do	anything	else	
+Note_Number-491: Sent_Number-5: thanks	!	
+Note_Number-492: Sent_Number-1: member	called	reports	is	seeing	md	has	appointment	nov	labs	be	repeated	
+Note_Number-492: Sent_Number-2: contact	gets	results	is	excited	see	cholesterol	is	
+Note_Number-492: Sent_Number-3: continues	walk	bike	has	been	cholesterol	medication	has	lost	pounds	
+Note_Number-492: Sent_Number-4: encouraged	keep	work	
+Note_Number-492: Sent_Number-5: is	cutting	flour	sugar	products	
+Note_Number-493: Sent_Number-1: called	member	regarding	kyn	results	bp	chol	a1c	yr	was	
+Note_Number-494: Sent_Number-1: weight	reduced	waist	reduced	bvy	bmi	reduced	
+Note_Number-495: Sent_Number-1: left	message	voice	mail	home	
+Note_Number-495: Sent_Number-2: call	today	leave	screen	group	
+Note_Number-495: Sent_Number-3: need	discuss	health	goals	want	reach	
+Note_Number-495: Sent_Number-4: have	numbers	
+Note_Number-495: Sent_Number-5: congrats	
+Note_Number-495: Sent_Number-6: have	s	are	need	work	
+Note_Number-495: Sent_Number-7: apologize	ll	be	office	afternoon	tomorrow	
+Note_Number-495: Sent_Number-8: coworker	is	sick	need	cover	
+Note_Number-495: Sent_Number-9: time	reach	is	m	f	
+Note_Number-495: Sent_Number-10: thanks	
+Note_Number-496: Sent_Number-1: received	lab	results	
+Note_Number-496: Sent_Number-2: s	a1c	has	come	
+Note_Number-496: Sent_Number-3: job	cutting	foods	everything	
+Note_Number-496: Sent_Number-4: (		made	
+Note_Number-496: Sent_Number-5: triglycerides	being	liver	is	being	triggered	something	increase	production	
+Note_Number-496: Sent_Number-6: check	attachment	regarding	triglycerides	
+Note_Number-496: Sent_Number-7: are	tracking	calories	
+Note_Number-496: Sent_Number-9: keep	abreast	md	nutritionist	appointments	labs	progress	
+Note_Number-496: Sent_Number-10: call	email	updates	have	questions	like	information	
+Note_Number-496: Sent_Number-11: warm	regards	kim	
+Note_Number-497: Sent_Number-1: called	member	bp	
+Note_Number-498: Sent_Number-1: need	go	know	number	
+Note_Number-498: Sent_Number-2: results	doctor	s	health	coach	
+Note_Number-498: Sent_Number-3: please	call	earliest	convenience	
+Note_Number-498: Sent_Number-4: am	registered	husband	is	tv	station	
+Note_Number-499: Sent_Number-1: member	called	response	letter	message	returned	call	
+Note_Number-499: Sent_Number-2: did	see	md	screening	results	md	recommended	lifestyle	changes	help	reduce	cholesterol	triglycerides	
+Note_Number-499: Sent_Number-5: encouraged	change	grain	products	
+Note_Number-499: Sent_Number-7: husband	have	joined	gym	are	doing	cardio	weights	
+Note_Number-499: Sent_Number-8: has	reduced	consumption	wine	
+Note_Number-499: Sent_Number-9: encouraged	continue	changes	is	making	
+Note_Number-499: Sent_Number-10: emailed	booklet	cholesterol	
+Note_Number-499: Sent_Number-11: follow	
+Note_Number-500: Sent_Number-1: sent	contact	letter	home	address	
+Note_Number-500: Sent_Number-2: fbs	chol	a1c	avg	
+Note_Number-500: Sent_Number-4: letter	home	asked	reck	bp	call	labs	
+Note_Number-500: Sent_Number-5: sent	contact	letter	member	home	address	
+Note_Number-500: Sent_Number-6: asked	please	call	
+Note_Number-501: Sent_Number-1: called	member	responding	email	regarding	kyn	results	
+Note_Number-501: Sent_Number-2: a1c	yr	
+Note_Number-501: Sent_Number-3: s	are	
+Note_Number-501: Sent_Number-4: chol	went	yr	yr	bp	improved	yr	yr	
+Note_Number-501: Sent_Number-5: weight	loss	
+Note_Number-501: Sent_Number-6: bmi	
+Note_Number-501: Sent_Number-7: nurse	called	home	husband	answered	
+Note_Number-501: Sent_Number-8: gave	nurse	spouse	wk	
+Note_Number-502: Sent_Number-1: called	member	work	responding	email	regarding	kyn	results	
+Note_Number-502: Sent_Number-2: a1c	yr	
+Note_Number-502: Sent_Number-3: s	are	
+Note_Number-502: Sent_Number-4: chol	went	yr	yr	bp	improved	yr	yr	
+Note_Number-502: Sent_Number-5: weight	loss	
+Note_Number-502: Sent_Number-6: bmi	
+Note_Number-503: Sent_Number-1: sent	contact	letter	home	address	
+Note_Number-504: Sent_Number-1: fbs117	a1c	
+Note_Number-505: Sent_Number-1: sent	contact	letter	home	address	
+Note_Number-506: Sent_Number-1: fbs	ha1c	
+Note_Number-507: Sent_Number-1: called	min	
+Note_Number-507: Sent_Number-2: spoke	member	
+Note_Number-507: Sent_Number-3: has	increased	exercise	walking	yd	wk	
+Note_Number-507: Sent_Number-4: exercises	legs	sitting	desk	
+Note_Number-507: Sent_Number-5: has	received	kyn	pkt	reviewed	
+Note_Number-507: Sent_Number-6: has	been	had	bs	a1c	
+Note_Number-507: Sent_Number-7: yr	had	hysterectomy	mother	was	eats	honey	nut	cherrios	eats	
+Note_Number-507: Sent_Number-9: x	years	stated	trouble	started	a1c	going	
+Note_Number-507: Sent_Number-10: has	had	pe	yr	nov	is	ob	gyn	appointment	
+Note_Number-507: Sent_Number-11: pcp	told	drink	boost	
+Note_Number-507: Sent_Number-12: agrees	stop	drinking	boost	sugar	drink	kind	sugar	stated	give	rest	dad	
+Note_Number-508: Sent_Number-1: agrees	call	email	nurse	months	follwup	appointment	md	rechecking	a1c	
+Note_Number-508: Sent_Number-2: 
+Note_Number-508: Sent_Number-3: called	nurse	\\honey\\	
+Note_Number-509: Sent_Number-1: today	diabetes	medications	
+Note_Number-510: Sent_Number-1: takes	units	n	insulin	bed	
+Note_Number-510: Sent_Number-2: report	fbg	is	mg	dl	experiences	hypoglycemia	morning	
+Note_Number-510: Sent_Number-3: takes	amaryl	metformin	
+Note_Number-510: Sent_Number-5: months	was	controlling	blood	glucose	units	n	insulin	is	taking	units	
+Note_Number-510: Sent_Number-6: adjusted	insulin	dosage	
+Note_Number-510: Sent_Number-7: eats	meal	dinner	has	snack	bedtime	
+Note_Number-511: Sent_Number-1: advised	take	units	insulin	n	hour	dinner	take	amaryl	metformin	
+Note_Number-511: Sent_Number-2: information	was	provided	insulin	n	onset	peak	duration	
+Note_Number-511: Sent_Number-3: addition	information	was	provided	action	side	effects	metformin	amaryl	
+Note_Number-511: Sent_Number-4: advised	discuss	endocrinologist	adjust	insulin	dosages	splitting	insulin	dose	needs	folate	vitamin	b	levels	checked	
+Note_Number-511: Sent_Number-5: appointment	endocrinologist	is	november	
+Note_Number-512: Sent_Number-1: medications	insulin	
+Note_Number-513: Sent_Number-1: member	came	screening	wife	piece	paper	ddhc	nurse	card	bp	recorded	day	screening	
+Note_Number-513: Sent_Number-2: bp	cont	elevated	ranging	
+Note_Number-513: Sent_Number-3: bp	member	duke	consult	mri	bx	prostate	
+Note_Number-514: Sent_Number-1: pt	called	
+Note_Number-514: Sent_Number-2: has	seen	md	
+Note_Number-514: Sent_Number-3: started	lipitor	
+Note_Number-514: Sent_Number-4: diet	changes	
+Note_Number-514: Sent_Number-5: mail	pre	dm	info	month	recheck	md	
+Note_Number-514: Sent_Number-6: pb	
+Note_Number-515: Sent_Number-1: mailed	member	following	ed	
+Note_Number-515: Sent_Number-2: materials	r	t	pre	diabetes	pre	diabetes	need	know	tips	carb	counting	
+Note_Number-516: Sent_Number-1: received	call	member	
+Note_Number-516: Sent_Number-2: states	had	md	visit	
+Note_Number-516: Sent_Number-3: have	pnf	
+Note_Number-516: Sent_Number-4: states	bp	improved	visit	
+Note_Number-517: Sent_Number-1: tep	
+Note_Number-517: Sent_Number-2: member	is	is	
+Note_Number-517: Sent_Number-3: understands	risks	come	smoking	
+Note_Number-517: Sent_Number-4: tob	education	program	made	aware	triggers	
+Note_Number-517: Sent_Number-6: finished	program	
+Note_Number-517: Sent_Number-7: satisfied	program	
+Note_Number-517: Sent_Number-8: told	needs	anything	future	contact	
+Note_Number-518: Sent_Number-1: spoke	mayor	jessup	biometrics	
+Note_Number-518: Sent_Number-2: mayor	is	medication	trig	chol	is	keeping	numbers	
+Note_Number-518: Sent_Number-3: a1c	was	is	year	
+Note_Number-518: Sent_Number-4: talked	watching	carb	intake	year	like	help	eating	
+Note_Number-519: Sent_Number-1: tep	
+Note_Number-519: Sent_Number-2: mayor	has	been	smoking	was	
+Note_Number-519: Sent_Number-3: stopped	years	went	stress	being	exposed	smoking	friends	coworkers	
+Note_Number-519: Sent_Number-4: has	tried	nrt	e	cigarette	nicrotte	gum	
+Note_Number-519: Sent_Number-6: feels	need	want	quite	
+Note_Number-519: Sent_Number-7: feels	is	like	quite	christmas	
+Note_Number-520: Sent_Number-1: aileen	is	receipt	doctors	visit	yesterday	
+Note_Number-520: Sent_Number-2: let	know	need	anything	thanks	
+Note_Number-521: Sent_Number-1: thank	did	see	doctor	
+Note_Number-521: Sent_Number-2: pay	
+Note_Number-521: Sent_Number-3: be	receipts	
+Note_Number-523: Sent_Number-1: have	used	pap	date	gives	feb	
+Note_Number-523: Sent_Number-2: is	
+Note_Number-523: Sent_Number-3: has	appointment	send	receipt	goes	
+Note_Number-524: Sent_Number-1: spoke	member	phone	
+Note_Number-524: Sent_Number-2: states	has	had	difficulty	getting	sugar	control	
+Note_Number-524: Sent_Number-3: working	dr	state	bp	has	come	
+Note_Number-524: Sent_Number-4: appointment	
+Note_Number-524: Sent_Number-5: encouraged	member	eat	try	exercise	
+Note_Number-525: Sent_Number-1: member	called	office	
+Note_Number-525: Sent_Number-3: explained	needed	fu	doctor	concerning	bs	c	
+Note_Number-525: Sent_Number-6: is	bmi	is	
+Note_Number-525: Sent_Number-8: encouraged	see	doctor	
+Note_Number-526: Sent_Number-1: member	called	recieving	contact	letter	
+Note_Number-526: Sent_Number-3: hgba1c	
+Note_Number-526: Sent_Number-4: explained	bc	a1c	is	needs	have	recheck	doctor	
+Note_Number-526: Sent_Number-5: concerned	
+Note_Number-526: Sent_Number-6: bp	elevated	day	screening	
+Note_Number-526: Sent_Number-8: encouraged	have	rechecked	fu	doctor	
+Note_Number-527: Sent_Number-1: member	called	receiving	letter	home	address	
+Note_Number-527: Sent_Number-4: chol	medication	chol	cont	elevated	
+Note_Number-527: Sent_Number-5: states	fu	doctor	chol	
+Note_Number-528: Sent_Number-1: bs	a1c	
+Note_Number-529: Sent_Number-1: member	called	states	has	bs	
+Note_Number-529: Sent_Number-2: has	been	was	diagnosed	
+Note_Number-529: Sent_Number-3: goes	doctor	mos	
+Note_Number-529: Sent_Number-5: encouraged	eat	exercise	
+Note_Number-530: Sent_Number-1: tracking	intake	www	sparkpeople	com	help	do	weeks	
+Note_Number-530: Sent_Number-2: is	smart	phone	app	cost	makes	keep	
+Note_Number-530: Sent_Number-3: are	taking	multi	vitamin	
+Note_Number-530: Sent_Number-4: recommend	multi	vit	
+Note_Number-530: Sent_Number-5: men	digests	body	is	benefit	
+Note_Number-530: Sent_Number-6: hope	is	let	know	are	doing	calling	emailing	is	suggest	
+Note_Number-530: Sent_Number-7: give	weight	bp	are	doing	exercise	eating	
+Note_Number-531: Sent_Number-1: got	know	numbers	paperwork	
+Note_Number-531: Sent_Number-3: canceled	appointment	
+Note_Number-531: Sent_Number-4: reviewing	paperwork	received	have	risk	%	%	mean	have	get	pay	rate	
+Note_Number-531: Sent_Number-5: is	exact	thing	happened	year	
+Note_Number-531: Sent_Number-7: had	keep	paying	was	get	
+Note_Number-531: Sent_Number-8: was	reimbursed	
+Note_Number-531: Sent_Number-9: year	figured	was	mistake	has	happened	please	review	records	make	are	
+Note_Number-531: Sent_Number-10: concern	is	am	getting	information	mail	have	information	system	have	told	years	row	has	been	results	receive	mail	
+Note_Number-532: Sent_Number-2: year	including	have	had	risk	%	diabetes	%	stroke	
+Note_Number-532: Sent_Number-3: need	get	records	affects	health	insurance	
+Note_Number-532: Sent_Number-5: diabetes	%	stroke	%	diabetes	%	stroke	%	diabetes	%	stroke	%	
+Note_Number-533: Sent_Number-1: went	family	qha	
+Note_Number-533: Sent_Number-2: blood	work	was	done	kyle	
+Note_Number-533: Sent_Number-3: blood	work	being	done	larry	vikki	
+Note_Number-533: Sent_Number-4: sent	vikki	hra	instructions	kyle	larry	
+Note_Number-533: Sent_Number-5: made	aware	deadline	november	
+Note_Number-533: Sent_Number-6: larry	kyle	be	calling	tobacco	education	
+Note_Number-534: Sent_Number-1: lm	tim	re	status	discharge	
+Note_Number-534: Sent_Number-2: trying	determine	plans	treatment	plans	
+Note_Number-534: Sent_Number-3: did	member	start	checking	bp	
+Note_Number-534: Sent_Number-4: was	bp	check	
+Note_Number-535: Sent_Number-1: spoke	anita	regards	smoking	cessation	
+Note_Number-535: Sent_Number-4: breathing	is	
+Note_Number-535: Sent_Number-5: encouragement	provided	
+Note_Number-535: Sent_Number-6: diabetes	is	controlled	good	days	days\\	
+Note_Number-535: Sent_Number-8: provided	cont	encouragement	be	goal	
+Note_Number-535: Sent_Number-9: agreed	
+Note_Number-535: Sent_Number-11: follwup	
+Note_Number-536: Sent_Number-1: was	inpt	unc	hospital	
+Note_Number-536: Sent_Number-2: a1c	kyn	
+Note_Number-537: Sent_Number-1: member	has	been	d	ced	is	medication	infection	leg	is	healing	
+Note_Number-538: Sent_Number-1: said	was	doing	
+Note_Number-538: Sent_Number-3: md	appointment	is	surgeon	has	hernia	has	consultation	appointment	nov	
+Note_Number-538: Sent_Number-4: nov	is	pcp	appointment	
+Note_Number-539: Sent_Number-1: is	lantus	units	hs	acting	metformin	dinner	time	
+Note_Number-541: Sent_Number-1: is	getting	exercise	washing	car	mowing	grass	
+Note_Number-541: Sent_Number-2: walks	campus	day	maintenance	painter	
+Note_Number-541: Sent_Number-3: agrees	start	riding	week	time	has	drank	gatorade	orange	juice	
+Note_Number-541: Sent_Number-4: agrees	stop	drinking	
+Note_Number-542: Sent_Number-1: pleasant	seems	uneducated	complacent	
+Note_Number-543: Sent_Number-2: is	
+Note_Number-543: Sent_Number-3: has	changed	is	eating	
+Note_Number-543: Sent_Number-4: exercising	
+Note_Number-544: Sent_Number-1: lm	jennifer	re	diabetes	questions	/	concerns	
+Note_Number-545: Sent_Number-3: aa	
+Note_Number-546: Sent_Number-1: call	follwup	kyn	
+Note_Number-546: Sent_Number-3: aa	
+Note_Number-547: Sent_Number-1: return	call	member	
+Note_Number-547: Sent_Number-2: went	results	a1c	average	bs	
+Note_Number-547: Sent_Number-3: reports	accu	checks	are	running	
+Note_Number-547: Sent_Number-4: regimen	metformin	bid	qd	lantus	q	day	
+Note_Number-547: Sent_Number-5: dx	diabetes	years	
+Note_Number-547: Sent_Number-6: doesnt	eat	
+Note_Number-548: Sent_Number-1: drew	labs	
+Note_Number-548: Sent_Number-2: accuchek	time	
+Note_Number-548: Sent_Number-3: cholesterol	hdl	tri	
+Note_Number-548: Sent_Number-4: 
+Note_Number-548: Sent_Number-5: given	months	weighed	
+Note_Number-548: Sent_Number-6: bp	
+Note_Number-549: Sent_Number-1: dropped	pounds	cut	sweets	bake	pound	cake	
+Note_Number-549: Sent_Number-4: cut	quantities	
+Note_Number-549: Sent_Number-5: continue	exercise	walk	
+Note_Number-549: Sent_Number-6: using	lose	app	online	
+Note_Number-549: Sent_Number-7: got	son	competition	
+Note_Number-550: Sent_Number-1: is	w	a1c	
+Note_Number-550: Sent_Number-2: chol	
+Note_Number-550: Sent_Number-3: check	dob	
+Note_Number-551: Sent_Number-1: a1c	avg	bs	months	bs	ldl	
+Note_Number-551: Sent_Number-2: does	have	diagnosis	diabetes	
+Note_Number-552: Sent_Number-1: member	called	review	kyn	results	
+Note_Number-552: Sent_Number-2: has	had	elevated	cholesterol	time	runs	family	
+Note_Number-552: Sent_Number-3: was	tolerate	statin	medications	side	effects	
+Note_Number-552: Sent_Number-4: is	diet	doctors	supervision	has	lost	pounds	
+Note_Number-552: Sent_Number-5: walks	miles	day	track	work	
+Note_Number-552: Sent_Number-6: congratulated	accomplishments	
+Note_Number-552: Sent_Number-7: goal	is	lose	thirty	pounds	
+Note_Number-552: Sent_Number-8: encouraged	keep	work	
+Note_Number-553: Sent_Number-3: stated	feels	
+Note_Number-553: Sent_Number-4: agrees	discuss	dr	mass	obtaining	gtt	see	obtain	pcp	
+Note_Number-553: Sent_Number-5: is	registering	sparkpeople	tracking	nutrition	
+Note_Number-553: Sent_Number-6: requested	email	reminding	obtaining	gtt	joining	aparkpeople	obtaining	stevia	sugar	substitutes	
+Note_Number-554: Sent_Number-1: thanks	taking	time	return	call	
+Note_Number-555: Sent_Number-1: congrats	making	changes	have	losing	weight	exercising	researching	info	
+Note_Number-555: Sent_Number-2: attending	classes	
+Note_Number-556: Sent_Number-1: failure	end	stage	disease	stage	iii	
+Note_Number-556: Sent_Number-2: followed	emory	university	center	
+Note_Number-556: Sent_Number-3: procrit	anemia	
+Note_Number-556: Sent_Number-4: cm	follows	difficulty	obtaining	records	review	
+Note_Number-556: Sent_Number-5: claims	reviewed	
+Note_Number-557: Sent_Number-1: member	cm	history	medulloblastoma	child	chemo	radiation	
+Note_Number-557: Sent_Number-2: meningioma	tumor	shunt	placed	
+Note_Number-557: Sent_Number-3: meningioma	
+Note_Number-557: Sent_Number-4: additionalgamma	knife	procedure	radiation	therapy	meningioma	
+Note_Number-557: Sent_Number-5: routine	follow	mri	routine	basis	
+Note_Number-557: Sent_Number-6: l	rn	
+Note_Number-558: Sent_Number-1: call	member	
+Note_Number-560: Sent_Number-1: return	call	member	
+Note_Number-560: Sent_Number-2: is	lunch	break	
+Note_Number-560: Sent_Number-3: works	home	depot	nights	days	
+Note_Number-560: Sent_Number-4: days	
+Note_Number-560: Sent_Number-5: a1c	was	
+Note_Number-560: Sent_Number-6: doesnt	check	bs	going	be	does	
+Note_Number-560: Sent_Number-7: is	levimir	units	twice	day	was	humulog	sliding	scale	
+Note_Number-560: Sent_Number-8: was	having	lows	stopped	humulog	
+Note_Number-560: Sent_Number-9: was	hundreds	feel	
+Note_Number-560: Sent_Number-10: have	eat	something	feel	
+Note_Number-561: Sent_Number-1: days	works	eats	mcdonalds	doesnt	eat	days	
+Note_Number-561: Sent_Number-2: drives	wife	work	goes	home	bed	
+Note_Number-561: Sent_Number-3: is	tired	time	
+Note_Number-561: Sent_Number-4: states	is	doesnt	want	check	bs	doesnt	want	carb	count	etc	
+Note_Number-561: Sent_Number-6: body	is	starving	
+Note_Number-561: Sent_Number-7: doesnt	eat	whole	grains	
+Note_Number-561: Sent_Number-8: doesnt	get	lunch	times	misses	lunch	work	demands	
+Note_Number-562: Sent_Number-2: needs	find	behavior	is	illness	helps	feels	do	
+Note_Number-562: Sent_Number-3: has	find	way	thing	do	knows	do	start	doing	
+Note_Number-562: Sent_Number-4: stop	self	talk	take	control	step	time	
+Note_Number-562: Sent_Number-5: chose	test	bs	day	
+Note_Number-562: Sent_Number-7: choices	things	grain	cereal	peanut	butter	sandwich	yogurt	
+Note_Number-563: Sent_Number-1: hello	aileen	fyi	husband	andre	
+Note_Number-563: Sent_Number-2: had	physicals	year	
+Note_Number-563: Sent_Number-3: have	physicals	scheduled	be	week	month	requirements	
+Note_Number-563: Sent_Number-5: thank	
+Note_Number-564: Sent_Number-1: loss	pounds	
+Note_Number-564: Sent_Number-2: exercising	drinking	water	
+Note_Number-564: Sent_Number-3: exercising	minutes	twice	week	treadmill	
+Note_Number-564: Sent_Number-4: cut	drinks	drinking	water	reduced	portions	meals	
+Note_Number-566: Sent_Number-2: bs	reading	day	
+Note_Number-566: Sent_Number-3: avg	
+Note_Number-567: Sent_Number-1: bread	pasta	rice	makes	jump	
+Note_Number-568: Sent_Number-1: hurt	ankle	
+Note_Number-569: Sent_Number-1: went	nc	state	fair	saturday	
+Note_Number-570: Sent_Number-1: eating	apples	tart	granny	
+Note_Number-570: Sent_Number-2: banana	servings	
+Note_Number-571: Sent_Number-1: member	did	call	md	office	ask	rx	supplies	ck	bs	track	nutrition	weeks	
+Note_Number-572: Sent_Number-1: is	reading	labels	
+Note_Number-572: Sent_Number-2: is	drinking	water	cup	coffee	almond	milk	
+Note_Number-572: Sent_Number-3: had	sweet	tea	time	weeks	
+Note_Number-572: Sent_Number-4: eating	chicken	cutting	red	meat	
+Note_Number-572: Sent_Number-5: eats	turkey	burgers	
+Note_Number-573: Sent_Number-1: reschedule	md	appointment	oct	end	nov	be	months	a1c	check	
+Note_Number-574: Sent_Number-1: called	jamie	ensure	was	pick	fragmin	
+Note_Number-574: Sent_Number-3: is	receive	today	
+Note_Number-574: Sent_Number-4: states	doing	op	pain	d	t	being	
+Note_Number-574: Sent_Number-5: wont	know	anything	week	re	pathology	addl	treatment	
+Note_Number-574: Sent_Number-6: discussed	cap	asked	resend	interview	paperwork	
+Note_Number-574: Sent_Number-7: keep	posted	
+Note_Number-574: Sent_Number-8: 
+Note_Number-575: Sent_Number-1: received	member	know	number	review	
+Note_Number-575: Sent_Number-3: explained	results	put	risk	diabetes	future	
+Note_Number-575: Sent_Number-4: discussed	lifestyle	changes	cutting	sweets	eating	grain	foods	eating	portions	incorporating	exercise	routine	
+Note_Number-576: Sent_Number-1: reports	has	obtained	insurance	agrees	find	take	know	number	results	doctor	
+Note_Number-576: Sent_Number-2: agrees	call	let	know	appointment	doctor	is	
+Note_Number-577: Sent_Number-1: mr	connell	states	visits	every	months	have	enzymes	checked	problems	has	
+Note_Number-577: Sent_Number-2: is	prescribed	metformin	glipizide	
+Note_Number-577: Sent_Number-3: states	a1c	glucose	is	cholesterol	medication	steroid	shots	takes	
+Note_Number-578: Sent_Number-1: visited	member	follow	regards	screening	results	
+Note_Number-578: Sent_Number-2: states	visits	checkup	gets	sick	
+Note_Number-578: Sent_Number-3: takes	oil	triglycerides	was	taking	medication	hypertension	
+Note_Number-578: Sent_Number-4: stopped	taking	bp	medication	stating	reason	was	readings	have	been	
+Note_Number-578: Sent_Number-5: screening	bp	was	pre	range	
+Note_Number-578: Sent_Number-6: advised	check	watch	number	was	beginning	creep	
+Note_Number-579: Sent_Number-1: had	september	
+Note_Number-579: Sent_Number-2: had	stress	testing	done	checked	
+Note_Number-579: Sent_Number-3: has	checkups	states	dr	has	shown	concern	glucose	a1c	
+Note_Number-579: Sent_Number-4: was	smoker	has	been	quit	months	
+Note_Number-580: Sent_Number-1: mr	ford	is	person	have	struggled	get	compliance	while	
+Note_Number-580: Sent_Number-2: intentions	are	matters	get	way	
+Note_Number-580: Sent_Number-4: have	continue	explain	importance	getting	checkups	tune	outcome	
+Note_Number-580: Sent_Number-5: was	get	years	have	tests	blood	work	done	time	numbers	were	have	expected	
+Note_Number-581: Sent_Number-1: mr	williams	states	followed	was	placed	dosage	bp	medication	hctz	
+Note_Number-581: Sent_Number-2: claims	glucose	checked	visit	be	come	med	losing	weight	
+Note_Number-581: Sent_Number-4: states	inform	visit	
+Note_Number-582: Sent_Number-1: tep	
+Note_Number-582: Sent_Number-3: feels	be	permanent	change	
+Note_Number-583: Sent_Number-1: member	called	kyn	review	
+Note_Number-583: Sent_Number-2: instructed	concerning	significance	results	lifestyle	changes	decrease	probability	having	diabetes	future	
+Note_Number-583: Sent_Number-3: discussed	eating	exercise	
+Note_Number-583: Sent_Number-4: reported	started	taking	antihypertensives	september	
+Note_Number-583: Sent_Number-5: instructed	concerning	sodium	choices	food	
+Note_Number-583: Sent_Number-6: has	appointment	up	
+Note_Number-584: Sent_Number-1: bp	glucose	tchol	hdl	tri	
+Note_Number-584: Sent_Number-2: a1c	
+Note_Number-585: Sent_Number-1: bp	labs	tchol	hdl	ldld	tri	a1c	
+Note_Number-586: Sent_Number-1: bp	labs	bs	tchol	hdl	ldl	tri	
+Note_Number-586: Sent_Number-2: a1c	
+Note_Number-586: Sent_Number-3: medication	htn	
+Note_Number-587: Sent_Number-1: sister	aunt	has	diabetes	medication	mg	day	
+Note_Number-588: Sent_Number-1: bp	labs	bs	tcho160	hdl	ldl	tri	a1c	
+Note_Number-589: Sent_Number-1: went	results	
+Note_Number-589: Sent_Number-2: has	members	diabetes	
+Note_Number-589: Sent_Number-3: takes	water	pill	
+Note_Number-589: Sent_Number-4: works	evenings	spouse	shift	eating	food	restaurant	has	month	child	tired	decide	is	causing	shift	glucose	
+Note_Number-589: Sent_Number-5: make	appointment	doctor	packet	comes	
+Note_Number-589: Sent_Number-6: reminded	pnf	reduced	premiums	
+Note_Number-590: Sent_Number-1: msg	member	
+Note_Number-590: Sent_Number-2: t	c	md	office	med	records	trying	obtain	med	records	transfer	med	records	was	told	accept	mail	quot	quot	know	send	quot	querried	re	fax	address	
+Note_Number-590: Sent_Number-3: keep	trying	
+Note_Number-591: Sent_Number-1: bp	labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-592: Sent_Number-1: msg	member	
+Note_Number-592: Sent_Number-2: call	md	office	msg	left	called	med	records	was	told	accept	mail	quot	response	querry	re	address	fax	quot	know	send	hung	
+Note_Number-592: Sent_Number-3: continue	try	obtain	records	
+Note_Number-593: Sent_Number-2: check	call	let	know	
+Note_Number-593: Sent_Number-3: went	risks	bp	discussed	labs	prediabetes	diet	changes	reduced	salt	eat	whole	grains	get	exercise	
+Note_Number-593: Sent_Number-4: wait	repeat	bp	
+Note_Number-594: Sent_Number-1: went	labs	went	signs	symptoms	bs	has	been	tired	
+Note_Number-594: Sent_Number-2: discussed	glucose	a1c	talked	food	choices	change	whole	grain	brown	rice	potato	bread	rice	potato	encouraged	increase	exercise	level	call	dr	appointment	results	come	make	discuss	a1c	provider	
+Note_Number-594: Sent_Number-3: get	
+Note_Number-595: Sent_Number-1: msg	member	
+Note_Number-595: Sent_Number-2: calls	md	office	fax	req	med	records	
+Note_Number-596: Sent_Number-1: msg	member	call	md	office	req	med	records	
+Note_Number-597: Sent_Number-1: pt	seen	follwup	discussed	dm	
+Note_Number-597: Sent_Number-2: pt	had	dm	year	education	
+Note_Number-597: Sent_Number-3: pt	medication	a1c	has	decreased	<	
+Note_Number-597: Sent_Number-4: diet	patient	skips	meals	eats	amounts	meat	desserts	
+Note_Number-598: Sent_Number-1: recall	reveals	brk	coffee	egg	mcmuffin	mcdonalds	
+Note_Number-598: Sent_Number-2: lunch	eats	salad	ranch	dressing	cottage	cheese	meatloaf	beans	banana	creme	pie	soda	
+Note_Number-598: Sent_Number-3: dinner	pork	chops	cottage	cheese	corn	biscuit	soda	
+Note_Number-598: Sent_Number-4: hs	choc	chip	cookies	%	milk	
+Note_Number-599: Sent_Number-1: discussed	prevention	complications	symptoms	dm	
+Note_Number-599: Sent_Number-2: discussed	diet	modification	snacks	checking	bg	plate	planner	increasing	water	decreasing	simple	sugars	dm	tips	
+Note_Number-599: Sent_Number-3: provided	written	materials	mail	
+Note_Number-599: Sent_Number-4: discussed	lifemap	program	assist	education	
+Note_Number-599: Sent_Number-5: pt	underatanding	motivation	change	
+Note_Number-599: Sent_Number-6: barriers	patient	working	hours	eating	
+Note_Number-599: Sent_Number-7: card	contact	provided	patient	call	questions	
+Note_Number-599: Sent_Number-8: rd	offered	discuss	spouse	
+Note_Number-600: Sent_Number-1: letter	nkf	guidleines	medlist	
+Note_Number-601: Sent_Number-1: review	md	notes	enter	data	uploads	letter	md	fax	
+Note_Number-602: Sent_Number-1: bp	labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-603: Sent_Number-2: dphillips	rn	
+Note_Number-604: Sent_Number-1: bp	known	htn	cholesterol	
+Note_Number-604: Sent_Number-2: labs	bs	tchol	hdl	ldl	tri	a1c	
+Note_Number-605: Sent_Number-1: bp	
+Note_Number-605: Sent_Number-2: known	labs	bs	a1c	tchol	hdl	ldl	tri	
+Note_Number-606: Sent_Number-1: bp	known	labs	bs	tchol	hdl	tri	a1c	
+Note_Number-608: Sent_Number-1: did	reach	was	line	requested	c	b	
+Note_Number-609: Sent_Number-1: known	htn	cholesterol	
+Note_Number-609: Sent_Number-2: labs	bs	tchol	
+Note_Number-610: Sent_Number-1: rd	called	patient	follwup	
+Note_Number-610: Sent_Number-2: pt	was	groggy	
+Note_Number-610: Sent_Number-3: rd	asked	
+Note_Number-610: Sent_Number-4: pt	reports	eating	weeks	
+Note_Number-610: Sent_Number-6: discussed	increasing	foods	trying	cib	store	brand	supplements	
+Note_Number-610: Sent_Number-7: pt	became	said	had	lot	going	asked	call	time	
+Note_Number-610: Sent_Number-8: rd	offered	support	asked	wanted	discuss	issues	offered	number	epa	program	
+Note_Number-610: Sent_Number-9: pt	declined	
+Note_Number-610: Sent_Number-10: follwup	prn	
